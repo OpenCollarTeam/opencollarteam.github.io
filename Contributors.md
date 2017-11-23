@@ -145,7 +145,7 @@ People who have helped us
 
 This is a list of people who have helped us in some way. They are listed in no order.
 
-    Master Huldschinsky
+    Master Huldschinsky (retired but using silentwar Resident now)
     Heather Calamity
     AndreaGabriela Reggiane
     Marine Kelley 
