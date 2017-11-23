@@ -1,6 +1,6 @@
-# Header 1, # Notecards sent 11/21/2017 and 11/22/2017
+# # Notecards sent 11/21/2017 and 11/22/2017#
 
-# Header 3, #Title:   OpenCollar's Core Values
+# #Title:   OpenCollar's Core Values
 
 
 As founders of the OpenCollar project, we (Athaliah Opus and Nandana Singh) feel that now is an important time to reiterate the project's commitment to its founding values of openness and community.  We are extremely grateful for the service that Wendy has given to the project over the years, but are concerned about blurred lines between OpenCollar, the free and open source project, and VirtualDisgrace, the for-profit brand.
