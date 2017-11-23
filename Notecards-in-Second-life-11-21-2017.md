@@ -1,6 +1,6 @@
-# # Notecards sent 11/21/2017 and 11/22/2017#
+# Notecards sent 11/21/2017 and 11/22/2017#
 
-# #Title:   OpenCollar's Core Values
+#Title:   OpenCollar's Core Values
 
 
 As founders of the OpenCollar project, we (Athaliah Opus and Nandana Singh) feel that now is an important time to reiterate the project's commitment to its founding values of openness and community.  We are extremely grateful for the service that Wendy has given to the project over the years, but are concerned about blurred lines between OpenCollar, the free and open source project, and VirtualDisgrace, the for-profit brand.
@@ -22,9 +22,9 @@ Regards,
 
 Athaliah Opus and Nandana Sing
 
-# Header 1, #  What the OpenCollar name stands for:
+#  What the OpenCollar name stands for:
 
-# Header 3, #
+#
 At the end of October 2017, Wendy Starfall sent a notice to the OpenCollar group announcing her retirement from the project.  Upon seeing that, Athaliah Opus and I started talking about how to keep the project true to its founding values.  Then we saw notices from VirtualDisgrace calling Garvin Twine the project lead.  That raised further concerns.  I tried contacting VirtualDisgrace to talk about our concerns, and offered friendship so we could catch each other online. I received no response to these inquiries.  The recent ownership changes in the group have flowed from these events.  
 
 As founders of the OpenCollar project, we (Athy and Nandana) both feel that now is an important time to reiterate the project's commitment to its founding values of openness and community. Though Wendy's return a few days ago makes the situation more muddled, it does not change our commitment to keeping OpenCollar open and free, including not favoring one merchant over another.  In this notecard we will review some history of the project, outline a few areas where the project was straying from its founding values, and briefly talk about the future.
