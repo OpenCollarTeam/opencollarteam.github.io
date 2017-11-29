@@ -3,7 +3,9 @@ Overview
 This page lists the main contributors to OpenCollar, along with brief descriptions of the contributions they have made. Anyone who has been invited as a member of this Google Code site may (and should) edit this page and add a section about him or herself.
 
 If you're at a loss for what to write, try thinking in terms of 1) things you have done (created, scripted, animated, etc.) and 2) things that you do (documentation writing, bug fixing). Don't be afraid to list something small if you think it's neat (like if you made a particular collar design or plugin or animation that you're proud of).
+
 Contributors
+
 Athaliah Opus
 
     Co-founded the OpenCollar project.
