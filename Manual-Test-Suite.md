@@ -4,9 +4,9 @@ If you're running tests and find an issue, please report it at https://github.co
 
 # Update
 
-- Set an owner.  Update the collar.  Check that the owner is still set.
 - Try updating a 6.0-6.5.5 collar using a regular updater.  You should see no error messages.  The version number in dialogs should be updated.
 - Try updating a 6.6/6.7 collar using the seed script and a regular updater.
+- Set an owner.  Update the collar.  Check that the owner is still set.
 - Try removing animations from your collar's Animator prim, then doing an update.  The animations should be replaced.
 - Try having both a .couples card and a !couples card in the animator prim.  Customizations to the .couples card should be overwritten by an update, but customizations to !couples should not.
 - Try deleting the "nadu" animation from your collar, and then renaming "tower" to "nadu".  Then do an update.  Both "tower" and "nadu" should be replaced.
