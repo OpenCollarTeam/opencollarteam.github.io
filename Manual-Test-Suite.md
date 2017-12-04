@@ -13,13 +13,17 @@ If you're running tests and find an issue, please report it at https://github.co
 - Put a no-copy "nadu" animation into the animator prim, then do an update.  It should be left in place (we never delete/replace no-copy anims).
 - Check the "Experience" attached to the scripts in the updater.  It should be the "OpenCollar" experience owned by "nirea" for all scripts.  (We're not using any experience-specific features in the collar yet, but are using it so users who want to verify that they have an unmodified official version can do so.)
 
-# Menu
+# Interface
 
 - Touching the collar should bring up the main menu.
 - Using the "menu" command should bring up the main menu.
 - The main menu should have a link to the OC group and/or documentation.
 - Clicking the LOCK button should lock the collar and change the button to UNLOCK.  Click again to unlock.
 - In submenus, the BACK button should take you up a level.
+- Try using the "prefix" command to change prefix.
+- Try using the "channel" command to change the private channel for commands.
+- Try using the "*" prefix to run a command on several people at once.
+- Try using the "#" prefix to run a command on everyone but the wearer.
 
 # Access
 
@@ -30,8 +34,14 @@ If you're running tests and find an issue, please report it at https://github.co
 - Try adding an owner, then having that owner add another.  The second should succeed.
 - Try adding and removing people from the Trust and Block lists.
 - Try enabling Group access.  People in the same active group as the collar should be able to give commands (try "nadu" for example).
+- Try using the "safeword" command to tell you your current safeword.
+- Try using the "safeword BLUE" command to change your safeword to BLUE.
+- Try using your safeword when leashed, RLV restricted, and posed.  You should be unleashed, unrestricted, and unposed.  Your owner should get a message.
 
 # Capture
+- Try enabling "Capture" mode.  Leave the Risky box unchecked.  When someone touches your collar, you should see a dialog asking whether to grant them access.
+- Try enabling "Capture" mode.  Also check the Risky box.  When someone touches your collar, they should immediately get access.
+
 # Leash
 - Test saying "leashmenu" to bring up the leash menu.
 - Test the "grab", "leash", and "toggleleash" commands for leashing the wearer.
@@ -57,13 +67,19 @@ If you're running tests and find an issue, please report it at https://github.co
 - Try using the "+" command to switch your av to wearing the contents of an #RLV folder.
 - Try using the "&" command to add (not replace) the contents of an #RLV folder to what you're wearing.
 
-
 # Settings
+- Try the Print button.  You should see your collar settings dumped to chat.
+- Paste your printed settings into a .settings notecard in the Settings prim of the collar.  Modify a value.  Try the Settings -> Load button in the collar.  Your modified value should now be loaded.
+- Try modifying the Position, Rotation, and Size of the collar from the Settings menu.
+- Try enabling the Stealth mode to make your collar invisible.
+- Try switching between appearances using the Themes button.
+
 # Animations
 - Turn on AnimLock.  Only owners should be able to start/stop anims.  Turn it off.  Non-owner wearer should be able to stop/start anims.
 - Turn on AntiSlide.  See if it works?  Not sure what it's supposed to do.
 - Try starting/stopping a pose.
 - Try adjusting pose height with the arrow buttons.
+- Try kissing someone with the kiss couple's animation.
 
 # Help
 - Help menu should show prefix, channel, safeword, and documentation link.
