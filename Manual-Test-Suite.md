@@ -86,5 +86,48 @@ If you're running tests and find an issue, please report it at https://github.co
 - Help/About -> Help should give you a .help notecard.
 - Help/About -> Contact should give links to Github and inworld group.
 
-# Apps
+# Apps - Bookmark
 - Try putting the oc_bookmarks from the "spares" folder in your collar.  Then use the "rm bookmarks" command.  You should get a prompt, and then after clicking Yes the script should be removed from your collar.
+
+# TestCase - LABEL
+SETUP: collar with prims named "Label~00" to "Label~11" (or more)
+TESTS:
+- click Collar -> Menu -> Apps -> Label
+- click Set Label, enter "Owner's Name", Submit
+- click Show (then repeat to hide, then repeat to show again)
+- click Color, Red (then repeat for Green, Blue ... Black, White
+- click Font, Outlined (then repeat for Solid)
+- click Scroll (then repeat to stop scrolling)
+- click Back (to go back to Apps dialog)
+
+# TestCase - BELL
+SETUP: collar with prims named "Bell" (usually sphere and ring)
+TESTS:
+- click Collar -> Menu -> Apps -> Bell
+- click On (see info and try walk), then repeat click Off
+- click Show (then repeat to hide, then repeat to show again)
+- click Next Sound (Active Sound changes), then repeat 8 times
+- click Vol+ (Bell Volume changes), then repeat 10 times
+- click Vol- (Bell Volume changes), then repeat 10 times
+- click Back (to go back to Apps dialog)
+
+# TestCase - TITLER
+SETUP: collar with prim named "FloatText"
+TESTS:
+- click Collar -> Menu -> Apps -> Title
+- click Set Title, enter "My Title", Submit
+- click Show (then repeat to hide, then repeat to show again)
+- click Up, then repeat
+- click Down, then repeat
+- click Back (to go back to Apps dialog)
+
+# TestCase - MESH LABEL
+SETUP: collar with prims named "MeshLabel~00" & "MeshLabel~00"
+TESTS:
+- click Collar -> Menu -> Apps -> Label
+- click Set Label, enter "Owner's Name", Submit
+- click Show (then repeat to hide, then repeat to show again)
+- click Color, Red (then repeat for Green, Blue ... Black, White
+- click Font, Outlined (then repeat for Solid)
+- click Scroll (then repeat to stop scrolling)
+- click Back (to go back to Apps dialog)
