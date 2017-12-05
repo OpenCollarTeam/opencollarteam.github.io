@@ -32,4 +32,4 @@ The default collar safeword is RED, all caps.  You can also type it on channel 1
 
 ### Runaway
 
-If you find you must clear an owner, you can do that by pressing the Runaway button in the Access menu, or typing <prefix> runaway.  This will wipe the access list and reset all collar functions to default.
+If you find you must clear an owner, you can do that by pressing the Runaway button in the Access menu, or typing [prefix] runaway.  This will wipe the access list and reset all collar functions to default.
