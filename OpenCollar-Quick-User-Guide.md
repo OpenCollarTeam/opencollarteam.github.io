@@ -11,7 +11,9 @@ Local chat is on channel 0. If you don't want your command to be visible in loca
 
 ### Prefixes
 
-Your default prefix is the first two letters of your user name.  Prefixes direct collar commands only to wearers with those two initials.  It can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls [prefix] menu and so on.
+Your default prefix is the first two letters of your user name.  Prefixes direct collar commands only to wearers with those two initials.  It can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.  
+
+**Using your prefix**:  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls [prefix] menu and so on.
 
 [More About Prefixes, Chat Commands and Other Non-Menu functions]
  
