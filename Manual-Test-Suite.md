@@ -122,7 +122,7 @@ TESTS:
 - click Back (to go back to Apps dialog)
 
 # Apps- MESH LABEL
-SETUP: collar with prims named "MeshLabel/~00" & "MeshLabel~00"
+SETUP: collar with prims named "MeshLabel\~00" & "MeshLabel~00"
 TESTS:
 - click Collar -> Menu -> Apps -> Label
 - click Set Label, enter "Owner's Name", Submit
