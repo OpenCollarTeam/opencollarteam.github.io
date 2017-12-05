@@ -96,7 +96,7 @@ TESTS:
 - click Set Label, enter "Owner's Name", Submit
 - click Show (then repeat to hide, then repeat to show again)
 - click Color, Red (then repeat for Green, Blue ... Black, White
-- click Font, Outlined (then repeat for Solid)
+- click Font, LCD (then repeat for Andale 1, Andale 2, Serif 1, Serif 2)
 - click Scroll (then repeat to stop scrolling)
 - click Back (to go back to Apps dialog)
 
