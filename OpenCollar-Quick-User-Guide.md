@@ -15,7 +15,7 @@ Your default prefix is the first two letters of your user name.  Prefixes direct
 
 **Using your prefix**:  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls [prefix] menu and so on.
 
-[More About Prefixes, Chat Commands and Other Non-Menu functions]
+[More About [Prefixes, Chat Commands and Other NonMenu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)]
  
 ## Using Your Collar
 
