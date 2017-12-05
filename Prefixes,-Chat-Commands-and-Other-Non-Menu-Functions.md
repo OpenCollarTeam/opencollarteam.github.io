@@ -38,8 +38,9 @@ The default collar safeword is RED, all caps.  You can also type it on channel 1
 
 You can change your safeword: 
 
-    [prefix] safeword [new safeword] or for instance: jo safeword BLUE.
+[prefix] safeword [new safeword] or for instance: jo safeword BLUE.
 
 # Some Useful Chat Commands 
-[prefix] info : dumps info from Help / About into the local chat line
 [Add list of chat commands that are not represented in the collar menus here]
+
+[prefix] info : dumps info from Help / About into the local chat line
