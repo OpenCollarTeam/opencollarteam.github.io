@@ -18,3 +18,4 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [RLV]
 * [Settings]
 * [Help / About]
+* [Prefixes, Chat Commands and Other Non-Menu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
