@@ -40,6 +40,6 @@ You can change your safeword:
 
     [prefix] safeword [new safeword] or for instance: jo safeword BLUE.
 
-# Chat Commands
 # Some Useful Chat Commands 
+[prefix] info : dumps info from Help / About into the local chat line
 [Add list of chat commands that are not represented in the collar menus here]
