@@ -89,7 +89,7 @@ If you're running tests and find an issue, please report it at https://github.co
 # Apps - Bookmark
 - Try putting the oc_bookmarks from the "spares" folder in your collar.  Then use the "rm bookmarks" command.  You should get a prompt, and then after clicking Yes the script should be removed from your collar.
 
-# TestCase - LABEL
+# Apps - LABEL
 SETUP: collar with prims named "Label~00" to "Label~11" (or more)
 TESTS:
 - click Collar -> Menu -> Apps -> Label
@@ -100,7 +100,7 @@ TESTS:
 - click Scroll (then repeat to stop scrolling)
 - click Back (to go back to Apps dialog)
 
-# TestCase - BELL
+# Apps - BELL
 SETUP: collar with prims named "Bell" (usually sphere and ring)
 TESTS:
 - click Collar -> Menu -> Apps -> Bell
@@ -111,7 +111,7 @@ TESTS:
 - click Vol- (Bell Volume changes), then repeat 10 times
 - click Back (to go back to Apps dialog)
 
-# TestCase - TITLER
+# Apps - TITLER
 SETUP: collar with prim named "FloatText"
 TESTS:
 - click Collar -> Menu -> Apps -> Title
@@ -121,8 +121,8 @@ TESTS:
 - click Down, then repeat
 - click Back (to go back to Apps dialog)
 
-# TestCase - MESH LABEL
-SETUP: collar with prims named "MeshLabel~00" & "MeshLabel~00"
+# Apps- MESH LABEL
+SETUP: collar with prims named "MeshLabel/~00" & "MeshLabel~00"
 TESTS:
 - click Collar -> Menu -> Apps -> Label
 - click Set Label, enter "Owner's Name", Submit
