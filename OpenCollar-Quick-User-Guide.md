@@ -7,11 +7,11 @@ Open the Collar Menu by touching the collar or sending a chat command with your 
 ### Chat Commands
 Chat Commands are typed into the local chat line. Many of the menus and submenus in OpenCollar can be called by using chat commands of the same name as the menu button.
 
-Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing /1 <prefix> menu. This sends the command to channel 1 instead and you don't see it in local chat.
+Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing /1 [prefix] menu. This sends the command to channel 1 instead and you don't see it in local chat.
 
 ### Prefixes
 
-Your default prefix is the first two letters of your user name.  Prefixes direct collar commands only to wearers with those two initials.  It can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls <prefix> menu and so on.
+Your default prefix is the first two letters of your user name.  Prefixes direct collar commands only to wearers with those two initials.  It can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls [prefix] menu and so on.
 
 [More About Prefixes, Chat Commands and Other Non-Menu functions]
  
@@ -20,7 +20,7 @@ Your default prefix is the first two letters of your user name.  Prefixes direct
 When you open the main menu you will see buttons that go to all the different collar menus.  Each of these menus is documented in the complete User Guide.  For this Quick Start, you need to know enough to make a few basic choices about how you will use your collar.
 
 ### Access
-You are wearing a collar because you want someone else at some time to be able to control your avatar.  The degree of control you give is up to you.  To give someone else access to your collar, open the collar menu and press access, or type <prefix> access.  
+You are wearing a collar because you want someone else at some time to be able to control your avatar.  The degree of control you give is up to you.  To give someone else access to your collar, open the collar menu and press access, or type [prefix] access.  
 
 In the Access menu you can add Owners, Trusted, or set group or public access.  If you set an owner you lose your default owner access to your collar. It is best not to set an owner till you are sure you want to give that person full control over your collar. If you want to retain owner level control on your collar, press OwnSelf before adding an owner.  Your owner however can uncheck that if they choose to.  [More about Access]
 
