@@ -19,7 +19,7 @@ Type:  jo prefix jz.
 
 There are two global prefixes. * issues commands to everyone in range with the required level of access, and # issues commands to everyone in range with the required level of access except yourself. 
 
-* menu 
+<* menu >
 
 calls the main menu for every wearer to whom you have access in range of the call (20m by default) 
 
