@@ -90,7 +90,7 @@ If you're running tests and find an issue, please report it at https://github.co
 - Try putting the oc_bookmarks from the "spares" folder in your collar.  Then use the "rm bookmarks" command.  You should get a prompt, and then after clicking Yes the script should be removed from your collar.
 
 # Apps - LABEL
-SETUP: collar with prims named "Label~00" to "Label~11" (or more)
+SETUP: collar with prims named "Label\~00" to "Label\~11" (or more)
 TESTS:
 - click Collar -> Menu -> Apps -> Label
 - click Set Label, enter "Owner's Name", Submit
@@ -122,7 +122,7 @@ TESTS:
 - click Back (to go back to Apps dialog)
 
 # Apps- MESH LABEL
-SETUP: collar with prims named "MeshLabel\~00" & "MeshLabel~00"
+SETUP: collar with prims named "MeshLabel\~00" & "MeshLabel\~00"
 TESTS:
 - click Collar -> Menu -> Apps -> Label
 - click Set Label, enter "Owner's Name", Submit
