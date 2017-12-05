@@ -11,10 +11,10 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 
 # Index / Table of Contents
 
-[Main]
-[Access]
-[Animations] 
-[Leash]
+* [Main]
+* [Access]
+* [Animations] 
+* [Leash]
 [RLV]
 [Settings]
 [Help / About]
