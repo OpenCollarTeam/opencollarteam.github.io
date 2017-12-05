@@ -25,6 +25,14 @@ calls the main menu for every wearer to whom you have access in range of the cal
 
 Please use this with care.  Just because someone is set to public or group access does not mean they have given you blanket permission to mess with their collar without engaging them in play or conversation first.
 
+# Safeword
+The collar safeword is a powerful global tool that will revoke all collar settings and return the collar to default, with the exception of the lock, the access list and the relay settings.  It will release you from traps set through the relay.  If you don't want all your settings changed when you are trapped through the relay, use the relay safeword button instead (see Relay).
+The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].
+
+You can change your safeword: 
+
+    [prefix] safeword [new safeword] or for instance: jo safeword BLUE.
+
 # Chat Commands
 # Some Useful Chat Commands 
 [Add list of chat commands that are not represented in the collar menus here]
