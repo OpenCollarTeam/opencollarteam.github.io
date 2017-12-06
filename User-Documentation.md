@@ -11,7 +11,7 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 
 # Index / Table of Contents
 
-* [Main]
+* [Main](https://github.com/OpenCollarTeam/OpenCollar/wiki/Main-Menu)
 * [Access]
 * [Animations] 
 * [Leash]
