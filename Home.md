@@ -8,9 +8,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 
 [OpenCollar Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)
 
-[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide)   
-[Couple Animations]   
-[Chat Commands]   
+[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide)     
 [How To Update]   
 [Privacy Policy]   
 [Common Troubleshooting Help]   
