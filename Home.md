@@ -26,10 +26,6 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
     [Issue Tracking Policy]
     [Submission Policy]
 
-
-
-
-..slurls where to find OC in-world]
-..Roles and Contributions]
-..Designs and Designers]
-..List of all wiki entries ]
+[OpenCollar Partners]   
+Contributors(https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors)   
+[Designers]
