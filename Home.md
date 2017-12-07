@@ -13,7 +13,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 [Privacy Policy]   
 [Common Troubleshooting Help]   
 [Default Settings]   
-[*Contributors*] (https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors "Contributors")   
+[Contributors](https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors)
 [Release Notes]   
 [Release Notes 7.0]   
 
@@ -27,5 +27,5 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
     [Submission Policy]
 
 [OpenCollar Partners]   
-Contributors(https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors)   
+   
 [Designers]
