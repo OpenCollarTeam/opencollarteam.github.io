@@ -1,20 +1,19 @@
 Welcome to the OpenCollar wiki!
 
-Obviously, we're just getting started, but this will be the new home of OpenCollar's documentation.  Help us build it!
+You can help build these pages !  
 
 [*OpenCollar Quick User Guide*] (https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)
 
 [Users Guide]   
-[Couple Animations]
-[How To Get RLV]
-[Chat Commands]
-[How To Update]
-[Privacy Policy]
-[Common Troubleshooting Help]
-[Default Settings]
-[*Contributors*] (https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors "Contributors") 
-[Release Notes]
-[Release Notes 7.0]
+[Couple Animations]   
+[Chat Commands]   
+[How To Update]   
+[Privacy Policy]   
+[Common Troubleshooting Help]   
+[Default Settings]   
+[*Contributors*] (https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors "Contributors")   
+[Release Notes]   
+[Release Notes 7.0]   
 
 [Developer\Designer Documentation]
 
