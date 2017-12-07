@@ -1,6 +1,6 @@
 Welcome to the OpenCollar wiki!
 
-You can help build these pages !  
+You can help build these pages !  Check out the [github markdown](https://guides.github.com/features/mastering-markdown/).
 
 [*OpenCollar Quick User Guide*] (https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)
 
