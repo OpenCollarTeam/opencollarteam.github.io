@@ -141,7 +141,13 @@ Joy Stipe
     Customizable Particle System (leash)
     Garbler script 
 
-Wendy Starfall - She is not removed, as she did a lot to help, and did a lot of good, will not be forgotten.  She has since made her own company, and we wish her well with her for profit enterprise.   
+Wendy Starfall 
+
+>Compiled collars, managed vendors, scripted and was for many years the manager of OpenCollar.  Scripted and oversaw the development of the current OpenCollar multi-prim core architecture.  Currently owns VirtualDisgrace.   
+
+Garvin Twine
+
+>Scripter.  Assisted in the development of the current OpenCollar core architecture.
 
 People who have helped us
 
