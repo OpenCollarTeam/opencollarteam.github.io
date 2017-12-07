@@ -4,7 +4,7 @@ Obviously, we're just getting started, but this will be the new home of OpenColl
 
 [*OpenCollar Quick User Guide*] (https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)
 
-[Users Guide]
+[Users Guide]..
 [Couple Animations]
 [How To Get RLV]
 [Chat Commands]
