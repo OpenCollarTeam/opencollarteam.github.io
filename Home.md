@@ -4,7 +4,7 @@ You can help build these pages !  Check out the [github markdown](https://guides
 
 [OpenCollar Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)
 
-[Complete User Guide]   
+[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide)   
 [Couple Animations]   
 [Chat Commands]   
 [How To Update]   
