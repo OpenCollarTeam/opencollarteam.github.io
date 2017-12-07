@@ -19,12 +19,12 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 
 [Developer\Designer Documentation]
 
-[Designer Instructions]
-    [Reserved Names]
-    [Variable Naming Guide]
-    [Versioning Policy]
-    [Issue Tracking Policy]
-    [Submission Policy]
+[Designer Instructions]...
+>[Reserved Names]
+>[Variable Naming Guide]
+>[Versioning Policy]
+>[Issue Tracking Policy]
+>[Submission Policy]
 
 [OpenCollar Partners]   
    
