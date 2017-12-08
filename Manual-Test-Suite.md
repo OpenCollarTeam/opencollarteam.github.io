@@ -51,7 +51,7 @@ If you're running tests and find an issue, please report it at https://github.co
 - Test the "anchor" command for leashing to an object.
 - Test walking away while leashed.  You should get pulled back.
 - Test changing the leash particles using the Leash -> Configure menu.
-- With RLV enabled, test setting Strict mode in Leash -> Configure.  You should be enable to TP while leashed in Strict mode.
+- With RLV enabled, test setting Strict mode in Leash -> Configure.  You should be unable to TP while leashed in Strict mode.
 - Test enabling Leash -> Configure -> Turn.  You should be turned toward the leasher when pulled by the leash with this mode enabled.  (Requires RLV enabled?)
 
 # RLV
