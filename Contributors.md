@@ -75,12 +75,12 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
 
 * Asami Imako ([AiTech])
 
-   Numerous collar design contributions:
-        Spiked Collar
-        Steel Collar
-        Posture Collar
-        Cage Collar
-        Heavy Strap Collar
+  *Numerous collar design contributions:  
+        Spiked Collar  
+        Steel Collar  
+        Posture Collar  
+        Cage Collar  
+        Heavy Strap Collar  
         Leather Studded & Spiked Collar
         Lock & Chain Collar
         Precision Crafted Pet Collar
