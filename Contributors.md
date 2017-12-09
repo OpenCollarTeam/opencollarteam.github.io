@@ -92,7 +92,7 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
 
 * Feline Dagger
 
-   Numerous collar design contributions:
+   Numerous collar design contributions:  
     Kirsten Collar
         Chained Passions
         Barbed Flowers (retired)
