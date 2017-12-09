@@ -1,10 +1,12 @@
 # Overview
 
-This page lists the main contributors to OpenCollar, along with brief descriptions of the contributions they have made. Anyone who has been invited as a member of this Google Code site may (and should) edit this page and add a section about him or herself.
+This page lists the main contributors to OpenCollar in alphabetical order, along with brief descriptions of the contributions they have made. Anyone who has been invited as a member of this Google Code site may (and should) edit this page and add a section about him or herself.
 
 If you're at a loss for what to write, try thinking in terms of 1) things you have done (created, scripted, animated, etc.) and 2) things that you do (documentation writing, bug fixing). Don't be afraid to list something small if you think it's neat (like if you made a particular collar design or plugin or animation that you're proud of).
 
-# Contributors
+Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed in alphabetical order.
+
+## Founders
 
 * Athaliah Opus
 
@@ -32,46 +34,17 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Guided new feature development.  
    Occasionally contributed new collar designs.  
 
-* Satomi Ahn
+## Contributors
 
-   #RLV subfolder browsing system  
-   Implemented a RLV multi-device relay and integrated it in OpenCollar  
-   Various improvements, in particular in RLV related features  
-   Gives work to Sandra and fixes old bugs  
-   Works on making RLV fun for the collars and implamenting new RLV commands  
+* Alexei Maven & Jessenia Mocha
 
-* Sandra Merilouto
+    (both are MIA but missed greatly) 
 
-   Tries to find Satomi's bugs  
-   Checks if she indeed fixed them  
-   Does "Amazing" work on keeping OpenCollar up to date and too many things to list here  
-
-* Master Starship
-
-   Developer  
-   Bug fixer  
-   Timer script  
-   Http-in  
-   Web Interface  
-   Google App Engine programmer and admin  
-
-* Cleo Collins
-
-   Developer  
-   Bug fixer  
-   Bell script  
-   Lead coder and updating for OC Cuffs  
-   Google App Engine programmer and admin  
-   Amazing, awsome, and overachiver in scripting the dist vendor boards. 
-
-* Betsy Hastings
-
-   Spider Collar  
-   Chastity Belt  
-   Tongue Clamp  
-   OC Force Sit Ball  
-   Various Cages contained in Prototype of the HUD Cage Rezzer  
-   Design, Build and Textures for the New Temple   
+    Redesigned/Updated the Owner Hud & SubAO  
+    Manages updates for the Owner Hud & SubAO  
+    Troubleshooting & bug fixing for all OC products  
+    Texture/Script modification of the Temple games  
+    Temple Helper  
 
 * Asami Imako ([AiTech])
 
@@ -91,6 +64,24 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Simple rename script  
    Sculpted Heart lock 
 
+* Betsy Hastings
+
+   Spider Collar  
+   Chastity Belt  
+   Tongue Clamp  
+   OC Force Sit Ball  
+   Various Cages contained in Prototype of the HUD Cage Rezzer  
+   Design, Build and Textures for the New Temple   
+
+* Cleo Collins
+
+   Developer  
+   Bug fixer  
+   Bell script  
+   Lead coder and updating for OC Cuffs  
+   Google App Engine programmer and admin  
+   Amazing, awesome, and overachiever in scripting the dist vendor boards. 
+
 * Feline Dagger
 
    Numerous collar design contributions:  
@@ -103,32 +94,11 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Nan and Athy's pita :P  
    Offers custom collars upon request   
 
-* Alexei Maven & Jessenia Mocha
+* Garvin Twine
 
-    (both are MIA but missed greatly) 
-
-    Redesigned/Updated the Owner Hud & SubAO  
-    Manages updates for the Owner Hud & SubAO  
-    Troubleshooting & bug fixing for all OC products  
-    Texture/Script modification of the Temple games  
-    Temple Helper  
-
-* Melfina Marshdevil
-
-    Created the Teleport Restriction Plugin  
-    Issue tracker organizer  
-    Keeps SVN updated  
-    Started http-in project and collarcmds lookup service for appengine  
-    Provides help and support to users and developers alike  
-    Minor bug fixing and new features  
-
-* Summer Seale
-
-    Two collar designs (Midsummer Night and Summer Leaf)  
-    Created the divans for the HQ.  
-    Various other help and testing for Nandana Singh  
-    All around amazing, incredible, and very cute to look at and keep around.  
-    Nandana Singh's hot little sex slave.  
+   Scripter.  
+   Assisted in the development of the current OpenCollar core architecture...
+   Currently employed by VirtualDisgrace.
 
 * Joy Stipe
 
@@ -141,6 +111,50 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
     Customizable Particle System (leash)  
     Garbler script 
 
+* Kurt Burleigh
+   Developer  
+   Bug fixer  
+
+* Master Starship
+
+   Developer  
+   Bug fixer  
+   Timer script  
+   Http-in  
+   Web Interface  
+   Google App Engine programmer and admin  
+
+* Melfina Marshdevil
+
+    Created the Teleport Restriction Plugin  
+    Issue tracker organizer  
+    Keeps SVN updated  
+    Started http-in project and collarcmds lookup service for appengine  
+    Provides help and support to users and developers alike  
+    Minor bug fixing and new features  
+
+* Sandra Merilouto
+
+   Tries to find Satomi's bugs  
+   Checks if she indeed fixed them  
+   Does "Amazing" work on keeping OpenCollar up to date and too many things to list here
+
+* Satomi Ahn
+
+   #RLV subfolder browsing system  
+   Implemented a RLV multi-device relay and integrated it in OpenCollar  
+   Various improvements, in particular in RLV related features  
+   Gives work to Sandra and fixes old bugs  
+   Works on making RLV fun for the collars and implamenting new RLV commands 
+
+* Summer Seale
+
+    Two collar designs (Midsummer Night and Summer Leaf)  
+    Created the divans for the HQ.  
+    Various other help and testing for Nandana Singh  
+    All around amazing, incredible, and very cute to look at and keep around.  
+    Nandana Singh's hot little sex slave.  
+
 * Wendy Starfall 
 
    Compiled collars  
@@ -150,10 +164,6 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Scripted and oversaw the development of the current OpenCollar multi-prim core architecture.  
    Currently owns VirtualDisgrace.   
 
-* Garvin Twine
-
-   Scripter.  
-   Assisted in the development of the current OpenCollar core architecture.
 
 ## People who have helped us
 
