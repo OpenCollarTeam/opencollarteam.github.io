@@ -74,68 +74,71 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Design, Build and Textures for the New Temple   
 
 * Asami Imako ([AiTech])
-  *Numerous collar design contributions:  
-        Spiked Collar  
-        Steel Collar  
-        Posture Collar  
-        Cage Collar  
-        Heavy Strap Collar  
-        Leather Studded & Spiked Collar
-        Lock & Chain Collar
-        Precision Crafted Pet Collar
-        Submissive Heart Collar 
-   Resource contributions:
-        Numerous random textures
-        Simple rename script
-        Sculpted Heart lock 
+
+   Numerous collar design contributions:  
+   Spiked Collar  
+   Steel Collar  
+   Posture Collar  
+   Cage Collar  
+   Heavy Strap Collar  
+   Leather Studded & Spiked Collar
+   Lock & Chain Collar
+   Precision Crafted Pet Collar
+   Submissive Heart Collar 
+
+   Resource contributions:  
+   Numerous random textures  
+   Simple rename script  
+   Sculpted Heart lock 
 
 * Feline Dagger
 
    Numerous collar design contributions:  
-    Kirsten Collar
-        Chained Passions
-        Barbed Flowers (retired)
-        Tag Collar
-        Slave Nosering (Puzzle Vendor) 
-    Temple Helpslave
-    Nan and Athy's pita :P
-    Offers custom collars upon request 
+   Kirsten Collar  
+   Chained Passions  
+   Barbed Flowers (retired)  
+   Tag Collar  
+   Slave Nosering (Puzzle Vendor) 
+   Temple Helpslave  
+   Nan and Athy's pita :P  
+   Offers custom collars upon request   
 
 * Alexei Maven & Jessenia Mocha
 
     (both are MIA but missed greatly) 
 
-    Redesigned/Updated the Owner Hud & SubAO
-    Manages updates for the Owner Hud & SubAO
-    Troubleshooting & bug fixing for all OC products
-    Texture/Script modification of the Temple games
-    Assists at the Temple 
+    Redesigned/Updated the Owner Hud & SubAO  
+    Manages updates for the Owner Hud & SubAO  
+    Troubleshooting & bug fixing for all OC products  
+    Texture/Script modification of the Temple games  
+    Temple Helper  
 
 * Melfina Marshdevil
 
-    Created the Teleport Restriction Plugin
-    Issue tracker organizer
-    Keeps SVN updated
-    Started http-in project and collarcmds lookup service for appengine
-    Provides help and support to users and developers alike
-    Minor bug fixing and new features 
+    Created the Teleport Restriction Plugin  
+    Issue tracker organizer  
+    Keeps SVN updated  
+    Started http-in project and collarcmds lookup service for appengine  
+    Provides help and support to users and developers alike  
+    Minor bug fixing and new features  
 
 * Summer Seale
 
-    Two collar designs (Midsummer Night and Summer Leaf)
-    Created the divans for the HQ.
-    Various other help and testing for Nandana Singh
-    All around amazing, incredible, and very cute to look at and keep around.
-    Nandana Singh's hot little sex slave. 
+    Two collar designs (Midsummer Night and Summer Leaf)  
+    Created the divans for the HQ.  
+    Various other help and testing for Nandana Singh  
+    All around amazing, incredible, and very cute to look at and keep around.  
+    Nandana Singh's hot little sex slave.  
 
 * Joy Stipe
 
-    Abnormal collar design contributions:
-        Behavior Modification Chip
-        Li'l Pony Bridle 
-    Developer
-    Bug fixer
-    Customizable Particle System (leash)
+    Abnormal collar design contributions:  
+    Behavior Modification Chip  
+    Li'l Pony Bridle  
+ 
+    Developer  
+    Bug fixer  
+    Customizable Particle System (leash)  
     Garbler script 
 
 * Wendy Starfall 
