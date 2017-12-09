@@ -27,7 +27,7 @@ In the Access menu you can add Owners, Trusted, or set group or public access.  
 
 Your collar has a safeword chat command that is built into every menu in the collar.  Using the safeword will reset all collar restrictions, without changing the collar access.  The collar safeword also clears the relay.
 
-The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].  [More on the safeword in NonMenu Functions]
+The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].  See [NonMenu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions) for more.
 
 ### Runaway
 
