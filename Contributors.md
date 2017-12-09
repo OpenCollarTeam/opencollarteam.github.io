@@ -1,41 +1,41 @@
-Overview
+# Overview
 
 This page lists the main contributors to OpenCollar, along with brief descriptions of the contributions they have made. Anyone who has been invited as a member of this Google Code site may (and should) edit this page and add a section about him or herself.
 
 If you're at a loss for what to write, try thinking in terms of 1) things you have done (created, scripted, animated, etc.) and 2) things that you do (documentation writing, bug fixing). Don't be afraid to list something small if you think it's neat (like if you made a particular collar design or plugin or animation that you're proud of).
 
-Contributors
+# Contributors
 
-Athaliah Opus
+* Athaliah Opus
 
-    Co-founded the OpenCollar project.
-    Owner of OpenCollar and of offical groups in SL.
-    Primary project overall designs and contact
-    Provided OpenCollar's first home on her own land.
-    Coordinates the addition of new people to the OpenCollar distributor network.
-    Release Manager on past releases
-    Guides new feature development and long term plans
-    Escalation of bugs
-    Reviews new collar designs and offical collar designs
-    Contact for new Distributors and vendor boards
-    Management for OpenCollar scriptors and contributors 
+>Co-founded the OpenCollar project.
+>Owner of OpenCollar and of offical groups in SL.
+>Primary project overall designs and contact
+>Provided OpenCollar's first home on her own land.
+>Coordinates the addition of new people to the OpenCollar distributor network.
+>Release Manager on past releases
+>Guides new feature development and long term plans
+>Escalation of bugs
+>Reviews new collar designs and offical collar designs
+>Contact for new Distributors and vendor boards
+>Management for OpenCollar scriptors and contributors 
 
 Nandana Singh
 
-    Co-founded the OpenCollar project.
-    Retired back to RL
-    Scripted first versions of OpenCollar.
-    Designed major OpenCollar subsystems (authentication, database, menus, updates, etc.)
-    Wrote database backend on Google App Engine.
-    Created first OpenCollar designs.
-    Recruited new developers to the project.
-    Fixed bugs.
-    Guided new feature development.
-    Occasionally contributed new collar designs. 
+>Co-founded the OpenCollar project.
+>Retired back to RL
+>Scripted first versions of OpenCollar.
+>Designed major OpenCollar subsystems (authentication, database, menus, updates, etc.)
+>Wrote database backend on Google App Engine.
+>Created first OpenCollar designs.
+>Recruited new developers to the project.
+>Fixed bugs.
+>Guided new feature development.
+>Occasionally contributed new collar designs. 
 
 Satomi Ahn
 
-    #RLV subfolder browsing system
+#RLV subfolder browsing system
     Implemented a RLV multi-device relay and integrated it in OpenCollar
     Various improvements, in particular in RLV related features
     Gives work to Sandra and fixes old bugs
