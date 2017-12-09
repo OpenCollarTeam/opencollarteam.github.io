@@ -7,7 +7,6 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
 # Contributors
 
 * Athaliah Opus
-
   *Co-founded the OpenCollar project. 
   *Owner of OpenCollar and of offical groups in SL. 
   *Primary project overall designs and contact 
