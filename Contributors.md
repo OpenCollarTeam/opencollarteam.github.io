@@ -93,11 +93,11 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
 * Feline Dagger
 
     Numerous collar design contributions:
-        Kirsten Collar
-        Chained Passions
-        Barbed Flowers (retired)
-        Tag Collar
-        Slave Nosering (Puzzle Vendor) 
+        *Kirsten Collar
+        *Chained Passions
+        *Barbed Flowers (retired)
+        *Tag Collar
+        *Slave Nosering (Puzzle Vendor) 
     Temple Helpslave
     Nan and Athy's pita :P
     Offers custom collars upon request 
@@ -153,14 +153,14 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Scripter.  
    Assisted in the development of the current OpenCollar core architecture.
 
-People who have helped us
+## People who have helped us
 
 This is a list of people who have helped us in some way. They are listed in no order.
 
-    Master Huldschinsky (retired but using silentwar Resident now)
-    Heather Calamity
-    AndreaGabriela Reggiane
-    Marine Kelley 
+   Master Huldschinsky (retired but using silentwar Resident now)  
+   Heather Calamity  
+   AndreaGabriela Reggiane  
+   Marine Kelley  
 
 And many more  - please contact so we can add more to this page.  And yes, we do thank everyone on this page, and we do thank for their hard work, regardless of current issues. 
 
