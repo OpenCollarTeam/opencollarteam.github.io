@@ -27,3 +27,19 @@ Couples animations can be directly called using the animation name and the first
 For instance Jenny Wren wants to hug JoeZipcode: 
 
 >je hug joe
+
+## Animlock
+
+This locks the wearer in the current collar animation.
+
+## Posture
+
+Check this to force an erect posture.  Note that the posture lock might interfere with other animations.
+
+## Antislide
+
+Check this box and set a pose to allow the sub to walk while a collar pose is active.
+
+## AO Menu / AO ON / AO OFF
+
+These buttons sync with the OpenCollar Sub AO.
