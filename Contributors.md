@@ -74,7 +74,6 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
    Design, Build and Textures for the New Temple   
 
 * Asami Imako ([AiTech])
-
   *Numerous collar design contributions:  
         Spiked Collar  
         Steel Collar  
