@@ -92,12 +92,12 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
 
 * Feline Dagger
 
-    Numerous collar design contributions:
-        *Kirsten Collar
-        *Chained Passions
-        *Barbed Flowers (retired)
-        *Tag Collar
-        *Slave Nosering (Puzzle Vendor) 
+   Numerous collar design contributions:
+    Kirsten Collar
+        Chained Passions
+        Barbed Flowers (retired)
+        Tag Collar
+        Slave Nosering (Puzzle Vendor) 
     Temple Helpslave
     Nan and Athy's pita :P
     Offers custom collars upon request 
