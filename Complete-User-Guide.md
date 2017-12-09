@@ -13,8 +13,8 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 # Index / Table of Contents
 
 * [Main](https://github.com/OpenCollarTeam/OpenCollar/wiki/Main-Menu)
-* [Access]
-* [Animations] 
+* [Access](https://github.com/OpenCollarTeam/OpenCollar/wiki/Access)
+* [Animations](https://github.com/OpenCollarTeam/OpenCollar/wiki/Animations) 
 * [Leash]
 * [RLV]
 * [Settings]
