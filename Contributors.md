@@ -108,7 +108,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Assisted in the development of the current OpenCollar core architecture...
    Currently employed by VirtualDisgrace.
 
-*Jane1066
+* Jane1066
 
    Temple Helper  
 
@@ -145,6 +145,10 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Provides help and support to users and developers alike  
     Minor bug fixing and new features  
 
+* Rowena Bookmite
+
+   Temple Helper  
+
 * Sandra Merilouto
 
    Tries to find Satomi's bugs  
@@ -180,7 +184,6 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Managed OpenCollar for several years in the absence of the founding directors.   
    Scripted and oversaw the development of the current OpenCollar multi-prim core architecture.  
    Currently owns VirtualDisgrace.   
-
 
 ## People who have helped us
 
