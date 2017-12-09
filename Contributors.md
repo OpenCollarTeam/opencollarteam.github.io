@@ -82,6 +82,14 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Google App Engine programmer and admin  
    Amazing, awesome, and overachiever in scripting the dist vendor boards. 
 
+* Cuillin Morane
+
+   Temple Helper  
+
+* Eva Ryan
+
+   Temple Helper
+
 * Feline Dagger
 
    Numerous collar design contributions:  
@@ -99,6 +107,10 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Scripter.  
    Assisted in the development of the current OpenCollar core architecture...
    Currently employed by VirtualDisgrace.
+
+*Jane1066
+
+   Temple Helper  
 
 * Joy Stipe
 
@@ -146,6 +158,11 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Various improvements, in particular in RLV related features  
    Gives work to Sandra and fixes old bugs  
    Works on making RLV fun for the collars and implamenting new RLV commands 
+
+* Silkie Sabra
+
+   Documentation  
+   Temple Helper  
 
 * Summer Seale
 
