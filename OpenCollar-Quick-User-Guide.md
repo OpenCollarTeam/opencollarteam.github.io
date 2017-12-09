@@ -21,7 +21,7 @@ When you open the main menu you will see buttons that go to all the different co
 ### Access
 You are wearing a collar because you want someone else at some time to be able to control your avatar.  The degree of control you give is up to you.  To give someone else access to your collar, open the collar menu and press access, or type [prefix] access.  
 
-In the Access menu you can add Owners, Trusted, or set group or public access.  If you set an owner you lose your default owner access to your collar. It is best not to set an owner till you are sure you want to give that person full control over your collar. If you want to retain owner level control on your collar, press OwnSelf before adding an owner.  Your owner however can uncheck that if they choose to.  [More about Access]
+In the Access menu you can add Owners, Trusted, or set group or public access.  If you set an owner you lose your default owner access to your collar. It is best not to set an owner till you are sure you want to give that person full control over your collar. If you want to retain owner level control on your collar, press OwnSelf before adding an owner.  Your owner however can uncheck that if they choose to.  More about [Access](https://github.com/OpenCollarTeam/OpenCollar/wiki/Access) here.
 
 ### Safeword
 
