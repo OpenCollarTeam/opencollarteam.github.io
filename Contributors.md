@@ -20,8 +20,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Contact for new Distributors and vendor boards  
    Management for OpenCollar scriptors and contributors  
 
-* Nandana Singh
-
+* Nandana Singh  
    Co-founded the OpenCollar project.  
    Retired back to RL  
    Scripted first versions of OpenCollar.  
@@ -35,18 +34,14 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 
 ## Contributors
 
-* Alexei Maven & Jessenia Mocha
-
-    (both are MIA but missed greatly) 
-
-    Redesigned/Updated the Owner Hud & SubAO  
-    Manages updates for the Owner Hud & SubAO  
-    Troubleshooting & bug fixing for all OC products  
-    Texture/Script modification of the Temple games  
+* Alexei Maven & Jessenia Mocha  
+   Redesigned/Updated the Owner Hud & SubAO  
+   Managed updates for the Owner Hud & SubAO  
+   Troubleshooting & bug fixing for all OC products  
+   Texture/Script modification of the Temple games  
     Temple Helper  
 
-* Asami Imako ([AiTech])
-
+* Asami Imako ([AiTech])  
    Numerous collar design contributions:  
    Spiked Collar  
    Steel Collar  
@@ -63,8 +58,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Simple rename script  
    Sculpted Heart lock 
 
-* Betsy Hastings
-
+* Betsy Hastings  
    Spider Collar  
    Chastity Belt  
    Tongue Clamp  
@@ -72,8 +66,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Various Cages contained in Prototype of the HUD Cage Rezzer  
    Design, Build and Textures for the New Temple   
 
-* Cleo Collins
-
+* Cleo Collins  
    Developer  
    Bug fixer  
    Bell script  
@@ -81,16 +74,13 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Google App Engine programmer and admin  
    Amazing, awesome, and overachiever in scripting the dist vendor boards. 
 
-* Cuillin Morane
-
+* Cuillin Morane  
    Temple Helper  
 
-* Eva Ryan
-
+* Eva Ryan  
    Temple Helper
 
-* Feline Dagger
-
+* Feline Dagger  
    Numerous collar design contributions:  
    Kirsten Collar  
    Chained Passions  
@@ -101,18 +91,15 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Nan and Athy's pita :P  
    Offers custom collars upon request   
 
-* Garvin Twine
+* Garvin Twine  
+   Scripter
+   Developer  
+   Assisted in the development of the current OpenCollar core architecture  
 
-   Scripter.  
-   Assisted in the development of the current OpenCollar core architecture...
-   Currently employed by VirtualDisgrace.
-
-* Jane1066
-
+* Jane1066  
    Temple Helper  
 
-* Joy Stipe
-
+* Joy Stipe  
     Abnormal collar design contributions:  
     Behavior Modification Chip  
     Li'l Pony Bridle  
@@ -122,12 +109,10 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Customizable Particle System (leash)  
     Garbler script 
 
-* Kurt Burleigh
-   Developer  
+* Kurt Burleigh    
    Bug fixer  
 
-* Master Starship
-
+* Master Starship  
    Developer  
    Bug fixer  
    Timer script  
@@ -135,8 +120,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Web Interface  
    Google App Engine programmer and admin  
 
-* Melfina Marshdevil
-
+* Melfina Marshdevil  
     Created the Teleport Restriction Plugin  
     Issue tracker organizer  
     Keeps SVN updated  
@@ -144,39 +128,33 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Provides help and support to users and developers alike  
     Minor bug fixing and new features  
 
-* Rowena Bookmite
-
+* Rowena Bookmite  
    Temple Helper  
 
-* Sandra Merilouto
-
+* Sandra Merilouto  
    Tries to find Satomi's bugs  
    Checks if she indeed fixed them  
    Does "Amazing" work on keeping OpenCollar up to date and too many things to list here
 
-* Satomi Ahn
-
+* Satomi Ahn  
    #RLV subfolder browsing system  
    Implemented a RLV multi-device relay and integrated it in OpenCollar  
    Various improvements, in particular in RLV related features  
    Gives work to Sandra and fixes old bugs  
    Works on making RLV fun for the collars and implamenting new RLV commands 
 
-* Silkie Sabra
-
+* Silkie Sabra  
    Documentation  
    Temple Helper  
 
-* Summer Seale
-
+* Summer Seale  
     Two collar designs (Midsummer Night and Summer Leaf)  
     Created the divans for the HQ.  
     Various other help and testing for Nandana Singh  
     All around amazing, incredible, and very cute to look at and keep around.  
     Nandana Singh's hot little sex slave.  
 
-* Wendy Starfall 
-
+* Wendy Starfall  
    Compiled collars  
    Managed vendors  
    Scripter  
