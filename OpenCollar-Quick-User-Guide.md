@@ -1,6 +1,3 @@
-
-#####This page needs to have added to it the most important information that a new collar user needs to know. Non-core features should be described in separate pages, linked below. Quick Start#####
-
 # Getting Started
 Open the Collar Menu by touching the collar or sending a chat command with your prefix.  If you have not set an owner you are the default owner and can access all parts of the collar.  Most collar functions are available in the collar menu. 
 
