@@ -9,7 +9,6 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 ## Founders
 
 * Athaliah Opus
-
    Co-founded the OpenCollar project.  
    Owner of OpenCollar and of offical groups in SL.  
    Primary project overall designs and contact  
