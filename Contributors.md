@@ -8,7 +8,16 @@ If you're at a loss for what to write, try thinking in terms of 1) things you ha
 
 * Athaliah Opus
 
->Co-founded the OpenCollar project. Owner of OpenCollar and of offical groups in SL. Primary project overall designs and contact Provided OpenCollar's first home on her own land. Coordinates the addition of new people to the OpenCollar distributor network. Release Manager on past releases Guides new feature development and long term plans Escalation of bugs Reviews new collar designs and offical collar designs Contact for new Distributors and vendor boards Management for OpenCollar scriptors and contributors 
+>Co-founded the OpenCollar project. 
+   Owner of OpenCollar and of offical groups in SL. 
+   Primary project overall designs and contact 
+   Provided OpenCollar's first home on her own land. 
+   Coordinates the addition of new people to the OpenCollar distributor network. 
+   Release Manager on past releases 
+   Guides new feature development and long term plans Escalation of bugs 
+   Reviews new collar designs and offical collar designs 
+   Contact for new Distributors and vendor boards 
+   Management for OpenCollar scriptors and contributors 
 
 Nandana Singh
 
