@@ -1,6 +1,7 @@
 # Notecards sent 11/21/2017 and 11/22/2017#
 
-#Title:   OpenCollar's Core Values
+## Notecards sent in the OpenCollar group in Second life.
+First notecard - Title:   OpenCollar's Core Values
 
 
 As founders of the OpenCollar project, we (Athaliah Opus and Nandana Singh) feel that now is an important time to reiterate the project's commitment to its founding values of openness and community.  We are extremely grateful for the service that Wendy has given to the project over the years, but are concerned about blurred lines between OpenCollar, the free and open source project, and VirtualDisgrace, the for-profit brand.
@@ -22,9 +23,10 @@ Regards,
 
 Athaliah Opus and Nandana Sing
 
-#  What the OpenCollar name stands for:
 
-#
+# Second notecard - Title:  What the OpenCollar name stands for:
+## 
+
 At the end of October 2017, Wendy Starfall sent a notice to the OpenCollar group announcing her retirement from the project.  Upon seeing that, Athaliah Opus and I started talking about how to keep the project true to its founding values.  Then we saw notices from VirtualDisgrace calling Garvin Twine the project lead.  That raised further concerns.  I tried contacting VirtualDisgrace to talk about our concerns, and offered friendship so we could catch each other online. I received no response to these inquiries.  The recent ownership changes in the group have flowed from these events.  
 
 As founders of the OpenCollar project, we (Athy and Nandana) both feel that now is an important time to reiterate the project's commitment to its founding values of openness and community. Though Wendy's return a few days ago makes the situation more muddled, it does not change our commitment to keeping OpenCollar open and free, including not favoring one merchant over another.  In this notecard we will review some history of the project, outline a few areas where the project was straying from its founding values, and briefly talk about the future.
@@ -87,7 +89,9 @@ Guiding principle 2: People contributing money should know where it's going.
 
 At one point we had our main inworld location organized around separate contributors, with a list of each person's contributions to the project, and a personal tip board for each contributor.  Whenever we had a generic tip board for the overall OpenCollar project, the funds it collected were dedicated to project expenses like tier and web hosting fees.
 
-In the time before Wendy started maintaining the project, Athy and I saw a number of people try to subvert its commitment to openness for its own profit.  Some of these were outside creators with far-fetched ideas, while others were insiders who saw an opportunity to use the OpenCollar name to promote their products in ways not available to their competitors.  When I removed the web-based settings database, for example, one developer tried to make his for-profit replacement the preferred alternative.  We shut that down.  Another time we had a team member providing group/land management bots who tried to use his position to take over the group.  We shut that down too.  OpenCollar's well-known name and large inworld group are tempting targets to people who want an advantage in marketing their for-profit products.
+In the time before Wendy started maintaining the project, Athy and I saw a number of people try to subvert its commitment to openness for its own profit.  Some of these were outside creators with far-fetched ideas, while others were insiders who saw an opportunity to use the OpenCollar name to promote their products in ways not available to their competitors.  When I removed the web-based settings database, for example, one developer tried to make his for-profit replacement the preferred alternative.  We shut that down.   
+
+OpenCollar's well-known name and large inworld group are tempting targets to people who want an advantage in marketing their for-profit products.
 
 Everyone has RL obligations, and Athy and I are no exception.  We reduced our online time as career and family obligations increased, and Wendy very generously helped to fill the void, first with tasks focused on the community and handling releases, and later with changes to the code.
 
