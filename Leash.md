@@ -13,3 +13,11 @@ Calls a menu of nearby objects to which the wearer can be leashed
 Calls a menu of nearby avatars to whom the leash can be passed. When selected, the avatar gets a request.
 >[prefix] leashto 
 
+## Follow
+Operates the leash in exactly the same way but without the visible particle chain.
+>[prefix] follow
+
+## Length
+Sets the length of the leash in meters. 1 meter is the minimum length, 20 meters is the maximum.
+>[prefix] length [number]
+
