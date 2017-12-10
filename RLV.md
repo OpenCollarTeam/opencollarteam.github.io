@@ -5,4 +5,21 @@ To call the RLV menu:
 
 Please remember that one of the most basic safety features about RLV is your ability to turn it off and on in the viewer.  Any RLV restriction can be cleared by turning off RLV and relogging; or logging on in the official SL Viewer.
 
+## On / Off
+Toggles RLV on and off in the collar (not in the viewer).  The collar lock is not affected. Turning RLV Off in the collar does disable the collar relay and turns off access to the RLV menu.
 
+## Clear All
+Clears all collar RLV restrictions, including those enforced by the relay.  Available to anyone with collar access but the wearer unless self owned.
+
+## Exceptions
+
+Here you can set Exceptions to RLV restrictions Owners and Trusted.  Most Exceptions are checked by Default.  Exceptions allow owners and trusted to communicate with you and teleport you when these are otherwise restricted.  When the boxes are checked the Exceptions are enforced.
+
+### List of Exceptions:
+
+IM exempts owner/trusted from a block on the wearer's ability to send IMs.  
+RcvIM exempts owner/trusted from a block on the wearer's ability to receive IMs.  
+RcvChat exempts owner/trusted from a block on the wearer's ability to read local chat.  
+RcvEmote exempts owner/trusted from a block on the wearer's ability to read emotes.  
+Lure exempts owner/trusted from a block on the wearer's ability to accept a teleport offer.  
+refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offers.  When active, the wearer's viewer automatically accepts a tp offer from an owner.  More commonly known as "force TP."  On by default for owners, must be set for trusted.
