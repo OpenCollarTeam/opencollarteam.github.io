@@ -27,7 +27,7 @@ Checking Public gives anyone limited access to your collar, including the leash,
 ## Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.
 
-## BLOCK    
+## Block    
 This allows the collar only to block named avatars from using the collar.  Use sparingly since this also adds to the memory consumption of the script.  
 
 >Add to the Blocklist: [prefix] add block [name or UUID]  
