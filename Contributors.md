@@ -103,7 +103,6 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Abnormal collar design contributions:  
     Behavior Modification Chip  
     Li'l Pony Bridle  
- 
     Developer  
     Bug fixer  
     Customizable Particle System (leash)  
