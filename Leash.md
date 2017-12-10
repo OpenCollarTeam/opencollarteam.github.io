@@ -21,3 +21,5 @@ Operates the leash in exactly the same way but without the visible particle chai
 Sets the length of the leash in meters. 1 meter is the minimum length, 20 meters is the maximum.
 >[prefix] length [number]
 
+## Configure
+In this menu you can change the texture of the leash particles.
