@@ -157,10 +157,13 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 * Wendy Starfall  
    Compiled collars  
    Managed vendors  
-   Scripter  
-   Managed OpenCollar for several years in the absence of the founding directors.   
+   Scripter
+   Contribution of past collar designs
+   She managed OpenCollar for several years in trust of the founding directors.
    Scripted and oversaw the development of the current OpenCollar multi-prim core architecture.  
-   Currently owns VirtualDisgrace.   
+   And many other things, as there is way too many contributions to put all in one list.  
+  
+   (Currently owns VirtualDisgrace).   
 
 ## People who have helped us
 
@@ -169,7 +172,9 @@ This is a list of people who have helped us in some way. They are listed in no o
    Master Huldschinsky (retired but using silentwar Resident now)  
    Heather Calamity  
    AndreaGabriela Reggiane  
-   Marine Kelley  
+   Marine Kelley
+   Executor Magic
+  
 
 And many more  - please contact so we can add more to this page.  And yes, we do thank everyone on this page, and we do thank for their hard work, regardless of current issues. 
 
