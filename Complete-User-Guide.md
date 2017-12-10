@@ -15,7 +15,7 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [Main](https://github.com/OpenCollarTeam/OpenCollar/wiki/Main-Menu)
 * [Access](https://github.com/OpenCollarTeam/OpenCollar/wiki/Access)
 * [Animations](https://github.com/OpenCollarTeam/OpenCollar/wiki/Animations) 
-* [Leash](https://github.com/OpenCollarTeam/OpenCollar/wiki/Leash)]
+* [Leash](https://github.com/OpenCollarTeam/OpenCollar/wiki/Leash)
 * [RLV]
 * [Settings]
 * [Help / About]
