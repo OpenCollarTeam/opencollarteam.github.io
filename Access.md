@@ -30,5 +30,5 @@ To set Group, first activate the desired group, then check Group in the Access m
 ## BLOCK    
 This allows the collar only to block named avatars from using the collar.  Use sparingly since this also adds to the memory consumption of the script.  
 
->Add to the Blocklist: [prefix] add block [name or UUID]
+>Add to the Blocklist: [prefix] add block [name or UUID]  
 >Remove from the Blocklist: [prefix] rm block [name or UUID]
