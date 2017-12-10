@@ -1,6 +1,6 @@
 To call the leash menu:  
 >[prefix] leashmenu
 
-##Grab  
+## Grab  
 Grabs the wearer's leash  
 >[prefix] grab or [prefix] leash  
