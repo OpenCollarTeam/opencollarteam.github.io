@@ -43,3 +43,9 @@ Check this box and set a pose to allow the sub to walk while a collar pose is ac
 ## AO Menu / AO ON / AO OFF
 
 These buttons sync with the OpenCollar Sub AO.
+
+# Notes
+
+If you are in Firestorm Viewer, there is an option in Preferences to sync the Firestorm AO with OpenCollar animations so it does not override them.  If you are not using the Firestorm AO you will need to uncheck this.
+
+>Preferences | Firestorm | Avatar | uncheck "Allow OpenCollar protocol to enable or disable builtin AO"
