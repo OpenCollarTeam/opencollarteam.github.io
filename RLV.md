@@ -23,3 +23,18 @@ RcvChat exempts owner/trusted from a block on the wearer's ability to read local
 RcvEmote exempts owner/trusted from a block on the wearer's ability to read emotes.  
 Lure exempts owner/trusted from a block on the wearer's ability to accept a teleport offer.  
 refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offers.  When active, the wearer's viewer automatically accepts a tp offer from an owner.  More commonly known as "force TP."  On by default for owners, must be set for trusted.
+
+## Force Sit
+Opens a menu of nearby objects on which the wearer can be forced to sit.  Does not include Forbid Stand so does not lock the wearer in the sit.
+
+## Restrictions
+Opens a menu of restrictions and named groups of related restrictions.  When the boxes are checked, the restrictions are NOT active.  
+>[prefix] restrictions  
+
+List of individual restrictions  
+* Send IMS:  Restricts the wearer's ability to send ims.
+* Read IMS:   Restricts the wearer's ability to receive ims.
+* Hear:  Restricts the wearer's ability to read local chat.
+* Talk: Restricts the wearer's ability to send local chat. 
+* Touch:  Restricts the wearer's ability to touch the world.
+
