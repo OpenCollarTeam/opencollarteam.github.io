@@ -18,5 +18,5 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [Leash](https://github.com/OpenCollarTeam/OpenCollar/wiki/Leash)
 * [RLV](https://github.com/OpenCollarTeam/OpenCollar/wiki/RLV)
 * [Settings](https://github.com/OpenCollarTeam/OpenCollar/wiki/Settings)
-* [Help / About]
+* [[Help / About](https://github.com/OpenCollarTeam/OpenCollar/wiki/Help-About)]
 * [Prefixes, Chat Commands and Other Non-Menu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
