@@ -28,7 +28,7 @@ refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offe
 Opens a menu of nearby objects on which the wearer can be forced to sit.  Does not include Forbid Stand so does not lock the wearer in the sit.
 
 ## Restrictions
-Opens a menu of restrictions and named groups of related restrictions.  When the boxes are checked, the restrictions are NOT active.  
+Opens a menu of restrictions and named suites of related restrictions.  When the boxes are checked, the restrictions are NOT active.  
 >[prefix] restrictions  
 
 List of individual restrictions  
@@ -37,4 +37,11 @@ List of individual restrictions
 * Hear:  Restricts the wearer's ability to read local chat.
 * Talk: Restricts the wearer's ability to send local chat. 
 * Touch:  Restricts the wearer's ability to touch the world.
+
+List of restrictions grouped in suites
+* Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers.
+* Stray: Restricts the wearer's ability to accept teleport offers, teleport to landmarks and map locations, sit on an object from a distance greater than 1 meter from the object center; and teleport to a  point on the landscape.
+* Rummage: This group restricts building abilities including: edit, open the inventory window, rez objects, view scripts and textures.
+* Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen.
+* Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
