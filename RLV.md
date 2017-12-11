@@ -45,3 +45,29 @@ List of restrictions grouped in suites
 * Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen.
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
+## Folders
+
+**Making the #RLV Folder**: The wearer must create a top folder in inventory named #RLV for this menu to work. The name must be exactly these four characters [#RLV] and it *must* be a top folder, *not* a sub folder of any other folder in the inventory. It allows users and scripted objects to force wear the clothing and attachments contained in those folders.  
+
+Once you have your #RLV folder set up, make folders in #RLV for attachments you want to allow other avatars to force you to wear.  These usually include items like cuffs and gags (to force wear complete outfits, see .outfits below). 
+
+>Sample folder arrangement:  #RLV {>} Gags {>} Ringgag | Ballgag where the ringgag and the ballgag are each in their own folder, inside the "gags" folder, inside #RLV.
+
+**Note**:  Stripping works differently than force wearing.  An RLV strip command targets the attachment point or layer on the avatar and does not search #RLV folders in inventory.
+
+<prefix> folders
+
+Actions to apply to each folder or subfolder include:
+
+Add all : adds the entire contents of the folder including its subfolders.
+xLock att. / all:  Prevents the wearer from attaching the contents of this folder.  This toggles to an exception button which allows a folder to be worn if its parent folder is locked; and toggle once more to clear the restriction.
+
+folders and subfolders may be worn by chat command, for instance:
+
+<prefix> &ringgag adds the contents of the folder named ringgag to the wearer.
+<prefix> &&gags adds the contents of the folder named gags and all its subfolders.
+<prefix> +ringgag wears the contents of the folder named ringgag
+<prefix> ++gags wears the contents of the folder named gags and all its subfolders
+<prefix> -ringgag removes the contents of the folder named ringgag.
+<prefix> --gags removes the contents of the folder named gags and its subfolders
+
