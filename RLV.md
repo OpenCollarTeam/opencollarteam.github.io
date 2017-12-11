@@ -46,16 +46,16 @@ List of restrictions grouped in suites
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
 ## Folders
+To call this menu:
+> [prefix] folders
 
 **Making the #RLV Folder**: The wearer must create a top folder in inventory named #RLV for this menu to work. The name must be exactly these four characters [#RLV] and it *must* be a top folder, *not* a sub folder of any other folder in the inventory. It allows users and scripted objects to force wear the clothing and attachments contained in those folders.  
 
 Once you have your #RLV folder set up, make folders in #RLV for attachments you want to allow other avatars to force you to wear.  These usually include items like cuffs and gags (to force wear complete outfits, see .outfits below). 
 
->Sample folder arrangement:  #RLV > Gags {>} Ringgag | Ballgag where the ringgag and the ballgag are each in their own folder, inside the "gags" folder, inside #RLV.
+>Sample folder arrangement:  #RLV > Gags > Ringgag | Ballgag where the ringgag and the ballgag are each in their own folder, inside the "gags" folder, inside #RLV.
 
-**Note**:  Stripping works differently than force wearing.  An RLV strip command targets the attachment point or layer on the avatar and does not search #RLV folders in inventory.
-
-<prefix> folders
+**Note**:  Stripping works differently than force wearing.  An RLV strip command targets the attachment point or layer on the avatar and does not search #RLV folders in inventory.  
 
 Actions to apply to each folder or subfolder include:
 
