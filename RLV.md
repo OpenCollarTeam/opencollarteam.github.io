@@ -78,7 +78,7 @@ To call this menu:
 
 This menu requires the wearer to set up a folder inside #RLV, precisely named .outfits .  **The dot preceding outfits is required**.  Inside this folder make folders for your named outfits which you have set up using the SL Edit Outfit function. Then drag in the links from the outfits folder into the new folder.  The outfit names will appear as menu buttons in RLV > Outfits and can be force worn using the SL Replace function.  Make sure the outfits include all necessary parts of your outfit except possibly required system layers that cannot be removed.  Do not include your **locked** collar in the outfit folder.  Locking the collar ensures that Replace will not remove it and deleting the link to your locked collar prevents accidents like doubling your collar or wearing an outdated version.
 
-###More Tips:
+### More Tips:
 
 * Inside your .outfits folder make a folder and name it something like Naked.  Include in there what you want to be wearing when stripped, including mesh body, hair, mesh eyes, etc.  Users can then strip you by force wearing your "Naked" outfit!
 
