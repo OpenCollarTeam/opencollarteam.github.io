@@ -32,3 +32,11 @@ The default collar safeword is RED, all caps.  You can also type it on channel 1
 ### Runaway
 
 If you find you must clear an owner, you can do that by pressing the Runaway button in the Access menu, or typing [prefix] runaway.  This will wipe the access list and reset all collar functions to default.
+
+## About RLV
+
+RLV (Restrained Love Viewer) is a set of permissions coded into the viewer, that allows other avatars limited control over some viewer functions. There are several approved third party viewers that allow you to enable / disable RLV. Among the most popular for many users are Firestorm, Restrained Love Viewer, and Singularity.
+
+OpenCollar uses RLV to enforce the Collar Lock in the Main Menu.  The rest of the RLV functions in the collar can be found in the RLV menu.  Push Clear All in the RLV menu to clear these restrictions (not available to wearers who are not self owned).  The collar Relay converts RLV commands from objects the wearer does not own. Relay permissions are not affected by the Access settings. See more in the Complete User Guide [RLV](https://github.com/OpenCollarTeam/OpenCollar/wiki/RLV)and [Relay](https://github.com/OpenCollarTeam/OpenCollar/wiki/Relay) pages.
+
+Please remember that one of the most basic safety features about RLV is your ability to turn it off and on in the viewer. Any RLV restriction can be cleared by turning off RLV and relogging; or logging on in the official SL Viewer. Some groups claim to use "extreme RLV" that cannot be turned off.  This is not possible in any approved third party viewer.  Beware of downloading any code that claims to alter this basic safety function.  
