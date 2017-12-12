@@ -46,7 +46,7 @@ List of restrictions grouped in suites
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
 ## Relay
-This button in RLV brings up the relay menu.  See Relay for more.
+This button in RLV brings up the relay menu.  See [Relay](https://github.com/OpenCollarTeam/OpenCollar/wiki/Relay) for more.
 To call the relay meny:
 >[prefix] relay
 
