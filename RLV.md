@@ -59,15 +59,15 @@ Once you have your #RLV folder set up, make folders in #RLV for attachments you 
 
 Actions to apply to each folder or subfolder include:
 
-Add all : adds the entire contents of the folder including its subfolders.
-xLock att. / all:  Prevents the wearer from attaching the contents of this folder.  This toggles to an exception button which allows a folder to be worn if its parent folder is locked; and toggle once more to clear the restriction.
+* Add all : adds the entire contents of the folder including its subfolders.  
+* xLock att. / all:  Prevents the wearer from attaching the contents of this folder.  This toggles to an exception button which allows a folder to be worn if its parent folder is locked; and toggles once more to clear the restriction.
 
-folders and subfolders may be worn by chat command, for instance:
+Folders and subfolders may be worn by chat command, for instance:
 
-<prefix> &ringgag adds the contents of the folder named ringgag to the wearer.
-<prefix> &&gags adds the contents of the folder named gags and all its subfolders.
-<prefix> +ringgag wears the contents of the folder named ringgag
-<prefix> ++gags wears the contents of the folder named gags and all its subfolders
-<prefix> -ringgag removes the contents of the folder named ringgag.
-<prefix> --gags removes the contents of the folder named gags and its subfolders
+>[prefix] &ringgag adds the contents of the folder named ringgag to the wearer.  
+>[prefix] &&gags adds the contents of the folder named gags and all its subfolders.  
+>[prefix] +ringgag wears the contents of the folder named ringgag  
+>[prefix] ++gags wears the contents of the folder named gags and all its subfolders  
+>[prefix] -ringgag removes the contents of the folder named ringgag.  
+>[prefix] --gags removes the contents of the folder named gags and its subfolders  
 
