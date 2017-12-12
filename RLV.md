@@ -80,7 +80,7 @@ This menu requires the wearer to set up a folder inside #RLV, precisely named .o
 
 ###More Tips:
 
-*Inside your .outfits folder make a folder and name it something like Naked.  Include in there what you want to be wearing when stripped, including mesh body, hair, mesh eyes, etc.  Users can then strip you by force wearing your "Naked" outfit!
+* Inside your .outfits folder make a folder and name it something like Naked.  Include in there what you want to be wearing when stripped, including mesh body, hair, mesh eyes, etc.  Users can then strip you by force wearing your "Naked" outfit!
 
-*Inside your .outfits folder, make a folder and precisely name it .core . *The dot is required for this to work*.  Inside .core, place items you never want to be removed, like hair eyes and mesh body.  You may place the original copy of your locked collar in .core.  This folder will prevent these items from being stripped or replaced through the outfits function.
+* Inside your .outfits folder, make a folder and precisely name it .core . *The dot is required for this to work*.  Inside .core, place items you never want to be removed, like hair eyes and mesh body.  You may place the original copy of your locked collar in .core.  This folder will prevent these items from being stripped or replaced through the outfits function.
 
