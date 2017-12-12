@@ -45,7 +45,7 @@ List of restrictions grouped in suites
 * Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen.
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
-##Relay
+## Relay
 This button in RLV brings up the relay menu.  See Relay for more.
 To call the relay meny:
 >[prefix] relay
