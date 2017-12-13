@@ -29,6 +29,7 @@ Lists the sources of current RLV restrictions.
 ### Access Lists 
 Lists Trusted and Blocked Objects and Avatars.
 
-## Safeword  When restrictions are enforced by an object through the relay, they may be lifted by pressing this button.  
+## Safeword  
+When restrictions are enforced by an object through the relay, they may be lifted by pressing this button.  
 * Helpless:  When active, turns off the wearer's access to the relay safeword.
 * Smart: Activates smart strip in the relay.  
