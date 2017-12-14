@@ -1,5 +1,3 @@
-## Transmuter currently unavailable, work in progress and may change 
-
 * The seeder works with the updater to turn a 6.7 or 6.6 collar into a 7.0 collar.
 * The updater updates a 3.x or 6.x collar (depending on version in cooperation with the seeder) into a 7.0 collar.
 
