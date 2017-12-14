@@ -1,6 +1,6 @@
 # List of Distributors
 
-Ethan Darkward...
+Ethan Darkward  
 [http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
 
 Silkie Sabra, K-Bar West   
