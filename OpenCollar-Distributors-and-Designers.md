@@ -21,3 +21,8 @@ Dungeon Roleplay
 
 LesleyAsh, Kwaad Teven  
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
+
+xxsaltandpepperxx, Salt & Pepper and The Birdcage  
+Inworld Shops  
+[http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
+Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
