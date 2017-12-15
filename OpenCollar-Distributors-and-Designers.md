@@ -76,4 +76,65 @@ Inworld Shops
 classic feminine styles, high quality mesh, pricing around 500L  
 Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
 
+# OpenCollar Partners Application Form
 
+Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to Silkie Sabra inworld.
+
+OpenCollar Official Partners
+
+OpenCollar offers the Official Partners program for people who wish to host a publicly accessible OpenCollar vendor..  Official Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar-based products.
+
+To qualify as an OpenCollar Official Partner, collar designers and distributors agree to the following*:
+
+DISTRIBUTORS 
+
+--Requirements
+ 
+1. Place the vendor in a publicly accessible parcel with no ban lines and no prior restrictions to access except for cause or TOS violations such as age play.   
+2. Do not host vendors for OpenCollar products that fail to meet the standards for Designers (see below).  
+
+--Benefits
+
+1. Name  and inworld location SLURL listed on OpenCollar's Official Partners page.  
+2. An initial announcement to the OpenCollar group that you've been made an Official Partner.  
+3. The right to use the "OpenCollar Official Partner" name in the description of your inworld parcel.  
+
+DESIGNERS
+
+--Requirements
+
+1. All the requirements for distributors above   
+2. Keep your OpenCollar branded products up to date with official releases made to the OpenCollar group.  
+3. Provide technical support to your own customers.  
+4. Leave the "modify" permission enabled on your OpenCollar products so users can customize and debug them.  
+
+--Benefits
+
+1. All the above benefits to Distributors plus:  
+2. The right to use the OpenCollar Official Partner graphic on your complying products.  
+3. Your Marketplace URL listed on the Official Partners page.  
+4. The right to use the "OpenCollar Official Partner" name in the descriptions of your complying products on the Second Life Marketplace.  
+
+APPLICATION
+
+If you would like to sign up for the Official Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below.  Then pass it to Silkie Sabra, OpenCollar Partners Coordinator.
+
+DISTRIBUTORS AND DESIGNERS:
+
+SecondLife Name/Username:
+
+Secondlife Avatar UUID:
+
+Inworld Location SLURL: 
+
+DESIGNERS ONLY:
+
+Marketplace Storefront URL: 
+
+Creator/Shop Name:
+
+Version of OpenCollar in your products: 
+
+Brief description of your styles and price range: 
+
+* Designers and hosts may be removed from the list if they fail to meet any of the above specifications.  A Designer is also a Distributor if they have an OpenCollar vendor placed on their land.  
