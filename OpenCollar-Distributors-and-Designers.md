@@ -8,6 +8,11 @@ Ethan Darkward, The Naked Dungeon
 Dungeon roleplay, female nudity enforced  
 [http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
 
+Gatatem, Catspaw Creations    
+Designer collars from 99L to 500L  
+Inworld Shop  
+[http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22](http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22)
+
 Juniper1221, Big Bang Mall  
 Shopping Mall..
 [http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33](http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33)
