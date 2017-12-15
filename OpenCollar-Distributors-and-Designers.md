@@ -25,5 +25,5 @@ LesleyAsh, Kwaad Teven
 xxsaltandpepperxx, Salt & Pepper and The Birdcage  
 Inworld Shops  
 [http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
-classic feminine styles, high quality mesh, pricing around 500L
+classic feminine styles, high quality mesh, pricing around 500L  
 Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
