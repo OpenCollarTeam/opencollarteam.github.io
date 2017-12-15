@@ -45,7 +45,7 @@ Inworld Shop
 [http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22](http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22)  
 
 LesleyAsh, Kwaad Teven  
-seasonal styles with a Gothic edge, free to 300L 
+seasonal styles with a Gothic edge, free to 300L  
 Inworld Shop (Moderate)    
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
 
