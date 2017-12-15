@@ -45,6 +45,12 @@ seasonal styles with a Gothic edge, 300L
 Inworld Shop    
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
 
+Taylor Paine, Taylor's Toys  
+Alien style collars and traps 50 - 300L  
+Inworld Shop  
+[http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
+Marketplace: [https://marketplace.secondlife.com/stores/125535](https://marketplace.secondlife.com/stores/125535)  
+
 xxsaltandpepperxx, Salt & Pepper and The Birdcage  
 Inworld Shops  
 [http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
@@ -56,4 +62,5 @@ Collars, clothing and sundries under 200L
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 Sandbox  
-[http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)
+[http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
+Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719)
