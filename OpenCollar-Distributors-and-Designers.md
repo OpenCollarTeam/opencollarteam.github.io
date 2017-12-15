@@ -17,6 +17,10 @@ Western themed D/s roleplay
 RLV Communities Free Zone, Dance Hall and Sandbox  
 [http://maps.secondlife.com/secondlife/KBar%20West/41/131/24](http://maps.secondlife.com/secondlife/KBar%20West/41/131/24)
 
+Toy Wylie, Wylieville, Toy's Toys  
+Inworld Playground and Shop  
+[http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)
+
 # List of Designer / Distributors
 
 Cissy March, CM Creations, The Dungeon @ Dating  
