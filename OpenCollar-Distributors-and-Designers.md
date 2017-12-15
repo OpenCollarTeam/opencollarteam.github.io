@@ -24,6 +24,13 @@ Collars, Jewelry, Clothing, Furniture
 Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Dating/127/237/1989](http://maps.secondlife.com/secondlife/Dating/127/237/1989)
 
+crashnoww, RealEvil Industries  
+Modern and classic female and male collars, high quality 100% original mesh, ranging from 199 to 599L  
+Inworld Shop  
+[http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25](http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25)  
+Marketplace 
+https://marketplace.secondlife.com/stores/128000?id=128000
+
 LesleyAsh, Kwaad Teven  
 seasonal styles with a Gothic edge, 300L   
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
