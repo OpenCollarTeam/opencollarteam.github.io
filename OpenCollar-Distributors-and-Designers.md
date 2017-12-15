@@ -1,5 +1,8 @@
 # List of Distributors
 
+Cindy Evanier, Kix Erotix  
+Shopping Mall  
+[http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
 Ethan Darkward, The Naked Dungeon  
 Dungeon roleplay, female nudity enforced  
@@ -13,7 +16,7 @@ Western themed D/s roleplay
 
 Cissy March, CM Creations, The Dungeon @ Dating  
 Collars, Jewelry, Clothing, Furniture  
-Dungeon Roleplay
+Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Dating/127/237/1989](http://maps.secondlife.com/secondlife/Dating/127/237/1989)
 
 LesleyAsh, Kwaad Teven  
