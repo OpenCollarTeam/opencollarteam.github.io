@@ -45,13 +45,13 @@ Inworld Shop
 [http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22](http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22)  
 
 LesleyAsh, Kwaad Teven  
-seasonal styles with a Gothic edge, 300L 
-Inworld Shop    
+seasonal styles with a Gothic edge, free to 300L 
+Inworld Shop (Moderate)    
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
-Inworld Shops 
+Inworld Shops (Moderate)  
 [http://maps.secondlife.com/secondlife/Sand%20Beach/141/109/25](http://maps.secondlife.com/secondlife/Sand%20Beach/141/109/25)  
 [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)
