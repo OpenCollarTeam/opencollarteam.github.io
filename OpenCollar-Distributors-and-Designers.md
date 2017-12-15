@@ -45,6 +45,13 @@ seasonal styles with a Gothic edge, 300L
 Inworld Shop    
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
 
+Peebee McMillan, PBM Enterprises and [maXplicit]  
+collars and bondage toys for men  
+Inworld Shops 
+[http://maps.secondlife.com/secondlife/Sand%20Beach/141/109/25](http://maps.secondlife.com/secondlife/Sand%20Beach/141/109/25)  
+[http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
+Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)
+
 Taylor Paine, Taylor's Toys  
 Alien style collars and traps 50 - 300L  
 Inworld Shop  
