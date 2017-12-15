@@ -8,9 +8,13 @@ Ethan Darkward, The Naked Dungeon
 Dungeon roleplay, female nudity enforced  
 [http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
 
+Juniper1221, Big Bang Mall  
+Shopping Mall..
+[http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33](http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33)
+
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
-RLV Communities Free Zone, Dance Hall and Sandbox
+RLV Communities Free Zone, Dance Hall and Sandbox  
 [http://maps.secondlife.com/secondlife/KBar%20West/41/131/24](http://maps.secondlife.com/secondlife/KBar%20West/41/131/24)
 
 # List of Designer / Distributors
