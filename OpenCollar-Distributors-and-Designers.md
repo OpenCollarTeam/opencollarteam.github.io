@@ -20,6 +20,10 @@ Ethan Darkward, The Naked Dungeon
 Dungeon roleplay, female nudity enforced  
 [http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
 
+girlyimp, Poppy's Hangout  
+Playground  
+[http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)
+
 Juniper1221, Big Bang Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33](http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33)
@@ -42,6 +46,14 @@ Inworld Playground and Shop
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)
 
 # List of Designer / Distributors
+
+Celestrea Vasiliov, PoD Slave Auction  
+Slave Auction roleplay, Collar Design  
+Inworld Roleplay: 
+[http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/)   
+Marketplace: https://marketplace.secondlife.com/stores/81530  
+
+
 
 Cissy March, CM Creations, The Dungeon @ Dating  
 Collars, Jewelry, Clothing, Furniture  
