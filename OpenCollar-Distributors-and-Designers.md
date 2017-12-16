@@ -4,9 +4,17 @@ Cindy Evanier, Kix Erotix
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
+CountryCat Furse, Cat's Meow Lounge  
+Club  
+[http://maps.secondlife.com/secondlife/Cifra/220/44/1099](http://maps.secondlife.com/secondlife/Cifra/220/44/1099)
+
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)
+
+Dracco Cela, The Enclave   
+Gorean Club and roleplay  
+[http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301)
 
 Ethan Darkward, The Naked Dungeon  
 Dungeon roleplay, female nudity enforced  
@@ -15,6 +23,14 @@ Dungeon roleplay, female nudity enforced
 Juniper1221, Big Bang Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33](http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33)
+
+Mileia Dubrovna, Milena Doll Creations  
+Shop, Playground and Club  
+[http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)
+
+Rufusjack, The Unowned  
+Beach Club  
+[http://maps.secondlife.com/secondlife/Ringo/49/39/26](http://maps.secondlife.com/secondlife/Ringo/49/39/26)
 
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
