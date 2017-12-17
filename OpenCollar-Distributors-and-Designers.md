@@ -16,6 +16,10 @@ Dracco Cela, The Enclave
 Gorean Club and roleplay  
 [http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301)
 
+Ebonfire M. Aslan, Furry Breeding Ground  
+Furry Hangout  
+[http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25](http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25)
+
 Ethan Darkward, The Naked Dungeon  
 Dungeon roleplay, female nudity enforced  
 [http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
