@@ -51,7 +51,8 @@ Celestrea Vasiliov, PoD Slave Auction
 Slave Auction roleplay  
 OpenCollar scripted accessories 99-299L  
 Inworld Roleplay and shop: 
-[http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/)   
+[http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
+Cele'Sations    
 Marketplace: https://marketplace.secondlife.com/stores/81530  
 
 
