@@ -24,6 +24,13 @@ girlyimp, Poppy's Hangout
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)
 
+Hoodoo Usher, Damsel Bondage Club and Rambling Rose  
+Furry Friendly Bondage Clubs  
+Damsel Bondage Club  
+[http://maps.secondlife.com/secondlife/Damsel/216/136/23](http://maps.secondlife.com/secondlife/Damsel/216/136/23)  
+Rambling Rose  
+[http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)
+
 Juniper1221, Big Bang Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33](http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33)
