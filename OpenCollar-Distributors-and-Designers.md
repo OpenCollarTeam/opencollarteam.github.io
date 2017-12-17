@@ -157,6 +157,8 @@ Secondlife Avatar UUID:
 
 Inworld Location SLURL: 
 
+Name and brief description of your sim:  Playground | Roleplay | Shop | Club | Sandbox | Other
+
 DESIGNERS ONLY:
 
 Marketplace Storefront URL: 
