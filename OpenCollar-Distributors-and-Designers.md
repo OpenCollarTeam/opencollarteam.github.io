@@ -62,8 +62,6 @@ Inworld Roleplay and shop:
 Cele'Sations    
 Marketplace: https://marketplace.secondlife.com/stores/81530  
 
-
-
 Cissy March, CM Creations, The Dungeon @ Dating  
 Collars, Jewelry, Clothing, Furniture  
 Dungeon Roleplay  
@@ -80,6 +78,12 @@ Gatatem, Catspaw Creations
 Designer collars from 99L to 500L  
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22](http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22)  
+
+Jamie Brokken, Brokken Industries  
+Different designs at affordable price, 600L  
+Inworld shop:  
+[http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23](http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23)
+Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)
 
 LesleyAsh, Kwaad Teven  
 seasonal styles with a Gothic edge, free to 300L  
