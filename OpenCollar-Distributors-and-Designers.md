@@ -115,6 +115,12 @@ Sandbox
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719)
 
+xx Reyes, slutware  
+Free collar designs for themed roleplay environments    
+Inworld Shop:  
+[http://maps.secondlife.com/secondlife/Mama%20Allpa/164/241/38](http://maps.secondlife.com/secondlife/Mama%20Allpa/164/241/38)  
+
+
 xxsaltandpepperxx, Salt & Pepper and The Birdcage  
 Inworld Shops  
 [http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
