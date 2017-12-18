@@ -9,3 +9,12 @@ Follow the instructions in the script:
 * Rez the updater near the collar prim
 * Drop the script named oc_collarizer into your collar prim.
 * The update will begin.
+
+# From 3.X or Older
+
+This is worthwhile if your very old collar is a custom build or sentimental item you want to bring up to date. 
+
+* Rez or wear the collar
+* Rez the updater.
+* In the collar menu go to Help / About or Help / Debug
+* Press update.  The update will begin. 
