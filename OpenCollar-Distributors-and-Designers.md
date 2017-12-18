@@ -50,7 +50,7 @@ Beach Club
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
 RLV Communities Free Zone, Dance Hall and Sandbox  
-[http://maps.secondlife.com/secondlife/KBar%20West/41/131/24](http://maps.secondlife.com/secondlife/KBar%20West/41/131/24)
+[http://maps.secondlife.com/secondlife/KBar%20West/51/125/24](http://maps.secondlife.com/secondlife/KBar%20West/51/125/24)
 
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground and Shop  
