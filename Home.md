@@ -13,7 +13,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 
 # User Guide and Other Useful Links
 [OpenCollar Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)  
-[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide)  
+[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide)    
   
 [https://github.com/OpenCollarTeam/OpenCollar/wiki/How-To-Update-Your-OpenCollar](https://github.com/OpenCollarTeam/OpenCollar/wiki/How-To-Update-Your-OpenCollar)  
 [Privacy Policy]   
