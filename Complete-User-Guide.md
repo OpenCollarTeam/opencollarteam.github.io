@@ -20,3 +20,4 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [Settings](https://github.com/OpenCollarTeam/OpenCollar/wiki/Settings)
 * [[Help / About](https://github.com/OpenCollarTeam/OpenCollar/wiki/Help-About)]
 * [Prefixes, Chat Commands and Other Non-Menu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
+* [How to Update](https://github.com/OpenCollarTeam/OpenCollar/wiki/How-To-Update-Your-OpenCollar)
