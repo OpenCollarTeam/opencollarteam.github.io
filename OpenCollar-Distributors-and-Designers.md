@@ -82,6 +82,10 @@ Inworld Shop
 Marketplace 
 https://marketplace.secondlife.com/stores/128000?id=128000
 
+Cynianne Hellershanks, Accents Design  
+Casual to formal jewelry at 199L  
+Marketplace: https://marketplace.secondlife.com/stores/30432  
+
 Gatatem, Catspaw Creations    
 Designer collars from 99L to 500L  
 Inworld Shop  
@@ -90,7 +94,7 @@ Inworld Shop
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
 Inworld shop:  
-[http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23](http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23)
+[http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23](http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23)  
 Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)
 
 LesleyAsh, Kwaad Teven  
