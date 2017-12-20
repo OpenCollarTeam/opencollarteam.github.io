@@ -1,5 +1,9 @@
 # List of Distributors
 
+Cara Lionheart, Hidden Serenity  
+Shops and Club  
+http://maps.secondlife.com/secondlife/Hidden%20Serenity/142/131/1264
+
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
