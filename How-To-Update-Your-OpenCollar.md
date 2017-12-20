@@ -7,7 +7,7 @@ You will need a collar prim and the script named [oc_collarizer](https://github.
 Follow the instructions in the script:
 * If you want to use the titler app, add a prim with FloatText in the description field, centered in the collar.
 * Rez the updater near the collar prim
-* Drop the script named oc_collarizer into your collar prim.
+* Drop the script named oc_collarizer into your collar prim.  Accept the permissions request.
 * The update will begin.
 
 # From 3.X or Older
@@ -17,7 +17,7 @@ This is worthwhile if your very old collar is a custom build or sentimental item
 * Rez or wear the collar
 * Rez the updater.
 * In the collar menu go to Help / About or Help / Debug
-* Press update.  The update will begin. 
+* Press update. Accept the permissions request. The update will begin. 
 
 # V 4.X - 6.5
 This is a very easy update.
@@ -32,5 +32,5 @@ Some forks of OpenCollar use the Version Six version numbers.  Scripts in these 
 
 * Rez or wear the collar.
 * Rez the updater
-* drop the oc_update_seed script into the root prim of the collar.
+* drop the oc_update_seed script into the root prim of the collar. 
 * Update will begin.
