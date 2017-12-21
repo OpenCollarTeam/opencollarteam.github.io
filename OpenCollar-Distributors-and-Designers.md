@@ -86,6 +86,11 @@ Cynianne Hellershanks, Accents Design
 Casual to formal jewelry at 199L  
 Marketplace: https://marketplace.secondlife.com/stores/30432  
 
+Emdragon, Emerald Dust  
+Collar Accessories  
+[http://maps.secondlife.com/secondlife/Destonia/146/14/2525](http://maps.secondlife.com/secondlife/Destonia/146/14/2525)  
+Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
+
 Gatatem, Catspaw Creations    
 Designer collars from 99L to 500L  
 Inworld Shop  
