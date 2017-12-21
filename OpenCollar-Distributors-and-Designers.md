@@ -2,7 +2,7 @@
 
 Cara Lionheart, Hidden Serenity  
 Shops and Club  
-http://maps.secondlife.com/secondlife/Hidden%20Serenity/142/131/1264
+[http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264](http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264)
 
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
