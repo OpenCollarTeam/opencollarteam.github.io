@@ -104,8 +104,7 @@ Inworld Shop (Moderate)
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
-Inworld Shops (Moderate)  
-[http://maps.secondlife.com/secondlife/Sand%20Beach/141/109/25](http://maps.secondlife.com/secondlife/Sand%20Beach/141/109/25)  
+Inworld Shops (Moderate)    
 [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)
 
