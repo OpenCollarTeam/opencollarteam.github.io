@@ -35,7 +35,7 @@ Playground
 Hoodoo Usher, Damsel Bondage Club and Rambling Rose  
 Furry Friendly Bondage Clubs  
 Damsel Bondage Club  
-[http://maps.secondlife.com/secondlife/Damsel/216/136/23](http://maps.secondlife.com/secondlife/Damsel/216/136/23)  
+[http://maps.secondlife.com/secondlife/Damsel/206/143/22](http://maps.secondlife.com/secondlife/Damsel/216/136/23)  
 Rambling Rose  
 [http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)
 
