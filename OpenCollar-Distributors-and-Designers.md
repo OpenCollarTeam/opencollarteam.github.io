@@ -176,7 +176,7 @@ DESIGNERS
 --Benefits
 
 1. All the above benefits to Distributors plus:  
-2. The right to use the OpenCollar Official Partner graphic on your complying products.  
+2. The right to use the OpenCollar Official Partner graphic on your complying products.  **Please contact Silkie Sabra inworld with proof of your updated OpenCollar scripted device to receive the textures.**
 3. Your Marketplace URL listed on the Official Partners page.  
 4. The right to use the "OpenCollar Official Partner" name in the descriptions of your complying products on the Second Life Marketplace.  
 
