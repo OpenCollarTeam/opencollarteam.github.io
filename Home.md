@@ -8,9 +8,9 @@ OpenCollar (OC) is a set of scripts for a D/s collar similar to other scripted c
 
 Please visit our official OpenCollar Partners here for OpenCollar vendors and so much more! [OpenCollar Distributors and Designers](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) 
 
-# OpenCollar Social Locations
-Please visit our official OpenCollar Social locations where events and other things will be happening in SL.
-[OpenCollar Social Locations](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
+# OpenCollar Social Partner Locations
+Please visit our official OpenCollar Social partner locations where events and other things will be happening in SL.
+[OpenCollar Social Partner Locations](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
 
 # How you can help 
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at https://github.com/OpenCollarTeam/OpenCollar/issues
