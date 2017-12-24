@@ -3,7 +3,7 @@
 - This list is not in any specific order -
 
 
-    Host:  Gataten Resident and Lady V (ladyphreak Resident) - Social location and Troubleshooting help planned - Additional free collars choices available at this location. 
+    Host:  Gatatem Resident and Lady V (ladyphreak Resident) - Social location and Troubleshooting help planned - Additional free collars choices available at this location. 
 The Sanctuary of the Collar - Beautiful Nightmares BDSM club sim * Here is the location directly to the OpenCollar Social area:
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001)  
 
@@ -35,7 +35,7 @@ To qualify as an OpenCollar Official Partner, collar designers and distributors 
 1. Provide a space for social conversation, as well as free OpenCollar products.  No paid items within the area of the social area, but a single teleporter to the main area is best.  This is another why we recommend having the area in the sky to reduce lag for the social location.
 (The reason for this is that we don't wish to confuse people that are looking for a free collar as well as help with OpenCollar questions.   Free OpenCollar scripted collars by other designers are allowed in this area, as the more choices for the community, the better. However, Items for sale can not be on the same area.)
 
-2. Use common sense as the land owner while keeping the areas free from abuse. Suggested rules are to have rules about obeying the TOS, and that common sense is key at the social location.  Please expect a large amount of traffic that fluctuates due to events, talks, troubleshooting events and traffic whims. 
+2. Use common sense as the land owner while keeping the areas free from abuse. Suggested rules are to have rules about obeying the TOS, and that common sense is key at the social partner location.  Please expect a large amount of traffic that fluctuates due to events, talks, troubleshooting events and traffic whims.   
 
 --Benefits
 
@@ -50,7 +50,7 @@ Thank you for your help with making OpenCollar community even better in SL.
 
 APPLICATION
 
-If you would like to sign up for the Official Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below.  Then pass it to Athaliah Opus, OpenCollar Social Partner Coordinator. Please have the area aready set up for a basic area, with the OpenCollar Partners vendor placed.
+If you would like to sign up for the Official Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below.  Then pass it to Athaliah Opus, OpenCollar Social Partner Coordinator. Please have the area already set up for a basic area, with the OpenCollar Partners vendor placed before contact.
 
 DISTRIBUTORS AND DESIGNERS:
 SecondLife Name/Username:
