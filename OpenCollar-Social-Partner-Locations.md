@@ -4,7 +4,7 @@
 
 
     Host:  Gataten Resident - Social location and Troubleshooting help planned - Additional free collars choices available at this location. 
-- Beautiful Nightmares BDSM club sim * Here is the location directly to the Social area:
+The Sanctuary of the Collar - Beautiful Nightmares BDSM club sim * Here is the location directly to the OpenCollar Social area:
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001)  
 
 -
@@ -16,7 +16,7 @@
 -
 
 -=-=-
-OpenCollar Official Partners   - notecard sent in OpenCollar group 11/23/2017
+OpenCollar Official Partners   - notecard sent in OpenCollar group 12/23/2017
 
 OpenCollar offers the Official Partners program for people who wish to host a publicly accessible space for social events with free OpenCollar partner vendors nearby.   Official Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar-based products.  
 
