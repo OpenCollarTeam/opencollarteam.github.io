@@ -29,7 +29,7 @@ To qualify as an OpenCollar Official Partner, collar designers and distributors 
 1. Place the official vendors in a publicly accessible parcel with no ban lines and no prior restrictions to access except for cause or TOS violations such as age play.  
 2.  The locations should still not be used to advertise for a particular merchant giving the appearance of OpenCollar approval for that brand as being endorsed by OpenCollar.   Do not host vendors for OpenCollar products that fail to meet the standards for OpenCollar Designers. 
 
-( We recommend at least a full sim for the owner, as neighbor issues can occur because of lag and being unable to allow sim resources sharing between neighbors in smaller parcels size.  )
+( A full sim is a must for the owner, as neighbor issues can occur because of lag and being unable to allow sim resources sharing between neighbors into smaller parcels size can cause issues.  )
 
 
 1. Provide a space for social conversation, as well as free OpenCollar products.  No paid items within the area of the social area, but a single teleporter to the main area is best.  This is another why we recommend having the area in the sky to reduce lag for the social location.
