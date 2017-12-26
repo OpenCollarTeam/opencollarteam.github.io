@@ -1,8 +1,11 @@
 # Welcome to the OpenCollar wiki!
 
-You can help build these pages !  Check out the [github markdown](https://guides.github.com/features/mastering-markdown/).
 
-OpenCollar (OC) is a set of scripts for a D/s collar similar to other scripted collars in Second Life. Unlike most other collars, however, OpenCollar is open source. You can read more about what that means at the [Open Source Initiative](https://opensource.org/osd-annotated). You are free to copy and redistribute the OC scripts, provided that you leave them full perms. Read the entire OpenCollar License in the notecard accompanying the scripts.
+OpenCollar (OC) offers a set of scripts for a D/s collar similar to other scripted collars in Second Life. Unlike most other collars, however, OpenCollar is open source. You can read more about what that means at the [Open Source Initiative](https://opensource.org/osd-annotated). You are free to copy and redistribute the OC scripts, provided that you leave them full perms. Read the entire OpenCollar License in the notecard accompanying the scripts.
+
+OpenCollar exists to support people exploring submission and domination in Second Life and other virtual worlds.  It is nonprofit and volunteer driven.  The project builds, maintains, distributes and supports these scripts and the community that uses them. We encourage creation by users as well as designers.  We encourage learning by examining the scripts and building with them. We encourage people to share their skills with others. Any user or developer is welcome to use our work as long as they abide by the license and pass on the same permissions they received.
+
+You can help build these pages !  Check out the [github markdown](https://guides.github.com/features/mastering-markdown/).
 
 # OpenCollar Partners !!
 
