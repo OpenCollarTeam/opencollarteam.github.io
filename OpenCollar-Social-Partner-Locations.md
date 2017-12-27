@@ -2,9 +2,12 @@
 
 - This list is not in any specific order -
  
-- The Sanctuary of the Collar**- Beautiful Nightmares BDSM club sim * Here is the location directly to this OpenCollar Social Area:
+- The Sanctuary of the Collar - Beautiful Nightmares BDSM club sim  
+**Location** 
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001)  
 **Host:**  Gatatem Resident and Lady V (ladyphreak Resident) - Social location and Troubleshooting help planned - Additional free collars choices available at this location.
+
+- OpenCollar Theater at KBar West
 
 
 -
