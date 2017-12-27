@@ -5,10 +5,13 @@
 - The Sanctuary of the Collar - Beautiful Nightmares BDSM club sim  
 **Location** 
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001)  
-**Host:**  Gatatem Resident and Lady V (ladyphreak Resident) - Social location and Troubleshooting help planned - Additional free collars choices available at this location.
+**Hosts:**  Gatatem Resident and Lady V (ladyphreak Resident)  
+Social location and Troubleshooting help planned - Additional free collars choices available at this location.
 
 - OpenCollar Theater at KBar West
-
+**Location** [http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001)  
+**Hosts** Judge Kurt Burleigh and roan (Silkie Sabra)  
+Theater setting good for classes and events as well as chat  
 
 -
 
