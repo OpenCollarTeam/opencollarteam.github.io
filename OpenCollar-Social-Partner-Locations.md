@@ -16,7 +16,7 @@ Theater setting good for classes and events as well as chat
 
 ## OpenCollar Official Partners   - notecard sent in OpenCollar group 12/23/2017
 
-OpenCollar offers the Official Partners program for people who wish to host a publicly accessible space for social events with free OpenCollar partner vendors nearby.   Official Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar-based products.  
+OpenCollar offers the Official Partners program for people who wish to host a publicly accessible space for social events with free OpenCollar partner vendors nearby.   Official Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar Social Events and/office hours for troubleshooting office hours.  
 
 Also, since OpenCollar's goal is to help the community, events like “How to use your collar 101”, “Simple troubleshooting events by OC staff” at a random social location, and “Exploring your kink while using OpenCollar items” events are planned to be announced at the locations in the future.
 
