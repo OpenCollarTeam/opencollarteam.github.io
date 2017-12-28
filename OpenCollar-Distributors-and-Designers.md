@@ -28,6 +28,10 @@ Ethan Darkward, The Naked Dungeon
 Dungeon roleplay, female nudity enforced  
 [http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
 
+Gatatem, Beautiful Nightmares     
+BDSM Sim and Club
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003)  
+
 girlyimp, Poppy's Hangout  
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)
@@ -96,7 +100,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketpl
 Gatatem, Catspaw Creations    
 Designer collars from 99L to 500L  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22](http://maps.secondlife.com/secondlife/Crystal%20Lake/65/167/22)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003)  
 
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
