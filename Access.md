@@ -9,7 +9,7 @@ When checked this retains the wearer on the owner list even after an owner is se
 >[prefix] OwnSelf off
 
 ### +/- Owner
-Adds and removes Owners.
+Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.
 
    >[prefix] add owner [user name or UUID] 
 
