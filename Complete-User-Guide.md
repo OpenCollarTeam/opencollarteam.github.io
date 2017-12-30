@@ -1,3 +1,4 @@
+[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
 # Introduction
 
 This is the Complete User Guide.  You can contribute to any of the pages indexed here.
