@@ -49,7 +49,11 @@ Shopping Mall
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
-[http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)
+[http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
+
+Mslarah, Larah's Playground  
+Club and RLV Playground  
+[http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23)
 
 Rufusjack, The Unowned  
 Beach Club  
