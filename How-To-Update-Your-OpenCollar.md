@@ -1,3 +1,5 @@
+[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)  
+
 This page covers four ways to update a collar easily:  From Scratch | 3.X or Older | 4.0-6.5 | 6.6-6.7
 
 # From Scratch with Collarizer
