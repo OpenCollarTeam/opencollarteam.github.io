@@ -1,3 +1,4 @@
+[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
 
 
 This menu is where you will find links to applications and custom plugins.  The following apps are included in most OpenCollars.
