@@ -31,8 +31,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
    
 [Common Troubleshooting Help]   
 [Default Settings]   
-[Contributors](https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors)     
-[Release Notes 7.0]   
+[Contributors](https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors)       
 
 [Developer\Designer Documentation]
 
