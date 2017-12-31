@@ -17,8 +17,8 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [Access](https://github.com/OpenCollarTeam/OpenCollar/wiki/Access)
 * [Animations](https://github.com/OpenCollarTeam/OpenCollar/wiki/Animations) 
 * [Leash](https://github.com/OpenCollarTeam/OpenCollar/wiki/Leash)
-* [RLV](https://github.com/OpenCollarTeam/OpenCollar/wiki/RLV)
-* [https://github.com/OpenCollarTeam/OpenCollar/wiki/Apps](https://github.com/OpenCollarTeam/OpenCollar/wiki/Apps)
+* [RLV](https://github.com/OpenCollarTeam/OpenCollar/wiki/RLV)  
+* [Apps](https://github.com/OpenCollarTeam/OpenCollar/wiki/Apps)
 * [Settings](https://github.com/OpenCollarTeam/OpenCollar/wiki/Settings)
 * [[Help / About](https://github.com/OpenCollarTeam/OpenCollar/wiki/Help-About)]
 * [Prefixes, Chat Commands and Other Non-Menu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
