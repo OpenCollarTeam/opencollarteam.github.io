@@ -1,4 +1,4 @@
-# Overview
+# Contributors
 
 This page lists the main contributors to OpenCollar in alphabetical order, along with brief descriptions of the contributions they have made. Anyone who has been invited as a member of this Google Code site may (and should) edit this page and add a section about him or herself.
 
@@ -176,5 +176,3 @@ This is a list of people who have helped us in some way. They are listed in no o
   
 
 And many more  - please contact so we can add more to this page.  And yes, we do thank everyone on this page, and we do thank for their hard work, regardless of current issues. 
-
- 
