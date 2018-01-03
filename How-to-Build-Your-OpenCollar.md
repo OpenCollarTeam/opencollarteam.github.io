@@ -4,10 +4,9 @@ To build a collar yourself you need only basic inworld building skills with stan
 
 ## Materials
 You will need:
-1. Collar Band: any full perm prefab will do, or:
-> Make a torus of dimensions
-
+1. Collar Band  
 2. Tiny Invisible Sphere as Root Prim or named leashpoint
+3. Three Stacked Cylinders
 
 
 ## Name your prims
