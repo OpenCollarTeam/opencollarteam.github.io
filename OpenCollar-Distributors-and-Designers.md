@@ -112,7 +112,13 @@ Jamie Brokken, Brokken Industries
 Different designs at affordable price, 600L  
 Inworld shop:  
 [http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23](http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23)  
-Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)
+Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)  
+
+Kristen Minx, Kristen's  
+Elegant Texture Change collars and integrated cuff sets, 399L  
+Inworld Shop:  
+[http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002](http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002)  
+Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
 
 LesleyAsh, Kwaad Teven  
 seasonal styles with a Gothic edge, free to 300L  
