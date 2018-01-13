@@ -1,4 +1,4 @@
-[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
+[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
 # Introduction
 
 This is the Complete User Guide.  You can contribute to any of the pages indexed here.
@@ -13,13 +13,13 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 
 # Index / Table of Contents
 
-* [Main](https://github.com/OpenCollarTeam/OpenCollar/wiki/Main-Menu)
-* [Access](https://github.com/OpenCollarTeam/OpenCollar/wiki/Access)
-* [Animations](https://github.com/OpenCollarTeam/OpenCollar/wiki/Animations) 
-* [Leash](https://github.com/OpenCollarTeam/OpenCollar/wiki/Leash)
-* [RLV](https://github.com/OpenCollarTeam/OpenCollar/wiki/RLV)  
-* [Apps](https://github.com/OpenCollarTeam/OpenCollar/wiki/Apps)
-* [Settings](https://github.com/OpenCollarTeam/OpenCollar/wiki/Settings)
-* [[Help / About](https://github.com/OpenCollarTeam/OpenCollar/wiki/Help-About)]
-* [Prefixes, Chat Commands and Other Non-Menu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
-* [How to Update](https://github.com/OpenCollarTeam/OpenCollar/wiki/How-To-Update-Your-OpenCollar)
+* [Main](/docs/Main-Menu)
+* [Access](/docs/Access)
+* [Animations](/docs/Animations) 
+* [Leash](/docs/Leash)
+* [RLV](/docs/RLV)  
+* [Apps](/docs/Apps)
+* [Settings](/docs/Settings)
+* [[Help / About](/docs/Help-About)]
+* [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
+* [How to Update](/docs/How-To-Update-Your-OpenCollar)

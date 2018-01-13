@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
+[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
 
 # Welcome to the OpenCollar wiki!
 
@@ -19,26 +19,26 @@ You can help build these pages !  Check out the [github markdown](https://guides
 
 # OpenCollar Partners !!
 
-Please visit our official OpenCollar Partners here for OpenCollar vendors and so much more! [OpenCollar Distributors and Designers](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) 
+Please visit our official OpenCollar Partners here for OpenCollar vendors and so much more! [OpenCollar Distributors and Designers](/OpenCollar-Distributors-and-Designers) 
 
 # OpenCollar Social Partner Locations
 Please visit our official OpenCollar Social partner locations where events and other things will be happening in SL.
-[OpenCollar Social Partner Locations](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
+[OpenCollar Social Partner Locations](/OpenCollar-Social-Partner-Locations)
 
 # How you can help 
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at https://github.com/OpenCollarTeam/OpenCollar/issues
 
 # User Guide and Other Useful Links
-[OpenCollar Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide)  
-[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide)    
+[OpenCollar Quick User Guide](/docs/OpenCollar-Quick-User-Guide)  
+[Complete User Guide](/docs/Complete-User-Guide)    
   
-[How to Update Your OpenCollar](https://github.com/OpenCollarTeam/OpenCollar/wiki/How-To-Update-Your-OpenCollar)  
+[How to Update Your OpenCollar](/docs/How-To-Update-Your-OpenCollar)  
 
 [Release Notes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/RELEASE_NOTES.md)
    
 [Common Troubleshooting Help]   
 [Default Settings]   
-[Contributors](https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors)       
+[Contributors](/Contributors)       
 
 [Developer\Designer Documentation]
 

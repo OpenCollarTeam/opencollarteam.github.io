@@ -1,4 +1,4 @@
-[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations) 
+[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Social Partners](/OpenCollar-Social-Partner-Locations) 
 
 # List of Distributors
 

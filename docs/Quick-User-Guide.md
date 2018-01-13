@@ -1,4 +1,4 @@
-[Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)
+[Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
 # Getting Started
 Open the Collar Menu by touching the collar or sending a chat command with your prefix.  If you have not set an owner you are the default owner and can access all parts of the collar.  Most collar functions are available in the collar menu. 
 
@@ -13,7 +13,7 @@ Your default prefix is the first two letters of your user name.  Prefixes direct
 
 **Using your prefix**:  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls [prefix] menu and so on.
 
-[More About [Prefixes, Chat Commands and Other NonMenu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)]
+[More About [Prefixes, Chat Commands and Other NonMenu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)]
  
 ## Using Your Collar
 
@@ -22,13 +22,13 @@ When you open the main menu you will see buttons that go to all the different co
 ### Access
 You are wearing a collar because you want someone else at some time to be able to control your avatar.  The degree of control you give is up to you.  To give someone else access to your collar, open the collar menu and press access, or type [prefix] access.  
 
-In the Access menu you can add Owners, Trusted, or set group or public access.  If you set an owner you lose your default owner access to your collar. It is best not to set an owner till you are sure you want to give that person full control over your collar. If you want to retain owner level control on your collar, press OwnSelf before adding an owner.  Your owner however can uncheck that if they choose to.  More about [Access](https://github.com/OpenCollarTeam/OpenCollar/wiki/Access) here.
+In the Access menu you can add Owners, Trusted, or set group or public access.  If you set an owner you lose your default owner access to your collar. It is best not to set an owner till you are sure you want to give that person full control over your collar. If you want to retain owner level control on your collar, press OwnSelf before adding an owner.  Your owner however can uncheck that if they choose to.  More about [Access](/docs/Access) here.
 
 ### Safeword
 
 Your collar has a safeword chat command that is built into every menu in the collar.  Using the safeword will reset all collar restrictions, without changing the collar access.  The collar safeword also clears the relay.
 
-The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].  See [NonMenu Functions](https://github.com/OpenCollarTeam/OpenCollar/wiki/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions) for more.
+The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].  See [NonMenu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions) for more.
 
 ### Runaway
 
@@ -38,6 +38,6 @@ If you find you must clear an owner, you can do that by pressing the Runaway but
 
 RLV (Restrained Love Viewer) is a set of permissions coded into the viewer, that allows other avatars limited control over some viewer functions. There are several approved third party viewers that allow you to enable / disable RLV. Among the most popular for many users are Firestorm, Restrained Love Viewer, and Singularity.
 
-OpenCollar uses RLV to enforce the Collar Lock in the Main Menu.  The rest of the RLV functions in the collar can be found in the RLV menu.  Push Clear All in the RLV menu to clear these restrictions (not available to wearers who are not self owned).  The collar Relay converts RLV commands from objects the wearer does not own. Relay permissions are not affected by the Access settings. See more in the Complete User Guide [RLV](https://github.com/OpenCollarTeam/OpenCollar/wiki/RLV)and [Relay](https://github.com/OpenCollarTeam/OpenCollar/wiki/Relay) pages.
+OpenCollar uses RLV to enforce the Collar Lock in the Main Menu.  The rest of the RLV functions in the collar can be found in the RLV menu.  Push Clear All in the RLV menu to clear these restrictions (not available to wearers who are not self owned).  The collar Relay converts RLV commands from objects the wearer does not own. Relay permissions are not affected by the Access settings. See more in the Complete User Guide [RLV](/docs/RLV)and [Relay](/docs/Relay) pages.
 
 Please remember that one of the most basic safety features about RLV is your ability to turn it off and on in the viewer. Any RLV restriction can be cleared by turning off RLV and relogging; or logging on in the official SL Viewer. Some groups claim to use "extreme RLV" that cannot be turned off.  This is not possible in any approved third party viewer.  Beware of downloading any code that claims to alter this basic safety function.  

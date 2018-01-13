@@ -1,4 +1,4 @@
-[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Distributors and Design Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Distributors-and-Designers) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations)  
+[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)  
 
 To call the RLV menu:
 >[prefix] rlv
@@ -48,7 +48,7 @@ List of restrictions grouped in suites
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
 ## Relay
-This button in RLV brings up the relay menu.  See [Relay](https://github.com/OpenCollarTeam/OpenCollar/wiki/Relay) for more.
+This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
 To call the relay meny:
 >[prefix] relay
 
