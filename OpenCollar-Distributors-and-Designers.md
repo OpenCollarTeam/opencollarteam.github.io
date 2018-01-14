@@ -1,6 +1,10 @@
-[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Social Partners](/OpenCollar-Social-Partner-Locations) 
+[Quick User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Quick-User-Guide) | [Complete User Guide](https://github.com/OpenCollarTeam/OpenCollar/wiki/Complete-User-Guide) | [Social Partners](https://github.com/OpenCollarTeam/OpenCollar/wiki/OpenCollar-Social-Partner-Locations) 
 
 # List of Distributors
+
+Broken Swords, Valnor  
+Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
+[http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)
 
 Cara Lionheart, Hidden Serenity  
 Shops and Club  
@@ -38,6 +42,10 @@ girlyimp, Poppy's Hangout
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)
 
+HaydenPryce, Xaara  
+D/s Community, Art Gallery and Theater  
+[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)
+
 Hoodoo Usher, Damsel Bondage Club and Rambling Rose  
 Furry Friendly Bondage Clubs  
 Damsel Bondage Club  
@@ -57,9 +65,17 @@ Mslarah, Larah's Playground
 Club and RLV Playground  
 [http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23)
 
+Oceandog Mubble, The Silver Shard  
+Medieval Fantasy Roleplay  
+[http://maps.secondlife.com/secondlife/Silver%20Shard/121/70/502](http://maps.secondlife.com/secondlife/Silver%20Shard/121/70/502)
+
 Rufusjack, The Unowned  
 Beach Club  
 [http://maps.secondlife.com/secondlife/Ringo/49/39/26](http://maps.secondlife.com/secondlife/Ringo/49/39/26)
+
+Seth Ock, Griseus Farms  
+roleplay for human livestock, medical play, and alien abductions  
+http://maps.secondlife.com/secondlife/CrAzYToWn/61/190/24  
 
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
@@ -68,9 +84,17 @@ RLV Communities Free Zone, Dance Hall and Sandbox
 Mainland Shop  
 [http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)
 
+Sylta Marabana, Lausanne  
+Playground  
+[http://maps.secondlife.com/secondlife/Lausanne/165/26/2401](http://maps.secondlife.com/secondlife/Lausanne/165/26/2401)
+
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground and Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)
+
+Weard Welty, Xegul  
+Roleplay, RLV Playground  
+[http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
 
 # List of Designer / Distributors
 
@@ -104,7 +128,7 @@ Collar Accessories
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
 
 Gatatem, Catspaw Creations    
-Designer collars from 99L to 500L  
+Designer collars from Free to 499L  
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003)  
 
