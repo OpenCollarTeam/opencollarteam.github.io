@@ -26,26 +26,11 @@ Please visit our official OpenCollar Social partner locations where events and o
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at https://github.com/OpenCollarTeam/OpenCollar/issues
 
 # User Guide and Other Useful Links
-[OpenCollar Quick User Guide](/docs/Quick-User-Guide)  
+[Quick User Guide](/docs/Quick-User-Guide)  
 [Complete User Guide](/docs/Complete-User-Guide)    
   
 [How to Update Your OpenCollar](/docs/How-To-Update-Your-OpenCollar)  
 
 [Release Notes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/RELEASE_NOTES.md)
    
-[Common Troubleshooting Help]   
-[Default Settings]   
 [Contributors](/Contributors)       
-
-[Developer\Designer Documentation]
-
-[Designer Instructions]   
->[Reserved Names]   
->[Variable Naming Guide]   
->[Versioning Policy]   
->[Issue Tracking Policy]   
->[Submission Policy]   
-
-[OpenCollar Partners]   
-   
-[Designers]
