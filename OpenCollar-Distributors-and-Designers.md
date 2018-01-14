@@ -112,6 +112,11 @@ Roleplay, RLV Playground
 
 # List of Designer / Distributors
 
+These distributors not only give out the free OpenCollar release, but also sell
+their own OpenCollar-powered creations.  If you're a designer who would like to
+be featured in this list, paste the application form below into a notecard, fill
+it out, and send it to Silkie Sabra inworld.
+
 Celestrea Vasiliov, PoD Slave Auction  
 Slave Auction roleplay  
 OpenCollar scripted accessories 99-299L  
