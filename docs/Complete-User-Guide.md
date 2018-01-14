@@ -1,4 +1,4 @@
-[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
+[Quick User Guide](/docs/Quick-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
 # Introduction
 
 This is the Complete User Guide.  You can contribute to any of the pages indexed here.

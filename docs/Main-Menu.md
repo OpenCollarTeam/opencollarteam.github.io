@@ -1,4 +1,4 @@
-[Quick User Guide](/docs/OpenCollar-Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
+[Quick User Guide](/docs/Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
 
 The Main Menu contains the collar lock and links to all the functions in the collar.
 

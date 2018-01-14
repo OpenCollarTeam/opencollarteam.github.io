@@ -12,6 +12,8 @@ replacements = (
     ('https://github.com/OpenCollarTeam/OpenCollar/wiki/Contributors',
         '/Contributors'),
 
+    ('/docs/OpenCollar-Quick-User-Guide', '/docs/Quick-User-Guide'),
+
     ('https://github.com/OpenCollarTeam/OpenCollar/wiki/', '/docs/'),
 )
 
@@ -28,7 +30,6 @@ def replace_links_in_dir(dirname):
             with open(path) as f:
                 content = f.read()
             content = replace_links(content)
-            #print(content)
             with open(path, 'w') as f:
                 f.write(content)
 
