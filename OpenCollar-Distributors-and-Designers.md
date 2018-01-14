@@ -1,3 +1,19 @@
+---
+title: OpenCollar Distributors and Designers 
+---
+
+Visit any of the SLURLs below to get a copy of the current OpenCollar, or an
+updater to bring your existing collar up to date.  Look for this image on the
+vendor:
+
+<div style="width: 100%; text-align: center;">
+<img src="/static/steelcollar.png" width="200" style="margin: 20px auto;" />
+</div>
+
+Would you like to become a
+distributor?  Copy/paste the application at the bottom of this page into a
+notecard, fill out the relevant fields, and pass it to Silkie Sabra inworld.
+
 # List of Distributors
 
 Broken Swords, Valnor  
