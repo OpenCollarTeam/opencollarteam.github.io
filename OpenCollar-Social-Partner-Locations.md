@@ -1,5 +1,3 @@
-[Quick User Guide](/docs/Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers)  
-
 # List of OpenCollar Social Partner Locations and their Hosts:
 
 - This list is not in any specific order -

@@ -1,5 +1,3 @@
-[Quick User Guide](/docs/Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)  
-
 The Animations menu includes all the single and couples animations as menu buttons.  To call this menu:
 
 >[prefix] animations

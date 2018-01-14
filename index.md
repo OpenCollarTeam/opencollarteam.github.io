@@ -3,11 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Welcome to OpenCollar!
 ---
-
-[Quick User Guide](/docs/Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
-
-# Welcome to OpenCollar!
 
 OpenCollar (OC) offers a set of scripts for a D/s collar similar to other scripted collars in Second Life. Unlike most other collars, however, OpenCollar is open source. You can read more about what that means at the [Open Source Initiative](https://opensource.org/osd-annotated). You are free to copy and redistribute the OC scripts, provided that you leave them full perms. Read the entire OpenCollar License in the notecard accompanying the scripts.
 
@@ -17,7 +14,7 @@ OpenCollar exists to support people exploring submission and domination in Secon
 
 You can help build these pages !  Check out the [github markdown](https://guides.github.com/features/mastering-markdown/).
 
-# OpenCollar Partners !!
+# OpenCollar Partners
 
 Please visit our official OpenCollar Partners here for OpenCollar vendors and so much more! [OpenCollar Distributors and Designers](/OpenCollar-Distributors-and-Designers) 
 

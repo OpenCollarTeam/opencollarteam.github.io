@@ -1,5 +1,3 @@
-[Quick User Guide](/docs/Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Social Partners](/OpenCollar-Social-Partner-Locations) 
-
 # List of Distributors
 
 Broken Swords, Valnor  

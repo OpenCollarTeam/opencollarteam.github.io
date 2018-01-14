@@ -1,4 +1,3 @@
-[Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
 # Getting Started
 Open the Collar Menu by touching the collar or sending a chat command with your prefix.  If you have not set an owner you are the default owner and can access all parts of the collar.  Most collar functions are available in the collar menu. 
 

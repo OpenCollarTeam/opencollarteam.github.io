@@ -1,6 +1,3 @@
-[Quick User Guide](/docs/Quick-User-Guide) | [Complete User Guide](/docs/Complete-User-Guide) | [Distributors and Design Partners](/OpenCollar-Distributors-and-Designers) | [Social Partners](/OpenCollar-Social-Partner-Locations)
-
-
 This menu is where you will find links to applications and custom plugins.  The following apps are included in most OpenCollars.
 
 # Bell
