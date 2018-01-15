@@ -23,7 +23,7 @@ Trusted gives named individuals the same level of access as Public and Group.  T
 
 ## Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
-> [prefix] public on
+> [prefix] public on  
 > [prefix] public off
 
 ## Group  
