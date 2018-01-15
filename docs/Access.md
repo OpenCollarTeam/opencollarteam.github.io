@@ -31,6 +31,12 @@ To set Group, first activate the desired group, then check Group in the Access m
 > [prefix] group on  
 > [prefix] group off
 
+##Access List 
+Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
+> [prefix] list  
+
+
+
 ## Block    
 This allows the collar only to block named avatars from using the collar.  Use sparingly since this also adds to the memory consumption of the script.  
 
