@@ -31,10 +31,9 @@ To set Group, first activate the desired group, then check Group in the Access m
 > [prefix] group on  
 > [prefix] group off
 
-##Access List 
+## Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
 > [prefix] list  
-
 
 
 ## Block    
