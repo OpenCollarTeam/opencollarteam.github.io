@@ -161,7 +161,8 @@ Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketpl
 LesleyAsh, Kwaad Teven  
 seasonal styles with a Gothic edge, free to 300L  
 Inworld Shop (Moderate)    
-[http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)
+[http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)  
+Marketplace: [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)  
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
