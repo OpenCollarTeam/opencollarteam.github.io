@@ -31,6 +31,7 @@ When checked, sets tp restrictions on the wearer when leashed (owner is exempted
 > tplm (cannot teleport to a landmark)  
 > tploc (cannot teleport to a map location or click teleport to a point in the region)  
 > tplure (cannot accept a tplure)  
+
 #### Shine  
 Toggles shine on and off, requires Advanced Lighting to view the effect  
 #### Turn
