@@ -24,4 +24,23 @@ Sets the length of the leash in meters. 1 meter is the minimum length, 20 meters
 >[prefix] length [number]
 
 ## Configure
-In this menu you can change the texture of the leash particles.
+In this menu you can change the texture of the leash particles, and also set rlv restrictions on the leashed avatar. 
+### Strict  
+When checked, sets tp restrictions on the wearer when leashed (owner is exempted by default):  
+> fly (unable to fly)  
+> tplm (cannot teleport to a landmark)  
+> tploc (cannot teleport to a map location or click teleport to a point in the region)  
+> tplure (cannot accept a tplure)  
+
+#### Shine  
+Toggles shine on and off, requires Advanced Lighting to view the effect  
+#### Turn
+When checked forces the wearer to turn toward the leasher  
+#### Chain | Silk
+These settings set chain and silk texture on the leash particles
+#### Invisible  
+When checked turns off the leash particles.  See Follow in the leash menu.  
+#### Feel
+In this menu you can change the size and weight of the leash.  **Bigger | Smaller** changes the size of the particles; **Heavier | Lighter** changes the arc of the particles.  
+#### Color  
+Here you can select the desired color of the leash particles.
