@@ -4,9 +4,8 @@ Owners have the highest rank of access on the collar.  The collar access, except
 ### OwnSelf
 When checked this retains the wearer on the owner list even after an owner is set.  Any other owner can uncheck it, removing the wearer from the owner list.
 
->[prefix] OwnSelf on
-
->[prefix] OwnSelf off
+>[prefix] OwnSelf on  
+[prefix] OwnSelf off
 
 ### +/- Owner
 Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.  The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
