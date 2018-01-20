@@ -14,6 +14,7 @@ Adds and removes Owners.  Only owners can add and remove owners, and wearer if O
    >[prefix] add owner [user name or UUID] 
 
    >[prefix] rm owner [user name or UUID]
+   
 ## Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
 
