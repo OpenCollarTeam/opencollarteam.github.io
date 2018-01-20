@@ -10,26 +10,24 @@ When checked this retains the wearer on the owner list even after an owner is se
 ### +/- Owner
 Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.  The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
 
-   >[prefix] add owner [user name or UUID] 
-
-   >[prefix] rm owner [user name or UUID]
+>[prefix] add owner [user name or UUID] 
+[prefix] rm owner [user name or UUID]
    
 ## Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
 
->[prefix] add trust [name or UUID]
-
->[prefix] rm trust [name or UUID]
+>[prefix] add trust [name or UUID]  
+[prefix] rm trust [name or UUID]
 
 ## Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
 > [prefix] public on  
-> [prefix] public off
+[prefix] public off
 
 ## Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.  
 > [prefix] group on  
-> [prefix] group off
+[prefix] group off
 
 ## Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
