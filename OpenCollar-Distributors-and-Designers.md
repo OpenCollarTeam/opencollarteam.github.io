@@ -46,7 +46,7 @@ Furry Hangout
 
 Ethan Darkward, The Naked Dungeon  
 Dungeon roleplay, female nudity enforced  
-[http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36](http://maps.secondlife.com/secondlife/Pfeiffer/170/188/36)
+[http://maps.secondlife.com/secondlife/Isle%20of%20Pearls/198/25/29](http://maps.secondlife.com/secondlife/Isle%20of%20Pearls/198/25/29)
 
 Gatatem, Beautiful Nightmares     
 BDSM Sim and Club    
