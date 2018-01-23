@@ -77,7 +77,11 @@ Shop, Playground and Club
 
 Mslarah, Larah's Playground  
 Club and RLV Playground  
-[http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23)
+[http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23)  
+
+Nerk Nexen, M&M Dungeon  
+Playground, Chat, Dungeon Roleplay  
+[http://maps.secondlife.com/secondlife/Tovaris/202/90/49](http://maps.secondlife.com/secondlife/Tovaris/202/90/49)  
 
 Oceandog Mubble, The Silver Shard  
 Medieval Fantasy Roleplay  
@@ -173,7 +177,11 @@ Peebee McMillan, PBM Enterprises and [maXplicit]
 collars and bondage toys for men  
 Inworld Shops (Moderate)    
 [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
-Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)
+Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
+
+Psychobabble, Psychobabble Studios  
+Free full permission "Stealth" collar  
+Marketplace: [https://marketplace.secondlife.com/stores/107791](https://marketplace.secondlife.com/stores/107791)  
 
 Taylor Paine, Taylor's Toys  
 Alien style collars and traps 50 - 300L  
