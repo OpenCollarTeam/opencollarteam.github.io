@@ -20,10 +20,6 @@ Broken Swords, Valnor
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)
 
-Cara Lionheart, Hidden Serenity  
-Shops and Club  
-[http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264](http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264)
-
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
@@ -121,6 +117,12 @@ their own OpenCollar-powered creations.  If you're a designer who would like to
 be featured in this list, paste the application form below into a notecard, fill
 it out, and send it to Silkie Sabra inworld.
 
+Cara Lionheart, Hidden Serenity  
+Shops, Club, Racetrack
+[http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264](http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264)  
+Mesh collars from free to 150L  
+Marketplace:  [https://marketplace.secondlife.com/stores/145309](Bound Infinity)
+
 Celestrea Vasiliov, PoD Slave Auction  
 Slave Auction roleplay  
 OpenCollar scripted accessories 99-299L  
@@ -201,7 +203,6 @@ xx Reyes, slutware
 Free collar designs for themed roleplay environments    
 Inworld Shop:  
 [http://maps.secondlife.com/secondlife/Mama%20Allpa/164/241/38](http://maps.secondlife.com/secondlife/Mama%20Allpa/164/241/38)  
-
 
 xxsaltandpepperxx, Salt & Pepper and The Birdcage  
 Inworld Shops  
