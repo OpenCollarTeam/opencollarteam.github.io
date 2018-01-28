@@ -121,7 +121,7 @@ Cara Lionheart, Hidden Serenity
 Shops, Club, Racetrack
 [http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264](http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264)  
 Mesh collars from free to 150L  
-Marketplace:  [https://marketplace.secondlife.com/stores/145309](Bound Infinity)
+Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
 
 Celestrea Vasiliov, PoD Slave Auction  
 Slave Auction roleplay  
