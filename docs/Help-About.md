@@ -14,5 +14,6 @@ Delivers the notecard copy of the OpenCollar License
 When checked, delivers OpenCollar news items  
 # Update  
 > [prefix] update  
+
 Searches for a nearby updater
 
