@@ -13,7 +13,7 @@ vendor:
 Would you like to become a
 distributor?  Copy/paste the application at the bottom of this page into a
 notecard, fill out the relevant fields, and pass it to Silkie Sabra inworld.  
-[Distributors](#distributors) | [Designer Distributors](#list-of-designer-distributors) | [Application](#open-collar-partners-application-form)
+[Distributors](#distributors) | [Designer Distributors](#list-of-designer-distributors) | [Application](#opencollar-partners-application-form)
 
 # Distributors 
 
