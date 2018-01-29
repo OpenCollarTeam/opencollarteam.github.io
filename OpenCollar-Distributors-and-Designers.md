@@ -12,8 +12,8 @@ vendor:
 
 Would you like to become a
 distributor?  Copy/paste the application at the bottom of this page into a
-notecard, fill out the relevant fields, and pass it to Silkie Sabra inworld. 
-[Distributors](#Distributors)
+notecard, fill out the relevant fields, and pass it to Silkie Sabra inworld.  
+[Distributors](#Distributors) | [Designer Distributors](#List-of-Designer-Distributors)
 
 # Distributors
 
@@ -111,7 +111,7 @@ Weard Welty, Xegul
 Roleplay, RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
 
-# List of Designer / Distributors
+# List of Designer Distributors
 
 These distributors not only give out the free OpenCollar release, but also sell
 their own OpenCollar-powered creations.  If you're a designer who would like to
