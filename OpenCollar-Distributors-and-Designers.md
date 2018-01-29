@@ -14,7 +14,7 @@ Would you like to become a
 distributor?  Copy/paste the application at the bottom of this page into a
 notecard, fill out the relevant fields, and pass it to Silkie Sabra inworld.
 
-[create an anchor](#List-of-Distributors)
+[List of Distributors](#List-of-Distributors)
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
