@@ -45,6 +45,11 @@ List of restrictions grouped in suites
 * Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen.
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
+## Terminal
+This button opens a text popup window where you can input any RLV restriction, the format being @[nameofrestriction]=[y/n].
+The list of RLV restrictions can be found [here](http://wiki.secondlife.com/wiki/LSL_Protocol/RestrainedLoveAPI).  
+The list of RLVa restrictions may be found [here](http://catznip.com/index.php/RLVa).  They may be slightly different; Consult your viewer to see which one is running.
+
 ## Relay
 This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
 To call the relay meny:
