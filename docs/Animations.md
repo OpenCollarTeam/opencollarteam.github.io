@@ -42,6 +42,7 @@ Check this box and set a pose to allow the sub to walk while a collar pose is ac
 
 To add your own walk to AntiSlide:  Choose a higher priority (such as priority 4 or 5) modifiable walk animation.  Rename it:
 > ~walk_[nameofwalk]  
+
 load your walk into the Animator prim of the collar.
 
 ## AO Menu / AO ON / AO OFF
