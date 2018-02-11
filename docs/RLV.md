@@ -96,5 +96,5 @@ This menu requires the wearer to set up a folder inside #RLV, precisely named .o
 
 ## More on RLV
 
-Davros Harkness' RLV folders walkthrough [here](https://marketplace.secondlife.com/p/HYPNOSE-APHRODITE-OUTFIT/13944232)  
+Davros Harkness' RLV folders walkthrough [here](https://davrosharkness.wordpress.com/2018/01/31/rlv-folders/)  
 
