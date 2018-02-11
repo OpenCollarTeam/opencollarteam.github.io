@@ -52,7 +52,7 @@ The list of RLVa restrictions may be found [here](http://catznip.com/index.php/R
 
 ## Relay
 This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
-To call the relay meny:
+To call the relay menu:
 >[prefix] relay
 
 ## Folders
@@ -93,4 +93,8 @@ This menu requires the wearer to set up a folder inside #RLV, precisely named .o
 * Inside your .outfits folder make a folder and name it something like Naked.  Include in there what you want to be wearing when stripped, including mesh body, hair, mesh eyes, etc.  Users can then strip you by force wearing your "Naked" outfit!
 
 * Inside your .outfits folder, make a folder and precisely name it .core . *The dot is required for this to work*.  Inside .core, place items you never want to be removed, like hair eyes and mesh body.  You may place the original copy of your locked collar in .core.  This folder will prevent these items from being stripped or replaced through the outfits function.
+
+## More on RLV
+
+Davros Harkness' RLV folders walkthrough [here](https://marketplace.secondlife.com/p/HYPNOSE-APHRODITE-OUTFIT/13944232)  
 
