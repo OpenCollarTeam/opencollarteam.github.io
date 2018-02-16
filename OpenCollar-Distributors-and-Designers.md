@@ -53,7 +53,7 @@ girlyimp, Poppy's Hangout
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)  
 
-Harpler Lablatt, Dark Tide  
+Harper Lablatt, Dark Tide  
 Roleplay and Playground.  Abduction and rape roleplay, human avatars only.  Public zone open to all adult avatars.  
 [http://maps.secondlife.com/secondlife/Radikal/112/240/1000](http://maps.secondlife.com/secondlife/Radikal/112/240/1000)  
 
