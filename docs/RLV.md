@@ -88,11 +88,16 @@ To call this menu:
 
 This menu requires the wearer to set up a folder inside #RLV, precisely named .outfits .  **The dot preceding outfits is required**.  Inside this folder make folders for your named outfits which you have set up using the SL Edit Outfit function. Then drag in the links from the outfits folder into the new folder.  The outfit names will appear as menu buttons in RLV > Outfits and can be force worn using the SL Replace function.  Make sure the outfits include all necessary parts of your outfit except possibly required system layers that cannot be removed.  Do not include your **locked** collar in the outfit folder.  Locking the collar ensures that Replace will not remove it and deleting the link to your locked collar prevents accidents like doubling your collar or wearing an outdated version.
 
-### More Tips:
+* **To "strip" using outfits**: Inside your .outfits folder make a folder and name it something like Naked.  Include in there what you want to be wearing when stripped, including mesh body, hair, mesh eyes, etc.  Users can then strip you by force wearing your "Naked" outfit!
 
-* Inside your .outfits folder make a folder and name it something like Naked.  Include in there what you want to be wearing when stripped, including mesh body, hair, mesh eyes, etc.  Users can then strip you by force wearing your "Naked" outfit!
+### How to Prevent Accidents:
 
-* Inside your .outfits folder, make a folder and precisely name it .core . *The dot is required for this to work*.  Inside .core, place items you never want to be removed, like hair eyes and mesh body.  You may place the original copy of your locked collar in .core.  This folder will prevent these items from being stripped or replaced through the outfits function.
+* **(nostrip)**. You have items that you do not wear all the time but when you are wearing them, they should never be stripped; such as hair.  The best way to prevent this is to append to the end of the folder name or item name: (nostrip) :  
+>[foldername] (nostrip)  
+Since the RLV strip search does not see your inventory but only sees worn items by folder name, this will only work on the bottom folder the item is immediately in. Appending (nostrip) to the end of a folder name and then inserting subfolders will void the function.   
+** You do not necessarily have to place the folders in #RLV for (nostrip) to work. However different viewers may handle this differently so it's a good idea to keep these folder in #RLV.  
+
+* Inside your .outfits folder, make a folder and precisely name it .core. *The dot is required for this to work*.  Inside .core, place only items you always wear and never want to be detached, such as mesh body parts.  You may use subfolders.  Items in this folder will be force worn with every outfit.
 
 ## More on RLV
 
