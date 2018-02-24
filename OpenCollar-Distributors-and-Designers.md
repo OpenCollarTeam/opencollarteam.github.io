@@ -178,6 +178,11 @@ Inworld Shop (Moderate)
 [http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)  
 Marketplace: [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)  
 
+Lukai Sufreur, Sergaltech Industries  
+Roleplay, Lifestyle Seminars, Shop  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Exit/220/226/22](http://maps.secondlife.com/secondlife/Exit/220/226/22)  
+Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
+
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
 Inworld Shops (Moderate)    
