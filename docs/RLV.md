@@ -94,6 +94,7 @@ This menu requires the wearer to set up a folder inside #RLV, precisely named .o
 
 * **(nostrip)**. You have items that you do not wear all the time but when you are wearing them, they should never be stripped; such as hair.  The best way to prevent this is to append to the end of the folder name or item name: (nostrip) :  
 >[foldername] (nostrip)  
+
 Since the RLV strip search does not see your inventory but only sees worn items by folder name, this will only work on the bottom folder the item is immediately in. Appending (nostrip) to the end of a folder name and then inserting subfolders will void the function.   
 ** You do not necessarily have to place the folders in #RLV for (nostrip) to work. However different viewers may handle this differently so it's a good idea to keep these folder in #RLV.  
 
