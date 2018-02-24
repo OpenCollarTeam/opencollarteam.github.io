@@ -96,7 +96,7 @@ This menu requires the wearer to set up a folder inside #RLV, precisely named .o
 >[foldername] (nostrip)  
 
 Since the RLV strip search does not see your inventory but only sees worn items by folder name, this will only work on the bottom folder the item is immediately in. Appending (nostrip) to the end of a folder name and then inserting subfolders will void the function.   
-** You do not necessarily have to place the folders in #RLV for (nostrip) to work. However different viewers may handle this differently so it's a good idea to keep these folder in #RLV.  
+** You do not necessarily have to place the folders in #RLV for (nostrip) to work. However different viewers may handle this differently so it's a good idea to keep these folders in #RLV.  
 
 * Inside your .outfits folder, make a folder and precisely name it .core. *The dot is required for this to work*.  Inside .core, place only items you always wear and never want to be detached, such as mesh body parts.  You may use subfolders.  Items in this folder will be force worn with every outfit.
 
