@@ -101,6 +101,10 @@ RLV Communities Free Zone, Dance Hall and Sandbox
 Mainland Shop  
 [http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)
 
+Susan Caerndow, Dangerous Desires  
+Playground, Hangout, Themed Roleplay  
+[http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31](http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31)  
+
 Sylta Marabana, Lausanne  
 Playground  
 [http://maps.secondlife.com/secondlife/Lausanne/165/26/2401](http://maps.secondlife.com/secondlife/Lausanne/165/26/2401)
