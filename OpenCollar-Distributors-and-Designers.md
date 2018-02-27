@@ -2,7 +2,7 @@
 title: OpenCollar Distributors and Designers 
 ---
 Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date.  
-Looking for a unique collar design? Go here: [Design Partners](#list-of-designer-distributors)  
+Looking for a unique collar design? Go here: [Design Partners](#list-of-design-partners)  
 How Do I Apply to be a Distributor or Design Partner? Look here! [Application](#opencollar-partners-application-form)  
 
 Look for this image on the vendor:
