@@ -113,15 +113,22 @@ Weard Welty, Xegul
 Roleplay, RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
 
-# List of Designer Distributors
+# List of Design Partners
 
 These distributors not only give out the free OpenCollar release, but also sell
 their own OpenCollar-powered creations.  If you're a designer who would like to
 be featured in this list, paste the application form below into a notecard, fill
 it out, and send it to Silkie Sabra inworld.
 
+Animaldj, CODEX  
+BDSM Style Fashion and Accessories from 200L to 450L      
+Inworld shop:  
+[http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)  
+Marketplace:  [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
+
 Cara Lionheart, Hidden Serenity  
-Shops, Club, Racetrack
+Shops, Club, Racetrack  
+Inworld shop:  
 [http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264](http://maps.secondlife.com/secondlife/Hidden%20Serenity/149/124/1264)  
 Mesh collars from free to 150L  
 Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
