@@ -1,19 +1,15 @@
 ---
 title: OpenCollar Distributors and Designers 
 ---
-[Distributors](#distributors) | [Designer Distributors](#list-of-designer-distributors) | [Application](#opencollar-partners-application-form)  
+Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date.  
+Looking for a unique collar design? Go here: [Design Partners](#list-of-designer-distributors) 
+How Do I Apply to be a Distributor or Design Partner? Look here! [Application](#opencollar-partners-application-form)  
 
-Visit any of the SLURLs below to get a copy of the current OpenCollar, or an
-updater to bring your existing collar up to date.  Look for this image on the
-vendor:
+Look for this image on the vendor:
 
 <div style="width: 100%; text-align: center;">
 <img src="/static/steelcollar.png" width="200" style="margin: 20px auto;" />
 </div>
-
-Would you like to become a
-distributor?  Copy/paste the application at the bottom of this page into a
-notecard, fill out the relevant fields, and pass it to Silkie Sabra inworld.  
 
 # Distributors 
 
