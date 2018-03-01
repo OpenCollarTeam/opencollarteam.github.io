@@ -113,6 +113,10 @@ Weard Welty, Xegul
 Roleplay, RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
 
+Victor Star (victor2274), Sex Soft & Wet Adult Voice Beach  
+Beach sex and afk club  
+[http://maps.secondlife.com/secondlife/Liraffe/232/118/21](http://maps.secondlife.com/secondlife/Liraffe/232/118/21)  
+
 # List of Design Partners
 
 These distributors not only give out the free OpenCollar release, but also sell
