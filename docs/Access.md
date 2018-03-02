@@ -29,6 +29,15 @@ To set Group, first activate the desired group, then check Group in the Access m
 > [prefix] group on  
 [prefix] group off
 
+## Capture
+*On / Off* When set on, allows anyone to Capture the wearer by taking their leash and gives them an access level similar to Trusted.  "Risky" toggles wearer permission. Capture On/Off cannot be overridden by the wearer when set by an owner.
+
+In addition to Trusted access, the Capture function applies the Refusetp exception.  The wearer's viewer automatically accepts tp offers when he or she is leashed by the Capturer.
+
+> [prefix] capture on  
+[prefix] capture off  
+[prefix] capture info off -- turns off the recurring chat
+
 ## Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
 > [prefix] list  
