@@ -1,3 +1,6 @@
+# Access
+Access is the OpenCollar ownership tool.  There is a cap of 28 avatars across all named Access levels: Owner, Trusted, Blocked, and Temp Owner.
+
 ## Owners
 Owners have the highest rank of access on the collar.  The collar access, exceptions, lock, leash and some RLV functions are sensitive to rank.  Once an owner is set, unless OwnSelf is checked, the wearer can no longer use the access menu or add exceptions or unlock the collar.  Also the wearer cannot unleash from an owner without safewording.
 
