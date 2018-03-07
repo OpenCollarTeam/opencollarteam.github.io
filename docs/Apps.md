@@ -37,16 +37,12 @@ Removes selected bookmarks from the menu.
 
 # Titler
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to work.
-
-## Set Title
-Opens a dialog where you can input and submit the desired text.
-
 ## Image
-
 Opens a menu where you can set an image overhead on the wearer's avatar.  There are several preset to choose from.
 ### Custom
 Opens a text box; Allows wearer and user to set a custom image by inserting the desired texture uuid into the text box.
-
+## Set Title
+Opens a dialog where you can input and submit the desired text.
 ### Up / Down
 Adjusts the position of the titler text up or down.
 
