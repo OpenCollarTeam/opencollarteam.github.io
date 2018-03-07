@@ -21,7 +21,6 @@ To send the wearer to a bookmark:  From the Main menu go to Apps > Bookmarks and
 
 > [prefix] tp [bookmarkname]
 
-
 ### Save
 Opens a dialog window where you can enter a name for the wearer's current location, to create a bookmark for that location. Use a short name that's easy to remember and looks good on a button.  Pressing "submit" adds the name to the bookmarks menu.   
 If you want to add a location remotely, that is, using different coordinates from the wearer's current location:  
@@ -36,12 +35,17 @@ Prints the bookmarks settings to enter into the bookmarks notecard.  New bookmar
 ### Remove
 Removes selected bookmarks from the menu.
 
-
 # Titler
-Sets a line of text on the avatar.  Requires the FloatText prim to work.
+Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to work.
 
-### Set Title
+## Set Title
 Opens a dialog where you can input and submit the desired text.
+
+## Image
+
+Opens a menu where you can set an image overhead on the wearer's avatar.  There are several preset to choose from.
+### Custom
+Opens a text box; Allows wearer and user to set a custom image by inserting the desired texture uuid into the text box.
 
 ### Up / Down
 Adjusts the position of the titler text up or down.
