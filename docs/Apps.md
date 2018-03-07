@@ -36,7 +36,9 @@ Prints the bookmarks settings to enter into the bookmarks notecard.  New bookmar
 Removes selected bookmarks from the menu.
 
 # Titler
+
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to work.
+
 ## Image
 Opens a menu where you can set an image overhead on the wearer's avatar.  There are several preset to choose from.
 ### Custom
