@@ -158,7 +158,7 @@ Marketplace
 https://marketplace.secondlife.com/stores/128000?id=128000
 
 Cynianne Hellershanks, Accents Design  
-Casual to formal jewelry at 199L  
+OC Collars and Scripted Jewelry starting at 199L  
 Marketplace: https://marketplace.secondlife.com/stores/30432  
 
 Emdragon, Emerald Dust  
