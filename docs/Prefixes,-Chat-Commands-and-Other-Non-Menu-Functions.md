@@ -44,3 +44,7 @@ You can change your safeword:
 [Add list of chat commands that are not represented in the collar menus here]
 
 [prefix] info : dumps info from Help / About into the local chat line
+
+[prefix] name [newname] : changes the name of the wearer in collar chat messages such as couples animations.
+
+[prefix] device name [newname] changes the name of the collar in menus and chat messages.
