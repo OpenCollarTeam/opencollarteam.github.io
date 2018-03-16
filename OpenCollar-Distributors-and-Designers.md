@@ -163,7 +163,7 @@ Marketplace: https://marketplace.secondlife.com/stores/30432
 
 Emdragon, Emerald Dust  
 Collar Accessories  
-[http://maps.secondlife.com/secondlife/Destonia/146/14/2525](http://maps.secondlife.com/secondlife/Destonia/146/14/2525)  
+[http://maps.secondlife.com/secondlife/Soobit/171/18/31](http://maps.secondlife.com/secondlife/Soobit/171/18/31)  
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
 
 Gatatem, Catspaw Creations    
