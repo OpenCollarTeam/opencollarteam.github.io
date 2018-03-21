@@ -92,7 +92,7 @@ Beach Club
 
 Seth Ock, Griseus Farms  
 roleplay for human livestock, medical play, and alien abductions  
-http://maps.secondlife.com/secondlife/CrAzYToWn/61/190/24  
+[http://maps.secondlife.com/secondlife/CrAzYToWn/61/190/24](http://maps.secondlife.com/secondlife/CrAzYToWn/61/190/24)  
 
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
