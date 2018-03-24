@@ -25,10 +25,6 @@ Cindy Evanier, Kix Erotix
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
-CountryCat Furse, Cat's Meow Lounge  
-Club  
-[http://maps.secondlife.com/secondlife/Cifra/220/44/1099](http://maps.secondlife.com/secondlife/Cifra/220/44/1099)
-
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)
