@@ -7,6 +7,8 @@ Settings is one of the most useful tools in the collar for those who want to sav
 For instance, a Bookmarks setting saving the Social Partner locations to your bookmarks would look like this, where BOOKMARKS is the string name, and "Theater" / "Sanctuary are the names saved as bookmarks:   
 >`BOOKMARKS=Theater~KBar West(23,97,1001)~Sanctuary~Vineyard Isle Valley (199,185,2002)`  
 
+As the documentation builds, you will see various settings added to the relevant pages.
+
 ## Print
 Save your settings by pressing Print.  
 >[prefix] print settings  
