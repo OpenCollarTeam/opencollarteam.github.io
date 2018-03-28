@@ -4,9 +4,13 @@ This menu contains adjustments to the fit and appearance of your collar.
 
 ## Print
 Save your settings by pressing Print.  Copy the chat readout to a notecard named .settings.  Place the notecard in the Settings prim of your collar.  
+>[prefix] print settings  
 
 ## Load
 Loads your settings from the .settings notecard.
+>[prefix] load card  
+To load your settings from a url:
+>[prefix] load url [url]  
 
 ## Fix
 Sometimes menus do not load all the way.  If you see buttons missing from your menus, press Fix.
