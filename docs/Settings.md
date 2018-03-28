@@ -2,7 +2,7 @@ To call this page:
 >[prefix] settings
 This menu contains adjustments to the fit and appearance of your collar.
 
-Settings is one of the most useful tools in the collar for those who want to save or customize collar settings. To save your settings easily, print the settings go chat, and copy the chat readout to a notecard named .settings.  Place the notecard in the Settings prim of your collar.  OpenCollar settings use this protocol: STRINGNAME=Settingname1~Setting~Settingname2~Setting etc.  Most of the string names correspond to certain scripts.  
+Settings is one of the most useful tools in the collar for those who want to save or customize collar settings. To save your settings easily, print the settings go chat, and copy the chat readout to a notecard named .settings.  Place the notecard in the Settings prim of your collar.  OpenCollar settings use this protocol: `STRINGNAME=Settingname1~Setting~Settingname2~Setting` etc.  Most of the string names correspond to certain scripts.  
 
 For instance, a Bookmarks setting saving the Social Partner locations to your bookmarks would look like this, where BOOKMARKS is the string name, and "Theater" / "Sanctuary are the names saved as bookmarks:   
 >`BOOKMARKS=Theater~KBar West(23,97,1001)~Sanctuary~Vineyard Isle Valley (199,185,2002)`  
