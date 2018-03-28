@@ -9,6 +9,7 @@ Save your settings by pressing Print.  Copy the chat readout to a notecard named
 ## Load
 Loads your settings from the .settings notecard.
 >[prefix] load card  
+
 To load your settings from a url:  
 >[prefix] load url [url]  
 
