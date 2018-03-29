@@ -50,7 +50,8 @@ You can change your safeword:
 [prefix] safeword [new safeword] or for instance: jo safeword BLUE.
 
 # Some Useful Chat Commands 
-[Add list of chat commands that are not represented in the collar menus here]
+
+[prefix] busted turns on touch notification: your collar will 
 
 [prefix] help : delivers the .help notecard from the collar.
 
