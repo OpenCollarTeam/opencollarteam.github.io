@@ -13,10 +13,6 @@ Look for this image on the vendor:
 
 # Distributors 
 
-Alvaro Ravenheart, Gor Education Center  
-Gor library, shop and classes  
-[http://maps.secondlife.com/secondlife/Ipomoea/28/181/4001](http://maps.secondlife.com/secondlife/Ipomoea/28/181/4001)  
-
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)
