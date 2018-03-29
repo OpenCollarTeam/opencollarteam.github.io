@@ -44,7 +44,9 @@ In addition to Trusted access, the Capture function applies the Refusetp excepti
 
 > [prefix] capture on  
 [prefix] capture off  
-[prefix] capture info on/off -- turns on or off the recurring chat broadcasting the capture mode
+[prefix] capture info on/off -- turns on or off the recurring chat broadcasting the capture mode  
+[prefix] capture release -- releases the sub from the current capture.  
+[prefix] risky on/off -- turns on and off wearer permission.
 
 ## Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
