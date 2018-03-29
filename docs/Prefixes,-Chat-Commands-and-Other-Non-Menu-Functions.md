@@ -1,7 +1,7 @@
 # Using Chat Commands
 In Second Life, the local chat line is also the line used for scripting calls. Any channel can be used; the channel that is visible as local chat is channel 0 and is used by default.  OpenCollar script calls include a prefix to direct the call, plus the call name. For instance, to call a menu directly, you can use the chat command with your prefix plus the menu name: 
 
-[prefix] menu 
+> [prefix] menu 
 
 calls the main menu.
 
@@ -9,12 +9,16 @@ calls the main menu.
 
 Your default prefix is the first two letters of your user name.  It can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.
 
-To change the prefix, type:
-[prefix] prefix [newprefix].
+To change the prefix, type: 
 
-For instance:  Suppose your user name is joezipcode and you want to change jo to jz:  
+> [prefix] prefix [newprefix].
 
- Type:  jo prefix jz.
+For instance:  Suppose your user name is joezipcode and you want to change jo to jz, type:  jo prefix jz.  
+
+To reset the prefix to default:  
+
+> [prefix] prefix reset  
+ 
 
 ### Global Prefixes
 
@@ -30,7 +34,12 @@ Please use this with care.  Just because someone is set to public or group acces
 
 The Channel number can also be changed this way. To change the channel number, type
 
-[prefix] channel [new number] or for instance:  jo channel 3 .
+> [prefix] channel [new number] or for instance:  jo channel 3 .  
+
+Public chat is channel 0.  You can turn this off so the collar doesn't listen to chat commands in local chat.
+
+> [prefix] channel 0 : enables the collar to listen to commands in local chat.  
+[prefix] channel -1 : disables the collar from listening to commands in local chat.
 
 # Safeword
 The collar safeword is a powerful global tool that will revoke all collar settings and return the collar to default, with the exception of the lock, the access list and the relay settings.  It will release you from traps set through the relay.  If you don't want all your settings changed when you are trapped through the relay, use the relay safeword button instead (see Relay).
@@ -42,6 +51,8 @@ You can change your safeword:
 
 # Some Useful Chat Commands 
 [Add list of chat commands that are not represented in the collar menus here]
+
+[prefix] help : delivers the .help notecard from the collar.
 
 [prefix] info : dumps info from Help / About into the local chat line
 
