@@ -51,7 +51,8 @@ You can change your safeword:
 
 # Some Useful Chat Commands 
 
-[prefix] busted turns on touch notification: your collar will 
+[prefix] busted turns on touch notification: your collar will report when it is touched.  
+[prefix] busted on/off toggles touch notification.  
 
 [prefix] help : delivers the .help notecard from the collar.
 
