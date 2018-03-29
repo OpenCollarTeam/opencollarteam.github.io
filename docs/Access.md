@@ -25,7 +25,8 @@ Trusted gives named individuals the same level of access as Public and Group.  T
 ## Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
 > [prefix] public on  
-[prefix] public off
+[prefix] public off  
+[prefix] limit range on/off : limits range for public access.
 
 ## Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.  
@@ -51,3 +52,6 @@ This allows the collar only to block named avatars from using the collar.  Use s
 
 >Add to the Blocklist: [prefix] add block [name or UUID]  
 >Remove from the Blocklist: [prefix] rm block [name or UUID]
+
+## Runaway  
+This command wipes the owner list and returns all collar settings to default.  
