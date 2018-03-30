@@ -10,6 +10,38 @@ You will need:
 4. Three prims any shape
 
 ## Name your prims
-1. Root Prim: Same name as collar
-2. Cylinder Prims:  Stack them vertically inside the collar, name the top prim Animator, the middle prim FloatText, and the bottom prim Settings. The top and bottom cylinder prims should be just visible above and below the collar.
+1. Root Prim: Same name as collar.  If you are using a sparate named leash point this can be the collar band. Otherwise position the root prim where you want the leash particles to emit from.
+2. Cylinder Prims:  Stack them vertically inside the collar, name the top prim Animator, the middle prim FloatText, and the bottom prim Settings. The top and bottom cylinder prims should be just visible above and below the collar. This is for ease in accessing these prims while the collar is worn on the neck.
 3. Remaining prims: One has same name as collar or just leave it as "Object"; another is named Authorizer, the third is named RLV.
+4. If using a separate leashpoint, name it Leashpoint and position it where you want the leash particles to emit from.
+5. Link the prims, linking all the other prims to the root prim last.
+
+## Compiling your collar
+The last step is to load the scripts into the collar.  Do this with moderate speed, letting the asset server catch up to your work as you go along. Here is the list of what scripts go in what prims.
+
+### Animations and Notecards
+
+Load the nonscripted contents first.  
+Your collar animations and the .couples notecard go in the Animator prim.  
+A blank notecard named .settings goes in the Settings prim.  
+Into the root prim go the .help and .license notecards.  A copy of the OpenCollar license must go in any object you create using OpenCollar scripts.
+
+### Scripts  
+Here is the list of scripts with their respective prims:  
+
+oc_auth :  Authorizer  
+oc_dialog : the prim named the same as the collar    
+oc_anim / oc_couples : Animator  
+oc_rlvsys : RLV  
+oc_settings : Settings.
+
+**Everything else** goes in the root prim. 
+REQUIRED CORE.  These scripts are necessary for the collar to work.  
+> oc_sys, oc_com  
+INTEGRATED. These scripts can be removed without breaking the collar but have integrated menu functions:  
+> oc_capture, oc_exceptions, oc_folders, oc_leash, oc_particle, oc_relay, oc_resizer, oc_rlvsuite.  
+DESIGN TOOLS. Use these scripts if your collar design calls for them: 
+> oc_label, oc_meshlabel, oc_themes, oc_meshthemes  
+OPTIONAL APPS.  These are apps provided by OpenCollar you may include. 
+> oc_bell, oc_titler.  
+
