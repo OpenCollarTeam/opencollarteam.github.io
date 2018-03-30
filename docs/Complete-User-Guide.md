@@ -22,4 +22,4 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [[Help / About](/docs/Help-About)]
 * [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
 * [How to Update](/docs/How-To-Update-Your-OpenCollar)
-* [How to Build] (/docx/How-to-Build-Your-OpenCollar)
+* [How to Build](/docs/How-to-Build-Your-OpenCollar)
