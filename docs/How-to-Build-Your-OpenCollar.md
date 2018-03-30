@@ -24,7 +24,7 @@ The last step is to load the scripts into the collar.  Do this with moderate spe
 Load the nonscripted contents first.  
 Your collar animations and the .couples notecard go in the Animator prim.  
 A blank notecard named .settings goes in the Settings prim.  
-Into the root prim go the .help and .license notecards.  A copy of the OpenCollar license must go in any object you create using OpenCollar scripts.
+Into the root prim go the .help and .license notecards.  A copy of the OpenCollar license must go in any object you create using OpenCollar scripts.  Also in the root prim place a notecard named .bookmarks to save your bookmarks.
 
 ### Scripts  
 Here is the list of scripts with their respective prims:  
@@ -43,5 +43,10 @@ INTEGRATED. These scripts can be removed without breaking the collar but have in
 DESIGN TOOLS. Use these scripts if your collar design calls for them: 
 > oc_label, oc_meshlabel, oc_themes, oc_meshthemes  
 OPTIONAL APPS.  These are apps provided by OpenCollar you may include. 
-> oc_bell, oc_titler.  
+> oc_bell, oc_titler, oc_bookmarks.  
 
+### Notes
+1. The relay script can be deleted without harm to the rest of the collar. If the wearer has an alternate relay, perhaps an HUD, wearing two relays is inadvisable.  
+2. Meshthemes and themes are used for different types of collar build and are not compatible.  Use one or the other depending on your build. You don't need to use either unless your collar will have alternate textures.  
+3. Meshlabel and label are used for different types of collar build and are not compatible.  Use one or the other depending on your build. You don't need to use either unless you want your collar to have a scripted label.  
+4. Bell and titler are only used if the collar has a bell and a floattext prim and will delete themselves unless they find a prim named Bell or a prim named FloatText in the collar when loaded.
