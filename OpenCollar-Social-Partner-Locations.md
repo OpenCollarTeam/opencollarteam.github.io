@@ -1,6 +1,4 @@
 # List of OpenCollar Social Partner Locations and their Hosts:
-
-- This list is not in any specific order -
  
 - The Sanctuary of the Collar - Beautiful Nightmares BDSM club sim  
 **Location** 
