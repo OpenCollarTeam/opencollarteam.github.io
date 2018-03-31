@@ -35,13 +35,16 @@ oc_anim / oc_couples : Animator
 oc_rlvsys : RLV  
 oc_settings : Settings.
 
-**Everything else** goes in the root prim. 
+**Everything else** goes in the root prim.  
 REQUIRED CORE.  These scripts are necessary for the collar to work.  
 > oc_sys, oc_com  
+
 INTEGRATED. These scripts can be removed without breaking the collar but have integrated menu functions:  
 > oc_capture, oc_exceptions, oc_folders, oc_leash, oc_particle, oc_relay, oc_resizer, oc_rlvsuite.  
+
 DESIGN TOOLS. Use these scripts if your collar design calls for them: 
 > oc_label, oc_meshlabel, oc_themes, oc_meshthemes  
+
 OPTIONAL APPS.  These are apps provided by OpenCollar you may include. 
 > oc_bell, oc_titler, oc_bookmarks.  
 
