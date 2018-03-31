@@ -11,8 +11,7 @@ Social location and Troubleshooting help planned - Additional free collars choic
 - OpenCollar Theater at KBar West  
 **Location** [http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001)  
 **Hosts** Judge Kurt Burleigh and roan (Silkie Sabra)  
-Theater setting good for classes and events as well as chat  
-
+The OpenCollar Theater at KBar West is a skybox useful for classes and performances as well as chat and collar help.  KBar West is a Western themed BDSM roleplay sim with plenty of room for chat and discussion. Under the Proprietorship of Judge Kurt Burleigh, KBar West is an associate member of Freedom Continent and has contributed to OpenCollar since 2010. Send questions to roan (Silkie Sabra), Judge Kurt Burleigh's scribe and janitor. 
 
 ## OpenCollar Official Partners   - notecard sent in OpenCollar group 12/23/2017
 
