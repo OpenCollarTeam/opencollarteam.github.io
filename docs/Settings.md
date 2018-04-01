@@ -2,9 +2,11 @@ To call this page:
 >[prefix] settings
 This menu contains adjustments to the fit and appearance of your collar.
 
-Settings is one of the most useful tools in the collar for those who want to save or customize collar settings. To save your settings easily, print the settings go chat, and copy the chat readout to a notecard named .settings.  Place the notecard in the Settings prim of your collar.  OpenCollar settings use this protocol: `STRINGNAME=Settingname1~Setting~Settingname2~Setting` etc.  Most of the string names correspond to certain scripts.  
+Settings is one of the most useful tools in the collar for those who want to save or customize collar settings. Whenever you change your collar using a menu button, the setting is created by the script. These settings may be erased or overridden by the next change or even by logging off.  You may want to save these settings in a place where they can be reloaded.  To save your settings easily, print the settings go chat, and copy the chat readout to a notecard named .settings.  Place the notecard in the Settings prim of your collar.  
 
-For instance, a Bookmarks setting saving the Social Partner locations to your bookmarks would look like this, where BOOKMARKS is the string name, and "Theater" / "Sanctuary are the names saved as bookmarks:   
+OpenCollar settings use this protocol: `TOKEN=Parameter1~Parameter2` etc. Parameters may be names or values. Most of the Settings tokens correspond to certain scripts; one is GLOBAL because these settings may apply to all the scripts in the collar.  
+
+For instance, a Bookmarks setting saving the Social Partner locations to your bookmarks would look like this, where BOOKMARKS is the token, "Theater" / "Sanctuary" are the names saved as bookmarks, and the slurl is the value associated with the name:   
 >`BOOKMARKS=Theater~KBar West(23,97,1001)~Sanctuary~Vineyard Isle Valley (199,185,2002)`  
 
 As the documentation builds, you will see various settings added to the relevant pages.
