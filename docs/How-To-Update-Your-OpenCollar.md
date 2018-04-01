@@ -1,7 +1,7 @@
 # Current version
 We are currently at OpenCollar V7.1 as of 06 March 2018 !
 
-This page covers four ways to update a collar easily:  From Scratch | 3.X or Older | 4.0-6.5 | 6.6-6.7
+This page covers four ways to update a collar easily: | From Scratch | 3.X or Older | 4.0-6.5 | 6.6-6.7
 
 # Building from Scratch
 
