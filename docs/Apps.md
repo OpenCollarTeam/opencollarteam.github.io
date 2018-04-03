@@ -3,13 +3,17 @@ This menu is where you will find links to applications and custom plugins.  The 
 Bell
 =======
 This App controls the bell visibility and sound.  Only operative with collar designs that include bells.  
-## On/Off
+On/Off
+--------
 Toggles the bell on and off
-## Show/Hide
+Show/Hide
+----------
 Toggles bell visibility
-## Next Sound
+Next Sound
+---------
 Changes the active bell sound
-## Vol +/-
+Vol +/-
+---------
 Increases or decreases the sound volume of the bell.
 
 # Bookmarks
