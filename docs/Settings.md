@@ -43,4 +43,4 @@ When checked, Stealth turns the collar transparent.
 
 ## Themes
 
-Here you can change the textures and appearance of your collar.  There are two notecards that save texture and color changes to allow customizing your collar by menu.  .Themes is used for traditional multiprim collars and .meshthemes is used for single prim collars with mapped textures.  Here are the parameters for .meshthemes:  face/texture/color/alpha/shine/bump/glow.
+Here you can change the textures and appearance of your collar.  There are two notecards that save texture and color changes to allow customizing your collar by menu.  .Themes is used for traditional multiprim collars and .meshthemes is used for single prim collars with mapped textures.  Here are the parameters for .meshthemes:  face/textureuuid/color(1.1.1 is no tint)/alpha(1 is opaque)/shine(0-3 invoking the shine values in edit)/bump (1-17 invoking bump values in edit)/glow (0.0-1 setting glow value as in edit).
