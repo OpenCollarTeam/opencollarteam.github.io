@@ -1,6 +1,6 @@
 This menu is where you will find links to applications and custom plugins.  The following apps are included in most OpenCollars.
 
-# Bell
+Bell
 =======
 This App controls the bell visibility and sound.  Only operative with collar designs that include bells.  
 
