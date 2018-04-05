@@ -16,7 +16,7 @@ As the documentation builds, you will see various settings added to the relevant
 # The Settings Menu
 
 ## Print
-Save your settings by pressing Print.  
+Save your settings by pressing Print.  Then copy the readout to the .settings notecard in the Settings prim of your collar.  To find the Settings prim, use Edit Linked or type [prefix] Show Storage to highlight the invisible prim.
 >[prefix] print settings  
 
 ## Load
