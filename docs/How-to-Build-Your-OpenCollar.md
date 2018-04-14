@@ -1,4 +1,3 @@
-# How to Build an OpenCollar
 
 This page explains how to build an OpenCollar using your own prims, without help from the "Collarizer" script. 
 
