@@ -42,7 +42,7 @@ If you don't have an object you want to use as the base for your collar you can 
 2. Tiny Invisible Sphere as Root Prim OR use the collar band as root prim and add a prim named leashpoint and described `leashpoint~notexture~nocolor~nohide~noshiny~noglow`.  If you would like a precise leashpoint, the example illustrated here works:
 
 <div style="width: 100%; text-align: center;">
-<img src="/static/leashpoint.png" width="200" style="margin: 20px auto;" />
+<img src="/static/leashpoint.png" width="400" style="margin: 20px auto;" />
 </div>
 
 3. Three Stacked Cylinders about the same diameter as the collar band or very slightly smaller
@@ -59,7 +59,7 @@ If you don't have an object you want to use as the base for your collar you can 
 The resulting stack will look a little bit like this... it has been highlighted and spread in the illustration for better viewing.
 
 <div style="width: 100%; text-align: center;">
-<img src="/static/collar_prims.png" width="200" style="margin: 20px auto;" />
+<img src="/static/collar_prims.png" width="400" style="margin: 20px auto;" />
 </div>
 
 ## Compiling your collar
