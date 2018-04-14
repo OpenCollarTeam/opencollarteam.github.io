@@ -1,3 +1,5 @@
+# How to Build an OpenCollar
+
 This page explains how to build an OpenCollar using your own prims, without help from the "Collarizer" script. 
 
 If you want to turn an existing object into a "collar" with a minimum of building skill or fuss, use the collarizer script and run the updater.  See "How to Update" for instructions.
