@@ -31,6 +31,13 @@ OPTIONAL APPS.  These are apps provided by OpenCollar you may include.
 ## Materials
 You will need:
 1. Collar Band  
+
+If you don't have an object you want to use as the base for your collar you can make a simple torus.  In the build menu select Torus as the shape, give it any texture you like, and use the approximate dimensions illustrated.
+
+<div style="width: 100%; text-align: center;">
+<img src="/static/torus.png" width="200" style="margin: 20px auto;" />
+</div>
+
 2. Tiny Invisible Sphere as Root Prim OR use the collar band as root prim and add a prim named leashpoint and described `leashpoint~notexture~nocolor~nohide~noshiny~noglow`.  If you would like a precise leashpoint, the example illustrated here works:
 
 <div style="width: 100%; text-align: center;">
@@ -39,12 +46,6 @@ You will need:
 
 3. Three Stacked Cylinders about the same diameter as the collar band or very slightly smaller
 4. Three prims any shape
-
-If you don't have an object you want to use as the base for your collar you can make a simple torus.  In the build menu select Torus as the shape, give it any texture you like, and use the approximate dimensions illustrated.
-
-<div style="width: 100%; text-align: center;">
-<img src="/static/torus.png" width="200" style="margin: 20px auto;" />
-</div>
 
 ## Name your prims
 1. Root Prim: Same name as collar.  If you are using a sparate named leash point this can be the collar band. Otherwise position the root prim where you want the leash particles to emit from.
