@@ -49,6 +49,12 @@ If you don't have an object you want to use as the base for your collar you can 
 5.If using a separate leashpoint, name it Leashpoint and position it where you want the leash particles to emit from.
 6.Link the prims, linking all the other prims to the root prim last.
 
+The resulting stack will look a little bit like this... it has been highlighted and spread in the illustration for better viewing.
+
+<div style="width: 100%; text-align: center;">
+<img src="/static/collar_prims.png" width="200" style="margin: 20px auto;" />
+</div>
+
 ## Compiling your collar
 The last step is to load the scripts into the collar.  Do this with moderate speed, letting the asset server catch up to your work as you go along. The list of scripts above tells you which scripts go in what prim.
 
