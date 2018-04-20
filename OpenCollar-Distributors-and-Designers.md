@@ -179,12 +179,6 @@ Inworld Shop:
 [http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002](http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002)  
 Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
 
-LesleyAsh, Kwaad Teven  
-seasonal styles with a Gothic edge, free to 300L  
-Inworld Shop (Moderate)    
-[http://maps.secondlife.com/secondlife/Kikai/182/17/603](http://maps.secondlife.com/secondlife/Kikai/182/17/603)  
-Marketplace: [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)  
-
 Lukai Zufreur, Sergaltech Industries  
 Roleplay, Lifestyle Seminars, Shop  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Exit/220/226/22](http://maps.secondlife.com/secondlife/Exit/220/226/22)  
