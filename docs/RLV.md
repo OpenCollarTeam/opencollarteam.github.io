@@ -45,18 +45,18 @@ Opens a menu of restrictions and named suites of related restrictions.  When the
 >[prefix] restrictions  
 
 List of individual restrictions  
-* Send IMS:  Restricts the wearer's ability to send ims.
-* Read IMS:   Restricts the wearer's ability to receive ims.
-* Hear:  Restricts the wearer's ability to read local chat.
-* Talk: Restricts the wearer's ability to send local chat. 
-* Touch:  Restricts the wearer's ability to touch the world.
+* Send IMS:  Restricts the wearer's ability to send ims.  [prefix] forbid sendim / allow sendim
+* Read IMS:   Restricts the wearer's ability to receive ims. [prefix] forbid readim / allow readim
+* Hear:  Restricts the wearer's ability to read local chat. [prefix]  forbid hear / allow hear
+* Talk: Restricts the wearer's ability to send local chat.  [prefix] forbid talk / allow talk
+* Touch:  Restricts the wearer's ability to touch the world. [prefix] forbid touch / allow touch
 
 List of restrictions grouped in suites
-* Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers.
-* Stray: Restricts the wearer's ability to accept teleport offers, teleport to landmarks and map locations, sit on an object from a distance greater than 1 meter from the object center; and teleport to a  point on the landscape.
-* Rummage: This group restricts building abilities including: edit, open the inventory window, rez objects, view scripts and textures.
-* Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen.
-* Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
+* Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers. [prefix] forbid dress / allow dress
+* Stray: Restricts the wearer's ability to accept teleport offers, teleport to landmarks and map locations, sit on an object from a distance greater than 1 meter from the object center; and teleport to a  point on the landscape. [prefix] forbid stray / allow stray
+* Rummage: This group restricts building abilities including: edit, open the inventory window, rez objects, view scripts and textures. [prefix] forbid rummage / allow rummage
+* Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen. [prefix] forbid dazzle / allow dazzle
+* Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu. [prefix] forbid daze / allow daze
 
 ## Terminal
 Opens a text popup window where you can input any RLV restriction, the format being @[nameofrestriction]=[y/n].
