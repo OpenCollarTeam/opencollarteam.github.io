@@ -33,8 +33,11 @@ refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offe
 ## Force Sit
 Opens a menu of nearby objects on which the wearer can be forced to sit.  Does not include Forbid Stand so does not lock the wearer in the sit.
 >[prefix] sit (forces the wearer to sit)
+
 >[prefix] stand / standnow (forces the wearer to stand)
+
 >[prefix] forbid stand (forbids standing)
+
 >[prefix] allow stand (allows standing)
 
 ## Restrictions
