@@ -7,12 +7,15 @@ Please remember that one of the most basic safety features about RLV is your abi
 
 ## On / Off
 Toggles RLV on and off in the collar (not in the viewer).  The collar lock is not affected. Turning RLV Off in the collar does disable the collar relay and turns off access to the RLV menu.
+>[prefix] rlv on/off
 
 ## Clear All
 Clears all collar RLV restrictions, including those enforced by the relay.  Available to anyone with collar access but the wearer unless self owned.
+>[prefix] clear
 
 ## Detach
 Gives a list of occupied attachment points with the names of the objects attached to each.  Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
+>[prefix] detach (opens the "detach" menu)
 
 ## Exceptions
 
@@ -29,6 +32,10 @@ refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offe
 
 ## Force Sit
 Opens a menu of nearby objects on which the wearer can be forced to sit.  Does not include Forbid Stand so does not lock the wearer in the sit.
+>[prefix] sit (forces the wearer to sit)
+>[prefix] stand / standnow (forces the wearer to stand)
+>[prefix] forbid stand (forbids standing)
+>[prefix] allow stand (allows standing)
 
 ## Restrictions
 Opens a menu of restrictions and named suites of related restrictions.  When the boxes are checked, the restrictions are NOT active.  
@@ -49,9 +56,10 @@ List of restrictions grouped in suites
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu.
 
 ## Terminal
-This button opens a text popup window where you can input any RLV restriction, the format being @[nameofrestriction]=[y/n].
+Opens a text popup window where you can input any RLV restriction, the format being @[nameofrestriction]=[y/n].
 The list of RLV restrictions can be found [here](http://wiki.secondlife.com/wiki/LSL_Protocol/RestrainedLoveAPI).  
 The list of RLVa restrictions may be found [here](http://catznip.com/index.php/RLVa).  They may be slightly different; Consult your viewer to see which one is running.
+>[prefix] terminal (chat command only in V7.X)
 
 ## Relay
 This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
