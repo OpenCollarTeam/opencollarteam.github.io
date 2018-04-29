@@ -17,8 +17,8 @@ If you want to change the name of OwnSelf to something else:
 ### +/- Owner
 Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.  The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
 
->[prefix] add owner [user name or UUID] 
-[prefix] rm owner [user name or UUID]
+>[prefix] add owner [user name or UUID]  
+[prefix] rm owner [user name or UUID]  
 AUTH=owner~<UUID>
    
 ## Trusted
