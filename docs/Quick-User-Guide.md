@@ -7,7 +7,8 @@ Chat Commands are typed into the local chat line. Many of the menus and submenus
 Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing /1 [prefix] menu. This sends the command to channel 1 instead and you don't see it in local chat.
 
 ### Settings
-Your collar settings can be saved to a settings notecard.  See the [Settings](/docs/Settings) page for more about how to do this.  In the pages of the Complete Guide after the chat command for a menu function you may see a string that looks like this, with the values filled in:  `TOKEN=Attribute~Value`.  This is the settings string for the function you can save to a notecard. The easy way to learn settings is to set your collar as desired, then go to the Settings menu and press Print. 
+Your collar settings can be saved to a settings notecard.  See the [Settings](/docs/Settings) page for more about how to do this.  In the pages of the Complete Guide after the chat command for a menu function you may see a string that looks like this, with the values filled in:  `TOKEN=Attribute~Value`.  This is the settings string for the function you can save to a notecard. The easy way to learn settings is to set your collar as desired, then go to the Settings menu and press Print.  
+NOTE: Settings saved to a settings notecard will reload and reinstate the setting when the wearer relogs or when the Settings are loaded by the menu.  If you received your collar from anyone other than an official OpenCollar vendor, find the Settings prim.  If there is a .settings notecard in the Settings prim, open it and make sure it is blank.  A new collar from an OpenCollar vendor comes without a .settings notecard.
 
 ### Prefixes
 
@@ -34,7 +35,7 @@ The default collar safeword is RED, all caps.  You can also type it on channel 1
 
 ### Runaway
 
-If you find you must clear an owner, you can do that by pressing the Runaway button in the Access menu, or typing [prefix] runaway.  This will wipe the access list and reset all collar functions to default.
+If you find you must clear an owner, you can do that by pressing the Runaway button in the Access menu, or typing [prefix] runaway.  This will wipe the access list and reset all collar functions to default.  Make sure the .settings notecard is absent or blank (see Settings above).
 
 ## About RLV
 
