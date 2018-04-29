@@ -25,7 +25,8 @@ AUTH=owner~[UUID]
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
 
 >[prefix] add trust [name or UUID]  
-[prefix] rm trust [name or UUID]
+[prefix] rm trust [name or UUID]  
+AUTH=trust~[UUID]
 
 ## Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
