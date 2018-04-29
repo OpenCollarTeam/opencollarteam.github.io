@@ -7,7 +7,7 @@ Chat Commands are typed into the local chat line. Many of the menus and submenus
 Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing /1 [prefix] menu. This sends the command to channel 1 instead and you don't see it in local chat.
 
 ### Settings
-Your collar settings can be saved to a settings notecard.  See the [Settings](/docs/Settings)] page for more about how to do this.  In the pages of the Complete Guide after the chat command for a menu function you may see a string that looks like this, with the values filled in:  `TOKEN=Attribute~Value`.  This is the settings string for the function you can save to a notecard. The easy way to learn settings is to set your collar as desired, then go to the Settings menu and press Print. 
+Your collar settings can be saved to a settings notecard.  See the [Settings](/docs/Settings) page for more about how to do this.  In the pages of the Complete Guide after the chat command for a menu function you may see a string that looks like this, with the values filled in:  `TOKEN=Attribute~Value`.  This is the settings string for the function you can save to a notecard. The easy way to learn settings is to set your collar as desired, then go to the Settings menu and press Print. 
 
 ### Prefixes
 
@@ -15,7 +15,7 @@ Your default prefix is the first two letters of your user name.  Prefixes direct
 
 **Using your prefix**:  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be /1 jo menu . In this guide we will represent the calls [prefix] menu and so on.
 
-[More About [Prefixes, Chat Commands and Other NonMenu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)]
+[More About [Prefixes, Chat Commands and Other NonMenu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
  
 ## Using Your Collar
 
