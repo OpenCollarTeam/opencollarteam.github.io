@@ -32,23 +32,14 @@ AUTH=trust~[UUID]
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
 > [prefix] public on  
 [prefix] public off  
-[prefix] limit range on/off : limits range for public access.
+[prefix] limit range on/off : limits range for public access.  
+AUTH=public~1/0
 
 ## Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.  
 > [prefix] group on  
-[prefix] group off
-
-## Capture
-*On / Off* When set on, allows anyone to Capture the wearer by taking their leash and gives them an access level similar to Trusted.  "Risky" toggles wearer permission. Capture On/Off cannot be overridden by the wearer when set by an owner.
-
-In addition to Trusted access, the Capture function applies the Refusetp exception.  The wearer's viewer automatically accepts tp offers when he or she is leashed by the Capturer.
-
-> [prefix] capture on  
-[prefix] capture off  
-[prefix] capture info on/off -- turns on or off the recurring chat broadcasting the capture mode  
-[prefix] capture release -- releases the sub from the current capture.  
-[prefix] risky on/off -- turns on and off wearer permission.
+[prefix] group off  
+AUTH=group~[groupuuid]~groupname~[groupname]
 
 ## Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
