@@ -24,7 +24,7 @@ Sets the length of the leash in meters. 1 meter is the minimum length, 20 meters
 >[prefix] length [number]
 
 ## Configure
-In this menu you can change the texture of the leash particles, and also set rlv restrictions on the leashed avatar. 
+In this menu you can change the texture of the leash particles, and also set rlv restrictions on the leashed avatar.  
 ### Strict  
 When checked, sets tp restrictions on the wearer when leashed (owner is exempted by default):  
 > fly (unable to fly)  
@@ -44,3 +44,5 @@ When checked turns off the leash particles.  See Follow in the leash menu.
 In this menu you can change the size and weight of the leash.  **Bigger | Smaller** changes the size of the particles; **Heavier | Lighter** changes the arc of the particles.  
 #### Color  
 Here you can select the desired color of the leash particles.
+
+**Customizing note**  You can add your own textures to the leash.  There are two classes of texture, Classic and Ribbon.  Rename your texture starting with either !ribbon" or "!classic"; for instance, . Drop them into the root prim which also contains the oc_particle script.
