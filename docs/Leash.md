@@ -26,7 +26,7 @@ Sets the length of the leash in meters. 1 meter is the minimum length, 20 meters
 ## Configure
 In this menu you can change the texture of the leash particles, and also set rlv restrictions on the leashed avatar.  
 
-**Customizing note**  You can add your own textures to the leash.  There are two classes of texture, Classic and Ribbon.  Rename your texture starting with either `!ribbon` or `!classic`; for instance, `!ribbon_rope` for a rope texture.  Drop the renamed texture into the root prim which also contains the oc_particle script.  
+**Customizing note**  You can add your own textures to the leash.  There are two classes of texture, Classic and Ribbon.  Rename your texture starting with either `!ribbon` or `!classic`; for instance, `!ribbon_rope` will show up in the Leash > Configure menu as "Rope".  Drop the renamed texture into the root prim which also contains the oc_particle script.  
 
 ### Strict  
 When checked, sets tp restrictions on the wearer when leashed (owner is exempted by default):  
