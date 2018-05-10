@@ -51,7 +51,7 @@ If you don't have an object you want to use as the base for your collar you can 
 ## Name your prims
 1. Root Prim: Same name as collar.  If you are using a sparate named leash point this can be the collar band. Otherwise position the root prim where you want the leash particles to emit from.
 2. Cylinder Prims:  Stack them vertically inside the collar, name the top prim Animator, and the bottom prim Settings. The top and bottom cylinder prims should be just visible above and below the collar. This is for ease in accessing these prims while the collar is worn on the neck.
-3. Name the middle cylinder Floattext and in the description field put: `FloatText~notexture~nocolor~nohide~noshiny~noglow`.  This prim is required for the titler app.  If your collar has a bell, name the bell prim Bell and put in the description field: Bell~noshiny.
+3. Name the middle cylinder Floattext and in the description field put: `FloatText~notexture~nocolor~nohide~noshiny~noglow`.  This prim is required for the titler app.  If your collar has a bell, name the bell prim Bell and put in the description field: Bell~noshiny.  
 4.Remaining prims: One has same name as collar or just leave it as "Object"; another is named Authorizer, the third is named RLV.
 5.If using a separate leashpoint, name it Leashpoint and position it where you want the leash particles to emit from.
 6.Link the prims, linking all the other prims to the root prim last.
