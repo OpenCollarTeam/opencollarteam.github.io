@@ -84,7 +84,7 @@ Beach Club
 
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys
-[http://maps.secondlife.com/secondlife/Pirandello%20Bay/92/145/2699]
+[http://maps.secondlife.com/secondlife/Pirandello%20Bay/92/145/2699](http://maps.secondlife.com/secondlife/Pirandello%20Bay/92/145/2699)  
 
 Seth Ock, Griseus Farms  
 roleplay for human livestock, medical play, and alien abductions  
