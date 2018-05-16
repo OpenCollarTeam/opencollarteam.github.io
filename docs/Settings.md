@@ -63,3 +63,5 @@ Global Settings are not linked to any single function but pertain for the entire
 `GLOBAL=safeword~[yoursafeword]` Sets the preferred safeword.  
 
 `GLOBAL=channel~[yourchannel]` Sets the preferred channel.  
+
+`GLOBAL=channel~1,FALSE/TRUE` Sets the channel number (in this case 1) and will set channel 0 to FALSE: The collar does not listen on channel 0; or TRUE: The collar does listen on channel 0.
