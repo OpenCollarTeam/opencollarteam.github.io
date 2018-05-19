@@ -17,6 +17,7 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [Animations](/docs/Animations) 
 * [Leash](/docs/Leash)
 * [RLV](/docs/RLV)  
+* [Relay](/docs/Relay)
 * [Apps](/docs/Apps)
 * [Settings](/docs/Settings)
 * [[Help / About](/docs/Help-About)]
