@@ -39,15 +39,11 @@ Dungeon roleplay, female nudity enforced
 
 Gatatem, Beautiful Nightmares     
 BDSM Sim and Club    
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/188/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/188/1003)  
 
 girlyimp, Poppy's Hangout  
 Playground  
-[http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)  
-
-Harper Lablatt, Dark Tide  
-Roleplay and Playground.  Abduction and rape roleplay, human avatars only.  Public zone open to all adult avatars.  
-[http://maps.secondlife.com/secondlife/Radikal/112/240/1000](http://maps.secondlife.com/secondlife/Radikal/112/240/1000)  
+[http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)   
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
@@ -57,10 +53,6 @@ Hoodoo Usher, Damsel Bondage Club and Rambling Rose
 Furry Friendly Bondage Clubs  
 Rambling Rose  
 [http://maps.secondlife.com/secondlife/Rambling%20Rose/120/98/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)
-
-Juniper1221, Big Bang Mall  
-Shopping Mall  
-[http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33](http://maps.secondlife.com/secondlife/Big%20Bang%20Island/96/78/33)
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
@@ -73,14 +65,6 @@ Club and RLV Playground
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/202/90/49](http://maps.secondlife.com/secondlife/Tovaris/202/90/49)  
-
-Oceandog Mubble, The Silver Shard  
-Medieval Fantasy Roleplay  
-[http://maps.secondlife.com/secondlife/Silver%20Shard/121/70/502](http://maps.secondlife.com/secondlife/Silver%20Shard/121/70/502)
-
-Rufusjack, The Unowned  
-Beach Club  
-[http://maps.secondlife.com/secondlife/Ringo/49/39/26](http://maps.secondlife.com/secondlife/Ringo/49/39/26)
 
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys  
@@ -113,10 +97,6 @@ Weard Welty, Xegul
 Roleplay, RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
 
-Victor Star (victor2274), Sex Soft & Wet Adult Voice Beach  
-Beach sex and afk club  
-[http://maps.secondlife.com/secondlife/Liraffe/232/118/21](http://maps.secondlife.com/secondlife/Liraffe/232/118/21)  
-
 # List of Design Partners
 
 These distributors not only give out the free OpenCollar release, but also sell
@@ -144,11 +124,6 @@ Inworld Roleplay and shop:
 [http://slurl.com/secondlife/PoD%20BDSM%20Resort/81/123/48/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
 Cele'Sations    
 Marketplace: https://marketplace.secondlife.com/stores/81530  
-
-Cissy March, CM Creations, The Dungeon @ Dating  
-Collars, Jewelry, Clothing, Furniture  
-Dungeon Roleplay  
-[http://maps.secondlife.com/secondlife/Dating/127/237/1989](http://maps.secondlife.com/secondlife/Dating/127/237/1989)
 
 crashnoww, RealEvil Industries  
 Modern and classic female and male collars, high quality 100% original mesh, ranging from 199 to 599L  
@@ -184,8 +159,7 @@ Inworld Shop:
 Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
 
 Lukai Zufreur, Sergaltech Industries  
-Roleplay, Lifestyle Seminars, Shop  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Exit/220/226/22](http://maps.secondlife.com/secondlife/Exit/220/226/22)  
+Roleplay, Lifestyle Seminars, Shop   
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
