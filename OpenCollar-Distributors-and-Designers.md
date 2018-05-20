@@ -93,7 +93,7 @@ Toy Wylie, Wylieville, Toy's Toys
 Inworld Playground and Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)
 
-Victor2274, Adult Ads & Information Hub 
+Victor2274, Adult Ads & Information Hub  
 Shops, Ad Boards, Information, and Sandbox  
 [http://maps.secondlife.com/secondlife/Wildflower%20Mountain/163/167/22](http://maps.secondlife.com/secondlife/Wildflower%20Mountain/163/167/22)  
 
