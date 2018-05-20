@@ -189,7 +189,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketpl
 xx Reyes, slutware  
 Free collar designs for themed roleplay environments    
 Inworld Shop:  
-[http://maps.secondlife.com/secondlife/Mama%20Allpa/164/241/38](http://maps.secondlife.com/secondlife/Mama%20Allpa/164/241/38)  
+[http://maps.secondlife.com/secondlife/Mama%20Allpa/120/10/3502](http://maps.secondlife.com/secondlife/Mama%20Allpa/120/10/3502)  
 
 xxsaltandpepperxx, Salt & Pepper and The Birdcage  
 Inworld Shops  
