@@ -127,7 +127,13 @@ OpenCollar scripted accessories 99-299L
 Inworld Roleplay and shop: 
 [http://slurl.com/secondlife/PoD%20BDSM%20Resort/81/123/48/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
 Cele'Sations    
-Marketplace: https://marketplace.secondlife.com/stores/81530  
+Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
+
+Cissymarch, Sweet Domination Palace  
+Shop, Club, Playground  
+Mesh Collar and Cuff Sets from 299L  
+[http://maps.secondlife.com/secondlife/Playboy/102/145/2002](http://maps.secondlife.com/secondlife/Playboy/102/145/2002)  
+Marketplace:  [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936) 
 
 crashnoww, RealEvil Industries  
 Modern and classic female and male collars, high quality 100% original mesh, ranging from 199 to 599L  
