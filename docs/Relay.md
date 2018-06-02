@@ -16,7 +16,7 @@ Requires scripted objects to send a request before applying restrictions.  Toggl
 When Ask mode is set, and the wearer is trapped through the relay, a menu appears with these options:  
 
 <div style="width: 100%; text-align: center;">
-<img src="/static/relayask.png" width="200" style="margin: 20px auto;" />
+<img src="/static/relayask.png" width="300" style="margin: 20px auto;" />
 </div>
 
 ### Auto  
