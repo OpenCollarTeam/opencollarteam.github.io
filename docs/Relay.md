@@ -11,9 +11,10 @@ What is a relay?  The RLV permissions in your viewer are inactive until they are
 
 ### Trusted  
 Restricts use of the relay to avatars on the Access List.  Toggles with Ask and Auto.  
-To add avatars to the Trusted list:  Set your relay to Ask. Then trigger a request from the desired object.  The Ask dialog will give an option to add the source or its owner to the Trusted or Block List.  
 ### Ask 
-Requires scripted objects to send a request before applying restrictions.  Toggles with Trusted and Auto.
+Requires scripted objects to send a request before applying restrictions.  Toggles with Trusted and Auto.  
+When Ask mode is set, and the wearer is trapped through the relay, a menu appears with these options:  
+
 ### Auto  
 Allows objects to apply restrictions automatically without a prior request.  Toggles with Trusted and Ask.
 ### Off  
