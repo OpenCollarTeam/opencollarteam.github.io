@@ -19,7 +19,7 @@ When Ask mode is set, and the wearer is trapped through the relay, a menu appear
 <img src="/static/relayask.png" width="300" style="margin: 20px auto;" />
 </div>
 
-These options allow the wearer to select the object or its owner as "trusted" on the relay, or blocked on the relay; that is, they will be permitted to autotrap, overriding the "ask" step; or requests from them will be blocked. If the particular trap is scripted to send the user UUID, the relay will also show options to trust or block the user of the trap.  **This is distinct from the "Trusted" setting above, it merely exempts certain objects and object owners from "Ask" when "Ask" mode is set.** Setting for this is `RELAY=trustav~[UUID]`.
+These options allow the wearer to select the object or its owner as "trusted" on the relay, or blocked on the relay; that is, they will be permitted to autotrap, overriding the "ask" step; or requests from them will be blocked. If the particular trap is scripted to send the user UUID, the relay will also show options to trust or block the user of the trap.  **This is distinct from the "Trusted" setting above, it merely exempts certain objects and object owners from "Ask" when "Ask" mode is set.** Setting for this is `RELAY=trustav~[UUID]~trustobj~[UUID]` or `RELAY=blockav~[UUID}~blockobj~[UUID]`.
 
 ### Auto  
 Allows objects to apply restrictions automatically without a prior request.  Toggles with Trusted and Ask.
