@@ -10,7 +10,7 @@ This menu includes single poses.  Several full perm single poses are included in
 You can call each pose directly:
 >[prefix] [posename]
 
-You can adjust the height of each pose by pushing the up and down arrows in the menu while the pose is active.
+You can adjust the height of each pose by pushing the up and down arrows in the menu while the pose is active. The height adjustments need RLV to work.
 
 **Building Note**:  You can easily add poses to the collar.  Make sure your animation is copy or trans matching the collar permission. Name your animation something short and unique. DO NOT give the animation the same name as animations likely to be in the updater or your animations will be overwritten on update. Find the Animator prim in Edit Linked. Drag your animations into the contents of the Animator prim. OR drag the animations into the root prim and use the chat command to move them to Animator:
 
