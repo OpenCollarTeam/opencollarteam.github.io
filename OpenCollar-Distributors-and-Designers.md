@@ -17,6 +17,10 @@ Broken Swords, Valnor
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)
 
+Carrie Jestyr, BDSM Elite Lifestyles  
+Forced Sex and Bondage Playground  
+[http://maps.secondlife.com/secondlife/Miami%20District/251/59/20](http://maps.secondlife.com/secondlife/Miami%20District/251/59/20)  
+
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
