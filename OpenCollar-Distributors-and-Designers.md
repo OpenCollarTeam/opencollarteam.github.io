@@ -159,10 +159,10 @@ Collar Accessories
 [http://maps.secondlife.com/secondlife/Soobit/171/18/31](http://maps.secondlife.com/secondlife/Soobit/171/18/31)  
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
 
-Gatatem, Catspaw Creations    
-Designer collars from Free to 499L  
+Gatatem, Habib Creations    
+Free designer collars  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/33/113/1003)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/67/100/25](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/67/100/25)  
 
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
