@@ -109,6 +109,12 @@ Weard Welty, Xegul
 Roleplay, RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
 
+Windrunner Shan, Fusion by the Sea  
+Beach, Sailing, Blake Sea Access  
+[http://maps.secondlife.com/secondlife/Kasparov/179/201/1202](http://maps.secondlife.com/secondlife/Kasparov/179/201/1202
+)
+
+
 # List of Design Partners
 
 These distributors not only give out the free OpenCollar release, but also sell
