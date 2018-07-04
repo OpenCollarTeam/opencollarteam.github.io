@@ -75,10 +75,10 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Amazing, awesome, and overachiever in scripting the dist vendor boards. 
 
 * Cuillin Morane  
-   Temple Helper  
+   User Help  
 
 * Eva Ryan  
-   Temple Helper
+   User Help
 
 * Feline Dagger  
    Numerous collar design contributions:  
@@ -97,7 +97,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Assisted in the development of the current OpenCollar core architecture  
 
 * Jane1066  
-   Temple Helper  
+   User Help  
 
 * Joy Stipe  
     Abnormal collar design contributions:  
@@ -128,7 +128,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Minor bug fixing and new features  
 
 * Rowena Bookmite  
-   Temple Helper  
+   User Help  
 
 * Sandra Merilouto  
    Tries to find Satomi's bugs  
@@ -144,7 +144,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 
 * Silkie Sabra  
    Documentation  
-   Temple Helper  
+   User Help  
 
 * Summer Seale  
     Two collar designs (Midsummer Night and Summer Leaf)  
@@ -160,7 +160,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Contribution of past collar designs
    She managed OpenCollar for several years in trust of the founding directors.
    Scripted and oversaw the development of the current OpenCollar multi-prim core architecture.  
-   And many other things, as there is way too many contributions to put all in one list.  
+   And many other things, as there are way too many contributions to put all in one list.  
   
    (Currently owns VirtualDisgrace).   
 
@@ -171,8 +171,8 @@ This is a list of people who have helped us in some way. They are listed in no o
    Master Huldschinsky (retired but using silentwar Resident now)  
    Heather Calamity  
    AndreaGabriela Reggiane  
-   Marine Kelley
-   Executor Magic
+   Marine Kelley  
+   Executor Magic  
   
 
 And many more  - please contact so we can add more to this page.  And yes, we do thank everyone on this page, and we do thank for their hard work, regardless of current issues. 
