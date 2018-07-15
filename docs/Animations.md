@@ -12,7 +12,7 @@ You can call each pose directly:
 
 You can adjust the height of each pose by pushing the up and down arrows in the menu while the pose is active. The height adjustments need RLV to work.
 
-**Building Note**:  You can easily add poses to the collar.  Make sure your animation is copy or trans matching the collar permission. Name your animation something short and unique. DO NOT give the animation the same name as animations likely to be in the updater or your animations will be overwritten on update. Find the Animator prim in Edit Linked. Drag your animations into the contents of the Animator prim. OR drag the animations into the root prim and use the chat command to move them to Animator:
+**Building Note**:  You can easily add poses to the collar.  Make sure your animation is copy or trans matching the collar permission. Name your animation something short and unique. DO NOT give the animation the same name as animations likely to be in the updater or your animations will be overwritten on update. Find the Animator prim in Edit Linked (use the `<prefix> show animator` command to highlight the Animator prim).  Drag your animations into the contents of the Animator prim. OR drag the animations into the root prim and use a chat command to move them to Animator:
 
 >[prefix] mv anims
 
@@ -40,7 +40,7 @@ Check this to force an erect posture.  Note that the posture lock might interfer
 
 ## Antislide
 
-Check this box and set a pose to allow the sub to walk while a collar pose is active.
+Check this box and set a pose to allow the sub to walk while a collar pose is active.  **This function is not necessary if using the OpenCollar Sub AO, and may conflict with it if both are active**.
 
 To add your own walk to AntiSlide:  Choose a higher priority (such as priority 4 or 5) modifiable walk animation.  Rename it:
 > ~walk_[nameofwalk] .  
