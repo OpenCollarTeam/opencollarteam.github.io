@@ -1,7 +1,7 @@
 # Current version
 We are currently at OpenCollar V7.1 as of 06 March 2018 !
 
-This page covers four ways to update a collar easily: | [From Scratch](Building_from_Scratch) | 3.X or Older | 4.0-6.5 | 6.6-6.7  
+This page covers four ways to update a collar easily: | [From Scratch](#from-scratch-with-collarizer) | 3.X or Older | 4.0-6.5 | 6.6-6.7  
 The Updater listens on channel -7483213; and on -7483214 when updating older collars (3.X)
 
 # Building from Scratch
