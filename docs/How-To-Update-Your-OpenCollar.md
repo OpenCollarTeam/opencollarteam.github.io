@@ -36,12 +36,13 @@ This is a very easy update.
 * The update will begin.
 
 ## V 6.6 to 6.7 
-Some forks of OpenCollar use the Version Six version numbers.  Scripts in these versions from 6.6 and up are designed to prevent users from updating their collars using the OpenCollar update stream, rather than their own fork.  You are completely within your rights as an end user to update your OpenCollar with the current OpenCollar update.  To do so you will need this seeder script: [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/commit/e623fb532b21a2ace6d3d812cc536791361811c4).
-## "Peanut" fork
-The so-called "peanut" collars are not produced by OpenCollar.  They use a fork of OpenCollar scripts and contain no-mod code making it slightly more difficult to update your collar to the original update stream, currently OpenCollar V7.  To update this type of collar you will need scripts provided inworld at either [Social Partner](https://opencollar.cc/OpenCollar-Social-Partner-Locations).  Follow the instructions in the script and in the box.
-
+Some forks of OpenCollar use the Version Six version numbers.  Scripts in these versions from 6.6 and up are designed to prevent users from updating their collars using the OpenCollar update stream, rather than their own fork.  You are completely within your rights as an end user to update your OpenCollar with the current OpenCollar update.  To do so you will need this seeder script: [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/commit/e623fb532b21a2ace6d3d812cc536791361811c4).  
 * Rez or wear the collar.
 * Rez the updater
 * Examine the contents of the collar's root prim and delete the script named oc_root.
 * drop the oc_update_seed script into the root prim of the collar. 
 * Update will begin.
+
+## "Peanut" fork
+The so-called "peanut" collars are not produced by OpenCollar.  They use a fork of OpenCollar scripts and contain no-mod code making it slightly more difficult to update your collar to the original update stream, currently OpenCollar V7.  To update this type of collar you will need scripts provided inworld at either [Social Partner](https://opencollar.cc/OpenCollar-Social-Partner-Locations).  Follow the instructions in the script and in the box.
+
