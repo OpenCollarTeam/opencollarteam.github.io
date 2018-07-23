@@ -170,6 +170,15 @@ Free designer collars
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/67/100/25](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/67/100/25)  
 
+GiannaArmani, Fapple  
+Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.  
+Inworld Shop  
+[http://maps.secondlife.com/secondlife/Elite%20Domination/97/71/2503](http://maps.secondlife.com/secondlife/Elite%20Domination/97/71/2503
+)  
+Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059
+)  
+
+
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
 Inworld shop:  
