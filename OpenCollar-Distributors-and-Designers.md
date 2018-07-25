@@ -143,10 +143,8 @@ Inworld Roleplay and shop:
 Cele'Sations    
 Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
 
-Cissymarch, Sweet Domination Palace  
-Shop, Club, Playground  
-Mesh Collar and Cuff Sets from 299L  
-[http://maps.secondlife.com/secondlife/Playboy/102/145/2002](http://maps.secondlife.com/secondlife/Playboy/102/145/2002)  
+Cissymarch, CM Creations  
+Mesh Collar and Cuff Sets from 299L    
 Marketplace:  [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936) 
 
 crashnoww, RealEvil Industries  
