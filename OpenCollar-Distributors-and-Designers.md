@@ -143,7 +143,7 @@ Inworld Roleplay and shop:
 Cele'Sations    
 Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
 
-Cissymarch, CM Creations  
+Cissy March, CM Creations  
 Mesh Collar and Cuff Sets from 299L    
 Marketplace:  [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936) 
 
