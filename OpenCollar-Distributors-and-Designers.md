@@ -143,8 +143,11 @@ Inworld Roleplay and shop:
 Cele'Sations    
 Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
 
-Cissy March, CM Creations  
-Mesh Collar and Cuff Sets from 299L    
+Cissy March, Sweet Domination Palace  
+BDSM PLayground and meeting place 
+Inworld vendor:  
+[http://maps.secondlife.com/secondlife/Hidden%20Safari/124/127/2501](http://maps.secondlife.com/secondlife/Hidden%20Safari/124/127/2501)  
+CM Creations, Mesh Collar and Cuff Sets from 299L    
 Marketplace:  [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936) 
 
 crashnoww, RealEvil Industries  
