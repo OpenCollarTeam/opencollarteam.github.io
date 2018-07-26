@@ -62,6 +62,10 @@ Lilliemyrle, Will's Preggo Barn
 Breeding and Pregnancy Roleplay  
 [http://maps.secondlife.com/secondlife/Steel%20Horse%20Saloon/131/166/1032](http://maps.secondlife.com/secondlife/Steel%20Horse%20Saloon/131/166/1032)  
 
+Lydiaelle, S&L Storage Facility  
+Bondage Cages, RLV Playground   
+[http://maps.secondlife.com/secondlife/Anjelica/81/121/27](http://maps.secondlife.com/secondlife/Anjelica/81/121/27)  
+
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
