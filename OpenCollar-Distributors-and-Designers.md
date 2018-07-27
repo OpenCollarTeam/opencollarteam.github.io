@@ -13,6 +13,10 @@ Look for this image on the vendor:
 
 # Distributors 
 
+Annarussianmiss, Anna's House of Bondage and Slave Storage  
+bondage roleplay, slave storage, maid service, rubber dolls    
+[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)  
+
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)
@@ -195,6 +199,12 @@ Elegant Texture Change collars and integrated cuff sets, 399L
 Inworld Shop:  
 [http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002](http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002)  
 Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
+
+Lasynda Shichiroji, Dragonfyre Designs  
+Simple Styled Collars for both men and women, free and 100L  
+Inworld Shop:
+[http://maps.secondlife.com/secondlife/McGavet/142/169/3403](http://maps.secondlife.com/secondlife/McGavet/142/169/3403)  
+Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)  
 
 Lukai Zufreur, Sergaltech Industries  
 Roleplay, Lifestyle Seminars, Shop   
