@@ -136,6 +136,12 @@ Inworld shop:
 [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)  
 Marketplace:  [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
 
+AnnarussianMiss, Anna's Bondage Shop Mainstore  
+High quality 3D bondage erotic graphics, bondage collars, shackles, hoods, masks and other restraints from 100L to 450L  
+Inworld shop:  
+[http://maps.secondlife.com/secondlife/Fenfarg%20High/209/151/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/209/151/63)  
+Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)  
+
 Cara Lionheart, Hidden Serenity  
 Shops, Club, Racetrack  
 Inworld shop:  
