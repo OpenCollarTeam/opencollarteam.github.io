@@ -35,7 +35,7 @@ Opens the Outfits menu in the collar.
 # Null Sign
 Opens the Restrictions menu in the collar.
 # Bookmark icon
-Opens the Remote bookmarks menu.
+Opens the Remote bookmarks menu. You can make your own bookmarks and teleport subs without having to add the bookmarks to their collars; however it only works if you have the necessary access to force teleport with bookmarks, which is Owner and Trusted access.
 # Bookmark with plus sign
 Opens the Remote bookmarks terminal.
 # Couples icon
