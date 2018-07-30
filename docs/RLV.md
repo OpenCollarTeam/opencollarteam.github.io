@@ -33,7 +33,14 @@ Lure exempts owner/trusted from a block on the wearer's ability to accept a tele
 refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offers.  When active, the wearer's viewer automatically accepts a tp offer from an owner.  More commonly known as "force TP."  On by default for owners, must be set for trusted.
 
 ## Force Sit
-Opens a menu of nearby objects on which the wearer can be forced to sit.  Does not include Forbid Stand so does not lock the wearer in the sit.
+Opens a menu of nearby objects on which the wearer can be forced to sit.    
+
+### Strict 
+When the "strict" option is checked, the wearer cannot stand when force sat.  If the wearer sits without using a collar force sit, the restriction on stand is not enforced.
+
+### Getup
+When Force Sit is enforced, this button will force the wearer to stand again.
+
 >[prefix] sit (forces the wearer to sit)
 
 >[prefix] stand / standnow (forces the wearer to stand)
