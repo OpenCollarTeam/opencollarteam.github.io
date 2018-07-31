@@ -226,6 +226,14 @@ Psychobabble, Psychobabble Studios
 Free full permission "Stealth" collar  
 Marketplace: [https://marketplace.secondlife.com/stores/107791](https://marketplace.secondlife.com/stores/107791)  
 
+Silent Alchemi, Birth  
+Skins, Tattoos, Jewelry  
+Original mesh collar designs ca. 250L 
+Inworld Shop  
+[http://maps.secondlife.com/secondlife/DLicious/91/241/21](http://maps.secondlife.com/secondlife/DLicious/91/241/21)  
+Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814)  
+
+
 Taylor Paine, Taylor's Toys  
 Alien style collars and traps 50 - 300L  
 Inworld Shop  
