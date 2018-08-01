@@ -29,6 +29,10 @@ Cindy Evanier, Kix Erotix
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
+Countrycat Furse, The Moustrap at Warehouse  
+Urban Roleplay  
+[http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501](http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501)  
+
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)
