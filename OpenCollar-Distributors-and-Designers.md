@@ -19,11 +19,7 @@ bondage roleplay, slave storage, maid service, rubber dolls
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
-[http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)
-
-Carrie Jestyr, BDSM Elite Lifestyles  
-Forced Sex and Bondage Playground  
-[http://maps.secondlife.com/secondlife/Miami%20District/251/59/20](http://maps.secondlife.com/secondlife/Miami%20District/251/59/20)  
+[http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
 
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
@@ -64,11 +60,7 @@ D/s Community, Art Gallery and Theater
 Hoodoo Usher, Damsel Bondage Club and Rambling Rose  
 Furry Friendly Bondage Clubs  
 Rambling Rose  
-[http://maps.secondlife.com/secondlife/Rambling%20Rose/120/98/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)
-
-Lilliemyrle, Will's Preggo Barn  
-Breeding and Pregnancy Roleplay  
-[http://maps.secondlife.com/secondlife/Steel%20Horse%20Saloon/131/166/1032](http://maps.secondlife.com/secondlife/Steel%20Horse%20Saloon/131/166/1032)  
+[http://maps.secondlife.com/secondlife/Rambling%20Rose/120/98/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)   
 
 Lydiaelle, S&L Storage Facility  
 Bondage Cages, RLV Playground   
@@ -112,10 +104,6 @@ Playground
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground and Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)
-
-Victor2274, Adult Ads & Information Hub  
-Shops, Ad Boards, Information, and Sandbox  
-[http://maps.secondlife.com/secondlife/Wildflower%20Mountain/163/167/22](http://maps.secondlife.com/secondlife/Wildflower%20Mountain/163/167/22)  
 
 Weard Welty, Xegul  
 Roleplay, RLV Playground  
