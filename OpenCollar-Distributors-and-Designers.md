@@ -185,7 +185,6 @@ Inworld Shop
 Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059
 )  
 
-
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
 Inworld shop:  
@@ -209,7 +208,7 @@ Roleplay, Lifestyle Seminars, Shop
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
 Narcisse, Entice Fashion  
-Classic style kinky clothing and collars with an edge, 150-300L
+Classic style kinky clothing and collars with an edge, 150-300L  
 Inworld Shop:
 [http://maps.secondlife.com/secondlife/Entice%20Fashion/37/122/28](http://maps.secondlife.com/secondlife/Entice%20Fashion/37/122/28)  
 Marketplace: [https://marketplace.secondlife.com/stores/189951](https://marketplace.secondlife.com/stores/189951)  
