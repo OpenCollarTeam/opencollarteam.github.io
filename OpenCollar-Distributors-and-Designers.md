@@ -208,6 +208,12 @@ Lukai Zufreur, Sergaltech Industries
 Roleplay, Lifestyle Seminars, Shop   
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
+Narcisse, Entice Fashion  
+Classic style kinky clothing and collars with an edge, 150-300L
+Inworld Shop:
+[http://maps.secondlife.com/secondlife/Entice%20Fashion/37/122/28](http://maps.secondlife.com/secondlife/Entice%20Fashion/37/122/28)  
+Marketplace: [https://marketplace.secondlife.com/stores/189951](https://marketplace.secondlife.com/stores/189951)  
+
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
 Inworld Shops (Moderate)    
@@ -224,7 +230,6 @@ Original mesh collar designs ca. 250L
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/DLicious/91/241/21](http://maps.secondlife.com/secondlife/DLicious/91/241/21)  
 Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814)  
-
 
 Taylor Paine, Taylor's Toys  
 Alien style collars and traps 50 - 300L  
