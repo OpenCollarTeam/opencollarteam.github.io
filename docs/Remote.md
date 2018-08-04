@@ -7,6 +7,7 @@ When you add the Remote to an HUD point you get this image on your screen.  This
 </div>
 
 # Gear Icon  
+![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Gear.PNG "Remote Menu")
 This opens the Remote menu where you can add and remove subs.  To add a sub you must already have access to her collar.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.
 #  Square Icon
 # Triangle Icon  
