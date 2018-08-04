@@ -29,6 +29,10 @@ Countrycat Furse, The Moustrap at Warehouse
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501](http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501)  
 
+Cutiebound, Palm Mountain  
+Prison Roleplay  
+[http://maps.secondlife.com/secondlife/Syrah/28/133/52](http://maps.secondlife.com/secondlife/Syrah/28/133/52)  
+
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)
