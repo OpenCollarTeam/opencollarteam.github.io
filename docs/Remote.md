@@ -1,6 +1,4 @@
----
-title: OpenCollar Remote
----
+
 When you add the Remote to an HUD point you get this image on your screen.  This page will go through each icon left to right, top to bottom.
 <div style="width: 100%; text-align: center;">
 <img src="/static/Remote.png" width="100" style="margin: 20px auto;" />
