@@ -6,14 +6,16 @@ When you add the Remote to an HUD point you get this image on your screen.  This
 <img src="/static/Remote.png" width="200" style="margin: 20px auto;" />
 </div>
 
-# Gear Icon ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Gear.PNG "Remote Menu")
-This opens the Remote menu where you can add and remove subs.  To add a sub you must already have access to her collar.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.
-#  Square Icon
-# Triangle Icon  
-#  Box Icon
-This allows you to rez an item from the remote such as a leash post (already loaded in the OpenCollar Remote) or any object you place in the inventory of the Remote.
-# Unsit Icon
-Unsits or Allows sit
+# Remote Menu ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Gear.PNG "Remote Menu")
+The gear icon at the top left opens the Remote menu where you can add, list and remove subs.  To add a sub you must already have access to her collar.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
+# Stop Pose ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/StopAnim.PNG "Stop Pose")   
+The white square icon, top middle, stops a collar animation.
+# Set Pose ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/StartAnim.PNG "Set Pose")  
+The white triangle icon, top right, opens the pose menu to select and enforce a collar single pose.
+#  Rez Inventory ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Rez.PNG "Rez Inventory Item")  
+The box icon, Row 2 left, allows you to rez an item from the remote's inventory such as a leash post (already loaded in the OpenCollar Remote) or any object you have edited into the contents tab of the Remote.  
+# Unsit Icon ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Unsit.PNG "Unsit")
+Unsits the sub.
 # Force Sit Icon
 Force sits the sub in a ground sit and opens a menu of nearby objects to sit her on.  
 #  Link with arrow
