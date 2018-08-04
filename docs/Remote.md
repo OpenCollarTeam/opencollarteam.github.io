@@ -3,7 +3,7 @@ title: OpenCollar Remote
 ---
 When you add the Remote to an HUD point you get this image on your screen.  This page will go through each icon left to right, top to bottom.
 <div style="width: 100%; text-align: center;">
-<img src="/static/Remote.png" width="200" style="margin: 20px auto;" />
+<img src="/static/Remote.png" width="100" style="margin: 20px auto;" />
 </div>
 
 # Remote Menu ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Gear.PNG "Remote Menu")
@@ -38,14 +38,14 @@ The shirt and hanger icon, Row 5 middle, opens the Outfits menu in the collar.  
 The Null icon, Row 5 right, opens the Restrictions menu in the collar.  
 # Bookmarks ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Bookmarks.PNG "Bookmarks")
 The bookmark icon, Row 6 left, opens the Remote bookmarks menu. You can make your own bookmarks and teleport subs without having to add the bookmarks to their collars; however it only works if you have the necessary access to force teleport with bookmarks, which is Owner and Trusted access.
-# Add Bookmark
-Opens the Remote bookmarks terminal.
-# Couples icon
-Opens the Couples animations.  Works if the collar contains the couples animation script.
-# Collar Icon
-Opens the collar main menu.
-# Crowd icon 
-Lists subs and displays the profile pic of the selected sub.
-# Plus / Minus
-Expands and collapses the HUD
+# Add Bookmark ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/AddBookmark.PNG "Add Bookmark")  
+The icon of a bookmark with plus sign, Row 6 middle, takes you directly to the Bookmarks terminal where you can add a name for your location and press Save to add it to your bookmarks; or add a slurl for a destination elsewhere, press Save, then name, then Save again to add it to your bookmarks. 
+# Couples Animations ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Couples.PNG "Couples Animations")
+The icon of two people embracing, Row 6 right, opens the Couples animations menu in the sub's collar. 
+# Collar Main ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Collar.PNG "Collar")
+The collar icon, bottom left, opens the sub's collar main menu.
+# Select ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Select.PNG "Select")
+The icon of three heads, bottom middle, lists and selects your nearby subs and displays the profile pic of the selected sub.
+# Minimize ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Minimize.PNG "Minimize")  
+The minus icon, bottom right, will minimize the remote HUD menu.  When minimized you see a small plus sign you can touch to bring up the full menu again.  
 
