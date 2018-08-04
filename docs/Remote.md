@@ -4,9 +4,13 @@ When you add the Remote to an HUD point you get this image on your screen.  This
 <img src="/static/Remote.png" width="100" style="margin: 20px auto;" />
 </div>  
 ## Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
+
 The gear icon at the top left opens the Remote menu where you can add, list and remove subs.  To add a sub you must already have access to her collar.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
-## Stop Pose ![White Square](https://opencollar.cc/static/StopAnim.PNG "Stop Pose")   
+
+## Stop Pose ![White Square](https://opencollar.cc/static/StopAnim.PNG "Stop Pose") 
+
 The white square icon, top middle, stops a collar animation.
+
 ## Set Pose ![White Triangle](https://opencollar.cc/static/StartAnim.PNG "Set Pose")  
 The white triangle icon, top right, opens the pose menu to select and enforce a collar single pose.
 ##  Rez Inventory ![Box](https://opencollar.cc/static/Rez.PNG "Rez Inventory Item")  
