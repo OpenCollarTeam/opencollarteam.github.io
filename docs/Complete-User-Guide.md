@@ -20,7 +20,8 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [Relay](/docs/Relay)
 * [Apps](/docs/Apps)
 * [Settings](/docs/Settings)
-* [[Help / About](/docs/Help-About)]
+* [Help / About](/docs/Help-About)
+* [Remote](/docs/Remote)
 * [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
 * [How to Update](/docs/How-To-Update-Your-OpenCollar)
 * [How to Build](/docs/How-to-Build-Your-OpenCollar)
