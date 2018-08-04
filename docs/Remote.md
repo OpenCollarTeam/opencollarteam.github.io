@@ -14,31 +14,31 @@ The white square icon, top middle, stops a collar animation.
 The white triangle icon, top right, opens the pose menu to select and enforce a collar single pose.
 #  Rez Inventory ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Rez.PNG "Rez Inventory Item")  
 The box icon, Row 2 left, allows you to rez an item from the remote's inventory such as a leash post (already loaded in the OpenCollar Remote) or any object you have edited into the contents tab of the Remote.  
-# Unsit Icon ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Unsit.PNG "Unsit")
-Unsits the sub.
-# Force Sit Icon ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Sit.PNG "Force Sit") 
-Force sits the sub in a ground sit and opens a menu of nearby objects to sit her on.  
-#  Link with arrow
-Yanks the leash to move a leashed sub closer to you
-# Broken link
-Unleashes the sub
-# Linked Chain
-Leashes the sub
-# Chat Bubble
-Opens the Titler menu in the collar.  Works if the collar has the titler app.
-# Padlock
-Locks the Collar (owner only; others will get an "Access Denied" message)
-# Undress Icon
-Opens the collar "Detach" button in the RLV menu, showing a list of worn items that can be detached from the sub.
-# Folder Icon
-Opens the RLV Folders menu in the collar.
-# Clothing and Hanger Icon
-Opens the Outfits menu in the collar.
-# Null Sign
-Opens the Restrictions menu in the collar.
-# Bookmark icon
-Opens the Remote bookmarks menu. You can make your own bookmarks and teleport subs without having to add the bookmarks to their collars; however it only works if you have the necessary access to force teleport with bookmarks, which is Owner and Trusted access.
-# Bookmark with plus sign
+# Unsit ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/UnSit.PNG "Unsit")
+The seated figure with up arrow, Row 2 middle, forces the sub to stand up from an object or the ground.
+# Force Sit ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Sit.PNG "Force Sit") 
+The seated figure with down arrow, Row 2 right, opens a menu of nearby objects upon which you can force the sub to sit.  
+# Yank ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Yank.PNG "Yank")
+The icon of a chain link with an arrow, Row 3 left, yanks the leash to move a leashed sub closer to you.
+# Unleash ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Unleash.PNG "Unleash")  
+The broken chain icon, Row 3 middle, unleashes the sub.  
+# Leash ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Leash.PNG "Leash")
+The chain icon, Row 3 right, Leashes the sub.
+# Titler ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Titler.PNG "Titler")
+The chat bubble icon, Row 4 left, opens the Titler menu in the collar.  Works only if the sub's collar has a titler app.
+# Lock/Unlock ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Lock.PNG "Lock/Unlock")  
+The padlock icon, Row 4 middle, locks and unlocks the collar (owner only; others will get an "Access Denied" message)
+# Detach ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Detach.PNG "Detach")
+The icon of a figure undressing, Row 4 right, opens the collar "Detach" button in the RLV menu, showing a list of worn items that can be detached from the sub.  
+# #RLV Folders ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Folders.PNG "Folders")
+The folder icon, Row 5 left, opens the #RLV Folders menu in the collar.
+# Outfits ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Outfits.PNG "Outfits")
+The shirt and hanger icon, Row 5 middle, opens the Outfits menu in the collar.  This works only if the sub has set up an Outfits folder.
+# Restrictions ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Restrictions.PNG "Restrictions")  
+The Null icon, Row 5 right, opens the Restrictions menu in the collar.  
+# Bookmarks ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Bookmarks.PNG "Bookmarks")
+The bookmark icon, Row 6 left, opens the Remote bookmarks menu. You can make your own bookmarks and teleport subs without having to add the bookmarks to their collars; however it only works if you have the necessary access to force teleport with bookmarks, which is Owner and Trusted access.
+# Add Bookmark
 Opens the Remote bookmarks terminal.
 # Couples icon
 Opens the Couples animations.  Works if the collar contains the couples animation script.
