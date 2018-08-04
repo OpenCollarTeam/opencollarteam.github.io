@@ -1,4 +1,6 @@
 # OpenCollar Remote
+You can get your OpenCollar Remote from either [Social Partner Location](https://opencollar.cc/OpenCollar-Social-Partner-Locations) -- look for a box near the OpenCollar vendor !
+
 When you add the Remote to an HUD point you get this image on your screen.  This page will go through each icon left to right, top to bottom.
 <div style="width: 100%; text-align: center;">
 <img src="/static/Remote.png" width="100" style="margin: 20px auto;" />
