@@ -16,7 +16,7 @@ The white triangle icon, top right, opens the pose menu to select and enforce a 
 The box icon, Row 2 left, allows you to rez an item from the remote's inventory such as a leash post (already loaded in the OpenCollar Remote) or any object you have edited into the contents tab of the Remote.  
 # Unsit Icon ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Unsit.PNG "Unsit")
 Unsits the sub.
-# Force Sit Icon
+# Force Sit Icon ![alt text](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/static/Sit.PNG "Force Sit") 
 Force sits the sub in a ground sit and opens a menu of nearby objects to sit her on.  
 #  Link with arrow
 Yanks the leash to move a leashed sub closer to you
