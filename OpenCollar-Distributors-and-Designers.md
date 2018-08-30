@@ -66,6 +66,11 @@ Furry Friendly Bondage Clubs
 Rambling Rose  
 [http://maps.secondlife.com/secondlife/Rambling%20Rose/120/98/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)   
 
+Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
+Gay Male AFK Sex Park  
+Vendor area is public, Park is Gay Males Only  
+[http://maps.secondlife.com/secondlife/Mania/55/27/21](http://maps.secondlife.com/secondlife/Mania/55/27/21)  
+
 Lydiaelle, S&L Storage Facility  
 Bondage Cages, RLV Playground   
 [http://maps.secondlife.com/secondlife/Anjelica/81/121/27](http://maps.secondlife.com/secondlife/Anjelica/81/121/27)  
