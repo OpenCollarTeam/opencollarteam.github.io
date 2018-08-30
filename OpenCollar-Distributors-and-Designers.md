@@ -59,12 +59,7 @@ Playground
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
-[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)
-
-Hoodoo Usher, Damsel Bondage Club and Rambling Rose  
-Furry Friendly Bondage Clubs  
-Rambling Rose  
-[http://maps.secondlife.com/secondlife/Rambling%20Rose/120/98/62](http://maps.secondlife.com/secondlife/Rambling%20Rose/128/97/62)   
+[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
 
 Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
 Gay Male AFK Sex Park  
