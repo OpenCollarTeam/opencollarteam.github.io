@@ -33,6 +33,10 @@ Cutiebound, Palm Mountain
 Prison Roleplay  
 [http://maps.secondlife.com/secondlife/Syrah/28/133/52](http://maps.secondlife.com/secondlife/Syrah/28/133/52)  
 
+Dianna Loxely, SM-Garten, Freedom Continent  
+German BDSM Community, RP and Playground    
+[http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/205/118/25](http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/205/118/25)  
+
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)
