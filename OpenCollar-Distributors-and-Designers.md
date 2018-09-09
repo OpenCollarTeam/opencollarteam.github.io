@@ -1,7 +1,7 @@
 ---
 title: OpenCollar Distributors and Designers 
 ---
-Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date.  
+Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date. The slurls are as close as possible to the vendor; you may have to use Area Search or follow the red map arrow to get there from a fixed landing point. 
 Looking for a unique collar design? Go here: [Design Partners](#list-of-design-partners)  
 How Do I Apply to be a Distributor or Design Partner? Look here! [Application](#opencollar-partners-application-form)  
 
@@ -69,7 +69,7 @@ Playground, Club
 
 Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
 Gay Male AFK Sex Park  
-Vendor area is public, Park is Gay Males Only  
+**Advisory** Vendor area is public, Park is Gay Males Only  
 [http://maps.secondlife.com/secondlife/Mania/55/27/21](http://maps.secondlife.com/secondlife/Mania/55/27/21)  
 
 Lydiaelle, S&L Storage Facility  
@@ -82,15 +82,15 @@ Shop, Playground and Club
 
 Mslarah, Larah's Playground  
 Club and RLV Playground  
-[http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/189/39/23)  
+[http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/178/38/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/178/38/23)  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
-[http://maps.secondlife.com/secondlife/Tovaris/202/90/49](http://maps.secondlife.com/secondlife/Tovaris/202/90/49) 
+[http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49) 
 
 seekingu, Breeder's Forest  
 Breeding and milking RP  
-[http://maps.secondlife.com/secondlife/Wunder%20Land/164/169/1102](http://maps.secondlife.com/secondlife/Wunder%20Land/164/169/1102)  
+[http://maps.secondlife.com/secondlife/Wunder%20Land/167/134/1102](http://maps.secondlife.com/secondlife/Wunder%20Land/167/134/1102)  
 
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys  
@@ -98,7 +98,7 @@ Sim wide dungeon on 7 levels with some of SL's greatest RLV toys
 
 Seth Ock, Griseus Farms  
 roleplay for human livestock, medical play, and alien abductions  
-[http://maps.secondlife.com/secondlife/CrAzYToWn/61/190/24](http://maps.secondlife.com/secondlife/CrAzYToWn/61/190/24)  
+[http://maps.secondlife.com/secondlife/CrAzYToWn/56/202/21](http://maps.secondlife.com/secondlife/CrAzYToWn/56/202/21)  
 
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
@@ -149,7 +149,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/142444](https://marketp
 AnnarussianMiss, Anna's Bondage Shop Mainstore  
 High quality 3D bondage erotic graphics, bondage collars, shackles, hoods, masks and other restraints from 100L to 450L  
 Inworld shop:  
-[http://maps.secondlife.com/secondlife/Fenfarg%20High/209/151/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/209/151/63)  
+[http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
 Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)  
 
 Cara Lionheart, Hidden Serenity  
@@ -161,6 +161,7 @@ Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
 
 Celestrea Vasiliov, PoD Slave Auction  
 Slave Auction roleplay  
+**Advisory** it's difficult to find the "Market" where the vendor is from the region fixed landing point.  Use the teleporter to the "rezz area" and look for the Market building.  
 OpenCollar scripted accessories 99-299L  
 Inworld Roleplay and shop: 
 [http://slurl.com/secondlife/PoD%20BDSM%20Resort/81/123/48/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
