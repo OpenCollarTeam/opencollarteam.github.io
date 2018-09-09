@@ -23,6 +23,7 @@ Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)
 
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
+**Advisory** Clothing is required in shop.  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
 Countrycat Furse, The Moustrap at Warehouse  
