@@ -26,6 +26,10 @@ Shopping Mall
 **Advisory** Clothing is required in shop.  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
+Cissy March, Sweet Domination Palace  
+BDSM Playground and meeting space  
+[http://maps.secondlife.com/secondlife/Strength/132/118/2501](http://maps.secondlife.com/secondlife/Strength/132/118/2501)  
+
 Countrycat Furse, The Moustrap at Warehouse  
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501](http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501)  
@@ -167,13 +171,6 @@ Inworld Roleplay and shop:
 [http://slurl.com/secondlife/PoD%20BDSM%20Resort/81/123/48/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
 Cele'Sations    
 Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
-
-Cissy March, Sweet Domination Palace  
-BDSM PLayground and meeting place 
-Inworld vendor:  
-[http://maps.secondlife.com/secondlife/Hidden%20Safari/124/127/2501](http://maps.secondlife.com/secondlife/Hidden%20Safari/124/127/2501)  
-CM Creations, Mesh Collar and Cuff Sets from 299L    
-Marketplace:  [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936) 
 
 crashnoww, RealEvil Industries  
 Modern and classic female and male collars, high quality 100% original mesh, ranging from 199 to 599L  
