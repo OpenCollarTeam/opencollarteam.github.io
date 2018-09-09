@@ -161,7 +161,7 @@ Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
 
 Celestrea Vasiliov, PoD Slave Auction  
 Slave Auction roleplay  
-**Advisory** it's difficult to find the "Market" where the vendor is from the region fixed landing point.  Use the teleporter to the "rezz area" and look for the Market building.  
+**Advisory** Vendor near landing point.  Use the teleporter to the "rezz area" and look for the Market building to find more free designs.  
 OpenCollar scripted accessories 99-299L  
 Inworld Roleplay and shop: 
 [http://slurl.com/secondlife/PoD%20BDSM%20Resort/81/123/48/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
