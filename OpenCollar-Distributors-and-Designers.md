@@ -57,7 +57,7 @@ BDSM Sim and Club
 
 girlyimp, Poppy's Hangout  
 Playground  
-[http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009](http://maps.secondlife.com/secondlife/Horizon%20Island/94/23/3009)   
+[http://maps.secondlife.com/secondlife/Horizon%20Island/90/10/3010](http://maps.secondlife.com/secondlife/Horizon%20Island/90/10/3010)   
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
