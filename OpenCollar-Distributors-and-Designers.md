@@ -113,6 +113,10 @@ Sylta Marabana, Lausanne
 Playground  
 [http://maps.secondlife.com/secondlife/Lausanne/165/26/2401](http://maps.secondlife.com/secondlife/Lausanne/165/26/2401)
 
+Sxybytch, Erotic Rose BDSM Playground  
+Playground and Club  
+[http://maps.secondlife.com/secondlife/Shadow%20Springs/93/18/30](http://maps.secondlife.com/secondlife/Shadow%20Springs/93/18/30)  
+
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground and Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)
