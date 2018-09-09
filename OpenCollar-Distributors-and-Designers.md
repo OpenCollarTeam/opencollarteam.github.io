@@ -65,6 +65,10 @@ HaydenPryce, Xaara
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
 
+Inushafan4, StickIt Sex Sim  
+Playground, Club  
+[http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34](http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34)  
+
 Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
 Gay Male AFK Sex Park  
 Vendor area is public, Park is Gay Males Only  
