@@ -133,9 +133,7 @@ Roleplay, RLV Playground
 
 Windrunner Shan, Fusion by the Sea  
 Beach, Sailing, Blake Sea Access  
-[http://maps.secondlife.com/secondlife/Kasparov/179/201/1202](http://maps.secondlife.com/secondlife/Kasparov/179/201/1202
-)
-
+[http://maps.secondlife.com/secondlife/Kasparov/179/201/1202](http://maps.secondlife.com/secondlife/Kasparov/179/201/1202)
 
 # List of Design Partners
 
@@ -172,6 +170,11 @@ Inworld Roleplay and shop:
 Cele'Sations    
 Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
 
+Cissy March, CM Creations  
+Elegant Collars for men, women and hucows from 49 - 299L  
+Inworld Shop [https://maps.secondlife.com/secondlife/Strength/132/172/2501](https://maps.secondlife.com/secondlife/Strength/132/172/2501)  
+Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936)  
+
 crashnoww, RealEvil Industries  
 Modern and classic female and male collars, high quality 100% original mesh, ranging from 199 to 599L  
 Inworld Shop  
@@ -196,38 +199,30 @@ Inworld Shop
 GiannaArmani, Fapple  
 Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Elite%20Domination/97/71/2503](http://maps.secondlife.com/secondlife/Elite%20Domination/97/71/2503
-)  
-Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059
-)  
+[http://maps.secondlife.com/secondlife/Elite%20Domination/79/71/2504](http://maps.secondlife.com/secondlife/Elite%20Domination/79/71/2504)  
+Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059)  
 
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
 Inworld shop:  
-[http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23](http://maps.secondlife.com/secondlife/Sleepy%20Hill/71/96/23)  
+[http://maps.secondlife.com/secondlife/Sleepy%20Hill/80/100/24](http://maps.secondlife.com/secondlife/Sleepy%20Hill/80/100/24)  
 Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)  
 
 Kristen Minx, Kristen's  
 Elegant Texture Change collars and integrated cuff sets, 399L  
 Inworld Shop:  
-[http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002](http://maps.secondlife.com/secondlife/Tiratardi/94/91/2002)  
+[http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002](http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002)  
 Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
 
 Lasynda Shichiroji, Dragonfyre Designs  
 Simple Styled Collars for both men and women, free and 100L  
 Inworld Shop:
-[http://maps.secondlife.com/secondlife/McGavet/142/169/3403](http://maps.secondlife.com/secondlife/McGavet/142/169/3403)  
+[http://maps.secondlife.com/secondlife/McGavet/141/181/3416](http://maps.secondlife.com/secondlife/McGavet/141/181/3416)  
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)  
 
 Lukai Zufreur, Sergaltech Industries  
 Roleplay, Lifestyle Seminars, Shop   
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
-
-Narcisse, Entice Fashion  
-Classic style kinky clothing and collars with an edge, 150-300L  
-Inworld Shop:
-[http://maps.secondlife.com/secondlife/Entice%20Fashion/37/122/28](http://maps.secondlife.com/secondlife/Entice%20Fashion/37/122/28)  
-Marketplace: [https://marketplace.secondlife.com/stores/189951](https://marketplace.secondlife.com/stores/189951)  
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
