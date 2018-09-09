@@ -44,15 +44,12 @@ Shopping Mall
 
 Dracco Cela, The Enclave   
 Gorean Club and roleplay  
+**Advisory** Landing is open to all, the rest of the roleplay area is members only  
 [http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301)
 
-Ebonfire M. Aslan, Furry Breeding Ground  
+Ebonfire Harbinger, Furry Breeding Ground  
 Furry Hangout  
 [http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25](http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25)
-
-Ethan Darkward, The Naked Dungeon  
-Dungeon roleplay, female nudity enforced  
-[http://maps.secondlife.com/secondlife/Isle%20of%20Pearls/198/25/29](http://maps.secondlife.com/secondlife/Isle%20of%20Pearls/198/25/29)
 
 Gatatem, Beautiful Nightmares     
 BDSM Sim and Club    
@@ -263,12 +260,7 @@ Inworld Shop
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
-Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719)
-
-xx Reyes, slutware  
-Free collar designs for themed roleplay environments    
-Inworld Shop:  
-[http://maps.secondlife.com/secondlife/Mama%20Allpa/120/10/3502](http://maps.secondlife.com/secondlife/Mama%20Allpa/120/10/3502)  
+Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719) 
 
 xxsaltandpepperxx, Salt & Pepper and The Birdcage  
 Inworld Shops  
