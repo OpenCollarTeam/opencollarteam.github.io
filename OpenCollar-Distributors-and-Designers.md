@@ -222,6 +222,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplac
 
 Lukai Zufreur, Sergaltech Industries  
 Roleplay, Lifestyle Seminars, Shop   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Prime%20Treasure/87/97/21](http://maps.secondlife.com/secondlife/Prime%20Treasure/87/97/21)  
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
