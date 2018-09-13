@@ -55,9 +55,9 @@ Ebonfire Harbinger, Furry Breeding Ground
 Furry Hangout  
 [http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25](http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25)
 
-Gatatem, Beautiful Nightmares     
+Gatatem, Caged Elegance     
 BDSM Sim and Club    
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/188/1003](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/188/1003)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000)  
 
 girlyimp, Poppy's Hangout  
 Playground  
@@ -194,7 +194,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketpl
 Gatatem, Habib Creations    
 Free designer collars  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/67/100/25](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/67/100/25)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000)  
 
 GiannaArmani, Fapple  
 Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.  
