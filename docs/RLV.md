@@ -1,6 +1,6 @@
 See in this page:  [Exceptions](#Exceptions) | [Force Sit](#Force_Sit) | [Restrictions](#Restrictions) | [Folders](#Folders)
 
-To call the RLV menu:
+To call the RLV menu: 
 >[prefix] rlv
 
 **NOTE**: RLV (Restrained Love Viewer) is a set of permissions coded into the viewer, that allows other avatars limited control over some viewer functions.  There are several approved [third party viewers](http://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) that allow you to enable / disable RLV. Among the most popular for many users are Firestorm, Restrained Love Viewer, and Singularity.
@@ -19,11 +19,11 @@ Clears all collar RLV restrictions, including those enforced by the relay.  Avai
 Gives a list of occupied attachment points with the names of the objects attached to each.  Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
 >[prefix] detach (opens the "detach" menu)
 
-## Exceptions
+# Exceptions
 
 Here you can set Exceptions to RLV restrictions Owners and Trusted.  Most Exceptions are checked by Default.  Exceptions allow owners and trusted to communicate with you and teleport you when these are otherwise restricted.  When the boxes are checked the Exceptions are enforced.
 
-### List of Exceptions:
+## List of Exceptions:
 
 IM exempts owner/trusted from a block on the wearer's ability to send IMs.  
 RcvIM exempts owner/trusted from a block on the wearer's ability to receive IMs.  
@@ -32,13 +32,13 @@ RcvEmote exempts owner/trusted from a block on the wearer's ability to read emot
 Lure exempts owner/trusted from a block on the wearer's ability to accept a teleport offer.  
 refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offers.  When active, the wearer's viewer automatically accepts a tp offer from an owner.  More commonly known as "force TP."  On by default for owners, must be set for trusted.
 
-## Force Sit
+# Force Sit
 Opens a menu of nearby objects on which the wearer can be forced to sit.    
 
-### Strict 
+## Strict 
 When the "strict" option is checked, the wearer cannot stand when force sat.  If the wearer sits without using a collar force sit, the restriction on stand is not enforced.
 
-### Getup
+## Getup
 When Force Sit is enforced, this button will force the wearer to stand again.
 
 >[prefix] sit (forces the wearer to sit)
@@ -49,7 +49,7 @@ When Force Sit is enforced, this button will force the wearer to stand again.
 
 >[prefix] allow stand (allows standing)
 
-## Restrictions
+# Restrictions
 Opens a menu of restrictions and named suites of related restrictions.  When the boxes are checked, the restrictions are NOT active.  
 >[prefix] restrictions  
 
@@ -78,7 +78,7 @@ This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
 To call the relay menu:
 >[prefix] relay
 
-## Folders
+# Folders
 To call this menu:
 > [prefix] folders
 
