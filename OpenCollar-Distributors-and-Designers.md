@@ -76,6 +76,10 @@ Gay Male AFK Sex Park
 **Advisory** Vendor area is public, Park is Gay Males Only  
 [http://maps.secondlife.com/secondlife/Mania/55/27/21](http://maps.secondlife.com/secondlife/Mania/55/27/21)  
 
+Kathy Hoyes, Slave Land  
+Slave Auction and Matching Service   
+[http://maps.secondlife.com/secondlife/Mostly%20Beatrice/125/209/68](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/125/209/68)  
+
 Lydiaelle, S&L Storage Facility  
 Bondage Cages, RLV Playground   
 [http://maps.secondlife.com/secondlife/Anjelica/81/121/27](http://maps.secondlife.com/secondlife/Anjelica/81/121/27)  
@@ -122,6 +126,10 @@ Playground
 Sxybytch, Erotic Rose BDSM Playground  
 Playground and Club  
 [http://maps.secondlife.com/secondlife/Shadow%20Springs/93/18/30](http://maps.secondlife.com/secondlife/Shadow%20Springs/93/18/30)  
+
+TCDJohn, The Dunes Beach Resort  
+Gay Male Playground and Club  
+[http://maps.secondlife.com/secondlife/Dunes%20Beach%20Resort/95/64/23](http://maps.secondlife.com/secondlife/Dunes%20Beach%20Resort/95/64/23)  
 
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground and Shop  
