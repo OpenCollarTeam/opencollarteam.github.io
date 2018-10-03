@@ -228,6 +228,10 @@ Inworld Shop:
 [http://maps.secondlife.com/secondlife/McGavet/141/181/3416](http://maps.secondlife.com/secondlife/McGavet/141/181/3416)  
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)  
 
+Liviadonata, Livia  
+BDSM Fashion and OpenCollar scripted accessories from 99 - 150L  
+Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketplace.secondlife.com/stores/189812)  
+
 Lukai Zufreur, Sergaltech Industries  
 Roleplay, Lifestyle Seminars, Shop   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Prime%20Treasure/87/97/21](http://maps.secondlife.com/secondlife/Prime%20Treasure/87/97/21)  
