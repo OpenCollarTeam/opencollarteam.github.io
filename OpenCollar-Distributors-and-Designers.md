@@ -125,7 +125,7 @@ Playground
 
 Sxybytch, Erotic Rose BDSM Playground  
 Playground and Club  
-[http://maps.secondlife.com/secondlife/Shadow%20Springs/93/18/30](http://maps.secondlife.com/secondlife/Shadow%20Springs/93/18/30)  
+[http://maps.secondlife.com/secondlife/Bikini%20Bottom/164/227/35](http://maps.secondlife.com/secondlife/Bikini%20Bottom/164/227/35)  
 
 TCDJohn, The Dunes Beach Resort  
 Gay Male Playground and Club  
