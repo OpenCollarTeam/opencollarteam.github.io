@@ -80,6 +80,10 @@ Kathy Hoyes, Slave Land
 Slave Auction and Matching Service   
 [http://maps.secondlife.com/secondlife/Mostly%20Beatrice/125/209/68](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/125/209/68)  
 
+keuschezofe, Angels of Pain  
+BDSM Hangout, Femdom, Pony Play  
+[http://maps.secondlife.com/secondlife/Waterspout/128/129/22](http://maps.secondlife.com/secondlife/Waterspout/128/129/22)  
+
 Lydiaelle, S&L Storage Facility  
 Bondage Cages, RLV Playground   
 [http://maps.secondlife.com/secondlife/Anjelica/81/121/27](http://maps.secondlife.com/secondlife/Anjelica/81/121/27)  
