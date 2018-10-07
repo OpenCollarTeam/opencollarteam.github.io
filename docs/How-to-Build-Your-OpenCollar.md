@@ -17,7 +17,7 @@ oc_settings : Settings.
 
 **Everything else** goes in the root prim: 
 
-REQUIRED CORE.  These scripts are necessary for the collar to work.  
+REQUIRED CORE.  In addition to oc_auth, oc_dialog, and oc_settings which each use their own prim above, these scripts in the root prim are necessary for the collar to work:  
 > oc_sys, oc_com  
 
 INTEGRATED. These scripts can be removed without breaking the collar but have integrated menu functions:  
