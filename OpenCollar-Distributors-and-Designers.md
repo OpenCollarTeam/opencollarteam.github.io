@@ -71,6 +71,10 @@ Inushafan4, StickIt Sex Sim
 Playground, Club  
 [http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34](http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34)  
 
+Jyll1, Lighthouse Events  
+Adult Party Planners  
+[http://maps.secondlife.com/secondlife/Outlaws%20Hideout/233/233/22](http://maps.secondlife.com/secondlife/Outlaws%20Hideout/233/233/22)  
+
 Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
 Gay Male AFK Sex Park  
 **Advisory** Vendor area is public, Park is Gay Males Only  
@@ -112,12 +116,22 @@ Seth Ock, Griseus Farms
 roleplay for human livestock, medical play, and alien abductions  
 [http://maps.secondlife.com/secondlife/CrAzYToWn/56/202/21](http://maps.secondlife.com/secondlife/CrAzYToWn/56/202/21)  
 
+Shan Bright, Bright Corporation  
+Adult shop offering free collars, products and services for all aspects of Second Life   
+Adult Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http://maps.secondlife.com/secondlife/Austerity/16/16/666)  
+Sandbox: [http://maps.secondlife.com/secondlife/Reanna/44/44/77](http://maps.secondlife.com/secondlife/Reanna/44/44/77)   
+
 Silkie Sabra, K-Bar West  
 Western themed D/s roleplay    
 RLV Communities Free Zone, Dance Hall and Sandbox  
 [http://maps.secondlife.com/secondlife/KBar%20West/51/125/24](http://maps.secondlife.com/secondlife/KBar%20West/51/125/24)  
 Mainland Shop  
-[http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)
+[http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)   
+
+sunderezz / Rosa Hunter, Divine Sadism Femdom  
+BDSM training/education/lifestyle, Femdom.  
+[http://maps.secondlife.com/secondlife/OWK%20Empire/1/57/2195](http://maps.secondlife.com/secondlife/OWK%20Empire/1/57/2195)   
+
 
 Susan Caerndow, Dangerous Desires  
 Playground, Hangout, Themed Roleplay  
