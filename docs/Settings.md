@@ -55,6 +55,8 @@ Global Settings are not linked to any single function but pertain for the entire
 
 `GLOBAL=DeviceName~[yourcollarname]` Sets the collar name that shows in collar menus.  Substitute the desired name for `<value>`.  
 
+`GLOBAL=DeviceType~[name of device tyep]` Sets the type of device in messages to something other than "collar" for instance "septum ring" or other.  
+
 `GLOBAL=touchNotify~[1/0]` Turns on and off the collar's notification to the wearer if the collar is touched.  
 
 `GLOBAL=WearerName~[yourname]` Sets the wearer's name in the collar menu. 
