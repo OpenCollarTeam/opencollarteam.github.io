@@ -267,9 +267,9 @@ Marketplace: [https://marketplace.secondlife.com/stores/107791](https://marketpl
 
 Shan Bright, Bright Corporation   
 Free copy trans collar and many other products  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666]  
-Marketplace: [https://marketplace.secondlife.com/stores/8717]  
-Bright Corporation web site: [http://brightcorporation.net/]   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http://maps.secondlife.com/secondlife/Austerity/16/16/666)  
+Marketplace: [https://marketplace.secondlife.com/stores/8717](https://marketplace.secondlife.com/stores/8717)  
+Bright Corporation web site: [http://brightcorporation.net/](http://brightcorporation.net/)   
 
 Silent Alchemi, Birth  
 Skins, Tattoos, Jewelry  
