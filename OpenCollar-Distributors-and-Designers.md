@@ -265,6 +265,12 @@ Psychobabble, Psychobabble Studios
 Free full permission "Stealth" collar  
 Marketplace: [https://marketplace.secondlife.com/stores/107791](https://marketplace.secondlife.com/stores/107791)  
 
+Shan Bright, Bright Corporation   
+Free copy trans collar and many other products  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666]  
+Marketplace: [https://marketplace.secondlife.com/stores/8717]  
+Bright Corporation web site: [http://brightcorporation.net/]   
+
 Silent Alchemi, Birth  
 Skins, Tattoos, Jewelry  
 Original mesh collar designs ca. 250L 
