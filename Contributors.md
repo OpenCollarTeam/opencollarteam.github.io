@@ -76,9 +76,11 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 
 * Cuillin Morane  
    User Help  
+   Group Moderation
 
 * Eva Ryan  
-   User Help
+   User Help  
+   Group Moderation
 
 * Feline Dagger  
    Numerous collar design contributions:  
@@ -144,6 +146,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 
 * Silkie Sabra  
    Documentation  
+   Group Moderation   
    User Help  
 
 * Summer Seale  
@@ -152,6 +155,10 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Various other help and testing for Nandana Singh  
     All around amazing, incredible, and very cute to look at and keep around.  
     Nandana Singh's hot little sex slave.  
+    
+* Takat Su
+    Scripter  
+    Contributed Name2Key functionality
 
 * Wendy Starfall  
    Compiled collars  
