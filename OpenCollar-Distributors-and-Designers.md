@@ -63,6 +63,10 @@ girlyimp, Poppy's Hangout
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/90/10/3010](http://maps.secondlife.com/secondlife/Horizon%20Island/90/10/3010)   
 
+HarperLabatt, Misogyne Club  
+Maledom Roleplay  
+[http://maps.secondlife.com/secondlife/Belisario%20Isle/191/145/33](http://maps.secondlife.com/secondlife/Belisario%20Isle/191/145/33)  
+
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
