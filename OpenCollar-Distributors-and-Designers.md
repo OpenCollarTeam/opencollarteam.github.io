@@ -34,6 +34,10 @@ Countrycat Furse, The Moustrap at Warehouse
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501](http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501)  
 
+Crickett Booker, Dark Side Clubhouse  
+BDSM Club  
+[http://maps.secondlife.com/secondlife/Wanda/63/161/22](http://maps.secondlife.com/secondlife/Wanda/63/161/22)  
+
 Cutiebound, Palm Mountain  
 Prison Roleplay  
 [http://maps.secondlife.com/secondlife/Syrah/28/133/52](http://maps.secondlife.com/secondlife/Syrah/28/133/52)  
