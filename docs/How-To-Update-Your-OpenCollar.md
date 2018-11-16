@@ -9,7 +9,7 @@ We are currently at OpenCollar V7.1 as of 06 March 2018 !
 These are very easy updates.  
 * Rez or wear the collar.
 * Rez the updater.
-* Go to Help / About and Press Udpate
+* Go to Help / About and Press Update
 * The update will begin.
 
 # Building from Scratch
