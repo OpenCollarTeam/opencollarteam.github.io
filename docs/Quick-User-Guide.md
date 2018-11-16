@@ -39,7 +39,7 @@ If you find you must clear an owner, you can do that by pressing the Runaway but
 
 ## About RLV
 
-RLV (Restrained Love Viewer) is a set of permissions coded into the viewer, that allows other avatars limited control over some viewer functions. There are several approved third party viewers that allow you to enable / disable RLV. Among the most popular for many users are Firestorm, Restrained Love Viewer, and Singularity.
+RLV (Restrained Love Viewer) is a set of permissions coded into the viewer, that allows other avatars limited control over some viewer functions. There are several approved third party viewers that allow you to enable / disable RLV. Among the most popular for many users are Firestorm, Restrained Love Viewer, and Singularity. **Please note** turning on RLV alone is not enough to enforce any RLV restrictions in world. For that you need to wear or rez a scripted object you own to invoke those restrictions.  OpenCollar is one of many available RLV scripted objects.
 
 OpenCollar uses RLV to enforce the Collar Lock in the Main Menu.  The rest of the RLV functions in the collar can be found in the RLV menu.  Push Clear All in the RLV menu to clear these restrictions (not available to wearers who are not self owned).  The collar Relay converts RLV commands from objects the wearer does not own. Relay permissions are not affected by the Access settings. See more in the Complete User Guide [RLV](/docs/RLV)and [Relay](/docs/Relay) pages.
 
