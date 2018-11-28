@@ -30,9 +30,9 @@ Cissy March, Sweet Domination Palace
 BDSM Playground and meeting space  
 [http://maps.secondlife.com/secondlife/Strength/132/118/2501](http://maps.secondlife.com/secondlife/Strength/132/118/2501)  
 
-Countrycat Furse, The Moustrap at Warehouse  
+Countrycat Furse, Slavers Warehouse  
 Urban Roleplay  
-[http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501](http://maps.secondlife.com/secondlife/Enchanted%20Isle/155/166/1501)  
+[http://maps.secondlife.com/secondlife/TRUE/81/175/1451](http://maps.secondlife.com/secondlife/TRUE/81/175/1451)  
 
 Crickett Booker, Dark Side Clubhouse  
 BDSM Club  
