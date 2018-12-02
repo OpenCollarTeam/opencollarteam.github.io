@@ -154,10 +154,6 @@ Sylta Marabana, Lausanne
 Playground  
 [http://maps.secondlife.com/secondlife/Lausanne/165/26/2401](http://maps.secondlife.com/secondlife/Lausanne/165/26/2401)
 
-Sxybytch, Erotic Rose BDSM Playground  
-Playground and Club  
-[http://maps.secondlife.com/secondlife/Bikini%20Bottom/180/210/22](http://maps.secondlife.com/secondlife/Bikini%20Bottom/180/210/22)  
-
 TCDJohn, The Dunes Beach Resort  
 Gay Male Playground and Club  
 [http://maps.secondlife.com/secondlife/Dunes%20Beach%20Resort/95/64/23](http://maps.secondlife.com/secondlife/Dunes%20Beach%20Resort/95/64/23)  
