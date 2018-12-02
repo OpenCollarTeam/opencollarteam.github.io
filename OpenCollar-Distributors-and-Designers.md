@@ -15,7 +15,12 @@ Look for this image on the vendor:
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 bondage roleplay, slave storage, maid service, rubber dolls    
-[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)  
+[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)
+
+Aust Darkstone, Darkstone Tower  
+Roleplay in a Skyscraper Community, merging Gorean and modern roleplay.  
+[http://maps.secondlife.com/secondlife/Podul/194/127/115](http://maps.secondlife.com/secondlife/Podul/194/127/115)  
+
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
@@ -28,7 +33,7 @@ Shopping Mall
 
 Cissy March, Sweet Domination Palace  
 BDSM Playground and meeting space  
-[http://maps.secondlife.com/secondlife/Strength/132/118/2501](http://maps.secondlife.com/secondlife/Strength/132/118/2501)  
+[http://maps.secondlife.com/secondlife/Mystic%20Timberland/131/66/2001](http://maps.secondlife.com/secondlife/Mystic%20Timberland/131/66/2001)  
 
 Countrycat Furse, Slavers Warehouse  
 Urban Roleplay  
@@ -206,7 +211,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketpla
 
 Cissy March, CM Creations  
 Elegant Collars for men, women and hucows from 49 - 299L  
-Inworld Shop [https://maps.secondlife.com/secondlife/Strength/132/172/2501](https://maps.secondlife.com/secondlife/Strength/132/172/2501)  
+Inworld Shop [http://maps.secondlife.com/secondlife/Mystic%20Timberland/120/67/2001](http://maps.secondlife.com/secondlife/Mystic%20Timberland/120/67/2001)  
 Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936)  
 
 crashnoww, RealEvil Industries  
