@@ -14,7 +14,7 @@ Look for this image on the vendor:
 # Distributors 
 
 Aisha Marshdevil, Rubber Kingdom  
-fetish, rubber, bondage roleplay and playground  
+Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
 [http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22](http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22)  
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
