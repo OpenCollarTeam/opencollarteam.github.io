@@ -13,6 +13,10 @@ Look for this image on the vendor:
 
 # Distributors 
 
+Aisha Marshdevil, Rubber Kingdom  
+fetish, rubber, bondage roleplay and playground  
+[http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22](http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22)  
+
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 bondage roleplay, slave storage, maid service, rubber dolls    
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)
@@ -366,7 +370,7 @@ Marketplace Storefront URL:
 
 Creator/Shop Name:
 
-Version of OpenCollar in your products: 
+Sample of a completed product using the current version of OpenCollar: 
 
 Brief description of your styles and price range: 
 
