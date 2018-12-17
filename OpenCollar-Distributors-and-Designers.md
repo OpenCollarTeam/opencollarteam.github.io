@@ -181,6 +181,10 @@ their own OpenCollar-powered creations.  If you're a designer who would like to
 be featured in this list, paste the application form below into a notecard, fill
 it out, and send it to Silkie Sabra inworld.
 
+Allisonkrause, Devious Rose  
+Mesh Collars and Cuffs from 250L to 999L  
+Inworld Shop: [https://marketplace.secondlife.com/stores/197730]9https://marketplace.secondlife.com/stores/197730)  
+
 Animaldj, CODEX  
 BDSM Style Fashion and Accessories from 200L to 450L      
 Inworld shop:  
