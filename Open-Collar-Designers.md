@@ -2,7 +2,7 @@
 title: OpenCollar Designers 
 ---
 
-These Designers make many different collar designs in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!
+These Official Design Partners make many different collar designs in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!
 
 Allisonkrause, Devious Rose  
 Mesh Collars and Cuffs from 250L to 999L  
@@ -138,12 +138,12 @@ Inworld Shops
 classic feminine styles, high quality mesh, pricing around 500L  
 Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
 
-# OpenCollar Partners Application Form
+# OpenCollar Design Partners Application Form
 
 Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to Silkie Sabra inworld.
-OpenCollar Official Design Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar-based products.  
+OpenCollar Official Design Partners are listed on this page, and we'll refer users to it when they inquire about where to find OpenCollar-based products.  
 
-To qualify as an OpenCollar Official Partner, collar designers agree to the following*:
+To qualify as an OpenCollar Official Design Partner, collar designers agree to the following*:
 
 --Requirements
     
