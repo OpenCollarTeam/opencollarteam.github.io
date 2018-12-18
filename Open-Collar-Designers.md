@@ -1,5 +1,5 @@
 ---
-title: OpenCollar Distributors 
+title: OpenCollar Designers 
 ---
 
 These Designers make many different collar designs in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!
