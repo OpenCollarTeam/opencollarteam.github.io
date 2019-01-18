@@ -43,6 +43,21 @@ Some forks of OpenCollar use the Version Six version numbers.  Scripts in these 
 * drop the oc_update_seed script into the root prim of the collar. 
 * Update will begin.
 
-## "Peanut" fork
-The so-called "peanut" collars are not produced by OpenCollar.  They use a fork of OpenCollar scripts and contain no-mod code making it slightly more difficult to update your collar to the original update stream, currently OpenCollar V7.  To update this type of collar you will need scripts provided inworld at either [Social Partner](https://opencollar.cc/OpenCollar-Social-Partner-Locations).  Follow the instructions in the script and in the box.
+## Why can't my collar be updated?
+Some third party collars block the use of an OpenCollar V7 updater even though some or all of the collar scripts may be derived from OpenCollar.  If the scripts in your collar do not start with the prefix oc_ (as in oc_auth, oc_com, oc_anim, etc.) then they will not be replaced by the updater and the update process will not work. If you still want to keep the collar model, and it is copy/mod, a little time and effort will still pay off. 
 
+## Manual Update
+To update your collar manually: 
+* Open the updater like a box and copy the contents to your inventory.  You now have copies of all the scripts and other resources you need. You don't need the scripts and BUNDLE notecards that are used for the installer/updater itself.   
+List of scripts that go in your collar:  
+** Root prim: oc_bell (if your collar has a bell), oc_bookmarks, oc_capture, oc_com, oc_exceptions, oc_folders, oc_label or oc_meshlabel (if your collar uses an opencollar scripted label), oc_leash, oc_meshthemes OR oc_themes (if your collar has themes for mesh or standard prims), oc_particle, oc_relay, oc_resizer, oc_rlvsuite, oc_sys, oc_titler (if your collar has a floattext prim for a titler/hovertext).  
+** Animator prim:  oc_anim, oc_couples.   
+** Authorizer prim:  oc_auth.   
+** Dialog prim (this one is named the same as your collar): oc_dialog.   
+** RLV prim:  oc_rlvsys  
+** Settings prim: oc_settings.   
+* Unlock your collar or rez a copy of your collar on the ground.
+* Locate the scripted child prims in your collar,  
+* Delete the scripts you find in there but not the other resources such as notecards and animations.
+* Replace the scripts in each prim with the corresponding OpenCollar scripts.  
+Consult [How To Build your OpenCollar](https://opencollar.cc/docs/How-to-Build-Your-OpenCollar) for more details and illustrations.
