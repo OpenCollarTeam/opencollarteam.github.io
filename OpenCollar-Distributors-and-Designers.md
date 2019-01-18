@@ -154,9 +154,9 @@ Susan Caerndow, Dangerous Desires
 Playground, Hangout, Themed Roleplay  
 [http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31](http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31)  
 
-Sylta Marabana, Lausanne  
+Sylta Marabana, S&W Playground  
 Playground  
-[http://maps.secondlife.com/secondlife/Lausanne/165/26/2401](http://maps.secondlife.com/secondlife/Lausanne/165/26/2401)
+[http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)
 
 TCDJohn, The Dunes Beach Resort  
 Gay Male Playground and Club  
