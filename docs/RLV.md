@@ -1,4 +1,4 @@
-See in this page:  [Exceptions](#Exceptions) | [Force Sit](#Force_Sit) | [Restrictions](#Restrictions) | [Folders](#Folders)
+See in this page:  [Exceptions](#Exceptions) | [Force Sit](#Force-Sit) | [Restrictions](#Restrictions) | [Folders](#Folders) 
 
 To call the RLV menu: 
 >[prefix] rlv
