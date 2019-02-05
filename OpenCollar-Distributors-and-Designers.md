@@ -138,12 +138,14 @@ Adult shop offering free collars, products and services for all aspects of Secon
 Adult Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http://maps.secondlife.com/secondlife/Austerity/16/16/666)  
 Sandbox: [http://maps.secondlife.com/secondlife/Reanna/44/44/77](http://maps.secondlife.com/secondlife/Reanna/44/44/77)   
 
-Silkie Sabra, K-Bar West  
-Western themed D/s roleplay    
+Silkie Sabra  
+K-Bar West (Western themed D/s roleplay)    
 RLV Communities Free Zone, Dance Hall and Sandbox  
 [http://maps.secondlife.com/secondlife/KBar%20West/51/125/24](http://maps.secondlife.com/secondlife/KBar%20West/51/125/24)  
 Mainland Shop  
 [http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)   
+Bondage Ranch (Hangout, Hunting Ground, BDSM roleplay)  
+[http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)  
 
 sunderezz / Rosa Hunter, Divine Sadism Femdom  
 BDSM training/education/lifestyle, Femdom.  
