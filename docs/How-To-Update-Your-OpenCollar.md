@@ -44,7 +44,13 @@ Some forks of OpenCollar use the Version Six version numbers.  Scripts in these 
 * Update will begin.
 
 ## Why can't my collar be updated?
-Some third party collars block the use of an OpenCollar V7 updater even though some or all of the collar scripts may be derived from OpenCollar.  If the scripts in your collar do not start with the prefix oc_ (as in oc_auth, oc_com, oc_anim, etc.) then they will not be replaced by the updater and the update process will not work. If you still want to keep the collar model, and it is copy/mod, a little time and effort will still pay off. 
+Some third party collars block the use of an OpenCollar V7 updater even though some or all of the collar scripts may be derived from OpenCollar.  To update these collars it is first necessary to delete the scripts, then use the collarizer method.
+1. Rez the collar. 
+2. Right click and edit the collar. 
+3. In the Build Menu > Scripts > Select "remove scripts from selection." 
+4. Wait until the window that pops up showing deletion process says "done". (You can confirm there are now no scripts in the collar with Build Menu > Scripts > Show Script Info. It should show [0/0] Running Scripts. Repeat step 3 if necessary.  
+5. Rez OpenCollar updater 7.1 next to the collar. 
+7. Edit the collar again, and add the collarizer script to contents. The updater will run.  
 
 ## Manual Update
 To update your collar manually: 
