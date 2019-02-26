@@ -21,11 +21,6 @@ Annarussianmiss, Anna's House of Bondage and Slave Storage
 bondage roleplay, slave storage, maid service, rubber dolls    
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)
 
-Aust Darkstone, Darkstone Tower  
-Roleplay in a Skyscraper Community, merging Gorean and modern roleplay.  
-[http://maps.secondlife.com/secondlife/Podul/194/127/115](http://maps.secondlife.com/secondlife/Podul/194/127/115)  
-
-
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
