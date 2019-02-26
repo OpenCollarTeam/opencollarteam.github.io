@@ -156,6 +156,10 @@ Susan Caerndow, Dangerous Desires
 Playground, Hangout, Themed Roleplay  
 [http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31](http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31)  
 
+Susann DeCuir, Angel of Pain  
+BDSM Playground  
+[http://maps.secondlife.com/secondlife/Hunters%20XIX/147/161/21](http://maps.secondlife.com/secondlife/Hunters%20XIX/147/161/21)  
+
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)
