@@ -116,7 +116,13 @@ Skins, Tattoos, Jewelry
 Original mesh collar designs ca. 250L 
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/DLicious/91/241/21](http://maps.secondlife.com/secondlife/DLicious/91/241/21)  
-Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814)  
+Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
+
+Stone Johnson, Stone Johnson's Abduction Supply  
+Devices Compatible with OC via Chat Command  
+Inworld Shop 
+[http://maps.secondlife.com/secondlife/Blumfield/176/13/4000](http://maps.secondlife.com/secondlife/Blumfield/176/13/4000)  
+Marketplace:  [https://marketplace.secondlife.com/stores/159497](https://marketplace.secondlife.com/stores/159497)  
 
 Taylor Paine, Taylor's Toys  
 Alien style collars and traps 50 - 300L  
