@@ -83,10 +83,6 @@ Inushafan4, StickIt Sex Sim
 Playground, Club  
 [http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34](http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34)  
 
-Jyll1, Lighthouse Events  
-Adult Party Planners  
-[http://maps.secondlife.com/secondlife/Outlaws%20Hideout/233/233/22](http://maps.secondlife.com/secondlife/Outlaws%20Hideout/233/233/22)  
-
 Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
 Gay Male AFK Sex Park  
 **Advisory** Vendor area is public, Park is Gay Males Only  
