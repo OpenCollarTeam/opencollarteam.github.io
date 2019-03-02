@@ -86,6 +86,12 @@ Inworld Shop:
 [http://maps.secondlife.com/secondlife/McGavet/141/181/3416](http://maps.secondlife.com/secondlife/McGavet/141/181/3416)  
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)  
 
+Lesleyash, Blackraven Direwitch Productions  
+Mostly Goth style collars, 200L-500L  
+Inworld Shop:
+[http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609](http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609)  
+Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)  
+
 Liviadonata, Livia  
 BDSM Fashion and OpenCollar scripted accessories from 99 - 150L  
 Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketplace.secondlife.com/stores/189812)  
