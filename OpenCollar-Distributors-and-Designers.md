@@ -100,6 +100,10 @@ keuschezofe, Angels of Pain
 BDSM Hangout, Femdom, Pony Play  
 [http://maps.secondlife.com/secondlife/Waterspout/128/129/22](http://maps.secondlife.com/secondlife/Waterspout/128/129/22)  
 
+Lesleyash, Blackraven Direwitch Productions  
+Shop  
+[http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609](http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609)  
+
 Lydiaelle, S&L Storage Facility  
 Bondage Cages, RLV Playground   
 [http://maps.secondlife.com/secondlife/Anjelica/81/121/27](http://maps.secondlife.com/secondlife/Anjelica/81/121/27)  
