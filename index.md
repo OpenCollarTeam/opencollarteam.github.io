@@ -5,6 +5,8 @@ title: Welcome to OpenCollar!
 
 OpenCollar (OC) offers a set of scripts for a D/s collar similar to other scripted collars in Second Life. Unlike most other collars, however, OpenCollar is open source. You can read more about what that means at the [Open Source Initiative](https://opensource.org/osd-annotated). You are free to copy and redistribute the OC scripts, provided that you leave them full perms. Read the entire OpenCollar License in the notecard accompanying the scripts.  OpenCollar has been continuously operating since 2008 to provide our open source scripts contained in a working collar model free to the BDSM Community of Second Life.
 
+### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
+
 ## Mission
 
 OpenCollar exists to support people exploring submission and domination in Second Life and other virtual worlds.  It is nonprofit and volunteer driven.  The project builds, maintains, distributes and supports these scripts and the community that uses them. We encourage creation by users as well as designers.  We encourage learning by examining the scripts and building with them. We encourage people to share their skills with others. Any user or developer is welcome to use our work as long as they abide by the license and pass on the same permissions they received.
