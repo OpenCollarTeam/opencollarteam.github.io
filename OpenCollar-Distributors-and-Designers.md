@@ -13,6 +13,10 @@ Look for this image on the vendor:
 
 # Distributors 
 
+AgentVape, Beach Sex Club (BSC)   
+Club  
+[http://maps.secondlife.com/secondlife/The%20Beautiful%20People/198/132/23](http://maps.secondlife.com/secondlife/The%20Beautiful%20People/198/132/23)   
+
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
 [http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22](http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22)  
@@ -96,6 +100,10 @@ keuschezofe, Angels of Pain
 BDSM Hangout, Femdom, Pony Play  
 [http://maps.secondlife.com/secondlife/Waterspout/128/129/22](http://maps.secondlife.com/secondlife/Waterspout/128/129/22)  
 
+Leelloon, Bondage & Storage Project  
+Light Bondage RP, Cages   
+[http://maps.secondlife.com/secondlife/Aisling%20Myst/166/153/39](http://maps.secondlife.com/secondlife/Aisling%20Myst/166/153/39)   
+
 Lesleyash, Blackraven Direwitch Productions  
 Shop  
 [http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609](http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609)  
@@ -115,6 +123,14 @@ Club and RLV Playground
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49) 
+
+Rahn Ahn, Gaslight  
+BDSM Club and roleplay  
+[http://maps.secondlife.com/secondlife/Peaceful%20Water/225/40/29](http://maps.secondlife.com/secondlife/Peaceful%20Water/225/40/29)  
+
+Rocketroo, Bad Bunneh   
+Shop featuring clothing, jewelry, furniture  
+[http://maps.secondlife.com/secondlife/Paradiso/13/190/561](http://maps.secondlife.com/secondlife/Paradiso/13/190/561)  
 
 seekingu, Breeder's Forest  
 Breeding and milking RP  
