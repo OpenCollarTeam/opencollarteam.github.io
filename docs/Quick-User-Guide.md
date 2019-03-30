@@ -22,6 +22,10 @@ Your default prefix is the first two letters of your user name.  Prefixes direct
 
 When you open the main menu you will see buttons that go to all the different collar menus.  Each of these menus is documented in the complete User Guide.  For this Quick Start, you need to know enough to make a few basic choices about how you will use your collar.
 
+### Capture  
+
+If you want just an occasional adventure, Capture might be a good way to start using your collar. Turn Capture on in the Main Menu and nearby avatars can capture your collar.  See more in [Main](/docs/Main). Only your Captor can end the Capture event by releasing you.  However, if you need to get away, you can always use the collar safeword (RED), see below!
+
 ### Access
 You are wearing a collar because you want someone else at some time to be able to control your avatar.  The degree of control you give is up to you.  To give someone else access to your collar, open the collar menu and press access, or type [prefix] access.  
 
