@@ -25,7 +25,7 @@ Annarussianmiss, Anna's House of Bondage and Slave Storage
 Bondage roleplay, slave storage, maid service, rubber dolls    
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)  
 
-AussiPaul, You're Glowing Maternity Clinic  
+AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy and medical rp  
 [http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
 
