@@ -22,8 +22,12 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay playground
 [http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22](http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22)  
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
-bondage roleplay, slave storage, maid service, rubber dolls    
-[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)
+Bondage roleplay, slave storage, maid service, rubber dolls    
+[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)  
+
+AussiPaul, You're Glowing Maternity Clinic  
+Pregnancy and medical rp  
+[http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
@@ -216,15 +220,18 @@ To qualify as an OpenCollar Official Partner, collar distributors agree to the f
 
 APPLICATION
 
-If you would like to sign up for the Official Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below.  Then pass it to Silkie Sabra, OpenCollar Partners Coordinator.
+If you would like to sign up for the Official Partners program, please make a notecard named  "OpenCollar Official Partners Application - (your user name)", and include the information indicated below.  Then pass it to Silkie Sabra, OpenCollar Partners Coordinator.
 
 DISTRIBUTORS AND DESIGNERS:
 
-SecondLife Name/Username:
+SecondLife Username:  
+* The User Name
 
 Secondlife Avatar UUID:
+* The Avatar UUID is your key or the string of characters at the top of your profile.  
 
-Inworld Location SLURL: 
+Inworld Location SLURL:  
+* The SLURL should be to the spot you plan to rez the vendor, even if your sim has a fixed landing point.  
 
 Name and brief description of your sim:  Playground | Roleplay | Shop | Club | Sandbox | Other
 
