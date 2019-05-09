@@ -69,7 +69,11 @@ Gorean Club and roleplay
 
 Ebonfire Harbinger, Furry Breeding Ground  
 Furry Hangout  
-[http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25](http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25)
+[http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25](http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25)  
+
+Elizabeth Boissay, Hypnotropolis  
+Shop  
+[http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756)   
 
 Gatatem, Caged Elegance     
 BDSM Sim and Club    
@@ -190,6 +194,10 @@ Inworld Playground and Shop
 Weard Welty, Xegul  
 Roleplay, RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
+
+Will Galuptra, Amnesia Cove  
+Public Beach and D/s Community  
+[http://maps.secondlife.com/secondlife/Amnesia%20Cove/31/58/34](http://maps.secondlife.com/secondlife/Amnesia%20Cove/31/58/34)  
 
 Windrunner Shan, Fusion by the Sea  
 Beach, Sailing, Blake Sea Access  
