@@ -29,6 +29,10 @@ AussiePaul, You're Glowing Maternity Clinic
 Pregnancy and medical rp  
 [http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
 
+Beautifull Vyper, Mistress Says  
+Shops, Femdom, Gay and LGBT Friendly  
+[http://maps.secondlife.com/secondlife/Nori/128/100/22](http://maps.secondlife.com/secondlife/Nori/128/100/22)   
+
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
