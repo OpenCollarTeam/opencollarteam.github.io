@@ -37,6 +37,10 @@ Broken Swords, Valnor
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
 
+Castallia Maskalyne, S. A. G. (Slave Auction Group)  
+Slave Auctions  
+[http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27](http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27)  
+
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 **Advisory** Clothing is required in shop.  
