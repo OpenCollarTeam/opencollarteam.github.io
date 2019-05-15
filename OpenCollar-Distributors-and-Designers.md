@@ -13,13 +13,9 @@ Look for this image on the vendor:
 
 # Distributors 
 
-AgentVape, Beach Sex Club (BSC)   
-Club  
-[http://maps.secondlife.com/secondlife/The%20Beautiful%20People/198/132/23](http://maps.secondlife.com/secondlife/The%20Beautiful%20People/198/132/23)   
-
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
-[http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22](http://maps.secondlife.com/secondlife/Kinky%20Island/189/182/22)  
+[http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22)  
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 Bondage roleplay, slave storage, maid service, rubber dolls    
@@ -28,6 +24,7 @@ Bondage roleplay, slave storage, maid service, rubber dolls
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy and medical rp  
 [http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
+((Vendor is 30m East of landing point, inside the blue house))  
 
 Beautifull Vyper, Mistress Says  
 Shops, Femdom, Gay and LGBT Friendly  
