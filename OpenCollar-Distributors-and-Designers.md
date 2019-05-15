@@ -101,26 +101,16 @@ BDSM Hangout, Femdom, Pony Play
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
-
-Mslarah, Larah's Playground  
-Club and RLV Playground  
-[http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/178/38/23](http://maps.secondlife.com/secondlife/Isla%20de%20Mujeres/178/38/23)  
+((take the tp again when you reach the landing point, the vendor is inside the main shop))  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49) 
-
-Rahn Ahn, Gaslight  
-BDSM Club and roleplay  
-[http://maps.secondlife.com/secondlife/Peaceful%20Water/225/40/29](http://maps.secondlife.com/secondlife/Peaceful%20Water/225/40/29)  
+((Walk West from landing point about 30m))
 
 Rocketroo, Bad Bunneh   
 Shop featuring clothing, jewelry, furniture  
 [http://maps.secondlife.com/secondlife/Paradiso/13/190/561](http://maps.secondlife.com/secondlife/Paradiso/13/190/561)  
-
-seekingu, Breeder's Forest  
-Breeding and milking RP  
-[http://maps.secondlife.com/secondlife/Wunder%20Land/167/134/1102](http://maps.secondlife.com/secondlife/Wunder%20Land/167/134/1102)  
 
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys  
@@ -146,12 +136,7 @@ Bondage Ranch (Hangout, Hunting Ground, BDSM roleplay)
 
 sunderezz / Rosa Hunter, Divine Sadism Femdom  
 BDSM training/education/lifestyle, Femdom.  
-[http://maps.secondlife.com/secondlife/OWK%20Empire/1/57/2195](http://maps.secondlife.com/secondlife/OWK%20Empire/1/57/2195)   
-
-
-Susan Caerndow, Dangerous Desires  
-Playground, Hangout, Themed Roleplay  
-[http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31](http://maps.secondlife.com/secondlife/Paradise%20Palm%20Island/159/174/31)  
+[http://maps.secondlife.com/secondlife/OWK%20Empire/30/51/2195](http://maps.secondlife.com/secondlife/OWK%20Empire/30/51/2195)   
 
 Susann DeCuir, Angel of Pain  
 BDSM Playground  
@@ -160,10 +145,6 @@ BDSM Playground
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)
-
-TCDJohn, The Dunes Beach Resort  
-Gay Male Playground and Club  
-[http://maps.secondlife.com/secondlife/Dunes%20Beach%20Resort/95/64/23](http://maps.secondlife.com/secondlife/Dunes%20Beach%20Resort/95/64/23)  
 
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground and Shop  
