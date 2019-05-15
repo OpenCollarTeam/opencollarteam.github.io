@@ -28,11 +28,12 @@ Pregnancy and medical rp
 
 Beautifull Vyper, Mistress Says  
 Shops, Femdom, Gay and LGBT Friendly  
-[http://maps.secondlife.com/secondlife/Nori/128/100/22](http://maps.secondlife.com/secondlife/Nori/128/100/22)   
+[http://maps.secondlife.com/secondlife/Nori/123/64/21](http://maps.secondlife.com/secondlife/Nori/123/64/21)   
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
+((Walk forward under the arch approximately 100M from the fixed landing point))   
 
 Castallia Maskalyne, S. A. G. (Slave Auction Group)  
 Slave Auctions  
@@ -43,9 +44,9 @@ Shopping Mall
 **Advisory** Clothing is required in shop.  
 [http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
 
-Cissy March, Sweet Domination Palace  
+Cissy March, Sweet Domination Mansion & Farm   
 BDSM Playground and meeting space  
-[http://maps.secondlife.com/secondlife/Mystic%20Timberland/131/66/2001](http://maps.secondlife.com/secondlife/Mystic%20Timberland/131/66/2001)  
+[http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21)  
 
 Countrycat Furse, Slavers Warehouse  
 Urban Roleplay  
