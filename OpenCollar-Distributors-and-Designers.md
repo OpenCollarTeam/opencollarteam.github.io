@@ -48,17 +48,13 @@ Cissy March, Sweet Domination Mansion & Farm
 BDSM Playground and meeting space  
 [http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21)  
 
-Countrycat Furse, Slavers Warehouse  
-Urban Roleplay  
-[http://maps.secondlife.com/secondlife/TRUE/81/175/1451](http://maps.secondlife.com/secondlife/TRUE/81/175/1451)  
-
 Crickett Booker, Dark Side Clubhouse  
 BDSM Club  
-[http://maps.secondlife.com/secondlife/Wanda/63/161/22](http://maps.secondlife.com/secondlife/Wanda/63/161/22)  
+[http://maps.secondlife.com/secondlife/Wanda/98/129/21](http://maps.secondlife.com/secondlife/Wanda/98/129/21)  
 
 Cutiebound, Palm Mountain  
 Prison Roleplay  
-[http://maps.secondlife.com/secondlife/Syrah/28/133/52](http://maps.secondlife.com/secondlife/Syrah/28/133/52)  
+[http://maps.secondlife.com/secondlife/Syrah/23/113/52](http://maps.secondlife.com/secondlife/Syrah/23/113/52)  
 
 Dianna Loxely, SM-Garten, Freedom Continent  
 German BDSM Community, RP and Playground    
@@ -71,7 +67,7 @@ Shopping Mall
 Dracco Cela, The Enclave   
 Gorean Club and roleplay  
 **Advisory** Landing is open to all, the rest of the roleplay area is members only  
-[http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/227/167/301)
+[http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607)
 
 Ebonfire Harbinger, Furry Breeding Ground  
 Furry Hangout  
@@ -83,48 +79,24 @@ Shop
 
 Gatatem, Caged Elegance     
 BDSM Sim and Club    
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001)  
 
 girlyimp, Poppy's Hangout  
 Playground  
-[http://maps.secondlife.com/secondlife/Horizon%20Island/90/10/3010](http://maps.secondlife.com/secondlife/Horizon%20Island/90/10/3010)   
-
-HarperLabatt, Misogyne Club  
-Maledom Roleplay  
-[http://maps.secondlife.com/secondlife/Belisario%20Isle/191/145/33](http://maps.secondlife.com/secondlife/Belisario%20Isle/191/145/33)  
+[http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012](http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012)   
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
 
-Inushafan4, StickIt Sex Sim  
-Playground, Club  
-[http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34](http://maps.secondlife.com/secondlife/Mystical%20Paradise/200/221/34)  
-
-Julian Balestra, ToYs R USed: First GAY silent AFK SeXperience by Bro' Mania  
-Gay Male AFK Sex Park  
-**Advisory** Vendor area is public, Park is Gay Males Only  
-[http://maps.secondlife.com/secondlife/Mania/55/27/21](http://maps.secondlife.com/secondlife/Mania/55/27/21)  
-
 Kathy Hoyes, Slave Land  
 Slave Auction and Matching Service   
-[http://maps.secondlife.com/secondlife/Mostly%20Beatrice/125/209/68](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/125/209/68)  
+[http://maps.secondlife.com/secondlife/Mostly%20Beatrice/110/219/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/110/219/67) 
+((From the landing point walk West about 20m))
 
 keuschezofe, Angels of Pain  
 BDSM Hangout, Femdom, Pony Play  
-[http://maps.secondlife.com/secondlife/Waterspout/128/129/22](http://maps.secondlife.com/secondlife/Waterspout/128/129/22)  
-
-Leelloon, Bondage & Storage Project  
-Light Bondage RP, Cages   
-[http://maps.secondlife.com/secondlife/Aisling%20Myst/166/153/39](http://maps.secondlife.com/secondlife/Aisling%20Myst/166/153/39)   
-
-Lesleyash, Blackraven Direwitch Productions  
-Shop  
-[http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609](http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609)  
-
-Lydiaelle, S&L Storage Facility  
-Bondage Cages, RLV Playground   
-[http://maps.secondlife.com/secondlife/Anjelica/81/121/27](http://maps.secondlife.com/secondlife/Anjelica/81/121/27)  
+[http://maps.secondlife.com/secondlife/Waterspout/136/152/22](http://maps.secondlife.com/secondlife/Waterspout/136/152/22)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
