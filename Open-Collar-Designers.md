@@ -6,7 +6,7 @@ These Official Design Partners make many different collar designs in all price r
 
 Allisonkrause, Devious Rose  
 Mesh Collars and Cuffs from 250L to 999L  
-Inworld Shop: [https://marketplace.secondlife.com/stores/197730]9https://marketplace.secondlife.com/stores/197730)  
+Inworld Shop: [https://marketplace.secondlife.com/stores/197730](https://marketplace.secondlife.com/stores/197730)  
 
 Animaldj, CODEX  
 BDSM Style Fashion and Accessories from 200L to 450L      
