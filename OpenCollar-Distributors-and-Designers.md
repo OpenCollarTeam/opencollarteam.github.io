@@ -105,7 +105,7 @@ Shop, Playground and Club
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
-[http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49) 
+[http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
 ((Walk West from landing point about 30m))
 
 Rocketroo, Bad Bunneh   
