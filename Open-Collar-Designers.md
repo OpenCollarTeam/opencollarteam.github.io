@@ -51,7 +51,7 @@ Free designer collars
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/235/168/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/235/168/2001)  
 
-GiannaArmani, Fapple 
+GiannaArmani, Fapple   
 Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.   
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862](http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862)  
