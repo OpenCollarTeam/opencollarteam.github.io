@@ -27,15 +27,6 @@ Inworld shop:
 Mesh collars from free to 150L  
 Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
 
-Celestrea Vasiliov, PoD Slave Auction  
-Slave Auction roleplay  
-**Advisory** Vendor near landing point.  Use the teleporter to the "rezz area" and look for the Market building to find more free designs.  
-OpenCollar scripted accessories 99-299L  
-Inworld Roleplay and shop: 
-[http://slurl.com/secondlife/PoD%20BDSM%20Resort/81/123/48/](http://slurl.com/secondlife/PoD%20BDSM%20Resort/111/129/40/) 
-Cele'Sations    
-Marketplace: [https://marketplace.secondlife.com/stores/81530](https://marketplace.secondlife.com/stores/81530)
-
 Cissy March, CM Creations  
 Elegant Collars for men, women and hucows from 49 - 299L  
 Inworld Shop [http://maps.secondlife.com/secondlife/Mystic%20Timberland/120/67/2001](http://maps.secondlife.com/secondlife/Mystic%20Timberland/120/67/2001)  
