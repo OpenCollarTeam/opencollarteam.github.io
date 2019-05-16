@@ -43,19 +43,18 @@ OC Collars and Scripted Jewelry starting at 199L
 Marketplace: https://marketplace.secondlife.com/stores/30432  
 
 Emdragon, Emerald Dust  
-Collar Accessories  
-[http://maps.secondlife.com/secondlife/Soobit/171/18/31](http://maps.secondlife.com/secondlife/Soobit/171/18/31)  
+Collar Accessories, OpenCollar Scripted Cock Cages  
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
 
 Gatatem, Habib Creations    
 Free designer collars  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/77/196/1000)  
+[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/235/168/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/235/168/2001)  
 
-GiannaArmani, Fapple  
-Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.  
+GiannaArmani, Fapple 
+Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.   
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Elite%20Domination/79/71/2504](http://maps.secondlife.com/secondlife/Elite%20Domination/79/71/2504)  
+[http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862](http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862)  
 Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059)  
 
 Jamie Brokken, Brokken Industries  
