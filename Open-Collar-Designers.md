@@ -69,16 +69,8 @@ Inworld Shop:
 [http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002](http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002)  
 Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
 
-Lasynda Shichiroji, Dragonfyre Designs  
-Simple Styled Collars for both men and women, free and 100L  
-Inworld Shop:
-[http://maps.secondlife.com/secondlife/McGavet/141/181/3416](http://maps.secondlife.com/secondlife/McGavet/141/181/3416)  
-Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)  
-
 Lesleyash, Blackraven Direwitch Productions  
 Mostly Goth style collars, 200L-500L  
-Inworld Shop:
-[http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609](http://maps.secondlife.com/secondlife/Cyldane%20Mall/30/226/609)  
 Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)  
 
 Liviadonata, Livia  
@@ -87,7 +79,6 @@ Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketpl
 
 Lukai Zufreur, Sergaltech Industries  
 Roleplay, Lifestyle Seminars, Shop   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Prime%20Treasure/87/97/21](http://maps.secondlife.com/secondlife/Prime%20Treasure/87/97/21)  
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
@@ -95,10 +86,6 @@ collars and bondage toys for men
 Inworld Shops (Moderate)    
 [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
-
-Psychobabble, Psychobabble Studios  
-Free full permission "Stealth" collar  
-Marketplace: [https://marketplace.secondlife.com/stores/107791](https://marketplace.secondlife.com/stores/107791)  
 
 Shan Bright, Bright Corporation   
 Free copy trans collar and many other products  
@@ -110,7 +97,8 @@ Silent Alchemi, Birth
 Skins, Tattoos, Jewelry  
 Original mesh collar designs ca. 250L 
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/DLicious/91/241/21](http://maps.secondlife.com/secondlife/DLicious/91/241/21)  
+[http://maps.secondlife.com/secondlife/DLicious/55/229/24](http://maps.secondlife.com/secondlife/DLicious/55/229/24)  
+((If you land at the main landing point find the Store map "Tapestry" and go to Jewelry))  
 Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
 
 Stone Johnson, Stone Johnson's Abduction Supply  
