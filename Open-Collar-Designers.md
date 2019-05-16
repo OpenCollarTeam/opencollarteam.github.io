@@ -29,7 +29,6 @@ Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
 
 Cissy March, CM Creations  
 Elegant Collars for men, women and hucows from 49 - 299L  
-Inworld Shop [http://maps.secondlife.com/secondlife/Mystic%20Timberland/120/67/2001](http://maps.secondlife.com/secondlife/Mystic%20Timberland/120/67/2001)  
 Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936)  
 
 crashnoww, RealEvil Industries  
