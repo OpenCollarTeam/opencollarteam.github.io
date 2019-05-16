@@ -81,6 +81,10 @@ Gatatem, Caged Elegance
 BDSM Sim and Club    
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001)  
 
+GiannaArmani, Fapple  
+Update Station with Instructions for Updating V6 and Peanut  
+[http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/231/34/862](http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/231/34/862)  
+
 girlyimp, Poppy's Hangout  
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012](http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012)   
