@@ -46,7 +46,11 @@ Shopping Mall
 
 Cissy March, Sweet Domination Mansion & Farm   
 BDSM Playground and meeting space  
-[http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21)  
+[http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21) 
+
+Countrycat Furse, Agoras Gentlemens' Club  
+Dance Hall and Urban Roleplay  
+[http://maps.secondlife.com/secondlife/TRUE/65/215/1451](http://maps.secondlife.com/secondlife/TRUE/65/215/1451)   
 
 Crickett Booker, Dark Side Clubhouse  
 BDSM Club  
