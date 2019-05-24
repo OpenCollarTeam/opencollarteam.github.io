@@ -17,6 +17,10 @@ Aisha Marshdevil, Rubber Kingdom
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
 [http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22)  
 
+AmadeusAdam, Embodied Dream   
+Playground, Roleplay, Club (Russian language)   
+[http://maps.secondlife.com/secondlife/Embodied%20Dream/14/18/4002](http://maps.secondlife.com/secondlife/Embodied%20Dream/14/18/4002)   
+
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 Bondage roleplay, slave storage, maid service, rubber dolls    
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)  
