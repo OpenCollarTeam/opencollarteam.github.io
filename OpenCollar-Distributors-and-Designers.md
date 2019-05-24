@@ -18,7 +18,7 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay playground
 [http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22)  
 
 AmadeusAdam, Embodied Dream   
-Playground, Roleplay, Club (Russian language)   
+Playground, Roleplay, Club (Russian and English spoken)   
 [http://maps.secondlife.com/secondlife/Embodied%20Dream/14/18/4002](http://maps.secondlife.com/secondlife/Embodied%20Dream/14/18/4002)   
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
