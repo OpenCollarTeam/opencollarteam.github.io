@@ -113,6 +113,10 @@ Inworld Shop
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 Marketplace: [https://marketplace.secondlife.com/stores/125535](https://marketplace.secondlife.com/stores/125535)  
 
+Torus Heliosense, Tethered BDSM  
+premium artisan jewelry collars, 500L - 1299L  
+Marketplace:[https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)  
+
 Willow Redstar, Willow's Weakness  
 Collars, clothing and sundries under 200L  
 Inworld Shop  
