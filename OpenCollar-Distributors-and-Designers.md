@@ -77,10 +77,6 @@ Gorean Club and roleplay
 **Advisory** Landing is open to all, the rest of the roleplay area is members only  
 [http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607)
 
-Ebonfire Harbinger, Furry Breeding Ground  
-Furry Hangout  
-[http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25](http://maps.secondlife.com/secondlife/Eternal%20Desires/214/102/25)  
-
 Elizabeth Boissay, Hypnotropolis  
 Shop  
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756)   
@@ -190,6 +186,7 @@ To qualify as an OpenCollar Official Partner, collar distributors agree to the f
  
 1. Place the vendor in a publicly accessible parcel with no ban lines and no prior restrictions to access except for cause or TOS violations such as age play.   
 2. Do not host vendors for OpenCollar products that fail to meet the standards for Designers (see below).  
+3. If an official OpenCollar Partner also distributes house or privately produced collars with altered scripts or settings, the collars must comply with the OpenCollar license where applicable. The modifications must be clearly marked and wearers informed.
 
 --Benefits
 
