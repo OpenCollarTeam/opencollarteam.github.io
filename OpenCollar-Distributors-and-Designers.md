@@ -32,7 +32,7 @@ Pregnancy and medical rp
 
 Beautifull Vyper, Mistress Says  
 Shops, Femdom, Gay and LGBT Friendly  
-[http://maps.secondlife.com/secondlife/Nori/123/64/21](http://maps.secondlife.com/secondlife/Nori/123/64/21)   
+[http://maps.secondlife.com/secondlife/Athanasia/158/171/221](http://maps.secondlife.com/secondlife/Athanasia/158/171/22)   
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
