@@ -1,10 +1,4 @@
-# List of OpenCollar Social Partner Locations and their Hosts:
- 
-- The Sanctuary of the Collar - Caged Elegance BDSM club sim  
-**Location** 
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/197/185/2001)  
-**Host:**  Gatatem Resident   
-Social location and Troubleshooting help planned - Additional free collar choices available at this location.
+# OpenCollar Social Partners:
 
 - OpenCollar Theater at KBar West  
 **Location** [http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001)  
