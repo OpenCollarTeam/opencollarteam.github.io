@@ -20,6 +20,11 @@ Inworld shop:
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
 Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)  
 
+Assmay, The Five Collars   
+BDSM Slave Collars 77L  
+Inworld Shop: 
+[http://maps.secondlife.com/secondlife/Forest%20Hill/129/179/22](http://maps.secondlife.com/secondlife/Forest%20Hill/129/179/22)   
+
 Cara Lionheart, Hidden Serenity  
 Shops, Club, Racetrack  
 Inworld shop:  
