@@ -106,6 +106,10 @@ keuschezofe, Angels of Pain
 BDSM Hangout, Femdom, Pony Play  
 [http://maps.secondlife.com/secondlife/Waterspout/136/152/22](http://maps.secondlife.com/secondlife/Waterspout/136/152/22)  
 
+lumbreoscura, Al Andaluz  
+Moorish Spain Roleplay, Combat Systems (CCS)  
+[http://maps.secondlife.com/secondlife/Al%20Andaluz/182/81/25](http://maps.secondlife.com/secondlife/Al%20Andaluz/182/81/25)
+
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
