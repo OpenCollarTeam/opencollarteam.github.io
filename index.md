@@ -28,6 +28,6 @@ Please visit our official OpenCollar Social partner locations where events and o
   
 [How to Update Your OpenCollar](/docs/How-To-Update-Your-OpenCollar)  
 
-[Release Notes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/RELEASE_NOTES.md)
+[Release Notes](https://opencollar.cc/ReleaseNotes)
    
 [Contributors](/Contributors)       
