@@ -54,4 +54,4 @@ This allows the collar only to block named avatars from using the collar.  Use s
 
 ## Runaway  
 This command wipes the owner list and returns all collar settings to default.   
-AUTH=norun~0 to disable runaway in Settings
+>AUTH=norun~0 to disable runaway in Settings
