@@ -93,6 +93,10 @@ girlyimp, Poppy's Hangout
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012](http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012)   
 
+Harper Labatt, Snatched!  
+Human Trafficking and Capture Roleplay (Maledom)    
+[http://maps.secondlife.com/secondlife/Valgora/126/136/1501](http://maps.secondlife.com/secondlife/Valgora/126/136/1501)   
+
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
