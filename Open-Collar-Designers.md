@@ -30,7 +30,11 @@ Shops, Club, Racetrack
 Inworld shop:  
 [http://maps.secondlife.com/secondlife/Hidden%20Serenity/102/164/1265](http://maps.secondlife.com/secondlife/Hidden%20Serenity/102/164/1265)  
 Mesh collars from free to 150L  
-Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)
+Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)  
+
+Celestrea Vasiliov, Sensual Delights Slave Auction   
+Auction, Shops, BDSM Roleplay   
+[http://slurl.com/secondlife/Migaia%20Isle/14/81/23](http://slurl.com/secondlife/Migaia%20Isle/14/81/23)
 
 Cissy March, CM Creations  
 Elegant Collars for men, women and hucows from 49 - 299L  
