@@ -43,6 +43,10 @@ Castallia Maskalyne, S. A. G. (Slave Auction Group)
 Slave Auctions  
 [http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27](http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27)  
 
+Celestrea Vasiliov, Sensual Delights Slave Auction   
+Auction, Shops, BDSM Roleplay   
+[http://slurl.com/secondlife/Migaia%20Isle/14/81/23](http://slurl.com/secondlife/Migaia%20Isle/14/81/23)  
+
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 **Advisory** Clothing is required in shop.  
