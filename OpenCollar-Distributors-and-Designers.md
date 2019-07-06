@@ -112,7 +112,11 @@ Slave Auction and Matching Service
 
 keuschezofe, Angels of Pain  
 BDSM Hangout, Femdom, Pony Play  
-[http://maps.secondlife.com/secondlife/Waterspout/136/152/22](http://maps.secondlife.com/secondlife/Waterspout/136/152/22)  
+[http://maps.secondlife.com/secondlife/Waterspout/136/152/22](http://maps.secondlife.com/secondlife/Waterspout/136/152/22) 
+
+lesleyash, Realm of the Black Raven  
+Vampire Goth Snuff Roleplay  
+[http://maps.secondlife.com/secondlife/Mooon%20Light/231/32/29](http://maps.secondlife.com/secondlife/Mooon%20Light/231/32/29)  
 
 lumbreoscura, Al Andaluz  
 Moorish Spain Roleplay, Combat Systems (CCS)  
