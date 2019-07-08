@@ -71,9 +71,12 @@ Load the nonscripted contents first.
 Your collar animations and the .couples notecard go in the Animator prim.  
 A blank notecard named .settings goes in the Settings prim.  
 Into the root prim go the .help and .license notecards.  A copy of the OpenCollar license must go in any object you create using OpenCollar scripts.  Also in the root prim place a notecard named .bookmarks to save your bookmarks.
+
+### Bell, Lock and Titler.
+Bell and titler scripts are only used if the collar has a bell and a floattext prim and will delete themselves unless they find a linked child prim with the name Bell or FloatText in the description field of the prim.  `Bell~noshiny` goes in the description field of the Bell prim.  `FloatText~notexture~nocolor~nohide~noshiny~noglow`. A lock can appear visible when the collar is locked. `Lock~noshiny` goes in the description field of your lock prim if you are using it.
  
 ### Notes
 1. The relay script can be deleted without harm to the rest of the collar. If the wearer has an alternate relay, perhaps an HUD, wearing two relays is inadvisable.  
 2. Meshthemes and themes are used for different types of collar build and are not compatible.  Use one or the other depending on your build. You don't need to use either unless your collar will have alternate textures.  
 3. Meshlabel and label are used for different types of collar build and are not compatible.  Use one or the other depending on your build. You don't need to use either unless you want your collar to have a scripted label.  
-4. Bell and titler are only used if the collar has a bell and a floattext prim and will delete themselves unless they find a prim named Bell or a prim named FloatText in the collar when loaded.
+4. 
