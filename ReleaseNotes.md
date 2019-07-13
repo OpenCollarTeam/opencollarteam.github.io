@@ -1,5 +1,51 @@
 # OpenCollar Release Notes
 
+## 7.2
+
+- oc_anim  
+    * Capitalization and misc formatting corrections. 
+    * Added Checkbox helper function   
+- oc_auth
+    * A fix for capture having too much access, will now prevent certain menus being used if captured
+    * Will now prompt to confirm disabling OwnSelf
+- oc_dialog
+    * Added ability to add a explanation for what access was denied to
+    * Fixed what auth returns for public, group, and everyone who should_not_have_access_to_the_collar!
+    * Public/Group will now return NO_ACCESS if you are not within range of the collar.
+- oc_bell
+    * Only added access denied explanations
+- oc_bookmarks 
+    * Now ignores group and public access to prevent spam
+- oc_capture
+    * Added new token: isActive
+- oc_com
+    * Add in llToLower to make sure that prefix is case-insensitive
+- oc_leash
+    * Made it so passing the leash permits new leash holder to either pass it or unleash. Previously they would get an Access Denied message.
+    * Floating in air after going down stairs or a hill, etc, has been resolved.
+    * Misc settings fix due to new oc_settings behavior to prevent a infinite loop
+    * Leash Holder giving ability now implemented
+- oc_relay
+    * Safeword will now cause the relay to ignore all requests for 20 seconds, and release all grabbed objects.
+- oc_rlvsuite
+    * Terminal now has a way to configure whether public/group/trusted/wearer are allowed or denied access to the terminal. Default is only Owner, Wearer, Trusted.
+    * Removed misc. leftover VD references.
+- oc_rlvsys
+    * Sensors have been removed  
+- oc_settings
+    * Will now confirm loading settings from URL
+    * [API] On save / delete it will echo back the request
+        * for save it will send LM_response, 
+        * for delete it will send LM_delete
+- oc_sys
+    * Changed the update detection URL to point to the right file in github
+    * Removed spammy news
+    * Added a .settings notecard relay. Enables placing .settings into root prim instead of only in the Settings prim
+    * As of 7.2 RC3 / Full Release, if the .settings notecard is not changed, reboot not requested, or load not requested from Settings, the .settings will not be relayed if it has already been read- This is to avoid unnecessary link messages.
+    * If a animation is added to the inventory in root prim, it will automatically move the animation.
+- oc_titler
+    * Particles now honor the last rank as well as the title.
+
 ## 7.1
 
 - Remove the limits of 3 owners, 15 trusted, 9 blocked, and 1 tempowner.
