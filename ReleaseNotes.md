@@ -24,7 +24,7 @@
     * Made it so passing the leash permits new leash holder to either pass it or unleash. Previously they would get an Access Denied message.
     * Floating in air after going down stairs or a hill, etc, has been resolved.
     * Misc settings fix due to new oc_settings behavior to prevent a infinite loop
-    * Leash Holder giving ability now implemented
+    * Leash Holder giving ability now implemented.  Thanks to Salt (xxsaltandpepperxx) for the nifty new leash holder !
 - oc_relay
     * Safeword will now cause the relay to ignore all requests for 20 seconds, and release all grabbed objects.
 - oc_rlvsuite
