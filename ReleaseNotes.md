@@ -1,5 +1,3 @@
-# OpenCollar Release Notes
-
 # Current Full Release: V 7.2
 
 ## User Summary
