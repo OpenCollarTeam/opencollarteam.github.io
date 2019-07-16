@@ -1,3 +1,5 @@
+<h1>OpenCollar Release Notes</h1>
+
 # Current Full Release: V 7.2
 
 ## User Summary
