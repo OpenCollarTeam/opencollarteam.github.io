@@ -3,7 +3,7 @@ layout: home
 title: RLV
 ---
 
-See in this page:  [Exceptions](#Exceptions) | [Force Sit](#Force-Sit) | [Restrictions](#Restrictions) | [Folders](#Folders) 
+See in this page:  [Exceptions](#exceptions) | [Force Sit](#force-sit) | [Restrictions](#restrictions) | [Folders](#folders) 
 
 To call the RLV menu: 
 >[prefix] rlv
