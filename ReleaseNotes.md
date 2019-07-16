@@ -1,6 +1,12 @@
+---
+layout: home
+title: OpenCollar Release Notes
+---
+
 <h1>OpenCollar Release Notes</h1>
 
 # Current Full Release: V 7.2
+
 ## User Summary
 
 OC 7.2 release is mainly a maintenance release. That's to say that most of the changes are under the hood and won't be all that apparent to the user. We have fixed numerous bugs and improved the efficiency of the collar in various ways. Things you should be aware of: 
@@ -16,6 +22,7 @@ OC 7.2 release is mainly a maintenance release. That's to say that most of the c
 - Relay will no longer override ASK mode for objects owned by someone with owner permission on your collar if the owner is the collar wearer, or if the owner is not currently in the sim. Similarly, auto accept for landowner setting will default back to ASK mode if the landowner is the collar wearer, to avoid trouble at home. 
 
 ## FOR COLLAR MAKERS:  
+
 - Themes now supports faces and materials.  
 - A plugin template script is now available on the github here: https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl
 
@@ -91,6 +98,7 @@ OC 7.2 release is mainly a maintenance release. That's to say that most of the c
     * Particles now honor the last rank as well as the title.
 - .couples notecard
     * Removed reference to 'nom' animation.
+    
 ## Credits !
 
 Many people helped produce this version with their ideas, support, and wits.  Here is the list of contributors:
