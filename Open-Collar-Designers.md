@@ -5,8 +5,13 @@ title: OpenCollar Designers
 These Official Design Partners make many different collar designs in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!
 
 Allisonkrause, Devious Rose  
-Mesh Collars and Cuffs from 250L to 999L  
+Original Mesh Collars and Cuffs from 250L to 999L  
 Inworld Shop: [https://marketplace.secondlife.com/stores/197730](https://marketplace.secondlife.com/stores/197730)  
+
+Angie Trefusis, Tempting Elegance  
+Original Mesh Jewelry, Collars and Cuffs from 150L to 1000L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Whanganui/233/168/2001](http://maps.secondlife.com/secondlife/Whanganui/233/168/2001)  
+Marketplace: [https://marketplace.secondlife.com/stores/54438](https://marketplace.secondlife.com/stores/54438)   
 
 Animaldj, CODEX  
 BDSM Style Fashion and Accessories from 200L to 450L      
