@@ -1,7 +1,6 @@
 <h1>OpenCollar Release Notes</h1>
 
 # Current Full Release: V 7.2
-
 ## User Summary
 
 OC 7.2 release is mainly a maintenance release. That's to say that most of the changes are under the hood and won't be all that apparent to the user. We have fixed numerous bugs and improved the efficiency of the collar in various ways. Things you should be aware of: 
