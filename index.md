@@ -7,6 +7,9 @@ OpenCollar (OC) offers a set of scripts for a D/s collar similar to other script
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
+# OPENCOLLAR V 7.2 is FULL RELEASE
+[Release Notes](https://opencollar.cc/ReleaseNotes)
+
 ## Mission
 
 OpenCollar exists to support people exploring submission and domination in Second Life and other virtual worlds.  It is nonprofit and volunteer driven.  The project builds, maintains, distributes and supports these scripts and the community that uses them. We encourage creation by users as well as designers.  We encourage learning by examining the scripts and building with them. We encourage people to share their skills with others. Any user or developer is welcome to use our work as long as they abide by the license and pass on the same permissions they received.
