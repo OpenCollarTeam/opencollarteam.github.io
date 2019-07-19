@@ -50,7 +50,7 @@ From V4 to V6.5, treat as from 3X, except there will be no permission request to
 - Press Update.  The update will begin.
 
 ## From V6X 
-Some forks of OpenCollar use the Version Six version numbers.  Scripts in these versions from 6.6 and up are designed to prevent users from updating their collars using the OpenCollar update stream, rather than their own fork.  You are completely within your rights as an end user to update your OpenCollar with the current OpenCollar update.  To do so you will need this seeder script: [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/commit/e623fb532b21a2ace6d3d812cc536791361811c4).  
+Beginning with OpenCollar V6.6, and for a short time until V 7.0 was produced (less than six months in 2017), OpenCollars were prevented from being updated unless it was to a particular private fork. To update these versions you will need this seeder script: [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/commit/e623fb532b21a2ace6d3d812cc536791361811c4).  
 * Rez or wear the collar.
 * Rez the updater
 * Examine the contents of the collar's root prim and delete the script named oc_root.
@@ -61,8 +61,8 @@ Some forks of OpenCollar use the Version Six version numbers.  Scripts in these 
 Some third party collars block the use of an OpenCollar V7 updater even though some or all of the collar scripts may be derived from OpenCollar.  To update these collars it is first necessary to delete the scripts, then use the collarizer method.
 1. Rez the collar. 
 2. Right click and edit the collar. 
-3. In the Build Menu > Scripts > Select "remove scripts from selection." 
-4. Wait until the window that pops up showing deletion process says "done". (You can confirm there are now no scripts in the collar with Build Menu > Scripts > Show Script Info. It should show [0/0] Running Scripts. Repeat step 3 if necessary.  
+3. In the Build Menu of your viewer (this instruction based on Firestorm viewer) Go to > Scripts > Select "remove scripts from selection." 
+4. Wait until the window that pops up showing deletion process says "done". You can confirm there are now no scripts in the collar with Build Menu > Scripts > Show Script Info. It should show [0/0] Running Scripts. Repeat step 3 if necessary.  
 5. Rez OpenCollar updater 7.1 next to the collar. 
 7. Edit the collar again, and add the collarizer script to contents. The updater will run.  
 
