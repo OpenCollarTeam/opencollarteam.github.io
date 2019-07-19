@@ -1,4 +1,10 @@
-This page covers four ways to update a collar easily: | [From Scratch](#from-scratch-with-collarizer) | [3.X or Older](#From-3.X-or-Older) | [4.0-6.5](#V-4.X-to-6.5) | [6.6 to 6.7](#V-6.6-to-6.7)  
+---
+layout: home
+title: How To Update Your OpenCollar
+---
+
+
+This page covers four ways to update a collar easily: | [From Scratch](#from-scratch-with-collarizer) | [3.X or Older](#from-3x-or-older) | [4-6.5](#from-v4x-to-6x) | [6.6 to 6.7](#v-6.6-to-6.7)  
 The Updater listens on channel -7483213; and on -7483214 when updating older collars (3.X)  
 
 # Current version
