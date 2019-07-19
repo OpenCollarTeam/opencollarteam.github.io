@@ -41,7 +41,7 @@ This is worthwhile if your very old collar is a custom build or sentimental item
 * In the collar menu go to Help / About or Help / Debug
 * Press update. Accept the permissions request. The update will begin. 
 
-## V 6.6 to 6.7 
+## From V 6.6 to 6.7 
 Some forks of OpenCollar use the Version Six version numbers.  Scripts in these versions from 6.6 and up are designed to prevent users from updating their collars using the OpenCollar update stream, rather than their own fork.  You are completely within your rights as an end user to update your OpenCollar with the current OpenCollar update.  To do so you will need this seeder script: [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/commit/e623fb532b21a2ace6d3d812cc536791361811c4).  
 * Rez or wear the collar.
 * Rez the updater
