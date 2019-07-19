@@ -4,7 +4,7 @@ title: How To Update Your OpenCollar
 ---
 
 
-This page covers four ways to update a collar easily: | [From Scratch](#from-scratch-with-collarizer) | [3.X or Older](#from-3x-or-older) | [4-6.5](#from-v4x-to-6x) | [6.6 to 6.7](#v-6.6-to-6.7)  
+This page covers four ways to update a collar easily: | [From Scratch](#from-scratch-with-collarizer) | [3.X or Older](#from-3x-or-older) | [4-6.5](#from-v4x-to-6x) | [6.6 to 6.7](#from-v6x)  
 The Updater listens on channel -7483213; and on -7483214 when updating older collars (3.X)  
 
 # Current version
@@ -32,16 +32,24 @@ Follow the instructions in the script:
 
 # Update Older Collars
 
-## From 3.X or Older
+## From 3X or Older
 
 This is worthwhile if your very old collar is a custom build or sentimental item you want to bring up to date. After the update, you may need to rearrange the added child prims in Edit Linked to center them in the collar and make the Animator and Settings prims easier to locate if needed. In very old collars, the rotations may not function as expected.
 
-* Rez or wear the collar
+* Rez or wear the collar unlocked
 * Rez the updater.
 * In the collar menu go to Help / About or Help / Debug
-* Press update. Accept the permissions request. The update will begin. 
+* Press update. Accept the permissions request to add prims. The update will begin. 
 
-## From V 6.6 to 6.7 
+## From V4X to 6X
+
+From V4 to V6.5, treat as from 3X, except there will be no permission request to add prims.
+- Rez or wear the collar.
+- Rez the updater.
+- In the collar menu go to Help/About.
+- Press Update.  The update will begin.
+
+## From V6X 
 Some forks of OpenCollar use the Version Six version numbers.  Scripts in these versions from 6.6 and up are designed to prevent users from updating their collars using the OpenCollar update stream, rather than their own fork.  You are completely within your rights as an end user to update your OpenCollar with the current OpenCollar update.  To do so you will need this seeder script: [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/commit/e623fb532b21a2ace6d3d812cc536791361811c4).  
 * Rez or wear the collar.
 * Rez the updater
