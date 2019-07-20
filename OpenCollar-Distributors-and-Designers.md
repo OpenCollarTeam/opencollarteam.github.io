@@ -7,7 +7,7 @@ How Do I Apply to be a Distributor or Design Partner? Look here! [Application](#
 
 Look for this image on the vendor:
 
-<div style="width: 100%; text-align: center;">
+<div style="width: 100%; text-align: left;">
 <img src="/static/steelcollar.png" width="200" style="margin: 20px auto;" />
 </div>
 
