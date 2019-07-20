@@ -19,11 +19,10 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 
 # OpenCollar Partners
 
-Please visit our official OpenCollar Partners here for OpenCollar vendors and so much more! [OpenCollar Distributors and Designers](/OpenCollar-Distributors-and-Designers) 
+OpenCollar help can be found at our social partner, the [OpenCollar Theater](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001) at KBar West. See the links at the top of every page for our lists of partners and applications to become one!
 
-# OpenCollar Social Partner Locations
-Please visit our official OpenCollar Social partner locations where events and other things will be happening in SL.
-[OpenCollar Social Partner Locations](/OpenCollar-Social-Partner-Locations)
+- Distributors -- Please visit our official Distributors here for OpenCollar vendors and so much more! [OpenCollar Distributors and Designers](/OpenCollar-Distributors-and-Designers) 
+- 
 
 # User Guide and Other Useful Links
 [Quick User Guide](/docs/Quick-User-Guide)  
