@@ -25,11 +25,8 @@ OpenCollar help can be found at our social partner, the [OpenCollar Theater](htt
 - Designers -- For wonderful designers, and an impressive list creators, visit our [Design Partners](/Open-Collar-Designers)!
 
 # User Guide and Other Useful Links
-[Quick User Guide](/docs/Quick-User-Guide)  
-[Complete User Guide](/docs/Complete-User-Guide)    
-  
-[How to Update Your OpenCollar](/docs/How-To-Update-Your-OpenCollar)  
-
-[Release Notes](https://opencollar.cc/ReleaseNotes)
-   
-[Contributors](/Contributors)       
+- [Quick User Guide](/docs/Quick-User-Guide)  
+- [Complete User Guide](/docs/Complete-User-Guide)    
+- [How to Update Your OpenCollar](/docs/How-To-Update-Your-OpenCollar)  
+- [Release Notes](https://opencollar.cc/ReleaseNotes)  
+- [List of Contributors](/Contributors)       
