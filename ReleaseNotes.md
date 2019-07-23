@@ -4,7 +4,23 @@ title: OpenCollar Release Notes
 ---
 
 
-# Current Full Release: V 7.2
+# Current Full Release: V 7.3
+
+Release date: 22 July 2019
+
+## User Summary
+
+OC 7.3 is a maintenance release repairing a bug in V 7.2, improving menus throughout the collar, and adding a sort feature to the detach menu.  
+
+- Repairs a bug in capture where the captor would be unable to release, and safeword was required. Capture now functions as expected.
+- Repairs a bug that required wearers to fix menus after updating.  Menus should now appear reliably after updates.
+- Adds a feature that sorts Detach by similar names to make it easier to read the list of attached items.
+
+# Older Versions
+
+## V 7.2
+
+Release date: 14 July 2019
 
 ## User Summary 
 
@@ -18,7 +34,7 @@ OC 7.2 release is mainly a maintenance release. That's to say that most of the c
 
 - When sit restrictions are removed, you will be informed that you can stand rather than forced to stand. 
 
-- Relay will no longer override ASK mode for objects owned by someone with owner permission on your collar if the owner is the collar wearer, or if the owner is not currently in the sim. Similarly, auto accept for landowner setting will default back to ASK mode if the landowner is the collar wearer, to avoid trouble at home. 
+- Relay no longer overrides ASK mode for objects owned by someone with owner permission on your collar if the owner is the collar wearer, or if the owner is not currently in the sim. Similarly, auto accept for landowner setting defaults back to ASK mode if the landowner is the collar wearer, to avoid trouble at home. 
 
 ## FOR COLLAR MAKERS:  
 
@@ -114,9 +130,6 @@ Many people helped produce this version with their ideas, support, and wits.  He
     Riej
     Agesly Danzig
     Toy Wylie
-
-    
-# Older versions
 
 ## 7.1
 
