@@ -12,9 +12,11 @@ Release date: 22 July 2019
 
 OC 7.3 is a maintenance release repairing a bug in V 7.2, improving menus throughout the collar, and adding a sort feature to the detach menu.  
 
-- Repairs a bug in capture where the captor would be unable to release, and safeword was required. Capture now functions as expected.
-- Repairs a bug that required wearers to fix menus after updating.  Menus should now appear reliably after updates.
-- Adds a feature that sorts Detach by similar names to make it easier to read the list of attached items.
+- Repairs a bug in capture where the captor would be unable to release, and safeword was required. Capture now functions as expected.  [Issue #227](https://github.com/OpenCollarTeam/OpenCollar/issues/227), thanks to Ray Zopf for finding the bug and Aria (Tashia Redrose) for fixing it.
+- Repairs a bug that required wearers to fix menus after updating.  Menus should now appear reliably after updates. [Issue #230](https://github.com/OpenCollarTeam/OpenCollar/issues/230). Thanks to Medea Destiny for identifying the problem and fixing it.
+- Adds a feature that sorts Detach by similar names to make it easier to read the list of attached items. [Issue #226](https://github.com/OpenCollarTeam/OpenCollar/issues/226). Thanks to Minesweeper M for the suggestion and contributing to the code.
+
+-Other Credits:  Nirea for review, fixes and final approval.  
 
 # Older Versions
 
