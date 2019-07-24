@@ -1,3 +1,9 @@
+---
+layout: home
+title: The Main Menu
+---
+
+
 The Main Menu contains the collar lock and links to all the functions in the collar.
 
 # Lock
