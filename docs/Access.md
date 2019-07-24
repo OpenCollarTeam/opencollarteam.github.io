@@ -21,41 +21,41 @@ If you want to change the name of OwnSelf to something else:
 ## +/- Owner
 Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.  The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
 
->`[prefix] add owner [user name or UUID]  
-[prefix] rm owner [user name or UUID]  
-AUTH=owner~[UUID]`
+>`[prefix] add owner [user name or UUID]`  
+>`[prefix] rm owner [user name or UUID]`  
+>`AUTH=owner~[UUID]`  
    
 # Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
 
->[prefix] add trust [name or UUID]  
-[prefix] rm trust [name or UUID]  
-AUTH=trust~[UUID]
+>`[prefix] add trust [name or UUID]`  
+>`[prefix] rm trust [name or UUID]`  
+>`AUTH=trust~[UUID]`  
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
-> [prefix] public on  
-[prefix] public off  
-[prefix] limit range on/off : limits range for public access.  
-AUTH=public~1/0
+>`[prefix] public on`  
+>`[prefix] public off`  
+>`[prefix] limit range on/off` : limits range for public access.  
+`AUTH=public~1/0`
 
 # Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.  
-> [prefix] group on  
-[prefix] group off  
-AUTH=group~[groupuuid]~groupname~[groupname]
+> `[prefix] group on`  
+>`[prefix] group off`  
+>`AUTH=group~[groupuuid]~groupname~[groupname]`
 
-## Access List 
+# Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
-> [prefix] list  
+> `[prefix] list`  
 
 
-## Block    
+# Block    
 This allows the collar only to block named avatars from using the collar.  Use sparingly since this also adds to the memory consumption of the script.  
 
->Add to the Blocklist: [prefix] add block [name or UUID]  
->Remove from the Blocklist: [prefix] rm block [name or UUID]
+>Add to the Blocklist: `[prefix] add block [name or UUID]`  
+>Remove from the Blocklist: `[prefix] rm block [name or UUID]`
 
-## Runaway  
+# Runaway  
 This command wipes the owner list and returns all collar settings to default.   
->AUTH=norun~0 to disable runaway in Settings
+>`AUTH=norun~0` to disable runaway in Settings.
