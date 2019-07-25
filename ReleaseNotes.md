@@ -32,7 +32,7 @@ OC 7.2 release is mainly a maintenance release. That's to say that most of the c
 
 - Access denied messages now report what access has actually been denied for - they weren't too helpful before. 
 
-- Leash menu now has a "Give holder" button that will provide a leash holder to use.  New mesh leash holder by Salt(xxsaltandpepper)!  
+- Leash menu now has a "Give holder" button that will provide a leash holder to use.  New mesh leash holder by Salt(xxsaltandpepperxx)!  
 
 - When sit restrictions are removed, you will be informed that you can stand rather than forced to stand. 
 
