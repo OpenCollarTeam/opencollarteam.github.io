@@ -1,3 +1,8 @@
+---
+layout: home
+title: Link Message API
+---
+
 # Summary
 This document will go over the linked message APIs only. If you need a document that goes over chat command APIs, please wait until v8.0 is finished as some parts relating to chat commands may change!
 
