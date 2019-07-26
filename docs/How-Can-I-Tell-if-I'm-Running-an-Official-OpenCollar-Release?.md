@@ -1,3 +1,8 @@
+---
+layout: home
+title: How Can I Tell If I'm Running an Official OpenCollar Release?
+---
+
 Given that the OpenCollar team releases all of our scripts full permissions, it's possible for anyone to build products on them or modify the scripts to do new and different things.  This is one of the great benefits of open source.
 
 At the same time, users might want to verify that the version they're running is the same as what the OpenCollar team released, and has not been altered in some way.  To support that, we're compiling the scripts we release with an "experience key".  Though Second Life [experiences](https://community.secondlife.com/knowledgebase/english/experiences-in-second-life-r1365/) support a whole range of new features, we're only using our experience to support code verification.   Only certain members of the OpenCollar Staff group have power to compile scripts for this experience.  Third parties are free to modify the code and distribute the modifications, but they'll have to compile the scripts with their own experience key, or none at all.
