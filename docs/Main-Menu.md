@@ -24,7 +24,7 @@ In addition to Trusted access, the Capture function applies the Refusetp excepti
 > `prefix] capture off`  
 > `prefix] capture info on/off` -- turns on or off the recurring chat broadcasting the capture mode  
 > `[prefix] capture release` -- releases the sub from the current capture.  
-> `[prefix] risky on/off` -- turns on and off wearer permission.`
+> `[prefix] risky on/off` -- turns on and off wearer permission.
 
 
 The remaining buttons each go to their respective menus; press the links below to read about each.
