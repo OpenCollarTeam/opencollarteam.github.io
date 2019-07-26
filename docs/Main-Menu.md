@@ -31,10 +31,10 @@ The remaining buttons each go to their respective menus; press the links below t
 
 # Other Menus
 
-* [Access](/docs/Access)
-* [Animations](/docs/Animations)
-* [Apps](/docs/Apps)
-* [Leash](/docs/Leash)
-* [RLV](/docs/RLV)
-* [Settings](/docs/Settings)
-* [Help / About](/docs/Help-About)
+* [Access](/docs/Access) -- controls and adjusts who can access the collar.
+* [Animations](/docs/Animations) -- controls single and couples animations, links to the AO, Antislide
+* [Apps](/docs/Apps) -- Standard and Custom Applications and Addons
+* [Leash](/docs/Leash) -- controls taking, releasing, and passing the leash.
+* [RLV](/docs/RLV) -- controls RLV restrictions, exceptions, folders, and relay.
+* [Settings](/docs/Settings) -- controls printing, saving, and loading saved settings. Adjusts the size, position and appearance of the collar.
+* [Help / About](/docs/Help-About) -- for collar help notecards, license, and updating.
