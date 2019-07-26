@@ -29,6 +29,8 @@ In addition to Trusted access, the Capture function applies the Refusetp excepti
 
 The remaining buttons each go to their respective menus; press the links below to read about each.
 
+# Other Menus
+
 * [Access](/docs/Access)
 * [Animations](/docs/Animations)
 * [Apps](/docs/Apps)
