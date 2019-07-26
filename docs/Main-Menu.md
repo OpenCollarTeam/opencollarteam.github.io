@@ -20,7 +20,7 @@ The Collar lock prevents / allows detaching the collar. It is available only to 
 
 In addition to Trusted access, the Capture function applies the Refusetp exception.  The wearer's viewer automatically accepts tp offers when he or she is leashed by the Capturer.
 
-> `[prefix] capture on`
+> `[prefix] capture on`  
 > `prefix] capture off`  
 > `prefix] capture info on/off` -- turns on or off the recurring chat broadcasting the capture mode  
 > `[prefix] capture release` -- releases the sub from the current capture.  
