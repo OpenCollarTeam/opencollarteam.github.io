@@ -16,7 +16,7 @@ The Collar lock prevents / allows detaching the collar. It is available only to 
 
 - *Risky* toggles wearer permission. Capture On/Off cannot be overridden by the wearer when set by an owner.  
 
-- *Escape*  The wearer can end a capture event by using the collar safeword (Default RED).  
+- *Release*  The captor can end the capture event by pressing Release.  **The wearer can only end a capture event by using the collar safeword (Default RED).  
 
 In addition to Trusted access, the Capture function applies the Refusetp exception.  The wearer's viewer automatically accepts tp offers when he or she is leashed by the Capturer.
 
