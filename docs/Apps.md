@@ -1,24 +1,21 @@
+---
+layout: home
+title: The Apps Menu
+---
+
 This menu is where you will find links to applications and custom plugins.  The following apps are included in most OpenCollars.
 
-Bell
-=======
+# Bell
+
 This App controls the bell visibility and sound.  Only operative with collar designs that include bells.  
 
-On/Off
---------
-Toggles the bell on and off
+- **On/Off** -- Toggles the bell on and off.
 
-Show/Hide
-----------
-Toggles bell visibility
+- **Show/Hide** -- Toggles bell visibility.
 
-Next Sound
----------
-Changes the active bell sound
+- **Next Sound** -- Changes the active bell sound.
 
-Vol +/-
----------
-Increases or decreases the sound volume of the bell.
+- **Vol +/-** -- Increases or decreases the sound volume of the bell.
 
 # Bookmarks
 Bookmarks allows anyone with Trusted or Owner access to enter locations around the grid and teleport you to those locations.  Bookmarks makes it unnecessary to add landmarks to the collar for teleportation.  Not available to Public or Group access.
