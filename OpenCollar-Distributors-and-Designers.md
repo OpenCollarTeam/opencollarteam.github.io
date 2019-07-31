@@ -37,7 +37,11 @@ Shops, Femdom, Gay and LGBT Friendly
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
-((Walk forward under the arch approximately 100M from the fixed landing point))   
+((Walk forward under the arch approximately 100M from the fixed landing point))  
+
+Casey Wardark, The Compass    
+Shop and Hangout   
+http://maps.secondlife.com/secondlife/Mayhem/135/192/2001(http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)   
 
 Castallia Maskalyne, S. A. G. (Slave Auction Group)  
 Slave Auctions  
