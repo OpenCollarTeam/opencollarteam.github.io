@@ -1,3 +1,8 @@
+---
+layout: home
+title: The Settings Menu
+---
+
 To call this page:
 >[prefix] settings
 This menu contains adjustments to the fit and appearance of your collar.
