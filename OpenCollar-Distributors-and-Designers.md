@@ -47,11 +47,12 @@ Castallia Maskalyne, S. A. G. (Slave Auction Group)
 Slave Auctions  
 [http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27](http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27)  
 
-cater1na, BDSM Pervertion RLV   
+cater1na   
+
+BDSM Pervertion RLV   
 Playground, Hunt Roleplay   
 [http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
-
-cater1na, Naked Prey -- Forbidden Land   
+Naked Prey -- Forbidden Land   
 Playground, metered human hunting game   
 [http://maps.secondlife.com/secondlife/The%20Bloodrose%20Empire/126/191/3001](http://maps.secondlife.com/secondlife/The%20Bloodrose%20Empire/126/191/3001)   
 
