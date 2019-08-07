@@ -1,5 +1,10 @@
-# OpenCollar Remote
-You can get your OpenCollar Remote from either [Social Partner Location](https://opencollar.cc/OpenCollar-Social-Partner-Locations) -- look for a box near the OpenCollar vendor !
+---
+layout: home
+title: The OpenCollar Remote
+---
+You can get your OpenCollar Remote from your [Social Partner Location](https://opencollar.cc/OpenCollar-Social-Partner-Locations) -- look for a box near the OpenCollar vendor !
+
+The OpenCollar Remote is an HUD that lets an owner open and operate the wearers' collars from his HUD.  
 
 When you add the Remote to an HUD point you get this image on your screen.  This page will go through each icon left to right, top to bottom.
 <div style="width: 100%; text-align: center;">
@@ -8,7 +13,7 @@ When you add the Remote to an HUD point you get this image on your screen.  This
 
 ## Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
 
-The gear icon at the top left opens the Remote menu where you can add, list and remove subs.  To add a sub you must already have access to her collar.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
+The gear icon at the top left opens the Remote menu where you can add, list and remove subs.  To add a wearer you must already have access to the collar they wear.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
 
 ## Stop Pose ![White Square](https://opencollar.cc/static/StopAnim.PNG "Stop Pose") 
 
