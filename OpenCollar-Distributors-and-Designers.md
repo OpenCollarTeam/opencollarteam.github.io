@@ -47,8 +47,7 @@ Castallia Maskalyne, S. A. G. (Slave Auction Group)
 Slave Auctions  
 [http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27](http://maps.secondlife.com/secondlife/Slave%20Island/59/144/27)  
 
-cater1na   
-
+Cater1na   
 BDSM Pervertion RLV   
 Playground, Hunt Roleplay   
 [http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
