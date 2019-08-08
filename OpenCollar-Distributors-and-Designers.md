@@ -98,10 +98,6 @@ Gatatem, Caged Elegance
 BDSM Sim and Club    
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001)  
 
-GiannaArmani, Fapple  
-Update Station with Instructions for Updating V6 and Peanut  
-[http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/231/34/862](http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/231/34/862)  
-
 girlyimp, Poppy's Hangout  
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012](http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012)   
@@ -123,19 +119,15 @@ lesleyash, Realm of the Black Raven
 Vampire Goth Snuff Roleplay  
 [http://maps.secondlife.com/secondlife/Mooon%20Light/231/32/29](http://maps.secondlife.com/secondlife/Mooon%20Light/231/32/29)  
 
-lumbreoscura, Al Andaluz  
-Moorish Spain Roleplay, Combat Systems (CCS)  
-[http://maps.secondlife.com/secondlife/Al%20Andaluz/182/81/25](http://maps.secondlife.com/secondlife/Al%20Andaluz/182/81/25)
-
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
-((take the tp again when you reach the landing point, the vendor is inside the main shop))  
+((Walk East into the main shop all the way to the back then turn left.  About 100m))  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
-((Walk West from landing point about 30m))
+((Walk South from landing point about 30m to reach these coordinates))
 
 Rocketroo, Bad Bunneh   
 Shop featuring clothing, jewelry, furniture  
@@ -143,7 +135,8 @@ Shop featuring clothing, jewelry, furniture
 
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys  
-[http://maps.secondlife.com/secondlife/Pirandello%20Bay/92/145/2699](http://maps.secondlife.com/secondlife/Pirandello%20Bay/92/145/2699)  
+[http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21
+((Walk South from landing point and turn left inside the shop building, about 43m))  
 
 Seth Ock, Griseus Farms  
 roleplay for human livestock, medical play, and alien abductions  
@@ -161,11 +154,7 @@ RLV Communities Free Zone, Dance Hall and Sandbox
 Mainland Shop  
 [http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)   
 Bondage Ranch (Hangout, Hunting Ground, BDSM roleplay)  
-[http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)  
-
-sunderezz / Rosa Hunter, Divine Sadism Femdom  
-BDSM training/education/lifestyle, Femdom.  
-[http://maps.secondlife.com/secondlife/OWK%20Empire/30/51/2195](http://maps.secondlife.com/secondlife/OWK%20Empire/30/51/2195)   
+[http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)    
 
 Susann DeCuir, Angel of Pain  
 BDSM Playground  
