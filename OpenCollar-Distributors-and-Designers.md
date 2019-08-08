@@ -32,7 +32,8 @@ Pregnancy and medical rp
 
 Beautifull Vyper, Mistress Says  
 Shops, Femdom, Gay and LGBT Friendly  
-[http://maps.secondlife.com/secondlife/Athanasia/158/171/221](http://maps.secondlife.com/secondlife/Athanasia/158/171/22)   
+[http://maps.secondlife.com/secondlife/Athanasia/139/175/22](http://maps.secondlife.com/secondlife/Athanasia/139/175/22)  
+((Walk North approximately 30m from the fixed landing point to reach these coordinates inside the main house))
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
@@ -62,15 +63,11 @@ Auction, Shops, BDSM Roleplay
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 **Advisory** Clothing is required in shop.  
-[http://maps.secondlife.com/secondlife/Miso/184/196/25](http://maps.secondlife.com/secondlife/Miso/184/196/25)  
+http://maps.secondlife.com/secondlife/Miso/76/90/22](http://maps.secondlife.com/secondlife/Miso/76/90/22)  
 
 Cissy March, Sweet Domination Mansion & Farm   
 BDSM Playground and meeting space  
-[http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21) 
-
-Countrycat Furse, Agoras Gentlemens' Club  
-Dance Hall and Urban Roleplay  
-[http://maps.secondlife.com/secondlife/TRUE/65/215/1451](http://maps.secondlife.com/secondlife/TRUE/65/215/1451)   
+[http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21)  
 
 Crickett Booker, Dark Side Clubhouse  
 BDSM Club  
