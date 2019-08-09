@@ -102,6 +102,10 @@ girlyimp, Poppy's Hangout
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012](http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012)   
 
+Harley Miklos, Tethered BDSM   
+Shop   
+[http://maps.secondlife.com/secondlife/Albireo%20Isle/149/216/23](http://maps.secondlife.com/secondlife/Albireo%20Isle/149/216/23)   
+
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
