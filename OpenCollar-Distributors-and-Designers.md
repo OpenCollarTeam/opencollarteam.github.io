@@ -58,7 +58,7 @@ Playground, metered human hunting game
 
 Celestrea Vasiliov, Sensual Delights Slave Auction   
 Auction, Shops, BDSM Roleplay   
-[http://slurl.com/secondlife/Migaia%20Isle/14/81/23](http://slurl.com/secondlife/Migaia%20Isle/14/81/23)  
+[http://slurl.com/secondlife/Sensual%20Delights/134/87/23](http://slurl.com/secondlife/Sensual%20Delights/134/87/23)  
 
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
