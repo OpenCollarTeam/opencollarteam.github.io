@@ -101,6 +101,11 @@ Inworld Shops (Moderate)
 [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
 
+Peladoliso, Kink & Stuff  
+original mesh collars in many styles, from 250L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Sedna/76/37/2001](http://maps.secondlife.com/secondlife/Sedna/76/37/2001)  
+Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
+
 Shan Bright, Bright Corporation   
 Free copy trans collar and many other products  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http://maps.secondlife.com/secondlife/Austerity/16/16/666)  
