@@ -135,7 +135,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/125535](https://marketpl
 Torus Heliosense, Tethered BDSM  
 premium artisan jewelry collars, 500L - 1299L  
 Inworld Shop   
-[http://maps.secondlife.com/secondlife/Albireo%20Isle/140/215/21](http://maps.secondlife.com/secondlife/Albireo%20Isle/140/215/21)   
+[http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/153/187/21](http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/153/187/21)   
 Marketplace:[https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)  
 
 Willow Redstar, Willow's Weakness  
