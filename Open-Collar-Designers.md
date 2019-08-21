@@ -6,7 +6,7 @@ These Official Design Partners make many different collar designs in all price r
 
 Allisonkrause, Devious Rose  
 Original Mesh Collars and Cuffs from 250L to 999L  
-Inworld Shop: [https://marketplace.secondlife.com/stores/197730](https://marketplace.secondlife.com/stores/197730)  
+Marketplace: [https://marketplace.secondlife.com/stores/197730](https://marketplace.secondlife.com/stores/197730)  
 
 Angie Trefusis, Tempting Elegance  
 Original Mesh Jewelry, Collars and Cuffs from 150L to 1000L  
