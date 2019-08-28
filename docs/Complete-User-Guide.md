@@ -19,6 +19,7 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 
 # Index / Table of Contents
 
+* [How Do I Know if I am Running OpenCollar?](/docs/OpenCollar-Signature)
 * [Main](/docs/Main-Menu)
 * [Access](/docs/Access)
 * [Animations](/docs/Animations) 
