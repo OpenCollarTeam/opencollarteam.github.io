@@ -18,7 +18,7 @@ Calls a menu of nearby objects to which the wearer can be leashed
 
 ## Pass
 Calls a menu of nearby avatars to whom the leash can be passed. When selected, the avatar gets a request.
->[prefix] leashto 
+>[prefix] pass 
 
 ## Follow
 Operates the leash in exactly the same way but without the visible particle chain.
