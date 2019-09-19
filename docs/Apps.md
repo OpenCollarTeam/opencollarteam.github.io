@@ -21,11 +21,11 @@ This App controls the bell visibility and sound.  Only operative with collar des
 Bookmarks allows anyone with Trusted or Owner access to enter locations around the grid and teleport you to those locations.  Bookmarks makes it unnecessary to add landmarks to the collar for teleportation.  Not available to Public or Group access.
 
 To call the bookmarks menu:
-> [prefix] bookmarks  
+> `[prefix] bookmarks`  
 
 To send the wearer to a bookmark:  From the Main menu go to Apps > Bookmarks and press the named bookmark button, or:
 
-> [prefix] tp [bookmarkname]
+> `[prefix] tp [bookmarkname]`
 
 ### Save
 Opens a dialog window where you can enter a name for the wearer's current location, to create a bookmark for that location. Use a short name that's easy to remember and looks good on a button.  Pressing "submit" adds the name to the bookmarks menu.   
@@ -40,6 +40,14 @@ Prints the bookmarks settings to enter into the bookmarks notecard.  New bookmar
 
 ### Remove
 Removes selected bookmarks from the menu.
+
+# Label
+
+In collars built with a label only.  There are two versions of the label app, one for standard prim labels and one for mesh faces.  The label app applies the wearer name using a scripted texture offset.  
+
+**Set Label:** opens a dialog to change the text on the label.  `[prefix] label [newlabel]`   
+**Color:** changes the color of the label text. `[prefix] label color`  
+**Font:** changes the font of the label text. `[prefix] label font`  
 
 # Titler
 
