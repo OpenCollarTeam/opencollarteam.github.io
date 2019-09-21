@@ -108,14 +108,6 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http:/
 Marketplace: [https://marketplace.secondlife.com/stores/8717](https://marketplace.secondlife.com/stores/8717)  
 Bright Corporation web site: [http://brightcorporation.net/](http://brightcorporation.net/)   
 
-Silent Alchemi, Birth  
-Skins, Tattoos, Jewelry  
-Original mesh collar designs ca. 250L 
-Inworld Shop  
-[http://maps.secondlife.com/secondlife/DLicious/55/229/24](http://maps.secondlife.com/secondlife/DLicious/55/229/24)  
-((If you land at the main landing point find the Store map "Tapestry" and go to Jewelry))  
-Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
-
 Stone Johnson, Stone Johnson's Abduction Supply  
 Devices Compatible with OC via Chat Command  
 Inworld Shop 
