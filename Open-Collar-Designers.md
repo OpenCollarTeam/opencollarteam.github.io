@@ -37,6 +37,10 @@ Inworld shop:
 Mesh collars from free to 150L  
 Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)  
 
+Celestrea Vasiliov, Cele'sations   
+Collars from 99L-299L   
+Inworld shop: [http://maps.secondlife.com/secondlife/Sensual%20Delights/80/43/22](http://maps.secondlife.com/secondlife/Sensual%20Delights/80/43/22)   
+
 Cissy March, CM Creations  
 Elegant Collars for men, women and hucows from 49 - 299L  
 Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936)  
