@@ -112,6 +112,10 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http:/
 Marketplace: [https://marketplace.secondlife.com/stores/8717](https://marketplace.secondlife.com/stores/8717)  
 Bright Corporation web site: [http://brightcorporation.net/](http://brightcorporation.net/)   
 
+Silent Alchemi, Birth   
+Mesh Collars 250L   
+Marketplace:  [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814)   
+
 Stone Johnson, Stone Johnson's Abduction Supply  
 Devices Compatible with OC via Chat Command  
 Inworld Shop 
