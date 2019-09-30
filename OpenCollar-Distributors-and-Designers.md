@@ -108,7 +108,11 @@ Shop
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
-[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22) 
+[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
+
+Jackal Hotaling, Lady of the Manor   
+Playground   
+[http://maps.secondlife.com/secondlife/Grand%20Case/21/41/21](http://maps.secondlife.com/secondlife/Grand%20Case/21/41/21)   
 
 Kathy Hoyes, Slave Land  
 Slave Auction and Matching Service   
