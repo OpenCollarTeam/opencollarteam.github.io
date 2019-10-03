@@ -10,7 +10,8 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# OPENCOLLAR V 7.3 is FULL RELEASE
+# OPENCOLLAR V 7.3 is FULL RELEASE   
+Release date 22 July 2019   
 [Release Notes](https://opencollar.cc/ReleaseNotes)
 
 ## Mission
