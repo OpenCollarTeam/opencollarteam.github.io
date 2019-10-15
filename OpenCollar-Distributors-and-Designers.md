@@ -54,7 +54,7 @@ Playground, Hunt Roleplay
 [http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
 Naked Prey -- Forbidden Land   
 Playground, metered human hunting game   
-[http://maps.secondlife.com/secondlife/The%20Bloodrose%20Empire/126/191/3001](http://maps.secondlife.com/secondlife/The%20Bloodrose%20Empire/126/191/3001)   
+[http://maps.secondlife.com/secondlife/Tanguy/144/196/3002](http://maps.secondlife.com/secondlife/Tanguy/144/196/3002)   
 
 Celestrea Vasiliov, Sensual Delights Slave Auction   
 Auction, Shops, BDSM Roleplay   
