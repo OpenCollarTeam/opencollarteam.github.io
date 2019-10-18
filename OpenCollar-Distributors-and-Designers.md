@@ -13,9 +13,13 @@ Look for this image on the vendor:
 
 # Distributors 
 
+Aisha Marshdevil, Noxia   
+Dark Urban Fantasy Roleplay   
+[https://marketplace.secondlife.com/stores/59176](https://marketplace.secondlife.com/stores/59176)   
+
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
-[http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22)  
+[http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22) 
 
 AmadeusAdam, Embodied Dream   
 Playground, Roleplay, Club (Russian and English spoken)   
