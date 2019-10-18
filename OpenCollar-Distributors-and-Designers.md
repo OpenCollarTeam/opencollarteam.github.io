@@ -14,7 +14,7 @@ Look for this image on the vendor:
 # Distributors 
 
 Aisha Marshdevil, Noxia   
-Dark Urban Fantasy Roleplay   
+Dark Urban Fantasy Roleplay, CCS enabled  
 [https://marketplace.secondlife.com/stores/59176](https://marketplace.secondlife.com/stores/59176)   
 
 Aisha Marshdevil, Rubber Kingdom  
