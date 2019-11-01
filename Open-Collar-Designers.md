@@ -33,7 +33,7 @@ Inworld Shop:
 Cara Lionheart, Hidden Serenity  
 Shops, Club, Racetrack  
 Inworld shop:  
-[http://maps.secondlife.com/secondlife/Hidden%20Serenity/102/164/1265](http://maps.secondlife.com/secondlife/Hidden%20Serenity/102/164/1265)  
+[http://maps.secondlife.com/secondlife/Hidden%20Serenity/190/93/1263](http://maps.secondlife.com/secondlife/Hidden%20Serenity/190/93/1263)  
 Mesh collars from free to 150L  
 Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)  
 
