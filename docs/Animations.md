@@ -33,7 +33,13 @@ Couples animations can be directly called using the animation name and the first
 
 For instance Jenny Wren wants to hug JoeZipcode: 
 
->`je hug joe`
+>`je hug joe`   
+
+**Building Note**:  You can also add couples animations if your animations are optimal for using with the collar. You may have to do some testing, or use couples animations that were made for OpenCollar or made to be paired with each other. The animations have to be named a certain way to keep them from appearing in the Pose menu.  Name each animation something short and descriptive, beginning with `~`, for instance `~hug`.  Drag them into the Animator prim of the collar or load them into root and the collar will move them to Animator.  Find the Animator prim and open the notecard named .couples.  There you will see lines or "strings" configuring the animations, like this one:
+
+>`catch|~leap|~catch|0.6|_SELF_ leaps into _PARTNER_'s arms`.
+
+Each element is separated by a pipe (|) with no space.  The first element ("catch") is the name of the animation on the menu.  The second element (~leap) is the wearer's animation.  The third element (~catch) is the handler's animation. The fourth element (0.6) sets the distance between the two avatars.  Note that rotation is not configurable.  The last element is the text that is displayed when the animation is run.  Configure your strings in the notecard to include the animations you've added, each on its own line. Save the notecard into the Animator prim.
 
 ## Animlock
 
