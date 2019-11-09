@@ -39,7 +39,7 @@ For instance Jenny Wren wants to hug JoeZipcode:
 
 >`catch|~leap|~catch|0.6|_SELF_ leaps into _PARTNER_'s arms`.
 
-Each element is separated by a pipe (|) with no space.  The first element ("catch") is the name of the animation on the menu.  The second element (~leap) is the wearer's animation.  The third element (~catch) is the handler's animation. The fourth element (0.6) sets the distance between the two avatars.  Note that rotation is not configurable.  The last element is the text that is displayed when the animation is run.  Configure your strings in the notecard to include the animations you've added, each on its own line. Save the notecard into the Animator prim.
+Each element is separated by a pipe `(|)` with no space.  The first element ("catch") is the name of the animation on the menu.  The second element (~leap) is the wearer's animation.  The third element (~catch) is the handler's animation. The fourth element (0.6) sets the distance between the two avatars.  Note that rotation is not configurable.  The last element is the text that is displayed when the animation is run.  Configure your strings in the notecard to include the animations you've added, each on its own line. Save the notecard into the Animator prim.
 
 ## Animlock
 
