@@ -34,10 +34,9 @@ Pregnancy and medical rp
 [http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
 ((Vendor is 30m East of landing point, inside the blue house))  
 
-Beautifull Vyper, Mistress Says  
-Shops, Femdom, Gay and LGBT Friendly  
-[http://maps.secondlife.com/secondlife/Athanasia/139/175/22](http://maps.secondlife.com/secondlife/Athanasia/139/175/22)  
-((Walk North approximately 30m from the fixed landing point to reach these coordinates inside the main house))
+Beautifull Vyper, Mistress Says / Femdom BDSM   
+Queen/Servant Roleplay  
+[http://maps.secondlife.com/secondlife/Sensation/93/60/4001](http://maps.secondlife.com/secondlife/Sensation/93/60/4001)  
 
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
