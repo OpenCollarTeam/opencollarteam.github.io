@@ -35,7 +35,7 @@ Pregnancy and medical rp
 ((Vendor is 30m East of landing point, inside the blue house))  
 
 Beautifull Vyper, Mistress Says / Femdom BDSM   
-Queen/Servant Roleplay  
+Mistresses/Servitude Roleplay  
 [http://maps.secondlife.com/secondlife/Sensation/93/60/4001](http://maps.secondlife.com/secondlife/Sensation/93/60/4001)  
 
 Broken Swords, Valnor  
