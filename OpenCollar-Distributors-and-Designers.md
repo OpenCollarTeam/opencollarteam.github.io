@@ -135,6 +135,10 @@ Shop, Playground and Club
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
 ((Walk East into the main shop all the way to the back then turn left.  About 100m))  
 
+Modernprimitive, Lo Kajirus Designs  
+Shop  
+[https://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202](https://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202)   
+
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
