@@ -95,6 +95,10 @@ Lukai Zufreur, Sergaltech Industries
 Roleplay, Lifestyle Seminars, Shop   
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
+Modernprimitive, Lo Kajirus Designs  
+Collars, Cuffs and Other Devices for Males, from 300L  
+[http://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202](http://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202)  
+
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
 Inworld Shops (Moderate)    
