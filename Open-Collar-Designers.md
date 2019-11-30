@@ -152,6 +152,10 @@ Inworld Shops
 classic feminine styles, high quality mesh, pricing around 500L  
 Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
 
+zikadee, Zikadee Creative  
+Collars and Cuffs from 1-100L, including free full permission set   
+[https://marketplace.secondlife.com/stores/222093](https://marketplace.secondlife.com/stores/222093)   
+
 # OpenCollar Design Partners Application Form
 
 Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to Silkie Sabra inworld.
