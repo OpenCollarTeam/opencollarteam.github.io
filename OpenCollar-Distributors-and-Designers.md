@@ -19,11 +19,7 @@ Dark Urban Fantasy Roleplay, CCS enabled
 
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
-[http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22) 
-
-AmadeusAdam, Embodied Dream   
-Playground, Roleplay, Club (Russian and English spoken)   
-[http://maps.secondlife.com/secondlife/Embodied%20Dream/14/18/4002](http://maps.secondlife.com/secondlife/Embodied%20Dream/14/18/4002)   
+[http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22)  
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 Bondage roleplay, slave storage, maid service, rubber dolls    
@@ -41,11 +37,10 @@ Mistresses/Servitude Roleplay
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
-((Walk forward under the arch approximately 100M from the fixed landing point))  
 
 Casey Wardark, The Compass    
 Shop and Hangout   
-http://maps.secondlife.com/secondlife/Mayhem/135/192/2001(http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)   
+[http://maps.secondlife.com/secondlife/Mayhem/135/192/2001](http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)   
 
 Castallia Maskalyne, S. A. G. (Slave Auction Group)  
 Slave Auctions  
@@ -57,16 +52,18 @@ Playground, Hunt Roleplay
 [http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
 Naked Prey -- Forbidden Land   
 Playground, metered human hunting game   
-[http://maps.secondlife.com/secondlife/Tanguy/144/196/3002](http://maps.secondlife.com/secondlife/Tanguy/144/196/3002)   
+[http://maps.secondlife.com/secondlife/Tanguy/130/192/3001](http://maps.secondlife.com/secondlife/Tanguy/130/192/3001)   
+**Advisory** This vendor location is over 180m past the fixed landing point.  
 
 Celestrea Vasiliov, Sensual Delights Slave Auction   
 Auction, Shops, BDSM Roleplay   
 [http://slurl.com/secondlife/Sensual%20Delights/134/87/23](http://slurl.com/secondlife/Sensual%20Delights/134/87/23)  
+**Advisory** This vendor is in a medieval shop building 100m SW of the fixed landing point.  
 
 Cindy Evanier, Kix Erotix  
 Shopping Mall  
 **Advisory** Clothing is required in shop.  
-http://maps.secondlife.com/secondlife/Miso/76/90/22](http://maps.secondlife.com/secondlife/Miso/76/90/22)  
+[http://maps.secondlife.com/secondlife/Miso/76/90/22](http://maps.secondlife.com/secondlife/Miso/76/90/22)  
 
 Cissy March, Sweet Domination Mansion & Farm   
 BDSM Playground and meeting space  
@@ -82,7 +79,7 @@ Prison Roleplay
 
 Dianna Loxely, SM-Garten, Freedom Continent  
 German BDSM Community, RP and Playground    
-[http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/205/118/25](http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/205/118/25)  
+[http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/200/143/26](http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/200/143/26)  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
@@ -107,24 +104,20 @@ Playground
 
 Harley Miklos, Tethered BDSM   
 Shop   
-[http://maps.secondlife.com/secondlife/Albireo%20Isle/149/216/23](http://maps.secondlife.com/secondlife/Albireo%20Isle/149/216/23)   
+[http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/152/179/23](http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/152/179/23)   
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
 
-Jackal Hotaling, Lady of the Manor   
-Playground   
-[http://maps.secondlife.com/secondlife/Grand%20Case/21/41/21](http://maps.secondlife.com/secondlife/Grand%20Case/21/41/21)   
-
+Jack Hotaling, Lady of the Manor  
+BDSM Hangout and Playground   
+[http://maps.secondlife.com/secondlife/Lost%20Cove/213/123/3513](http://maps.secondlife.com/secondlife/Lost%20Cove/213/123/3513)   
+ 
 Kathy Hoyes, Slave Land  
 Slave Auction and Matching Service   
-[http://maps.secondlife.com/secondlife/Mostly%20Beatrice/110/219/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/110/219/67) 
+[http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67) 
 ((From the landing point walk West about 20m))
-
-keuschezofe, Angels of Pain  
-BDSM Hangout, Femdom, Pony Play  
-[http://maps.secondlife.com/secondlife/Waterspout/136/152/22](http://maps.secondlife.com/secondlife/Waterspout/136/152/22) 
 
 lesleyash, Realm of the Black Raven  
 Vampire Goth Snuff Roleplay  
@@ -170,10 +163,6 @@ Mainland Shop
 [http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)   
 Bondage Ranch (Hangout, Hunting Ground, BDSM roleplay)  
 [http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)    
-
-Susann DeCuir, Angel of Pain  
-BDSM Playground  
-[http://maps.secondlife.com/secondlife/Hunters%20XIX/147/161/21](http://maps.secondlife.com/secondlife/Hunters%20XIX/147/161/21)  
 
 Sylta Marabana, S&W Playground  
 Playground  
