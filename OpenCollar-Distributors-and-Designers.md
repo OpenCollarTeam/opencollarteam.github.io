@@ -164,6 +164,10 @@ Mainland Shop
 Bondage Ranch (Hangout, Hunting Ground, BDSM roleplay)  
 [http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)    
 
+Susann DeCuir, Angel of Pain   
+Deutsch / English BDSM Playground   
+[http://maps.secondlife.com/secondlife/Embay/219/216/3002](http://maps.secondlife.com/secondlife/Embay/219/216/3002)   
+
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)
