@@ -102,9 +102,9 @@ Gatatem, Caged Elegance
 BDSM Sim and Club    
 [http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001)  
 
-girlyimp, Poppy's Hangout  
+girlymp, Poppy's Hangout  
 Playground  
-[http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012](http://maps.secondlife.com/secondlife/Horizon%20Island/112/34/3012)   
+[http://maps.secondlife.com/secondlife/Horizon%20Island/148/68/76](http://maps.secondlife.com/secondlife/Horizon%20Island/148/68/76)   
 
 Harley Miklos, Tethered BDSM   
 Shop   
