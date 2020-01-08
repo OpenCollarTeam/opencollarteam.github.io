@@ -3,6 +3,92 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
+# V 7.4 Release Candidate 1   
+dateline 08 January 2020   
+As always, every old and new script on this list is licensed under the GPL V2.
+
+OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.    
+
+## Summary Changelog
+
+### Global Changes   
+- All Scripts made compatible with V 7.4 API 
+- All Scripts moved to root prim
+- Universal checkbox style applied, with a GLOBAL_checkboxes setting that can be set to customize these.   
+
+### Changes to oc_anim   
+- Fixed indentation   
+- Added update jail to move the script and copy-enabled animations back to the root prim  
+
+### Changes to oc_auth   
+- Added update jail. This prevents oc_auth from spamming the link messages during an update. Additionally this is used to move the script back to the root prim.
+- Removed OwnSelf.  Added the ability to add wearer to owner & trusted using the existing owner / trusted menu buttons.   
+- Updated to use new oc_capture settings
+- Updated auth check. If user is out of range and not an owner, they will receive the blocked auth level. If however limit range is disabled, this will not happen.
+
+### Changes to oc_capture   
+- Totally rewritten capture
+- New settings flags to indicate status properly.  
+
+### Changes to oc_detach 
+- Rewritten due to oc_rlvsuite rewrite
+- Moved to apps menu
+
+### Changes to oc_dialog  
+- Added a programming interface so that other scripts can receive the final menu text and button list after dialog has processed them.   
+- Added a settings flag that will enable a small debug flag in dialog to show the auth level in menu text:   
+`GLOBAL_showlevel=1`   
+- Added update jail, which moves this to root prim.  
+
+### oc_exceptions removed.
+
+### Changes to oc_folders
+- Added a configuration menu similar to that in oc_outfits, see below. 
+
+### Changes to oc_outfits   
+- Rewritten due to oc_rlvsuite rewrite
+- Moved to Apps menu
+- Added the ability to lock the .core folder (even outside of outfits!)
+- Added the ability to configure access to outfits
+- Added the ability to browse and change what is worn inside of .core
+
+### Changes to oc_particle   
+- Now supports multiple different leashpoints.   
+- Compatible interface with OpenCollar Cuffs.   
+
+### oc_presets  
+- Contributed by Romka Swallowtail
+- This optional app gives the ability to save size presets.  
+
+### Changes to oc_relay   
+- Use llGetObjectDetails instead to get information, previously was showing ??? too often.
+
+### oc_resizer   
+- Use llScaleByFactor instead of old resizing code.
+
+### oc_rlvextension  
+- Handles exceptions and a few other tasks for rlvsuite   
+
+### Changes to oc_rlvsuite     
+Fully rewritten from the ground up. Provides:   
+- macros (7.3 style) included as default  
+- the ability to set and change restrictions individually   
+- the ability to save macros as a pre-set   
+- the ability to set what level of access can use that restriction   
+
+### Changes to oc_rlvsys   
+- Added update jail 
+
+### Changes to oc_settings
+- Added a flag to check against, if we’re in update, do not spam linked messages with all settings every time the inventory changes   
+
+### Changes to oc_sys
+- Changed update wording from "patch" to "version". 
+
+# Credits  
+Aria (Tashia Redrose); Lillith Xue for oc_rlvsuites and many other contributions; Silkie Sabra for supplying coffee and donuts; Romka Swallowtail for contributing oc_presets; and as always Our Benevolent Dictator Nirea for many contributions, checking and approving final versions. 
+
+_________________________________________________________   
 
 # Current Full Release: V 7.3
 
