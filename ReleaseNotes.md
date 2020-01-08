@@ -40,7 +40,8 @@ OC 7.4 is a major release, involving physical changes to the scripted prims.  Ro
 `GLOBAL_showlevel=1`   
 - Added update jail, which moves this to root prim.  
 
-### oc_exceptions removed.
+### oc_exceptions 
+- Removed, replaced by oc_rlvextensions. 
 
 ### Changes to oc_folders
 - Added a configuration menu similar to that in oc_outfits, see below. 
