@@ -3,11 +3,13 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
-# V 7.4 Release Candidate 1   
+# V 7.4 Release Candidate 2   
 dateline 08 January 2020   
 As always, every old and new script on this list is licensed under the GPL V2.
 
 OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.    
+
+There were many bug fixes introduced in the process of the major rewrite for the 7.4 beta / RC 1 that were caught in RC 2, thanks to everyone who contributed.  
 
 ## Summary Changelog
 
@@ -15,6 +17,7 @@ OC 7.4 is a major release, involving physical changes to the scripted prims.  Ro
 - All Scripts made compatible with V 7.4 API 
 - All Scripts moved to root prim
 - Universal checkbox style applied, with a GLOBAL_checkboxes setting that can be set to customize these.   
+- Added back the ability to use indicator lights that glow when Access, RLV and Animations are touched.  To utilize these make indicator light prims and put in the Description field ~indicator_anim, ~indicator_auth, ~indicator_rlvsys.
 
 ### Changes to oc_anim   
 - Fixed indentation   
