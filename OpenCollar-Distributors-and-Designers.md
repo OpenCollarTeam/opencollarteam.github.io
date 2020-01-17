@@ -100,7 +100,7 @@ Shop
 
 Gatatem, Caged Elegance     
 BDSM Sim and Club    
-[http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001](http://maps.secondlife.com/secondlife/Vineyard%20Isle%20Valley/69/217/1001)  
+[http://maps.secondlife.com/secondlife/Caged%20Elegance/77/198/1000](http://maps.secondlife.com/secondlife/Caged%20Elegance/77/198/1000)  
 
 girlymp, Poppy's Hangout  
 Playground  
