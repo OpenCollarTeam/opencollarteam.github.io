@@ -100,7 +100,7 @@ Shop
 
 Gatatem, Caged Elegance     
 BDSM Sim and Club    
-[http://maps.secondlife.com/secondlife/Caged%20Elegance/112/127/2501](http://maps.secondlife.com/secondlife/Caged%20Elegance/112/127/2501)  
+[http://maps.secondlife.com/secondlife/Caged%20Elegance/78/197/1000](http://maps.secondlife.com/secondlife/Caged%20Elegance/78/197/1000)  
 
 girlymp, Poppy's Hangout  
 Playground  
