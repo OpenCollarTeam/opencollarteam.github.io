@@ -63,7 +63,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketpl
 Gatatem, Habib Creations    
 Free designer collars  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Caged%20Elegance/112/127/2501](http://maps.secondlife.com/secondlife/Caged%20Elegance/112/127/2501)  
+[http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504](http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504)  
 
 GiannaArmani, Fapple   
 Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.   
