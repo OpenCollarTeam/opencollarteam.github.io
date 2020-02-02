@@ -4,6 +4,8 @@ title: How to Build Your OpenCollar
 ---
 This page explains how to build an OpenCollar using your own prims, without help from the "Collarizer" script. 
 
+- **Advance Note for V 7.4** With V 7.4, now in beta, all contents are moved back to the root prim.  Instructions for child prims will no longer be necessary, except for non-script bearing prims such as Floattext, Bell and Label.
+
 If you want to turn an existing object into a "collar" with a minimum of building skill or fuss, use the collarizer script and run the updater.  See ["How to Update"](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/How-To-Update-Your-OpenCollar.md)  for instructions.
 
 To build a collar yourself you need only basic inworld building skills with standard prims. If you can make a standard prim of any shape, texture prims, do simple tortured prims, link prims, edit linked prims, and load contents, you can do this.  If this is beyond you, consider taking a basic building class--it will pay off down the line in many ways.  
