@@ -3,7 +3,7 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
-# V 7.4 Release Candidate 2   
+# V 7.4 Beta   
 dateline 08 January 2020   
 As always, every old and new script on this list is licensed under the GPL V2.
 
