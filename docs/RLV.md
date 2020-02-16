@@ -137,18 +137,15 @@ Inside this folder make folders for your named outfits which you have set up usi
 - When .core is locked, you cannot change the contents of the folder in the inventory window.  Unlock it to add and remove items to the .core folder.
 **Configure**: In Configure the wearer and owner can set access for controlling the Outfits menu separately.  Whether or not the Wearer can use outfits is also configurable.  "Jail" allows the Outfits menu to browse the entire #RLV folder instead of just Outfits.  "Strip All" allows Outfits to detach items that are not in a defined outfit folder.
 
-### How to Prevent Accidents:
+### Using a (nostrip) tag:
 
 - **(nostrip)**. You have items that you do not wear all the time but when you are wearing them, they should never be stripped; such as hair.  The best way to prevent this is to append a (nostrip) tag to the end of the folder name or item name:  
-`[foldername] (nostrip)`  
+`[foldername] (nostrip)` 
+**Note for V 7.4 (beta):** You should not need to use (nostrip) if your folders are set up for V 7.4 with a lock on the .core folder.  Items that are not in #RLV will not be removed by Folders or Outfits, by default.
 
 Since the RLV strip search does not see your inventory but only sees worn items by folder name, this will only work on the bottom folder the item is immediately in. Appending (nostrip) to the end of a folder name and then inserting subfolders without the tag will not work.     
 - You do not necessarily have to place the folders in #RLV for (nostrip) to work. 
 - Links to an original with the (nostrip) tag will work. The (nostrip) tag must be applied to the original, not a link.
-
-- Inside your .outfits folder, make a folder and precisely name it .core. *The dot is required for this to work*.  Inside .core, place only items you always wear and never want to be detached, such as mesh body parts.  You may use subfolders.  Items in this folder will be force worn with every outfit.
-
-- 
 
 ## More on RLV
 
