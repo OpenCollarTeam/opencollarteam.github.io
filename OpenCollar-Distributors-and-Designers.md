@@ -117,6 +117,10 @@ D/s Community, Art Gallery and Theater
 Jack Hotaling, Lady of the Manor  
 BDSM Hangout and Playground   
 [http://maps.secondlife.com/secondlife/Lost%20Cove/213/123/3513](http://maps.secondlife.com/secondlife/Lost%20Cove/213/123/3513)   
+
+Joshuua Barenhaut, Prisoners of Darkness Slave Auction   
+Playground, Slave Auctions   
+[http://maps.secondlife.com/secondlife/PrisonersOfDarkness/110/31/2104](http://maps.secondlife.com/secondlife/PrisonersOfDarkness/110/31/2104)   
  
 Kathy Hoyes, Slave Land  
 Slave Auction and Matching Service   
