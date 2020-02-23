@@ -34,6 +34,11 @@ Beautifull Vyper, Mistress Says / Femdom BDSM
 Mistresses/Servitude Roleplay  
 [http://maps.secondlife.com/secondlife/Sensation/93/60/4001](http://maps.secondlife.com/secondlife/Sensation/93/60/4001)  
 
+Blaise Tomsen, Second Life Railroad  
+Shopping   
+**Advisory** The vendor is accessible from the Protected Land on the Railroad  
+[http://maps.secondlife.com/secondlife/Rivata/130/94/81](http://maps.secondlife.com/secondlife/Rivata/130/94/81)  
+
 Broken Swords, Valnor  
 Female Dominated Medieval themed Fantasy Roleplay (RLV & GM enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
