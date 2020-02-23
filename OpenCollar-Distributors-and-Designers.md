@@ -125,7 +125,11 @@ Playground, Slave Auctions
 Kathy Hoyes, Slave Land  
 Slave Auction and Matching Service   
 [http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67) 
-((From the landing point walk West about 20m))
+((From the landing point walk West about 20m))  
+
+Kittin Ninetails, Ninetails   
+Shop  
+[http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)   
 
 lesleyash, Realm of the Black Raven  
 Vampire Goth Snuff Roleplay  
