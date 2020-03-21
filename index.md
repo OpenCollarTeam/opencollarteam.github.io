@@ -10,7 +10,17 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# OPENCOLLAR V 7.3 is FULL RELEASE   
+# OPEN COLLAR V 7.4 !
+
+Dateline March 21, 2020.  
+OpenCollar V 7.4 Release Candidate 3 is out in OpenCollar and OpenCollar R&D!  Release notes soon.  You can also get an updaterat the [OpenCollar Theater](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001)!
+## New in OpenCollar V 7.4:   
+- Included, integrated HUD relay.  
+- Many changes in RLV to make adding and removing items and outfits easier than ever !
+- ALL SCRIPTS ARE NOW IN THE ROOT PRIM.  For Builders ! No more fussy linked prim architecture!  For Editors ! Easy drag and drop additions to animations and apps.  
+- PLEASE NOTE:  Due to the change in the build, it will not be possible to roll back to 7.3 and before without use of the collarizer.  This is still a release candidate, not full release.   Use a copiable collar to make your changes.
+
+# Current Full Release:  OpenCollar 7.3   
 Release date 22 July 2019   
 [Release Notes](https://opencollar.cc/ReleaseNotes)
 
@@ -26,7 +36,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 OpenCollar help can be found at our social partner, the [OpenCollar Theater](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001) at KBar West. See the links at the top of every page for our lists of partners and applications to become one!
 
 - Distributors -- Please visit our official [Distributors](/OpenCollar-Distributors-and-Designers) for OpenCollar vendors and so much more! 
-- Designers -- For wonderful designers, and an impressive list creators, visit our [Design Partners](/Open-Collar-Designers)!
+- Designers -- For wonderful designers, and an impressive list of creators, visit our [Design Partners](/Open-Collar-Designers)!
 
 # User Guide and Other Useful Links
 - [Quick User Guide](/docs/Quick-User-Guide)  
