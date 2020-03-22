@@ -23,7 +23,11 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay playground
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 Bondage roleplay, slave storage, maid service, rubber dolls    
-[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63)  
+[http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63) 
+
+Arrowworra, Glitter Sensations   
+Adult hangout   
+[http://maps.secondlife.com/secondlife/ADRENALINA/139/33/3001](http://maps.secondlife.com/secondlife/ADRENALINA/139/33/3001)   
 
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy and medical rp  
