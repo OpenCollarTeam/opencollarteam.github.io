@@ -65,8 +65,7 @@ There were many bug fixes introduced in the process of the major rewrite for the
 - This optional app gives the ability to save size presets.  
 
 ### Changes to oc_relay   
-- Use llGetObjectDetails instead to get information, previously was showing ??? too often.
-
+- There is a completely new relay script that integrates with an HUD relay courtesy of Toy Wylie. 
 ### oc_resizer   
 - Use llScaleByFactor instead of old resizing code.
 
