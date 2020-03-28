@@ -27,7 +27,7 @@ Bondage roleplay, slave storage, maid service, rubber dolls
 
 Arrowworra, Glitter Sensations   
 Adult hangout   
-[http://maps.secondlife.com/secondlife/ADRENALINA/139/33/3001](http://maps.secondlife.com/secondlife/ADRENALINA/139/33/3001)   
+[http://maps.secondlife.com/secondlife/CRISTALLINA/41/194/3000](http://maps.secondlife.com/secondlife/CRISTALLINA/41/194/3000)   
 
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy and medical rp  
