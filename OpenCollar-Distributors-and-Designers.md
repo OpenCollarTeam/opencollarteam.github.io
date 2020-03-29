@@ -19,7 +19,7 @@ Dark Urban Fantasy Roleplay, CCS enabled
 
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
-[http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22](http://maps.secondlife.com/secondlife/Kinky%20Island/184/177/22)  
+[http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21)  
 
 Annarussianmiss, Anna's House of Bondage and Slave Storage  
 Bondage roleplay, slave storage, maid service, rubber dolls    
