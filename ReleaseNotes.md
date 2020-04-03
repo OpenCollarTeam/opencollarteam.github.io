@@ -3,19 +3,20 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
-# V 7.4 Beta   
-dateline 08 January 2020   
+# V 7.4 Release Candidate   
+dateline 02 April 2020   
 As always, every old and new script on this list is licensed under the GPL V2.
 
 OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.    
 
-There were many bug fixes introduced in the process of the major rewrite for the 7.4 beta / RC 1 that were caught in RC 2, thanks to everyone who contributed.  
+Thanks to everyone who contributed to V 7.4, including but not limited to Aria (tashia redrose), Nirea, Medea Destiny, Lillith Xue, Sharie Criss, Toy Wylie, roan (Silkie Sabra), bunny (emmapais) and many beta testers.  
 
 ## Summary Changelog
 
 ### Global Changes   
-- All Scripts made compatible with V 7.4 API 
-- All Scripts moved to root prim
+1. All scripts no longer use LINK_DIALOG, LINK_SAVE, LINK_ANIM, LINK_UPDATE, LINK_RLV
+    a. Moved all scripts back to the root prim
+    b. Replaced instances of LINK_[dialog,save,anim,rlv] instead with LINK_SET or LINK_THIS
 - Universal checkbox style applied, with a GLOBAL_checkboxes setting that can be set to customize these.   
 - Added back the ability to use indicator lights that glow when Access, RLV and Animations are touched.  To utilize these make indicator light prims and put in the Description field ~indicator_anim, ~indicator_auth, ~indicator_rlvsys.
 
@@ -84,6 +85,22 @@ Fully rewritten from the ground up. Provides:
 
 ### Changes to oc_settings
 - Added a flag to check against, if we’re in update, do not spam linked messages with all settings every time the inventory changes   
+New Settings tokens
+    a. GLOBAL_checkboxes=<unchecked>,<checked>  
+    b. SETTINGS_nocomma=<bool>  
+        aa. Append Mode  
+        (ex).
+            TOKEN=var~value
+            TOKEN+var~value2   
+            ...
+            TOKEN_var=value,value2
+        (ex2).
+            SETTINGS=nocomma~1
+            TOKEN=var~value
+            TOKEN+var~value2
+            ...
+            TOKEN_var=valuevalue2
+    c. GLOBAL_showlevel=<bool>
 
 ### Changes to oc_sys
 - Changed update wording from "patch" to "version". 
