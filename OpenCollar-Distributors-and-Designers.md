@@ -25,9 +25,9 @@ Annarussianmiss, Anna's House of Bondage and Slave Storage
 Bondage roleplay, slave storage, maid service, rubber dolls    
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63) 
 
-Arrowworra, Glitter Sensations   
+Arrowworra, X Nude Beach   
 Adult hangout   
-[http://maps.secondlife.com/secondlife/CRISTALLINA/41/194/3000](http://maps.secondlife.com/secondlife/CRISTALLINA/41/194/3000)   
+[http://maps.secondlife.com/secondlife/CRISTALLINA/9/190/22](http://maps.secondlife.com/secondlife/CRISTALLINA/9/190/22)   
 
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy and medical rp  
