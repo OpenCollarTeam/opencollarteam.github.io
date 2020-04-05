@@ -24,59 +24,61 @@ Clears all collar RLV restrictions, including those enforced by the relay.  Avai
 Gives a list of occupied attachment points with the names of the objects attached to each.  Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
 >[prefix] detach (opens the "detach" menu)
 
-# Exceptions
+# RLV SETTINGS (new in V 7.4)  
+This menu contains Exceptions, which lets you set Exceptions to RLV restrictions for Owners and Trusted; plus allows you to set values for Camera and Chat Restrictions.
 
-Here you can set Exceptions to RLV restrictions Owners and Trusted.  Most Exceptions are checked by Default.  Exceptions allow owners and trusted to communicate with you and teleport you when these are otherwise restricted.  When the boxes are checked the Exceptions are enforced.
+##  Exceptions 
+Here you can set Exceptions to RLV restrictions for Owners and Trusted.   Exceptions allow owners and trusted to communicate with you and teleport you when these are otherwise restricted.  When the boxes are checked the Exceptions are enforced.   
+**Default Exceptions:** Owner is exempt by default.  
 
-## List of Exceptions:
+### List of Exceptions:
 
 IM exempts owner/trusted from a block on the wearer's ability to send IMs.  
 RcvIM exempts owner/trusted from a block on the wearer's ability to receive IMs.  
 RcvChat exempts owner/trusted from a block on the wearer's ability to read local chat.  
 RcvEmote exempts owner/trusted from a block on the wearer's ability to read emotes.  
 Lure exempts owner/trusted from a block on the wearer's ability to accept a teleport offer.  
-refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offers.  When active, the wearer's viewer automatically accepts a tp offer from an owner.  More commonly known as "force TP."  On by default for owners, must be set for trusted.
+refuseTP exempts owner/trusted from the wearer's ability to refuse teleport offers.  When active, the wearer's viewer automatically accepts a tp offer from an owner.  More commonly known as "force TP."  On by default for owners, must be set for trust.
 
 # Force Sit
-Opens a menu of nearby objects on which the wearer can be forced to sit.    
+Opens a menu of nearby objects on which the wearer can be forced to sit. When the wearer is force sat, forbid stand is also enforced. **(in V 7.3 the Strict setting did this)**  `[UNSIT]` **(previously GETUP)** unsits the wearer and also revokes forbid stand. 
 
-## Strict 
-When the "strict" option is checked, the wearer cannot stand when force sat.  If the wearer sits without using a collar force sit, the restriction on stand is not enforced.
+>[prefix] sit (forces the wearer to sit and forbids stand)
 
-## Getup
-When Force Sit is enforced, this button will force the wearer to stand again.
-
->[prefix] sit (forces the wearer to sit)
-
->[prefix] stand / standnow (forces the wearer to stand)
-
->[prefix] forbid stand (forbids standing)
-
->[prefix] allow stand (allows standing)
+>[prefix] unsit (forces the wearer to stand and allows stand)
 
 # Restrictions
-Opens a menu of restrictions and named suites of related restrictions.  When the boxes are checked, the restrictions are NOT active.  
+Opens a menu of restrictions and macros which are shortcuts to apply groups of restrictions.  When the boxes are checked, the restrictions are active.  **Ability to manage macros is new in V 7.4**.  Each button gives you the option to add, replace, or clear the restriction or macro.  Add will add the restriction to your existing restrictions if any.  Replace will replace existing restrictions with the one on the button.  Clear will end the restriction.
 >[prefix] restrictions  
+ 
+Frequently used restrictions are on the same page as the macros.  They include:   
+* Hear: (single restriction) `@rcvchat` restricts wearer's ability to receive chat.  
+* Talk: (single restriction) `@sendchat` restricts wearer's ability to send chat.  
+* Touch: (single restriction) `touchworld` restricts wearer's ability to touch objects.  
 
-List of individual restrictions  
-* Send IMS:  Restricts the wearer's ability to send ims.  [prefix] forbid sendim / allow sendim
-* Read IMS:   Restricts the wearer's ability to receive ims. [prefix] forbid readim / allow readim
-* Hear:  Restricts the wearer's ability to read local chat. [prefix]  forbid hear / allow hear
-* Talk: Restricts the wearer's ability to send local chat.  [prefix] forbid talk / allow talk
-* Touch:  Restricts the wearer's ability to touch the world. [prefix] forbid touch / allow touch
-
-List of restrictions grouped in suites
+Macros include:  
 * Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers. [prefix] forbid dress / allow dress
 * Stray: Restricts the wearer's ability to accept teleport offers, teleport to landmarks and map locations, sit on an object from a distance greater than 1 meter from the object center; and teleport to a  point on the landscape. [prefix] forbid stray / allow stray
 * Rummage: This group restricts building abilities including: edit, open the inventory window, rez objects, view scripts and textures. [prefix] forbid rummage / allow rummage
 * Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen. [prefix] forbid dazzle / allow dazzle
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu. [prefix] forbid daze / allow daze
+* IM:  Restricts ability to send and receive IMs.  
 
-## Terminal
-Opens a text popup window where you can input any RLV restriction, the format being @[nameofrestriction]=[y/n].
-The list of RLV restrictions can be found [here](http://wiki.secondlife.com/wiki/LSL_Protocol/RestrainedLoveAPI).  
-The list of RLVa restrictions may be found [here](http://catznip.com/index.php/RLVa).  They may be slightly different; Consult your viewer to see which one is running.
->[prefix] terminal (chat command only in V7.X)
+### Manage
+Here you can save a group of restrictions as a new macro, and Delete an existing macro.
+
+### Individual
+
+List of individual restrictions are also grouped for convenience. These can be applied and removed by toggling the button.  
+* Chat: Includes individual restrictions having to do with local chat, IMs and gestures.
+* Show/Hide: Includes individual restrictions that hide Locations, Maps, and hovertext.
+* Teleport: Includes individual restrictions involving teleportation.
+* Misc:  At the moment just one miscellaneous individual restriction, `@acceptpermission` which automatically accepts all attach and take control permission requests.
+* Edit/Mod: Includes individual restrictions having to do with rezzing and editing objects, textures, scripts, and notecards.  
+* Interact:  Includes individual restrictions having to do with touch.
+* Movement:  Includes individual restrictions having to do with Running, Flying, Jumping, Sitting and Standing.  
+* Camera:  Includes blurring view, unlock camera, camera minimum and maximum distance.  
+* Outfit:  Includes individual restrictions on adding and removing clothing and attachments.
 
 ## Relay
 This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
