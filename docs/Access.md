@@ -6,17 +6,7 @@ title: The Access Menu
 Access is the OpenCollar ownership tool.  There is a cap of 28 avatars across all named Access levels: Owner, Trusted, Blocked, and Temp Owner.
 
 # Owner
-Owners have the highest rank of access on the collar.  The collar access, exceptions, lock, leash and some RLV functions are sensitive to rank.  Once an owner is set, unless OwnSelf is checked, the wearer can no longer use the access menu or add exceptions or unlock the collar.  Also the wearer cannot unleash from an owner without safewording.
-
-## OwnSelf
-When checked this retains the wearer on the owner list even after an owner is set.  Any other owner can uncheck it, removing the wearer from the owner list.
-
->`[prefix] OwnSelf on`   
->`[prefix] OwnSelf off`  
-
-If you want to change the name of OwnSelf to something else:
-
->`[prefix] flavor [new name]`  
+Owners have the highest rank of access on the collar.  The collar access, exceptions, lock, leash and some RLV functions are sensitive to rank.  Once an owner is set, unless OwnSelf is checked, the wearer can no longer use the access menu or add exceptions or unlock the collar.  Also the wearer cannot unleash from an owner without safewording.    
 
 ## +/- Owner
 Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.  The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
@@ -24,6 +14,9 @@ Adds and removes Owners.  Only owners can add and remove owners, and wearer if O
 >`[prefix] add owner [user name or UUID]`  
 >`[prefix] rm owner [user name or UUID]`  
 >`AUTH=owner~[UUID]`  
+
+- **To add the owner to wearer, go to + Owner and press >WEARER<**
+- (V 7.3 and previous, check OWNSELF to add the wearer to owner)
    
 # Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
