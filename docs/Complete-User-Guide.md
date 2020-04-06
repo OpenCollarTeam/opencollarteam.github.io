@@ -27,6 +27,7 @@ https://github.com/OpenCollarTeam/OpenCollar/issues
 * [RLV](/docs/RLV)  
 * [Relay](/docs/Relay)
 * [Apps](/docs/Apps)
+* [Outfits](/docs/Outfits)
 * [Settings](/docs/Settings)
 * [Help / About](/docs/Help-About)
 * [Remote](/docs/Remote)
