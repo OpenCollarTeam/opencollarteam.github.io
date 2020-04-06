@@ -5,9 +5,6 @@ title: The Apps Menu
 
 This menu is where you will find links to applications and custom plugins.  The following apps are included in most OpenCollars.
 
-# Outfits
-See:  [Outfits](/Outfits)
-
 # Bell
 
 This App controls the bell visibility and sound.  Only operative with collar designs that include bells.  
@@ -38,6 +35,16 @@ Prints the bookmarks settings to enter into the bookmarks notecard.  New bookmar
 - Remove   
 Removes selected bookmarks from the menu.
 
+# Capture
+
+Capture gives temporary Trusted level access to a Captor.  
+- **Enabled** - When checked, it is possible to capture the wearer via chat command or by touching the collar which will deliver a dialogue: "Do you want to capture xx?". If the captor says yes, the wearer gets a dialog.
+> `[prefix] capture` Captures the wearer. Not available to the wearer.
+>`[prefix] capture`Ends capture.  Not available to the wearer.
+- The capture event will end ten minutes after the captor leaves the region.
+- **Risky** - When checked, the wearer does not get a dialog asking permission.
+- Collar safeword ends the capture event for the wearer.
+
 # Label
 
 In collars built with a label only.  There are two versions of the label app, one for standard prim labels and one for mesh faces.  The label app applies the wearer name using a scripted texture offset.  
@@ -45,6 +52,9 @@ In collars built with a label only.  There are two versions of the label app, on
 **Set Label:** opens a dialog to change the text on the label.  `[prefix] label [newlabel]`   
 **Color:** changes the color of the label text. `[prefix] label color`  
 **Font:** changes the font of the label text. `[prefix] label font`  
+
+# Outfits
+See:  [Outfits](/Outfits)
 
 # Titler
 
