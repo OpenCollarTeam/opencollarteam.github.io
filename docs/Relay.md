@@ -3,43 +3,23 @@ layout: home
 title: Relay
 ---
 
-To call this menu:
->[prefix] relay
 
-The relay is not an integrated part of the collar.  It may be turned off or the script deleted from the root prim without affecting other collar functions.  It is embedded in the collar to give collar owners access to the Relay settings and prevent the collar wearer from changing those settings.
+The OpenCollar Turbo relay is an integrated HUD attachment. It is linked to the collar to give collar owners access to the Relay settings and prevent the collar wearer from changing those settings.
 
 What is a relay?  The RLV permissions in your viewer are inactive until they are called by a scripted object you own.  The relay works to "translate" calls from objects you don't own through the relay, which you do own.  It's a handshake between scripted objects and the RLV permissions in your viewer.  
 
-# Settings
-
-### Trusted  
-Restricts use of the relay to avatars on the Access List.  Toggles with Ask and Auto.  
+# Mode
+  
 ### Ask 
-Requires scripted objects to send a request before applying restrictions.  Toggles with Trusted and Auto.  
-When Ask mode is set, and the wearer is trapped through the relay, a menu appears with these options:  
-
-<div style="width: 100%; text-align: center;">
-<img src="/static/relayask.png" width="300" style="margin: 20px auto;" />
-</div>
-
-These options allow the wearer to select the object or its owner as "trusted" on the relay, or blocked on the relay; that is, they will be permitted to autotrap, overriding the "ask" step; or requests from them will be blocked. If the particular trap is scripted to send the user UUID, the relay will also show options to trust or block the user of the trap.  **This is distinct from the "Trusted" setting above, it merely exempts certain objects and object owners from "Ask" when "Ask" mode is set.** Setting for this is `RELAY=trustav~[UUID]~trustobj~[UUID]` or `RELAY=blockav~[UUID}~blockobj~[UUID]`.
-
-### Auto  
-Allows objects to apply restrictions automatically without a prior request.  Toggles with Trusted and Ask.
+Requires scripted objects to send a request before applying restrictions.   
+### Semi-Auto  
+Allows objects to apply force sit automatically without a prior request.  Sends a request to apply restrictions.
 ### Off  
-Unchecking Trusted, Ask, and Auto effectively turns the relay off.  Use this setting if you are wearing another relay.  
-### Lite  
-Permits only undressing and stripping by objects without a prior request.
-### Land
-When checked, permits restrictions from objects owned by the landowner to be applied without a prior request.  
-### Pending  
-Lists the names of objects from which the wearer still has pending requests.  Be careful when set to ask to clear requests by actively declining them to avoid a script memory overload in the relay.
-### Sources
-Lists the sources of current RLV restrictions.  
->To add sources to the Trusted / Blocked list:  First set your relay to Ask.  Then trigger a request.  The dialog will give you an option to add the Source or its Owner to the Trusted or Block List.
-
-### Access Lists 
-Lists Trusted and Blocked Objects and Avatars.
+Turns the relay off.  
+### Auto (w/Blocks). 
+The relay is on auto but includes a blacklist.   
+### Auto (w/oBlocks).
+The relay is on auto and has no blacklist.
 
 ## Safeword  
 When restrictions are enforced by an object through the relay, they may be lifted by pressing this button.  
