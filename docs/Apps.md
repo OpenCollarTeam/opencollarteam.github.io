@@ -5,6 +5,9 @@ title: The Apps Menu
 
 This menu is where you will find links to applications and custom plugins.  The following apps are included in most OpenCollars.
 
+# Outfits
+See:  [Outfits](/Outfits)
+
 # Bell
 
 This App controls the bell visibility and sound.  Only operative with collar designs that include bells.  
