@@ -4,39 +4,59 @@ title: OpenCollar Release Notes
 ---
 
 # V 7.4 Release Candidate   
-dateline 02 April 2020   
+dateline 07 April 2020   
 As always, every old and new script on this list is licensed under the GPL V2.
 
 OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.    
 
-Thanks to everyone who contributed to V 7.4, including but not limited to Aria (tashia redrose), Nirea, Medea Destiny, Lillith Xue, Sharie Criss, Toy Wylie, roan (Silkie Sabra), bunny (emmapais) and many beta testers.  
+Thanks to everyone who contributed to V 7.4, including but not limited to Aria (tashia redrose), Nirea, Medea Destiny, Lillith Xue, Sharie Criss, Toy Wylie, Romka Swallowtail, roan (Silkie Sabra), bunny (emmapais) and many beta testers.  
 
 ## Summary Changelog
-
+### Github
+- Moved optional apps to src/Apps.
+- Updated plugin template to be compatible with V 7.4.
 ### Global Changes   
-1. All scripts no longer use LINK_DIALOG, LINK_SAVE, LINK_ANIM, LINK_UPDATE, LINK_RLV
-    a. Moved all scripts back to the root prim
-    b. Replaced instances of LINK_[dialog,save,anim,rlv] instead with LINK_SET or LINK_THIS
-- Universal checkbox style applied, with a GLOBAL_checkboxes setting that can be set to customize these.   
-- Added back the ability to use indicator lights that glow when Access, RLV and Animations are touched.  To utilize these make indicator light prims and put in the Description field ~indicator_anim, ~indicator_auth, ~indicator_rlvsys.
+1. Moved all scripts badk to the root prim.  
+    a. All scripts no longer use LINK_DIALOG, LINK_SAVE, LINK_ANIM, LINK_UPDATE, LINK_RLV  
+    b. Replaced instances of LINK_[dialog,save,anim,rlv] instead with LINK_SET or LINK_THIS  
+2.  Added new description token: indicator_[anim,dialog,rlv,auth,settings].  This restores the ability to use indicator lights that glow when Access, RLV and Animations are touched.  To utilize these make indicator light prims and put in the Description field ~indicator_anim, ~indicator_auth, ~indicator_rlvsys.  
+3.  New Settings tokens
+    a.  GLOBAL_checkboxes=<unchecked>,<checked>  
+    b.  `SETTINGS_nocomma=<bool>`  
+        aa. Append Mode  
+        (ex).  
+            `TOKEN=var~value`  
+            `TOKEN+var~value2`  
+            ...
+            `TOKEN_var=value,value2`  
+        (ex2).  
+            `SETTINGS=nocomma~1`  
+            `TOKEN=var~value`  
+            `TOKEN+var~value2`  
+            ...
+            `TOKEN_var=valuevalue2`    
+    c. `GLOBAL_showlevel=<bool>`  
 
 ### Changes to oc_anim   
 - Fixed indentation   
-- Added update jail to move the script and copy-enabled animations back to the root prim  
+- Added update jail to move the script and copy-enabled animations back to the root prim 
+- Added a check for the ~stiff anim, if it is not present, it will display text in the menu stating that posture is unavailable.
 
 ### Changes to oc_auth   
 - Added update jail. This prevents oc_auth from spamming the link messages during an update. Additionally this is used to move the script back to the root prim.
-- Removed OwnSelf.  Added the ability to add wearer to owner & trusted using the existing owner / trusted menu buttons.   
-- Updated to use new oc_capture settings
+- Moved OwnSelf into the existing add/remove owners and trusted menus.  You can now add the weare
+- "OwnSelf" is now "Wearer". Removed leftover chat command "flavor". 
+- Updated Name2Key to use the new llRequestUserKey function
+- Updated Updated auth to detect the capture status flag (Denies access to the Access menu when captured).
 - Updated auth check. If user is out of range and not an owner, they will receive the blocked auth level. If however limit range is disabled, this will not happen.
 
 ### Changes to oc_capture   
-- Totally rewritten capture
+- Full rewrite of oc_capture.  
 - New settings flags to indicate status properly.  
 
 ### Changes to oc_detach 
-- Rewritten due to oc_rlvsuite rewrite
-- Moved to apps menu
+- Full rewrite of oc_detach  
+- Moved detach out of rlvsuite to apps menu.  
 
 ### Changes to oc_dialog  
 - Added a programming interface so that other scripts can receive the final menu text and button list after dialog has processed them.   
@@ -50,26 +70,30 @@ Thanks to everyone who contributed to V 7.4, including but not limited to Aria (
 ### Changes to oc_folders
 - Added a configuration menu similar to that in oc_outfits, see below. 
 
+### Changes to oc_leash
+- Removed "park" and "pretty Balloon"
+
 ### Changes to oc_outfits   
-- Rewritten due to oc_rlvsuite rewrite
-- Moved to Apps menu
-- Added the ability to lock the .core folder (even outside of outfits!)
+- Full rewrite of oc_outfits
+- Moved to outfits from rlvsuite to Apps menu
+- New feature:  Lock Core 
+-- when this is enabled, the core folder is locked even outside of the outfits app
+-- Fixed old behavior of outfits, Will now lock the core even if lock core is not enabled when changing outfits
 - Added the ability to configure access to outfits
 - Added the ability to browse and change what is worn inside of .core
 
 ### Changes to oc_particle   
 - Now supports multiple different leashpoints.   
-- Compatible interface with OpenCollar Cuffs.   
+- Compatible interface with OpenCollar Cuffs.  
 
 ### oc_presets  
 - Contributed by Romka Swallowtail
-- This optional app gives the ability to save size presets.  
+- This optional app gives the ability to save size, position, and rotation presets.  
 
 ### Changes to oc_relay   
-- There is a completely new relay script that integrates with an HUD relay courtesy of Toy Wylie. 
+- There is a completely new relay script that bridges with an HUD relay courtesy of Toy Wylie. 
 ### oc_resizer   
 - Use llScaleByFactor instead of old resizing code.
-
 ### oc_rlvextension  
 - Handles exceptions and a few other tasks for rlvsuite   
 
@@ -77,8 +101,9 @@ Thanks to everyone who contributed to V 7.4, including but not limited to Aria (
 Fully rewritten from the ground up. Provides:   
 - macros (7.3 style) included as default  
 - the ability to set and change restrictions individually   
-- the ability to save macros as a pre-set   
-- the ability to set what level of access can use that restriction   
+- the ability to save and remove macros as a pre-set  
+- deprecated terminal since all individual restrictions are now available in the menus.
+- deprecated rlvstuff (now incorporated in rlvsuite)
 
 ### Changes to oc_rlvsys   
 - Added update jail 
@@ -101,12 +126,17 @@ New Settings tokens
             ...
             TOKEN_var=valuevalue2
     c. GLOBAL_showlevel=<bool>
-
+    
+### Changes to oc_spy
+- Full rewrite of oc_spy by Sharie Criss.
 ### Changes to oc_sys
 - Changed update wording from "patch" to "version". 
+### Changes to oc_titler
+- No longer 'requires' the FloatText prim.
+- New Settings flag: `TITLER_plain=<bool>` will prevent titler from storing or reading the active title as base64.
 
 # Credits  
-Aria (Tashia Redrose); Lillith Xue for oc_rlvsuites and many other contributions; Silkie Sabra for supplying coffee and donuts; Romka Swallowtail for contributing oc_presets; and as always Our Benevolent Dictator Nirea for many contributions, checking and approving final versions. 
+Aria (Tashia Redrose); Lillith Xue for oc_rlvsuites and many other contributions; Silkie Sabra for supplying coffee and donuts; Romka Swallowtail for contributing oc_presets; Toy Wylie for contributing the Turbo Relay; and as always Our Benevolent Dictator Nirea for many contributions, checking and approving final versions. 
 
 _________________________________________________________   
 
