@@ -3,12 +3,11 @@ layout: home
 title: How To Update Your OpenCollar
 ---
 
-
 This page covers four ways to update a collar easily: | [From Scratch](#from-scratch-with-collarizer) | [3.X or Older](#from-3x-or-older) | [4-6.5](#from-v4x-to-6x) | [6.6 to 6.7](#from-v6x)  
 The Updater listens on channel -7483213; and on -7483214 when updating older collars (3.X)  
 
 # Current version
-We are currently at OpenCollar V7.1 as of 06 March 2018 !  
+We are currently at OpenCollar V7.4 as of 8 April 2020 !  
 
 ## Update to current version from V 7.0 and up; and from V 4.X through 6.5.2.
 
@@ -17,6 +16,8 @@ These are very easy updates.
 * Rez the updater.
 * Go to Help / About and Press Update
 * The update will begin.
+
+**NOTE**: the V 7.4 updater moves all scripts and contents to the root prim.  You will not be able to roll back this update easily with an older updater.  If you think you might want your old version back, save a copy. 
 
 # Building from Scratch
 
@@ -27,7 +28,7 @@ You will need a collar prim and the script named [oc_collarizer](https://github.
 Follow the instructions in the script:
 * If you want to use the titler app, add a prim with FloatText in the description field, centered in the collar.
 * Rez the updater near the collar prim
-* Drop the script named oc_collarizer into your collar prim.  Accept the permissions request.
+* Drop the script named oc_collarizer into your collar prim.  
 * The update will begin.
 
 # Update Older Collars
@@ -43,7 +44,7 @@ This is worthwhile if your very old collar is a custom build or sentimental item
 
 ## From V4X to 6X
 
-From V4 to V6.5, treat as from 3X, except there will be no permission request to add prims.
+From V4 to V6.5, treat as from 3X.
 - Rez or wear the collar.
 - Rez the updater.
 - In the collar menu go to Help/About.
@@ -63,21 +64,7 @@ Some third party collars block the use of an OpenCollar V7 updater even though s
 2. Right click and edit the collar. 
 3. In the Build Menu of your viewer (this instruction based on Firestorm viewer) Go to > Scripts > Select "remove scripts from selection." 
 4. Wait until the window that pops up showing deletion process says "done". You can confirm there are now no scripts in the collar with Build Menu > Scripts > Show Script Info. It should show [0/0] Running Scripts. Repeat step 3 if necessary.  
-5. Rez OpenCollar updater 7.1 next to the collar. 
+5. Rez OpenCollar updater 7.4 next to the collar. 
 7. Edit the collar again, and add the collarizer script to contents. The updater will run.  
 
-## Manual Update
-To update your collar manually: 
-* Open the updater like a box and copy the contents to your inventory.  You now have copies of all the scripts and other resources you need. You don't need the scripts and BUNDLE notecards that are used for the installer/updater itself.   
-List of scripts that go in your collar:  
-** Root prim: oc_bell (if your collar has a bell), oc_bookmarks, oc_capture, oc_com, oc_exceptions, oc_folders, oc_label or oc_meshlabel (if your collar uses an opencollar scripted label), oc_leash, oc_meshthemes OR oc_themes (if your collar has themes for mesh or standard prims), oc_particle, oc_relay, oc_resizer, oc_rlvsuite, oc_sys, oc_titler (if your collar has a floattext prim for a titler/hovertext).  
-** Animator prim:  oc_anim, oc_couples.   
-** Authorizer prim:  oc_auth.   
-** Dialog prim (this one is named the same as your collar): oc_dialog.   
-** RLV prim:  oc_rlvsys  
-** Settings prim: oc_settings.   
-* Unlock your collar or rez a copy of your collar on the ground.
-* Locate the scripted child prims in your collar,  
-* Delete the scripts you find in there but not the other resources such as notecards and animations.
-* Replace the scripts in each prim with the corresponding OpenCollar scripts.  
-Consult [How To Build your OpenCollar](https://opencollar.cc/docs/How-to-Build-Your-OpenCollar) for more details and illustrations.
+Consult [How To Build your OpenCollar](/docs/How-to-Build-Your-OpenCollar) for more details and illustrations.
