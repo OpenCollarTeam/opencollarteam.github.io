@@ -20,10 +20,6 @@ Toggles RLV on and off in the collar (not in the viewer).  The collar lock is no
 Clears all collar RLV restrictions, including those enforced by the relay.  Available to anyone with collar access but the wearer unless self owned.
 >[prefix] clear
 
-## Detach
-Gives a list of occupied attachment points with the names of the objects attached to each.  Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
->[prefix] detach (opens the "detach" menu)
-
 # RLV SETTINGS (new in V 7.4)  
 This menu contains Exceptions, which lets you set Exceptions to RLV restrictions for Owners and Trusted; plus allows you to set values for Camera and Chat Restrictions.
 
@@ -54,7 +50,7 @@ Opens a menu of restrictions and macros which are shortcuts to apply groups of r
 Frequently used restrictions are on the same page as the macros.  They include:   
 * Hear: (single restriction) `@rcvchat` restricts wearer's ability to receive chat.  
 * Talk: (single restriction) `@sendchat` restricts wearer's ability to send chat.  
-* Touch: (single restriction) `touchworld` restricts wearer's ability to touch objects.  
+* Touch: (single restriction) `@touchworld` restricts wearer's ability to touch rezzed objects and avatars.  
 
 Macros include:  
 * Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers. [prefix] forbid dress / allow dress
