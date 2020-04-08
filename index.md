@@ -12,8 +12,8 @@ title: Welcome to OpenCollar!
 
 # OPEN COLLAR V 7.4 !
 
-Dateline March 21, 2020.  
-OpenCollar V 7.4 Release Candidate 3 is out in OpenCollar and OpenCollar R&D!  Release notes soon.  You can also get an updaterat the [OpenCollar Theater](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001)!
+Dateline 8 April, 2020.  
+OpenCollar V 7.4 is due for release. You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here !
 ## New in OpenCollar V 7.4:   
 - Included, integrated HUD relay.  
 - Many changes in RLV to make adding and removing items and outfits easier than ever !
