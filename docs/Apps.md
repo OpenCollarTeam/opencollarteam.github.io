@@ -53,6 +53,12 @@ In collars built with a label only.  There are two versions of the label app, on
 **Color:** changes the color of the label text. `[prefix] label color`  
 **Font:** changes the font of the label text. `[prefix] label font`  
 
+# Detach  
+Gives a list of occupied attachment points with the names of the objects attached to each. Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
+
+> `[prefix] detach` (opens the "detach" menu)
+
+
 # Outfits
 See:  [Outfits](/Outfits)
 
