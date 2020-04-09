@@ -18,7 +18,7 @@ OpenCollar V 7.4 is due for release. You can see the [Release Notes](https://ope
 - Included, integrated HUD relay.  
 - Many changes in RLV to make adding and removing items and outfits easier than ever !
 - ALL SCRIPTS ARE NOW IN THE ROOT PRIM.  For Builders ! No more fussy linked prim architecture!  For Editors ! Easy drag and drop additions to animations and apps.  
-- PLEASE NOTE:  Due to the change in the build, it will not be possible to roll back to 7.3 and before without use of the collarizer.  This is still a release candidate, not full release.   Use a copiable collar to make your changes.
+- PLEASE NOTE:  Due to the change in the build, it will not be possible to roll back to 7.3 and before without use of the collarizer. Use a copiable collar to make your changes.
 
 # Current Full Release:  OpenCollar 7.3   
 Release date 22 July 2019   
