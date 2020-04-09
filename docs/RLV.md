@@ -65,16 +65,24 @@ Here you can save a group of restrictions as a new macro, and Delete an existing
 
 ### Individual
 
-List of individual restrictions are also grouped for convenience. These can be applied and removed by toggling the button.  
-* Chat: Includes individual restrictions having to do with local chat, IMs and gestures.
-* Show/Hide: Includes individual restrictions that hide Locations, Maps, and hovertext.
-* Teleport: Includes individual restrictions involving teleportation.
+List of individual restrictions are also grouped categorically for convenience but are applied individually. These can be applied and removed by toggling the button.  
+* Chat: Includes individual restrictions having to do with local chat, IMs and gestures:   
+> emote, sendchat, rcvchat, rcvemote, whisper, normal, shout, sendim, rcvim, starim, sendgesture  
+* Show/Hide: Includes individual restrictions that hide Locations, Maps, and hovertext:  
+> showinv, showminmap, showworldmap, showlock, shownames, shownametags, shownearby, showhovertext, showhovertexthud, showhovertextworld, showhovertextall  
+* Teleport: Includes individual restrictions involving teleportation:   
+> tplm, tploc, tplocal, tplure, tprequest  
 * Misc:  At the moment just one miscellaneous individual restriction, `@acceptpermission` which automatically accepts all attach and take control permission requests.
-* Edit/Mod: Includes individual restrictions having to do with rezzing and editing objects, textures, scripts, and notecards.  
-* Interact:  Includes individual restrictions having to do with touch.
-* Movement:  Includes individual restrictions having to do with Running, Flying, Jumping, Sitting and Standing.  
-* Camera:  Includes blurring view, unlock camera, camera minimum and maximum distance.  
-* Outfit:  Includes individual restrictions on adding and removing clothing and attachments.
+* Edit/Mod: Includes individual restrictions having to do with rezzing and editing objects, textures, scripts, and notecards. 
+> edit, editobj, rez, viewnote, viewscript, viewtexture   
+* Interact:  Includes individual restrictions having to do with touch:   
+> fartouch, interact, touchattach, touchattachself, touchattachother, touchhud, touchworld, touchall   
+* Movement:  Includes individual restrictions having to do with Running, Flying, Jumping, Sitting and Standing:  
+> fly, jump, unsit, sit, sittp, standtip, alwaysrun, temprun  
+* Camera:  Includes blurring view, unlock camera, camera minimum and maximum distance:  
+> camunlock, blur view, setcam_avdistmax:2 (default value), setcam_avdistmin:1 (default value)
+* Outfit:  Includes individual restrictions on adding and removing clothing and attachments:   
+> addattach, remattach, addoutfit, remoutfit
 
 ## Relay
 This button in RLV brings up the relay menu.  See [Relay](/docs/Relay) for more.
