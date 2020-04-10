@@ -10,19 +10,18 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# OPEN COLLAR V 7.4 !
+# CURRENT FULL RELEASE:  OPEN COLLAR V 7.4 
 
-Dateline 8 April, 2020.  
-OpenCollar V 7.4 is due for release. You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here !
+Dateline 10 April, 2020.  
+OpenCollar V 7.4 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
 ## New in OpenCollar V 7.4:   
 - Included, integrated HUD relay.  
 - Many changes in RLV to make adding and removing items and outfits easier than ever !
+- All individual restrictions are now available through the RLV menu.
+- Restriction "Macros" can be customized.
+- Detach and Outfits are now in the Apps menu.
 - ALL SCRIPTS ARE NOW IN THE ROOT PRIM.  For Builders ! No more fussy linked prim architecture!  For Editors ! Easy drag and drop additions to animations and apps.  
 - PLEASE NOTE:  Due to the change in the build, it will not be possible to roll back to 7.3 and before without use of the collarizer. Use a copiable collar to make your changes.
-
-# Current Full Release:  OpenCollar 7.3   
-Release date 22 July 2019   
-[Release Notes](https://opencollar.cc/ReleaseNotes)
 
 ## Mission
 
