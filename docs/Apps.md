@@ -45,6 +45,12 @@ Capture gives temporary Trusted level access to a Captor.
 - **Risky** - When checked, the wearer does not get a dialog asking permission.
 - Collar safeword ends the capture event for the wearer.
 
+# Detach  
+Gives a list of occupied attachment points with the names of the objects attached to each. Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
+
+> `[prefix] detach` (opens the "detach" menu)
+
+
 # Label
 
 In collars built with a label only.  There are two versions of the label app, one for standard prim labels and one for mesh faces.  The label app applies the wearer name using a scripted texture offset.  
@@ -52,12 +58,6 @@ In collars built with a label only.  There are two versions of the label app, on
 **Set Label:** opens a dialog to change the text on the label.  `[prefix] label [newlabel]`   
 **Color:** changes the color of the label text. `[prefix] label color`  
 **Font:** changes the font of the label text. `[prefix] label font`  
-
-# Detach  
-Gives a list of occupied attachment points with the names of the objects attached to each. Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
-
-> `[prefix] detach` (opens the "detach" menu)
-
 
 # Outfits
 See:  [Outfits](/Outfits)
