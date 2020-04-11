@@ -3,7 +3,7 @@ layout: home
 title: The Apps Menu
 ---
 
-This menu is where you will find links to applications and custom plugins.       
+![](/static/Apps 7-4.png) This menu is where you will find links to applications and custom plugins.       
 The following apps are included in OpenCollar V 7.4:
 
 # Bell
