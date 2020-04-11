@@ -3,7 +3,8 @@ layout: home
 title: The Apps Menu
 ---
 
-<p><img style="float: right; margin: 5px 15px 15px 5px;" src="/static/Apps 7-4.png" width="100" />  This menu is where you will find links to applications and custom plugins.       
+<p><img style="float: right; margin: 5px 15px 15px 5px;" src="/static/Apps 7-4.png" width="200" />    
+This menu is where you will find links to applications and custom plugins.       
 The following apps are included in OpenCollar V 7.4:
 
 # Bell
