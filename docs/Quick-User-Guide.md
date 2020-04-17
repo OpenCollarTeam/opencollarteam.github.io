@@ -36,7 +36,7 @@ When you open the main menu you will see buttons that go to all the different co
 
 ## Capture  
 
-If you want just an occasional adventure, Capture might be a good way to start using your collar. Turn Capture on in the Main Menu and nearby avatars can capture your collar.  See more in [Main](/docs/Main). 
+If you want just an occasional adventure, Capture might be a good way to start using your collar. Turn Capture on in the App  Menu and nearby avatars can capture your collar.  See more in [Apps](/docs/Apps). 
 - Only your Captor can end the Capture event by releasing you.  
 - However, if you need to get away, you can always use the collar safeword (RED), see below!
 
