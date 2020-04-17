@@ -162,6 +162,10 @@ Rocketroo, Bad Bunneh
 Shop featuring clothing, jewelry, furniture  
 [http://maps.secondlife.com/secondlife/Paradiso/13/190/561](http://maps.secondlife.com/secondlife/Paradiso/13/190/561)  
 
+Safra Nitely, Darkwing-Barns Stables   
+pony girl and pet play   
+[http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993](http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993)   
+
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys  
 [http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21
