@@ -10,10 +10,11 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# CURRENT FULL RELEASE:  OPEN COLLAR V 7.4 
+# CURRENT FULL RELEASE:  OPEN COLLAR V 7.5 
 
 Dateline 10 April, 2020.  
-OpenCollar V 7.4 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
+OpenCollar V 7.5 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
+OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
 ## New in OpenCollar V 7.4:   
 - Included, integrated HUD relay.  
 - Many changes in RLV to make adding and removing items and outfits easier than ever !
