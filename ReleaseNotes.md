@@ -3,12 +3,16 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
-# V 7.4 Release Candidate   
-dateline 07 April 2020   
+# V 7.5  (aka V7.4.1)   
+OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
+**Dateline 22 April 2020**
+
 As always, every old and new script on this list is licensed under the GPL V2.
 
-OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.    
+# V 7.4   
 
+OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.     
+**Release Date 07 April 2020**   
 Thanks to everyone who contributed to V 7.4, including but not limited to Aria (tashia redrose), Nirea, Medea Destiny, Lillith Xue, Sharie Criss, Toy Wylie, Romka Swallowtail, roan (Silkie Sabra), bunny (emmapais) and many beta testers.  
 
 ## Summary Changelog
