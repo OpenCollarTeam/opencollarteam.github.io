@@ -71,6 +71,10 @@ Inworld Shop
 [http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862](http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862)  
 Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059)  
 
+Gigante Radium, Giga's World  
+decorative metal collars 0-100L   
+Marketplace:  [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)   
+
 Jamie Brokken, Brokken Industries  
 Different designs at affordable price, 600L  
 Inworld shop:  
