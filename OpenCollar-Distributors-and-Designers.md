@@ -25,18 +25,10 @@ Annarussianmiss, Anna's House of Bondage and Slave Storage
 Bondage roleplay, slave storage, maid service, rubber dolls    
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/197/39/63) 
 
-Arrowworra, X Nude Beach   
-Adult hangout   
-[http://maps.secondlife.com/secondlife/CRISTALLINA/9/190/22](http://maps.secondlife.com/secondlife/CRISTALLINA/9/190/22)   
-
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy and medical rp  
 [http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
 ((Vendor is 30m East of landing point, inside the blue house))  
-
-Beautifull Vyper, Mistress Says / Femdom BDSM   
-Mistresses/Servitude Roleplay  
-[http://maps.secondlife.com/secondlife/Sensation/93/60/4001](http://maps.secondlife.com/secondlife/Sensation/93/60/4001)  
 
 Blaise Tomsen, Second Life Railroad  
 Shopping   
@@ -59,24 +51,15 @@ Cater1na
 BDSM Pervertion RLV   
 Playground, Hunt Roleplay   
 [http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
-Naked Prey -- Forbidden Land   
-Playground, metered human hunting game   
-[http://maps.secondlife.com/secondlife/Tanguy/130/192/3001](http://maps.secondlife.com/secondlife/Tanguy/130/192/3001)   
-**Advisory** This vendor location is over 180m past the fixed landing point.  
 
 Celestrea Vasiliov, Sensual Delights Slave Auction   
 Auction, Shops, BDSM Roleplay   
 [http://slurl.com/secondlife/Sensual%20Delights/134/87/23](http://slurl.com/secondlife/Sensual%20Delights/134/87/23)  
 **Advisory** This vendor is in a medieval shop building 100m SW of the fixed landing point.  
 
-Cindy Evanier, Kix Erotix  
-Shopping Mall  
-**Advisory** Clothing is required in shop.  
-[http://maps.secondlife.com/secondlife/Miso/76/90/22](http://maps.secondlife.com/secondlife/Miso/76/90/22)  
-
-Cissy March, Sweet Domination Mansion & Farm   
-BDSM Playground and meeting space  
-[http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21](http://maps.secondlife.com/secondlife/Exotica%20Bay/158/57/21) 
+Cissy March, Sweet Domination Palace
+Shop  
+[http://maps.secondlife.com/secondlife/Black%20Veil/54/61/2852](http://maps.secondlife.com/secondlife/Black%20Veil/54/61/2852) 
 
 Countrycat Furse, Defilers   
 Urban Roleplay   
@@ -89,10 +72,6 @@ BDSM Club
 Cutiebound, Palm Mountain  
 Prison Roleplay  
 [http://maps.secondlife.com/secondlife/Syrah/23/113/52](http://maps.secondlife.com/secondlife/Syrah/23/113/52)  
-
-Dianna Loxely, SM-Garten, Freedom Continent  
-German BDSM Community, RP and Playground    
-[http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/200/143/26](http://maps.secondlife.com/secondlife/Blacksilk%20Forrest/200/143/26)  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
@@ -123,10 +102,6 @@ HaydenPryce, Xaara
 D/s Community, Art Gallery and Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
 
-Jack Hotaling, Lady of the Manor  
-BDSM Hangout and Playground   
-[http://maps.secondlife.com/secondlife/Lost%20Cove/213/123/3513](http://maps.secondlife.com/secondlife/Lost%20Cove/213/123/3513)   
-
 Joshuua Barenhaut, Prisoners of Darkness Slave Auction   
 Playground, Slave Auctions   
 [http://maps.secondlife.com/secondlife/PrisonersOfDarkness/110/31/2104](http://maps.secondlife.com/secondlife/PrisonersOfDarkness/110/31/2104)   
@@ -150,8 +125,8 @@ Shop, Playground and Club
 ((Walk East into the main shop all the way to the back then turn left.  About 100m))  
 
 Modernprimitive, Lo Kajirus Designs  
-Shop  
-[https://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202](https://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202)   
+Shop for Male Slaves
+[http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501](http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501)   
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
@@ -160,7 +135,7 @@ Playground, Chat, Dungeon Roleplay
 
 Rocketroo, Bad Bunneh   
 Shop featuring clothing, jewelry, furniture  
-[http://maps.secondlife.com/secondlife/Paradiso/13/190/561](http://maps.secondlife.com/secondlife/Paradiso/13/190/561)  
+[http://maps.secondlife.com/secondlife/Spunk/115/205/799](http://maps.secondlife.com/secondlife/Spunk/115/205/799)  
 
 Safra Nitely, Darkwing-Barns Stables   
 pony girl and pet play   
@@ -203,11 +178,7 @@ Inworld Playground and Shop
 
 Weard Welty, Xegul  
 Roleplay, RLV Playground  
-[http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)
-
-Will Galuptra, Amnesia Cove  
-Public Beach and D/s Community  
-[http://maps.secondlife.com/secondlife/Amnesia%20Cove/31/58/34](http://maps.secondlife.com/secondlife/Amnesia%20Cove/31/58/34)  
+[http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59) 
 
 Windrunner Shan, Fusion by the Sea  
 Beach, Sailing, Blake Sea Access  
