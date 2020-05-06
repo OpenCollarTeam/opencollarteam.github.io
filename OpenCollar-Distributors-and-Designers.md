@@ -15,7 +15,7 @@ Look for this image on the vendor:
 
 Aisha Marshdevil, Noxia   
 Dark Urban Fantasy Roleplay, CCS enabled  
-[https://marketplace.secondlife.com/stores/59176](https://marketplace.secondlife.com/stores/59176)   
+ 
 
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay playground    
@@ -143,7 +143,7 @@ pony girl and pet play
 
 Serjourn Daxter, Pirandello Bay  
 Sim wide dungeon on 7 levels with some of SL's greatest RLV toys  
-[http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21
+[http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21)
 ((Walk South from landing point and turn left inside the shop building, about 43m))  
 
 Seth Ock, Griseus Farms  
