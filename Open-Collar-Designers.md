@@ -61,6 +61,12 @@ Cynianne Hellershanks, Accents Design
 OC Collars and Scripted Jewelry starting at 199L  
 Marketplace: https://marketplace.secondlife.com/stores/30432  
 
+daPhuk, SLAM // kink & stuff  
+original mesh collars in many styles, from 250L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Sedna/76/37/2001](http://maps.secondlife.com/secondlife/Sedna/76/37/2001)  
+Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
+
+
 Emdragon, Emerald Dust  
 Collar Accessories, OpenCollar Scripted Cock Cages  
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
@@ -104,10 +110,11 @@ Inworld Shops (Moderate)
 [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
 
-Peladoliso, SLAM // kink & stuff  
-original mesh collars in many styles, from 250L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Sedna/76/37/2001](http://maps.secondlife.com/secondlife/Sedna/76/37/2001)  
-Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
+Salt Peppermint, Salt & Pepper and The Birdcage  
+Inworld Shops  
+[http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
+classic feminine styles, high quality mesh, pricing around 500L  
+Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
 
 Shan Bright, Bright Corporation   
 Free copy trans collar and many other products  
@@ -144,12 +151,6 @@ Inworld Shop
 Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719) 
-
-xxsaltandpepperxx, Salt & Pepper and The Birdcage  
-Inworld Shops  
-[http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
-classic feminine styles, high quality mesh, pricing around 500L  
-Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
 
 zikadee, Zikadee Creative  
 Collars and Cuffs from 1-100L, including free full permission set   
