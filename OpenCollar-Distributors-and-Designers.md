@@ -118,7 +118,7 @@ Shop
 
 lesleyash, Realm of the Black Raven  
 Vampire Goth Snuff Roleplay  
-[http://maps.secondlife.com/secondlife/Mooon%20Light/231/32/29](http://maps.secondlife.com/secondlife/Mooon%20Light/231/32/29)  
+[https://maps.secondlife.com/secondlife/Mooon%20Light/229/32/29](https://maps.secondlife.com/secondlife/Mooon%20Light/229/32/29)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
