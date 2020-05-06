@@ -15,6 +15,7 @@ Look for this image on the vendor:
 
 Aisha Marshdevil, Noxia   
 Dark Urban Fantasy Roleplay, CCS enabled  
+[http://maps.secondlife.com/secondlife/Noxia/12/11/507](http://maps.secondlife.com/secondlife/Noxia/12/11/507) 
  
 
 Aisha Marshdevil, Rubber Kingdom  
