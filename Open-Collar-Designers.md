@@ -19,6 +19,11 @@ Inworld shop:
 [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)  
 Marketplace:  [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
 
+Anna Timmerman, Fapple   
+Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.   
+Inworld Shop  
+[https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
+
 AnnarussianMiss, Anna's Bondage Shop Mainstore  
 High quality 3D bondage erotic graphics, bondage collars, shackles, hoods, masks and other restraints from 100L to 450L  
 Inworld shop:  
@@ -63,13 +68,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketpl
 Gatatem, Habib Creations    
 Free designer collars  
 Inworld Shop  
-[http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504](http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504)  
-
-GiannaArmani, Fapple   
-Cute but subtle and realistic themed collars. Original mesh and textures with texture hud. 250L plus 5% group discount.   
-Inworld Shop  
-[http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862](http://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/232/37/862)  
-Marketplace: [https://marketplace.secondlife.com/stores/184059](https://marketplace.secondlife.com/stores/184059)  
+[http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504](http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504)   
 
 Gigante Radium, Giga's World  
 decorative metal collars 0-100L   
@@ -81,15 +80,11 @@ Inworld shop:
 [http://maps.secondlife.com/secondlife/Sleepy%20Hill/80/100/24](http://maps.secondlife.com/secondlife/Sleepy%20Hill/80/100/24)  
 Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)  
 
-Kristen Minx, Kristen's  
+Kristen Mynx, Kristen's  
 Elegant Texture Change collars and integrated cuff sets, 399L  
 Inworld Shop:  
 [http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002](http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002)  
 Marketplace: [https://marketplace.secondlife.com/stores/149910](https://marketplace.secondlife.com/stores/149910)  
-
-Lesleyash, Blackraven Direwitch Productions  
-Mostly Goth style collars, 200L-500L  
-Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)  
 
 Liviadonata, Livia  
 BDSM Fashion and OpenCollar scripted accessories from 99 - 150L  
