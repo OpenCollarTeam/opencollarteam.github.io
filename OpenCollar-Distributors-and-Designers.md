@@ -134,6 +134,10 @@ Playground, Chat, Dungeon Roleplay
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
 ((Walk South from landing point about 30m to reach these coordinates))
 
+Nicoh Magic, Port of Senses   
+Maledom BDSM Club   
+[http://maps.secondlife.com/secondlife/Serendipity%20Lake/95/51/24](http://maps.secondlife.com/secondlife/Serendipity%20Lake/95/51/24)   
+
 Rocketroo, Bad Bunneh   
 Shop featuring clothing, jewelry, furniture  
 [http://maps.secondlife.com/secondlife/Spunk/115/205/799](http://maps.secondlife.com/secondlife/Spunk/115/205/799)  
