@@ -129,6 +129,10 @@ Modernprimitive, Lo Kajirus Designs
 Shop for Male Slaves
 [http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501](http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501)   
 
+Morris Mixmaster, Sensual Camping  
+Club, Nude Beach   
+[http://maps.secondlife.com/secondlife/La%20Desirade%20Island/84/218/22](http://maps.secondlife.com/secondlife/La%20Desirade%20Island/84/218/22)   
+
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
