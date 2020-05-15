@@ -29,7 +29,7 @@ To change the contents of the folder, first Uncheck Lock Core.
 - *Wearer* when checked, gives the wearer access to Outfits. On by default.
 - *Group* when checked, gives the set group access to Outfits.  Off by default.
 - *Public* when checked, gives public access to Outfits.  Off by default.   
-**Jail** when checked, limits the Outfits change to defined Outfits folders.  On by default.  When unchecked, it will allow Otufts to browse the entire `#RLV` folder.   
+**Jail** when checked, limits the Outfits change to defined Outfits folders.  On by default.  When unchecked, it will allow Outfits to browse the entire `#RLV` folder.   
 **Strip All** when checked, allows Outfits to strip any worn items not in your locked core.  When unchecked, Outfits can only strip items that are included in another defined Outfits folder.
 ## Browse
 In this menu collar users can select Outfits to dress the wearer.  
