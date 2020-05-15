@@ -103,7 +103,8 @@ Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketpla
 
 Modernprimitive, Lo Kajirus Designs  
 Collars, Cuffs and Other Devices for Males, from 300L  
-[http://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202](http://maps.secondlife.com/secondlife/Preferred%20Land/32/113/3202)  
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501](http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501)  
+MarketPlace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 Peebee McMillan, PBM Enterprises and [maXplicit]  
 collars and bondage toys for men  
