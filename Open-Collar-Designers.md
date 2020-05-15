@@ -48,6 +48,7 @@ Inworld shop: [http://maps.secondlife.com/secondlife/Sensual%20Delights/80/43/22
 
 Cissy March, CM Creations  
 Elegant Collars for men, women and hucows from 49 - 299L  
+Inworld shop: [http://maps.secondlife.com/secondlife/Black%20Veil/181/49/22](http://maps.secondlife.com/secondlife/Black%20Veil/181/49/22)  
 Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketplace.secondlife.com/stores/12936)  
 
 crashnoww, RealEvil Industries  
