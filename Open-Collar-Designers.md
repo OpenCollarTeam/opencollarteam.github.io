@@ -28,12 +28,7 @@ AnnarussianMiss, Anna's Bondage Shop Mainstore
 High quality 3D bondage erotic graphics, bondage collars, shackles, hoods, masks and other restraints from 100L to 450L  
 Inworld shop:  
 [http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
-Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)  
-
-Assmay, The Five Collars   
-BDSM Slave Collars 77L  
-Inworld Shop: 
-[http://maps.secondlife.com/secondlife/Forest%20Hill/129/179/22](http://maps.secondlife.com/secondlife/Forest%20Hill/129/179/22)   
+Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)     
 
 Cara Lionheart, Hidden Serenity  
 Shops, Club, Racetrack  
@@ -67,25 +62,13 @@ original mesh collars in many styles, from 250L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Sedna/76/37/2001](http://maps.secondlife.com/secondlife/Sedna/76/37/2001)  
 Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
 
-
 Emdragon, Emerald Dust  
 Collar Accessories, OpenCollar Scripted Cock Cages  
-Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)
-
-Gatatem, Habib Creations    
-Free designer collars  
-Inworld Shop  
-[http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504](http://maps.secondlife.com/secondlife/Caged%20Elegance/79/99/2504)   
+Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166) 
 
 Gigante Radium, Giga's World  
 decorative metal collars 0-100L   
 Marketplace:  [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)   
-
-Jamie Brokken, Brokken Industries  
-Different designs at affordable price, 600L  
-Inworld shop:  
-[http://maps.secondlife.com/secondlife/Sleepy%20Hill/80/100/24](http://maps.secondlife.com/secondlife/Sleepy%20Hill/80/100/24)  
-Marketplace: [https://marketplace.secondlife.com/stores/9224](https://marketplace.secondlife.com/stores/9224)  
 
 Kristen Mynx, Kristen's  
 Elegant Texture Change collars and integrated cuff sets, 399L  
