@@ -116,9 +116,9 @@ Kittin Ninetails, Ninetails
 Shop  
 [http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)   
 
-lesleyash, Realm of the Black Raven  
-Vampire Goth Snuff Roleplay  
-[https://maps.secondlife.com/secondlife/Mooon%20Light/229/32/29](https://maps.secondlife.com/secondlife/Mooon%20Light/229/32/29)  
+lesleyash, Ravencrest  
+Post-COVID Urban RP 
+[http://maps.secondlife.com/secondlife/Bellicoso/128/166/991](http://maps.secondlife.com/secondlife/Bellicoso/128/166/991)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
