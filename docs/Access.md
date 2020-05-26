@@ -48,6 +48,7 @@ This allows the collar only to block named avatars from using the collar.  Use s
 
 >Add to the Blocklist: `[prefix] add block [name or UUID]`  
 >Remove from the Blocklist: `[prefix] rm block [name or UUID]`
+>Add to Settings: `AUTH=block~<UUID>`
 
 # Runaway  
 This command wipes the owner list and returns all collar settings to default.   
