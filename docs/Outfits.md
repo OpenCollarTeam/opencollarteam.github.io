@@ -6,7 +6,9 @@ title: Outfits
 1.  If you don't already have one (see RLV), make a top folder in inventory and name it `#RLV`.  This is your RLV shareable folder, everything in it unless otherwise marked could be accessible to RLV enabled devices.  You control what you put in this folder.  
 2.  Inside `#RLV`, make a folder named `.outfits`. This is where you will put Outfits folders containing items you want to be worn and removed together as an organized outfit.   
 3.  Inside `.outfits` make a folder named `.core`.  This is where you will place items you do not want removed when changing Outfits.  If you have more than one "base" avatar, for instance different mesh heads, you can place folders in .core that will define different "bases".  See more below. 
-**Note: For all three folders, `#RLV`, `.outfits` and `.core`, use the exact characters displayed here.  Case is critical and the dot in front of the name is critical.**  
+**Notes:** 
+1. For all three folders, `#RLV`, `.outfits` and `.core`, use the exact characters displayed here.  Case is critical and the dot in front of the name is critical.   
+2.  For Outfits to be visible in the Apps menu you must have at least one folder in #RLV that is *not* in .outfits. Otherwise it will behave like any other hidden folder and not be visible from the menu.
 
 # Making Outfits
 1.  A "defined Outfit folder" is a folder with an outfit in it, inside the folder `.outfits`.  When an Outfit is worn, Outfits will detach/unwear any item that is in a defined Outfit folder other than the one called to be worn.  If an item is not in a defined outfit folder, it will not be removed.  This behavior can be changed in the Configure menu.  
@@ -35,6 +37,9 @@ To change the contents of the folder, first Uncheck Lock Core.
 In this menu collar users can select Outfits to dress the wearer.  
 - >Wear< will wear the current outfit.  Be careful ! If you see more than one outfit on the current page, >Wear< will put on all of them!  Select the desired outfit first !
 - >RemoveAll< will remove the current outfit.  Again, Be careful ! If you see more than one outfit on the current page, >RemoveAll< will remove all of them!  Select the desired outfit first !
+- `[prefix] wear [outfitname]`
+- `[prefix] rem [outfitname]`
+- For subfolders: `[prefix] wear [outfitname1/outfitname2]; [prefix] rem [outfitname1/outfitname2]`
 ## Browse Core 
 Using Browse Core you can wear and remove defined `.core` subfolders, allowing you to change your base avatar. 
 - You cannot change the collar issuing the command to a different collar this way.  
