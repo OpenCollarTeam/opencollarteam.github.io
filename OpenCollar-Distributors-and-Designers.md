@@ -127,7 +127,11 @@ Shop, Playground and Club
 
 Modernprimitive, Lo Kajirus Designs  
 Shop for Male Slaves
-[http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501](http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501)   
+[http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501](http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501) 
+
+Monk Xenno, Desert Land of Nom  
+Arab Themed Slave Auction and Training  
+[http://maps.secondlife.com/secondlife/Pearl%20Cove/241/193/22](http://maps.secondlife.com/secondlife/Pearl%20Cove/241/193/22)  
 
 Morris Mixmaster, Sensual Camping  
 Club, Nude Beach   
