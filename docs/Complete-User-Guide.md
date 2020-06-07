@@ -15,7 +15,7 @@ OpenCollar uses a modular architecture. There is a set of core scripts required 
 [How Can I Tell if I'm Running an Official OpenCollar Release](/docs/OpenCollar-Signature)
 
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at
-https://github.com/OpenCollarTeam/OpenCollar/issues 
+[Here](https://github.com/OpenCollarTeam/OpenCollar/issues)
 
 # Index / Table of Contents
 
