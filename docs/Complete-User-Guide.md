@@ -12,7 +12,7 @@ Read the entire OpenCollar License in the notecard accompanying the scripts.
 
 OpenCollar uses a modular architecture. There is a set of core scripts required to operate the collar.  You can add your own apps, animations and other contents, or delete scripts you don't require.  See the list below for each menu.
 
-[How Can I Tell if I'm Running an Official OpenCollar Release](/docs/OpenCollar-Signature.md)
+[How Can I Tell if I'm Running an Official OpenCollar Release](/docs/OpenCollar-Signature)
 
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at
 https://github.com/OpenCollarTeam/OpenCollar/issues 
