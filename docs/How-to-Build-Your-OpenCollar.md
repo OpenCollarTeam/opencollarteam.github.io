@@ -17,19 +17,22 @@ To get the scripts, open the current OpenCollar updater and save the contents to
 - oc_auth 
 - oc_com  
 - oc_dialog  
-- oc_anim / oc_couples 
-- oc_rlvsys 
 - oc_settings 
 - oc_sys
 
 **INTEGRATED.** These scripts can be removed without breaking the collar but have integrated menu functions:  
-> oc_capture, oc_exceptions, oc_folders, oc_leash, oc_particle, oc_relay, oc_resizer, oc_rlvsuite.  
+- oc_anim / oc_couples (required to use collar animations and sync to OC AO).
+- oc_exceptions, oc_rlvsys, oc_rlvsuite (required to use collar rlv restrictions and reach the relay menu)
+- oc_folders (required to access wearer's #RLV folders for force wear).
+- oc_leash, oc_particle (required to operate the leash).
+- oc_relay (required only if you want to allow restrictions by objects you do not own)
+- oc_resizer (required to use menu driven resizing and positioning)
 
 **DESIGN TOOLS.** Use these scripts if your collar design calls for them: 
 > oc_label, oc_meshlabel, oc_themes, oc_meshthemes  
 
 **OPTIONAL APPS.**  These are apps provided in the OpenCollar updater you may include. 
-> oc_bell, oc_titler, oc_bookmarks, oc_outfits, oc_detach. 
+> oc_bell,  oc_bookmarks, oc_capture, oc_detach, oc_outfits, oc_titler. 
 
 **OTHER RESOURCES.** Also copy from the updater and load, the license and help notecards, the leash holder, the relay objects, and all animations.  
 
