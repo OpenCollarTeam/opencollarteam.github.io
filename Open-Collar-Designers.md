@@ -2,7 +2,11 @@
 title: OpenCollar Designers 
 ---
 
-These Official Design Partners make many different collar designs in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!
+See also this page: [Design Partner Application](#application)
+
+These Official Design Partners make many different collar designs and also custom collar apps, in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!  
+- Collar Designers are using OpenCollar V 7+ and the OpenCollar scripts remain full permission.  
+- Makers of custom apps may use closed source scripts for extra features that link to the collar.  See our [public domain plugin template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl) that makes this possible.
 
 Allisonkrause, Devious Rose  
 Original Mesh Collars and Cuffs from 250L to 999L  
@@ -109,7 +113,11 @@ Bright Corporation web site: [http://brightcorporation.net/](http://brightcorpor
 
 Silent Alchemi, Birth   
 Mesh Collars 250L   
-Marketplace:  [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814)   
+Marketplace:  [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
+
+Sweetdangerkitty, Danger Kitty's Sweets   
+"Kitty's Hearts" Plugin, 200L   
+Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketplace.secondlife.com/stores/220939)   
 
 Taylor Paine, Taylor's Toys  
 Alien style collars and traps 50 - 300L  
@@ -135,7 +143,7 @@ zikadee, Zikadee Creative
 Collars and Cuffs from 1-100L, including free full permission set   
 [https://marketplace.secondlife.com/stores/222093](https://marketplace.secondlife.com/stores/222093)   
 
-# OpenCollar Design Partners Application Form
+# Application
 
 Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to Silkie Sabra inworld.
 OpenCollar Official Design Partners are listed on this page, and we'll refer users to it when they inquire about where to find OpenCollar-based products.  
