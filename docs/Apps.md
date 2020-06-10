@@ -2,10 +2,15 @@
 layout: home
 title: The Apps Menu
 ---
-![](/static/Apps7-4.png)
+
+See in this page: [Bell](#bell) | [Bookmarks](#bookmarks) | [Capture](#capture) | [Label](#label) | [Outfits](#outfits) | [Titler](#titler)   
+
+# Apps Main Menu
+
+![](/static/Apps7-4.png) 
 
 
-This menu is where you will find links to applications and custom plugins.       
+This menu is where you will find links to applications and custom plugins.  The above image does not contain all the possible Apps.       
 The following apps are included in OpenCollar V 7.4:
 
 # Bell
