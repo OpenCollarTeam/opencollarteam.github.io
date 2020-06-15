@@ -103,7 +103,11 @@ Salt Peppermint, Salt & Pepper and The Birdcage
 Inworld Shops  
 [http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
 classic feminine styles, high quality mesh, pricing around 500L  
-Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)
+Marketplace:  [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)   
+
+Saucey Sinister, Kawaii Couture   
+Original mesh collars with bento animations, 399L   
+Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Shan Bright, Bright Corporation   
 Free copy trans collar and many other products  
