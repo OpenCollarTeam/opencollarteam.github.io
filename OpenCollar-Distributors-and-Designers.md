@@ -135,7 +135,7 @@ Arab Themed Slave Auction and Training
 
 Morris Mixmaster, Sensual Camping  
 Club, Nude Beach   
-[http://maps.secondlife.com/secondlife/La%20Desirade%20Island/84/218/22](http://maps.secondlife.com/secondlife/La%20Desirade%20Island/84/218/22)   
+[http://maps.secondlife.com/secondlife/La%20Desirade%20Island/60/222/22](http://maps.secondlife.com/secondlife/La%20Desirade%20Island/60/222/22)   
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
