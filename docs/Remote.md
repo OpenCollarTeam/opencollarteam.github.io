@@ -11,9 +11,21 @@ When you add the Remote to an HUD point you get this image on your screen.  This
 <img src="/static/Remote.png" width="100" style="margin: 20px auto;" />
 </div>  
 
-## Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
+# Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
 
 The gear icon at the top left opens the Remote menu where you can add, list and remove subs.  To add a wearer you must already have access to the collar they wear.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
+
+- **Selection Arrows**   
+The left and right arrows at the top of the Gear menu scroll through your list of subs in range to select them.   
+**ALL** between the arrows selects All subs in range.
+- **Add** Adds a sub in range with whom you have collar access to your Remote.   
+- **List** Lists the subs on your remote.
+- **Remove** Removes the selected sub from your remote.
+- **Collar menu** Opens the collar menu from the remote.
+- **Rez** Rezzes an inventory item from the remote.  A leash post ships with the remote. 
+- **Layout** allows you to customize the arrangement of the buttons on the Remote.
+
+# Short Cut Buttons
 
 ## Stop Pose ![White Square](https://opencollar.cc/static/StopAnim.PNG "Stop Pose") 
 
@@ -54,7 +66,7 @@ The icon of two people embracing, Row 6 right, opens the Couples animations menu
 ## Collar Main ![Collar](https://opencollar.cc/static/Collar.PNG "Collar")
 The collar icon, bottom left, opens the sub's collar main menu.
 ## Select ![Three Heads](https://opencollar.cc/static/Select.PNG "Select")
-The icon of three heads, bottom middle, lists and selects your nearby subs and displays the profile pic of the selected sub.
+The icon of three heads, bottom middle, displays the profile pic of the selected sub, or the default three heads if All or None are selected.
 ## Minimize ![Minus Sign](https://opencollar.cc/static/Minimize.PNG "Minimize")  
 The minus icon, bottom right, will minimize the remote HUD menu.  When minimized you see a small plus sign you can touch to bring up the full menu again.  
 
