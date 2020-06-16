@@ -2,7 +2,7 @@
 title: OpenCollar Designers 
 ---
 
-See also this page: [Design Partner Application](#application)
+See also this section: [Design Partner Application](#application)
 
 These Official Design Partners make many different collar designs and also custom collar apps, in all price ranges.  Enjoy browsing their selections, visit their inworld shops and add them to your Marketplace favorites!  
 - Collar Designers are using OpenCollar V 7+ and the OpenCollar scripts remain full permission.  
@@ -173,7 +173,7 @@ To qualify as an OpenCollar Official Design Partner, collar designers agree to t
 
 OPENCOLLAR DESIGN PARTNER APPLICATION
 
-If you would like to sign up for the Official Design Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below.  Then pass it to Silkie Sabra, OpenCollar Partners Coordinator.
+If you would like to sign up for the Official Design Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below.  Then pass it to Silkie Sabra or Skyler Pancake, OpenCollar Partners Coordinators.
 
 Inworld Shop SLURL:   
 
