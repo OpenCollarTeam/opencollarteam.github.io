@@ -68,7 +68,7 @@ In collars built with a label only.  There are two versions of the label app, on
 **Font:** changes the font of the label text. `[prefix] label font`  
 
 # Outfits
-See:  [Outfits](/Outfits)
+See:  [Outfits](/docs/Outfits)
 
 # Titler
 
