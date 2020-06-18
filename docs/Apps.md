@@ -84,4 +84,4 @@ Sets a line of text overhead on the wearer's avatar.  Requires the FloatText pri
 **Show / Hide:** Toggles visibility of the titler text.  
 `[prefix] titler show/hide`    
 **Color:** Changes the color of the titler text.  
-`[prefix] titler color [vector RGB]     
+`[prefix] titler color [vector RGB]`     
