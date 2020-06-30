@@ -89,7 +89,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketpl
 
 Lo Kajirus Designs  (Modernprimitive)   
 Collars, Cuffs and Other Devices for Males, from 300L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501](http://maps.secondlife.com/secondlife/Isle%20of%20Punishment/160/160/1501)  
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102](http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102)  
 MarketPlace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 PBM Enterprises and [maXplicit]  (Peebee McMillan)
