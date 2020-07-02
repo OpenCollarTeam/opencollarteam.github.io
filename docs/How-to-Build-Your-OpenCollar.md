@@ -46,12 +46,16 @@ If you don't have an object you want to use as the base for your collar you can 
 <img src="/static/torus.png" width="400" style="margin: 20px auto;" />
 </div>
 
-* Tiny Invisible Sphere as Root Prim, positioned where the leash will emit from. OR use the collar band as root prim and add a prim named leashpoint and described `leashpoint~notexture~nocolor~nohide~noshiny~noglow`.  Position the leashpoint so the center of the prim is on the spot where the leash will emit from.  For instance if you are using a mesh collar with a ring, position the leashpoint prim so the center of the prim intersects the bottom of the ring.   
+- Tiny Invisible Sphere as Root Prim, positioned where the leash will emit from. OR use the collar band as root prim and add a prim named leashpoint and described `leashpoint~notexture~nocolor~nohide~noshiny~noglow`.  Position the leashpoint so the center of the prim is on the spot where the leash will emit from.  For instance if you are using a mesh collar with a ring, position the leashpoint prim so the center of the prim intersects the bottom of the ring.   
 
-* FloatText prim.  Create a cylinder with a diameter just smaller than the collar band, align it in the collar. Name it Floattext and in the description field put: `FloatText~notexture~nocolor~nohide~noshiny~noglow`.  If you don't use this prim, the titler app will still work but it will not be positionable.  
-* Bell.  If your collar has a bell, name the bell prim Bell and put in the description field: Bell~noshiny.  
+## Optional Parts
+
+- **FloatText prim.**  Create a cylinder with a diameter just smaller than the collar band, align it in the collar. Name it Floattext and in the description field put: `FloatText~notexture~nocolor~nohide~noshiny~noglow`.  If you don't use this prim, the titler app will still work but it will not be positionable.  
+- **Bell.**  If your collar has a bell, name the bell prim Bell and put in the description field: Bell~noshiny.  
+- **Label or Meshlabel**.  If using a traditional prim **label**, you will need the script oc_label in the collar.  Make label prims and align them on the collar band.  Number each prim as follows: `Label~00 Label~01 Label~03`, etc and in the Description field of each place the string `Label~notexture`.  If using a **meshlabel**, these instructions assume you know how to make a label prim with up to 8 faces in a 3D graphics program and upload that to SL.  Name your prim MeshLabel and align and link it to the collar.
 * Make sure you link any extra prims to the collar, selecting the root prim last.
 * Settings notecard.  If you want to save or hard code settings, make a notecard named .settings and place it in the collar also.
+
 
 # Compiling your collar
 The last step is to load the scripts into the collar.  Do this with moderate speed, letting the asset server catch up to your work as you go along. IN THIS ORDER:  
