@@ -10,18 +10,23 @@ To build a collar yourself you need only basic inworld building skills with stan
 
 # Scripts
 
-To get the scripts, open the current OpenCollar updater and save the contents to your inventory.  Discard the notecards named BUNDLE and the two scripts named oc_transform_shim and oc_update_shim as these are used to run the updater.  Here is the list of scripts that go in the collar: 
+To get the scripts, open the current OpenCollar updater and save the contents to your inventory.  Discard the notecards named BUNDLE and the two scripts named oc_transform_shim and oc_update_shim as these are used to run the updater.  
+**Notes on Scripts:** The links on this page will take you to the OpenCollar script repository on Github.  
+- The scripts in the repository are a running update and may be more advanced than the current inworld release.  Use them at your own risk. 
+- Keep note of the most recent updates here as well.
+- If you modify a script that came from an updater or another collar, it might have the OpenCollar Experience checked.  This is just a signature telling inworld help whether the script has been modified.  To modify the script, uncheck the **Use Experience** box at the bottom left of the script window when the script is open.
+Here is the list of scripts that go in the collar: 
 
 **REQUIRED CORE**
 
-- oc_auth 
-- oc_com  
-- oc_dialog  
-- oc_settings 
-- oc_sys
+- [oc_auth](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_auth.lsl) 
+- [oc_com](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_com.lsl)  
+- [oc_dialog](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_dialog.lsl)  
+- [oc_settings](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_settings.lsl)    
+- [oc_sys](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_sys.lsl)   
 
 **INTEGRATED.** These scripts can be removed without breaking the collar but have integrated menu functions:  
-- oc_anim / oc_couples (required to use collar animations and sync to OC AO).
+- [oc_anim](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_anim.lsl) / [oc_couples](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_couples.lsl) (required to use collar animations and sync to OC AO).
 - oc_exceptions, oc_rlvsys, oc_rlvsuite (required to use collar rlv restrictions and reach the relay menu)
 - oc_folders (required to access wearer's #RLV folders for force wear).
 - oc_leash, oc_particle (required to operate the leash).
@@ -32,7 +37,7 @@ To get the scripts, open the current OpenCollar updater and save the contents to
 > oc_label, oc_meshlabel, oc_themes, oc_meshthemes  
 
 **OPTIONAL APPS.**  These are apps provided in the OpenCollar updater you may include. 
-> oc_bell,  oc_bookmarks, oc_capture, oc_detach, oc_outfits, oc_titler. 
+> [oc_bell](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_bell.lsl),  oc_bookmarks, oc_capture, oc_detach, oc_outfits, oc_titler. 
 
 **OTHER RESOURCES.** Also copy from the updater and load, the license and help notecards, the leash holder, the relay objects, and all animations.  
 
