@@ -27,18 +27,18 @@ Here is the list of scripts that go in the collar:
 
 **INTEGRATED.** These scripts can be removed without breaking the collar but have integrated menu functions:  
 - [oc_anim](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_anim.lsl) / [oc_couples](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_couples.lsl) (required to use collar animations and sync to OC AO).
-- oc_exceptions, oc_rlvsys, oc_rlvsuite (required to use collar rlv restrictions and reach the relay menu)
-- oc_folders (required to access wearer's #RLV folders for force wear).
-- oc_leash, oc_particle (required to operate the leash).
-- oc_relay (required only if you want to allow restrictions by objects you do not own)
-- oc_resizer (required to use menu driven resizing and positioning)
+- [oc_rlvsys](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_rlvsys.lsl), [oc_rlvsuite](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_rlvsuite.lsl) (required to use collar rlv restrictions and reach the relay menu), [oc_rlvextension](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_rlvextension.lsl) (required for Restrictions)  
+- [oc_folders](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_folders.lsl) (required to access wearer's #RLV folders for force wear).
+- [oc_leash](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_leash.lsl), [oc_particle](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_particle.lsl) (required to operate the leash).
+- [oc_relay](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_relay.md) (required only if you want to allow restrictions by objects you do not own) **Note** The github version of oc_relay is an experimental, fast On/Off internal relay.  It will not drive the Turbo Safety HUD Relay issued with OpenCollar V 7.5.
+- [oc_resizer](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_resizer.lsl) (required to use menu driven resizing and positioning)
 
 **DESIGN TOOLS.** Use these scripts if your collar design calls for them: 
-> oc_label, oc_meshlabel, oc_themes, oc_meshthemes  
+> [oc_label](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_label.lsl), [oc_meshlabel](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_meshlabel.lsl), [oc_themes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_themes.lsl), [oc_meshthemes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_meshthemes.lsl)     
 
 **OPTIONAL APPS.**  These are apps provided in the OpenCollar updater you may include. 
-> [oc_bell](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_bell.lsl),  oc_bookmarks, oc_capture, oc_detach, oc_outfits, oc_titler. 
-
+> [oc_bell](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_bell.lsl), [oc_bookmarks](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_bookmarks.lsl), [oc_capture](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/Apps/oc_capture.lsl), [oc_detach](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/Apps/oc_detach.lsl), [oc_outfits](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/Apps/oc_outfits.lsl), [oc_titler](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_titler.lsl). 
+- Due to a difference in how hidden folders are handled, the Outfits App works with RLVa (Firestorm and most other RLV active viewers) but not RLV (Marine Kelley's RLV Viewer). To use this App with the RLV Viewer, use this script: [oc_outfits(RLV)](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/Apps/oc_outfits%20(RLV).lsl).  See [Outfits](https://opencollar.cc/docs/Outfits) for more.
 **OTHER RESOURCES.** Also copy from the updater and load, the license and help notecards, the leash holder, the relay objects, and all animations.  
 
 # Materials
@@ -56,8 +56,8 @@ If you don't have an object you want to use as the base for your collar you can 
 ## Optional Parts
 
 - **FloatText prim.**  Create a cylinder with a diameter just smaller than the collar band, align it in the collar. Name it Floattext and in the description field put: `FloatText~notexture~nocolor~nohide~noshiny~noglow`.  If you don't use this prim, the titler app will still work but it will not be positionable.  
-- **Bell.**  If your collar has a bell, name the bell prim Bell and put in the description field: Bell~noshiny.  
-- **Label or Meshlabel**.  If using a traditional prim **label**, you will need the script oc_label in the collar.  Make label prims and align them on the collar band.  Number each prim as follows: `Label~00 Label~01 Label~03`, etc and in the Description field of each place the string `Label~notexture`.  If using a **meshlabel**, these instructions assume you know how to make a label prim with up to 8 faces in a 3D graphics program and upload that to SL.  Name your prim MeshLabel and align and link it to the collar.
+- **Bell.**  If your collar has a bell, name the bell prim Bell and put in the description field: Bell~noshiny. Recquires [oc_bell](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_bell.lsl).
+- **Label or Meshlabel**.  If using a traditional prim **label**, you will need the script oc_label in the collar.  Make label prims and align them on the collar band.  Number each prim as follows: `Label~00 Label~01 Label~03`, etc and in the Description field of each place the string `Label~notexture`.  If using a **meshlabel**, these instructions assume you know how to make a label prim with up to 8 faces in a 3D graphics program and upload that to SL.  Name your prim MeshLabel and align and link it to the collar.  Requires  [oc_label](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_label.lsl) *or* [oc_meshlabel](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_meshlabel.lsl).
 * Make sure you link any extra prims to the collar, selecting the root prim last.
 * Settings notecard.  If you want to save or hard code settings, make a notecard named .settings and place it in the collar also.
 
