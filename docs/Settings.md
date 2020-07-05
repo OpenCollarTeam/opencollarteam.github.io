@@ -9,7 +9,9 @@ This menu contains adjustments to the fit and appearance of your collar.
 
 # About Settings
 
-Settings is one of the most useful tools in the collar for those who want to save or customize collar settings. Whenever you change your collar using a menu button, the setting is created by the script. These settings may be erased or overridden by the next change or even by logging off.  You may want to save these settings in a place where they can be reloaded.  To save your settings easily, print the settings to chat, and copy the chat readout to a notecard named .settings.  Place the notecard in the contents of your collar. The .settings notecard must be modifiable or the settings will not load. 
+Settings is one of the most useful tools in the collar for those who want to save or customize collar settings. Whenever you change your collar using a menu button, the setting is created by the script. These settings may be erased or overridden by the next change or even by logging off.  You may want to save these settings in a place where they can be reloaded.  
+- To save your settings easily, print the settings to chat, and copy the chat readout to a notecard named .settings.  
+- Place the notecard in the contents of your collar. The .settings notecard must be modifiable or the settings will not load. 
 
 OpenCollar settings use this protocol: `TOKEN=Parameter1~Parameter2` etc. Parameters may be names or values. Most of the Settings tokens correspond to certain scripts; one is GLOBAL because these settings may apply to all the scripts in the collar. In this Guide we will give the appropriate single string for each setting on the corresponding menu function page.  It will look like: `TOKEN=Parameter~Value`. In practice when you add these to the settings notecard, you start a line with the TOKEN which would in most cases be the script that reads this setting, and string several `Parameter~Value` pairs together until you hit the limit of characters in the line; then start a new line and repeat the TOKEN if necessary.  
 
@@ -21,7 +23,7 @@ As the documentation builds, you will see various settings added to the relevant
 # The Settings Menu
 
 ## Print
-Save your settings by pressing Print.  Then copy the readout to the .settings notecard in the Settings prim of your collar.  To find the Settings prim, use Edit Linked or type [prefix] Show Storage to highlight the invisible prim.
+Save your settings by pressing Print.  Then copy the readout to the .settings notecard in your collar contents .  
 >[prefix] print settings  
 
 ## Load
