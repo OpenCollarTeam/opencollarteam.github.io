@@ -116,9 +116,9 @@ Kittin Ninetails, Ninetails
 Shop  
 [http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)   
 
-lesleyash, Ravencrest  
+lesleyash, Ravencrest 2036   
 Post-COVID Urban RP 
-[http://maps.secondlife.com/secondlife/Bellicoso/128/166/991](http://maps.secondlife.com/secondlife/Bellicoso/128/166/991)  
+[http://maps.secondlife.com/secondlife/Ravencrest%202036/128/166/990](http://maps.secondlife.com/secondlife/Ravencrest%202036/128/166/990)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground and Club  
