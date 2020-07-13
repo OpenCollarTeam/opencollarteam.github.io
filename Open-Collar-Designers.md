@@ -55,10 +55,6 @@ Danger Kitty's Sweets  (Sweetdangerkitty)
 "Kitty's Hearts" Plugin, 200L   
 Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketplace.secondlife.com/stores/220939)   
 
-Devious Rose  (Allisonkrause)   
-Original Mesh Collars and Cuffs from 250L to 999L  
-Marketplace: [https://marketplace.secondlife.com/stores/197730](https://marketplace.secondlife.com/stores/197730)  
-
 Emerald Dust  (Emdragon)
 Collar Accessories, OpenCollar Scripted Cock Cages  
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166) 
