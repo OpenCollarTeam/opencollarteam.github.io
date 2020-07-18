@@ -191,7 +191,7 @@ Roleplay, RLV Playground
 
 Windrunner Shan, Fusion by the Sea  
 Beach, Sailing, Blake Sea Access  
-[http://maps.secondlife.com/secondlife/Kasparov/179/201/1202](http://maps.secondlife.com/secondlife/Kasparov/179/201/1202)
+[http://maps.secondlife.com/secondlife/Kasparov/163/207/21](http://maps.secondlife.com/secondlife/Kasparov/163/207/21)
 
 
 
