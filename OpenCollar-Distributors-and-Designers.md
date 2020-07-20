@@ -133,6 +133,10 @@ Morris Mixmaster, Sensual Camping
 Club, Nude Beach   
 [http://maps.secondlife.com/secondlife/La%20Desirade%20Island/60/222/22](http://maps.secondlife.com/secondlife/La%20Desirade%20Island/60/222/22)   
 
+Nadyah Nightfire, SheMale Lovers Cave   
+Shemale Club   
+[http://maps.secondlife.com/secondlife/Sensual%20Heaven/223/180/2749](http://maps.secondlife.com/secondlife/Sensual%20Heaven/223/180/2749)   
+
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
