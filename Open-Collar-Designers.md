@@ -86,7 +86,12 @@ Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketpl
 Lo Kajirus Designs  (Modernprimitive)   
 Collars, Cuffs and Other Devices for Males, from 300L  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102](http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102)  
-MarketPlace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
+Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
+
+Nailed Down (Despero Windstorm)   
+Variety of simple classy styles with color huds, free to 399L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Warrumbungles/156/24/37](http://maps.secondlife.com/secondlife/Warrumbungles/156/24/37)   
+Marketplace:  [https://marketplace.secondlife.com/stores/163576](https://marketplace.secondlife.com/stores/163576)   
 
 PBM Enterprises and [maXplicit]  (Peebee McMillan)
 collars and bondage toys for men  
