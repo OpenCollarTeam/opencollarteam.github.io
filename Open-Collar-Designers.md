@@ -11,7 +11,7 @@ These Official Design Partners make many different collar designs and also custo
 
 Accents Design (Cynianne Hellershanks)   
 OC Collars and Scripted Jewelry starting at 199L  
-Marketplace: https://marketplace.secondlife.com/stores/30432  
+Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketplace.secondlife.com/stores/30432)  
 
 Anna's Bondage Shop Mainstore  (AnnarussianMiss)
 High quality 3D bondage erotic graphics, bondage collars, shackles, hoods, masks and other restraints from 100L to 450L  
@@ -103,8 +103,7 @@ RealEvil Industries (crashnoww)
 Modern and classic female and male collars, high quality 100% original mesh, ranging from 199 to 599L  
 Inworld Shop  
 [http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25](http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25)  
-Marketplace 
-https://marketplace.secondlife.com/stores/128000?id=128000  
+Marketplace: [https://marketplace.secondlife.com/stores/128000](https://marketplace.secondlife.com/stores/128000)     
 
 Salt & Pepper and The Birdcage  (Salt Peppermint)   
 Inworld Shops  
