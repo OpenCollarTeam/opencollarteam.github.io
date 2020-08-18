@@ -26,7 +26,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/57814](https://marketpl
 Bound Infinity  (Cara Lionheart)
 Shops, Club, Racetrack  
 Inworld shop:  
-[http://maps.secondlife.com/secondlife/Hidden%20Serenity/190/93/1263](http://maps.secondlife.com/secondlife/Hidden%20Serenity/190/93/1263)  
+[http://maps.secondlife.com/secondlife/Pride/109/47/291](http://maps.secondlife.com/secondlife/Pride/109/47/291)  
 Mesh collars from free to 150L  
 Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)  
 
