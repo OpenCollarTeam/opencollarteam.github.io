@@ -13,9 +13,9 @@ Look for this image on the vendor:
 
 # Distributors
 
-OpenCollar Headquarters
-OpenCollar Hangout & Support
-[http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201)
+OpenCollar Headquarters  
+OpenCollar Hangout & Support  
+[http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201)  
 
 Aisha Marshdevil, Noxia
 Dark Urban Fantasy Roleplay, CCS enabled
