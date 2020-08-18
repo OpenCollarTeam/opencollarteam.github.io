@@ -73,9 +73,17 @@ Gorean Club & Roleplay
 [http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607)  
 **Advisory:** Landing is open to all, the rest of the roleplay area is members only.  
 
+Elirk Huntsman, House of Silent  
+Asian Themed BDSM Sim  
+[http://maps.secondlife.com/secondlife/Pantanal/241/16/24](http://maps.secondlife.com/secondlife/Pantanal/241/16/24)  
+
 Elizabeth Boissay, Hypnotropolis  
 Shop  
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756)  
+
+Forge, City of Callera  
+Gorean City & Roleplay  
+[http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442](http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442)  
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
@@ -94,9 +102,22 @@ Slave Auction & Matching Service
 [http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
 **Advisory:** The Vendor is about 20m west of the landing point around a corner.  
 
+KlewTea Rhapsody, Sprockets & Whip  
+Female Focused BDSM Community, Multiple Roleplay Settings  
+[http://maps.secondlife.com/secondlife/Sprockets/179/36/3506](http://maps.secondlife.com/secondlife/Sprockets/179/36/3506)  
+
 Kittin Ninetails, Ninetails  
 Shop  
 [http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)  
+
+Lady Harcassle, Shades of Emotions  
+BDSM Themed Nightclub  
+[http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
+**Advisory:** The Vendor is about 50m west of landing point.  
+
+LadyLisaWild, Erziehungs Anstalt  
+German BDSM Club, Dungeon, & Roleplay  
+[http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001](http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground & Club  
@@ -159,6 +180,10 @@ Silkie Sabra, Bondage Ranch
 BDSM Hangout, Hunting Ground, & Roleplay  
 [http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)  
 
+sinkt, Starbuck's Lair  
+Gay Sex & BDSM Dungeon  
+[http://maps.secondlife.com/secondlife/Tristan%20Vale/116/242/2212](http://maps.secondlife.com/secondlife/Tristan%20Vale/116/242/2212)  
+
 Susann DeCuir, Angel of Pain  
 Deutsch & English BDSM Playground  
 [http://maps.secondlife.com/secondlife/Embay/219/216/3002](http://maps.secondlife.com/secondlife/Embay/219/216/3002)  
@@ -179,7 +204,9 @@ Windrunner Shan, Fusion by the Sea
 Beach, Sailing, & Blake Sea Access  
 [http://maps.secondlife.com/secondlife/Kasparov/163/207/21](http://maps.secondlife.com/secondlife/Kasparov/163/207/21)  
 
-
+Yannis Boucher, Fallen Angels BDSM Club  
+BDSM Club  
+[http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/90/137/3925](http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/90/137/3925)  
 
 # OpenCollar Partners Application Form
 
