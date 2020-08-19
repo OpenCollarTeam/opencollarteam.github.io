@@ -70,7 +70,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/83455](https://marketpl
 
 Kawaii Couture (Saucey Sinister)   
 Original mesh collars with bento animations, 399L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Jumpers/214/89/26](http://maps.secondlife.com/secondlife/Jumpers/214/89/26)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Short%20Leash/222/100/26](http://maps.secondlife.com/secondlife/Short%20Leash/222/100/26)    
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Kristen's  (Kristen Mynx)  
