@@ -13,6 +13,10 @@ Accents Design (Cynianne Hellershanks)
 OC Collars and Scripted Jewelry starting at 199L  
 Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketplace.secondlife.com/stores/30432)  
 
+AMBIX (xambiguityx)   
+Collars with UV and Bake Maps, texture options, from 399L  
+Marketplace: [https://marketplace.secondlife.com/stores/159850](https://marketplace.secondlife.com/stores/159850)    
+
 Anna's Bondage Shop Mainstore  (AnnarussianMiss)
 High quality 3D bondage erotic graphics, bondage collars, shackles, hoods, masks and other restraints from 100L to 450L  
 Inworld shop:  
@@ -23,11 +27,10 @@ Birth  (Silent Alchemi)
 Mesh Collars 250L   
 Marketplace:  [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
 
-Bound Infinity  (Cara Lionheart)
-Shops, Club, Racetrack  
+Bound Infinity  (Cara Lionheart) 
+Mesh collars from free to 150L 
 Inworld shop:  
 [http://maps.secondlife.com/secondlife/Pride/109/47/291](http://maps.secondlife.com/secondlife/Pride/109/47/291)  
-Mesh collars from free to 150L  
 Marketplace:  [Bound Infinity](https://marketplace.secondlife.com/stores/145309)  
 
 Bright Corporation  (Shan Bright)    
