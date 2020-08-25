@@ -134,7 +134,7 @@ Mesh Collars - 75L to 250L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Mayhem/135/192/2001](http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)  
 Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketplace.secondlife.com/stores/211817)  
 
-Willow's Weakness (Willow Redstar) 
+Willow's Weakness (Willow Redstar)  
 Mesh Collars & Kinky Clothing - 100L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)   
 Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719) 
