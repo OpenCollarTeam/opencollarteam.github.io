@@ -111,7 +111,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](
 Marketplace: [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)   
 
 Sergaltech Industries (Lukai Zufreur)   
-Mesh Collars, Sex Toys, & Accessories  
+Mesh Collars, Sex Toys, & Accessories - 100L  
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
 
 SLAM // kink & stuff (daPhuk)   
