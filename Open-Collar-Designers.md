@@ -14,6 +14,11 @@ Mesh Collars & Jewelry - 199L+
 Inworld Shop: [http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333](http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333)  
 Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketplace.secondlife.com/stores/30432)  
 
+AMBIX (xambiguityx)  
+Mesh Collars - 399L to 599L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Avon/94/226/3751](http://maps.secondlife.com/secondlife/Avon/94/226/3751)  
+Marketplace: [https://marketplace.secondlife.com/stores/159850](https://marketplace.secondlife.com/stores/159850)  
+
 Anna's Bondage Shop Mainstore (AnnarussianMiss)  
 Mesh Collars, BDSM Art, & Other Equipment - 100L to 450L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
