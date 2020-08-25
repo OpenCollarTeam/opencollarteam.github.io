@@ -17,9 +17,7 @@ You can call each pose directly:
 
 You can adjust the height of each pose by pushing the up and down arrows in the menu while the pose is active. The height adjustments need RLV to work.
 
-**Building Note**:  You can easily add poses to the collar.  Make sure your animation is copy or trans matching the collar permission. Name your animation something short and unique. DO NOT give the animation the same name as animations likely to be in the updater or your animations will be overwritten on update. Find the Animator prim in Edit Linked (use the `<prefix> show animator` command to highlight the Animator prim).  Drag your animations into the contents of the Animator prim. OR drag the animations into the root prim and use a chat command to move them to Animator:
-
->`[prefix] mv anims`
+**Building Note**:  You can easily add poses to the collar.  Make sure your animation is copy or trans matching the collar permission. Name your animation something short and unique. DO NOT give the animation the same name as animations likely to be in the updater or your animations will be overwritten on update.   Drag your animations into the contents of the collar. 
 
 ## Couples
 
@@ -35,7 +33,7 @@ For instance Jenny Wren wants to hug JoeZipcode:
 
 >`je hug joe`   
 
-**Building Note**:  You can also add couples animations if your animations are optimal for using with the collar. You may have to do some testing, or use couples animations that were made for OpenCollar or made to be paired with each other. The animations have to be named a certain way to keep them from appearing in the Pose menu.  Name each animation something short and descriptive, beginning with `~`, for instance `~hug`.  Drag them into the Animator prim of the collar or load them into root and the collar will move them to Animator.  Find the Animator prim and open the notecard named .couples.  There you will see lines or "strings" configuring the animations, like this one:
+**Building Note**:  You can also add couples animations if your animations are optimal for using with the collar. You may have to do some testing, or use couples animations that were made for OpenCollar or made to be paired with each other. The animations have to be named a certain way to keep them from appearing in the Pose menu.  Name each animation something short and descriptive, beginning with `~`, for instance `~hug`. Drag them into the contents of the collar. Open the notecard named .couples.  There you will see lines or "strings" configuring the animations, like this one:
 
 >`catch|~leap|~catch|0.6|_SELF_ leaps into _PARTNER_'s arms`.
 
