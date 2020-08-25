@@ -72,7 +72,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketpla
 
 Kawaii Couture (Saucey Sinister)   
 Mesh Collars & Cute Accessories - 399L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Ethereal%20Homes/19/175/21](http://maps.secondlife.com/secondlife/Ethereal%20Homes/19/175/21)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Ethereal%20Homes/19/175/21](http://maps.secondlife.com/secondlife/Ethereal%20Homes/19/175/21)    
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Kristen's (Kristen Mynx)  
