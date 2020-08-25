@@ -192,7 +192,7 @@ Sylta Marabana, S&W Playground
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
 
-Taylor Paine, Taylo'rs Toys  
+Taylor Paine, Taylor's Toys  
 RLV Trap Shop & Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 
