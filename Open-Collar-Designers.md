@@ -90,6 +90,11 @@ Cock & Ball Collars, Kinky Clothing, & BDSM Furniture For Males - 300L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102](http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102)  
 Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
+MATRIARCH (Beautifull Vyper)  
+Unique Quality BDSM designs starting at 399L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Noble%20Town/249/140/2502](http://maps.secondlife.com/secondlife/Noble%20Town/249/140/2502)  
+Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketplace.secondlife.com/stores/202671)  
+
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Warrumbungles/156/24/37](http://maps.secondlife.com/secondlife/Warrumbungles/156/24/37)   
