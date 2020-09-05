@@ -53,6 +53,14 @@ Capture gives temporary Trusted level access to a Captor.
 - **Risky** - When checked, the wearer does not get a dialog asking permission.
 - Collar safeword ends the capture event for the wearer.
 
+In addition to Trusted access, the Capture function applies the Refusetp exception.  The wearer's viewer automatically accepts tp offers when he or she is leashed by the Capturer.
+
+> `[prefix] capture on`  
+> `prefix] capture off`  
+> `prefix] capture info on/off` -- turns on or off the recurring chat broadcasting the capture mode  
+> `[prefix] capture release` -- releases the sub from the current capture.  
+> `[prefix] risky on/off` -- turns on and off wearer permission.
+
 # Detach  
 Gives a list of occupied attachment points with the names of the objects attached to each. Pressing the button with the corresponding name will detach the item (unless there is a lock on detach or Dress is restricted).
 
