@@ -86,7 +86,7 @@ Sets a line of text overhead on the wearer's avatar.  Requires the FloatText pri
 **Image:** Opens a menu where you can set an image overhead on the wearer's avatar.  There are several preset to choose from. (Currently not active in OC 7.5)    
 **Custom:** Opens a text box; Allows wearer and user to set a custom image by inserting the desired texture uuid into the text box.  (Currently not active in OC 7.5)   
 **Set Title:** Opens a dialog where you can input and submit the desired text.  
-`[prefix] titler title [text string]`   
+`[prefix] titler [text string]`   
 **Up / Down:** Adjusts the position of the titler text up or down.  
 `[prefix] titler up/down`   
 **Show / Hide:** Toggles visibility of the titler text.  
