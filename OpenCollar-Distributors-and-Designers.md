@@ -87,7 +87,7 @@ Gorean City & Roleplay
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
-[http://maps.secondlife.com/secondlife/Caged%20Elegance/78/197/1000](http://maps.secondlife.com/secondlife/Caged%20Elegance/78/197/1000)  
+[http://maps.secondlife.com/secondlife/Caged%20Elegance/62/195/998](http://maps.secondlife.com/secondlife/Caged%20Elegance/62/195/998)  
 
 girlymp, Poppy's Hangout  
 Playground  
