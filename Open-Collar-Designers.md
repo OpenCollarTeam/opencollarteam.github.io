@@ -92,7 +92,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketpl
 
 MATRIARCH (Beautifull Vyper)  
 Unique Quality BDSM designs starting at 399L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Noble%20Town/249/140/2502](http://maps.secondlife.com/secondlife/Noble%20Town/249/140/2502)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Ping/140/128/222](http://maps.secondlife.com/secondlife/Ping/140/128/22)  
 Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketplace.secondlife.com/stores/202671)  
 
 Nailed Down (Despero Windstorm)   
