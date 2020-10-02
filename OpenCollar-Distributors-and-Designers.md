@@ -140,6 +140,10 @@ osti, Pet Adoption Center
 Petplay Hangout, Shelter, & Adoption Center  
 [http://maps.secondlife.com/secondlife/Makkeolli/100/96/59](http://maps.secondlife.com/secondlife/Makkeolli/100/96/59)  
 
+Pingout Duffield, Erotica Island   
+Club, Shops, Roleplay Areas   
+[http://maps.secondlife.com/secondlife/Erotica%20Island/72/45/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/72/45/1522)   
+
 ponygirlsarah.clapper, Pony City  
 Pony Girl RP Community  
 [http://maps.secondlife.com/secondlife/Sarahs%20Island/209/155/25](http://maps.secondlife.com/secondlife/Sarahs%20Island/209/155/25)  
