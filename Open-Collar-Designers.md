@@ -106,7 +106,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](h
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
 
 Ping's Designs   
-Antique Mesh Collars 50L - 99L  
+Ancient Civilization Themed Mesh Collars 50L - 99L  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
 Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629)   
 
