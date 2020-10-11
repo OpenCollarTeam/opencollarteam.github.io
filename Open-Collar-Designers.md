@@ -70,6 +70,10 @@ Giga's World (Gigante Radium)
 Mesh Collars & Jewelry - 50L to 100L  
 Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)   
 
+JaHo (Jackal Hotaling)  
+Mesh Collars 100 - 450L  
+Marketplace:  [https://marketplace.secondlife.com/stores/232316](https://marketplace.secondlife.com/stores/232316)   
+
 Kawaii Couture (Saucey Sinister)   
 Mesh Collars & Cute Accessories - 399L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Ethereal%20Homes/19/175/21](http://maps.secondlife.com/secondlife/Ethereal%20Homes/19/175/21)    
