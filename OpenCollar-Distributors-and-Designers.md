@@ -40,17 +40,17 @@ Broken Swords, Valnor
 Female Dominated Medieval Themed Fantasy Roleplay (RLV & GM Enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
 
+Carin March, Sweet Domination  
+Dungeon Play Area  
+[http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201) 
+
 Castallia Maskalyne, S. A. G. (Slave Auction Group)  
 Slave Auctions  
 [http://maps.secondlife.com/secondlife/Slave%20Island/45/93/23](http://maps.secondlife.com/secondlife/Slave%20Island/45/93/23)  
 
-Cater1na, BDSM Pervertion RLV  
+Cater1na, Charm  
 Playground, Hunt Roleplay  
-[http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)  
-
-Cissy March, Sweet Domination  
-BDSM Pub & Farm Playground  
-[http://maps.secondlife.com/secondlife/Ciarnau/49/62/71](http://maps.secondlife.com/secondlife/Ciarnau/49/62/71)  
+[http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
 
 Countrycat Furse, Defilers  
 Urban Roleplay  
@@ -118,6 +118,7 @@ BDSM Themed Nightclub
 LadyLisaWild, Erziehungs Anstalt  
 German BDSM Club, Dungeon, & Roleplay  
 [http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001](http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001)  
+**Advisory:** Take teleporter at Landing Point to "EA Home". 
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground & Club  
@@ -146,7 +147,7 @@ Club, Shops, Roleplay Areas
 
 ponygirlsarah.clapper, Pony City  
 Pony Girl RP Community  
-[http://maps.secondlife.com/secondlife/Sarahs%20Island/209/155/25](http://maps.secondlife.com/secondlife/Sarahs%20Island/209/155/25)  
+[http://maps.secondlife.com/secondlife/Sarahs%20Island/129/86/23](http://maps.secondlife.com/secondlife/Sarahs%20Island/129/86/23)  
 
 Randy Marenwolf, RLV: Reality & Magic In SL  
 RLV Education Center  
