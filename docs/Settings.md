@@ -54,7 +54,7 @@ Here you can change the textures and appearance of your collar.  There are two n
 
 # Global Settings
 
-Global Settings are not linked to any single function but pertain for the entire collar.  Here is the list.  
+Global Settings are not linked to any single function but pertain for the entire collar.  Here is a list.  
 
 `INTERN=Highlander~[1/0]` Turns on and off the block on wearing more than one OC scripted item. 
 
@@ -74,3 +74,5 @@ Global Settings are not linked to any single function but pertain for the entire
 `GLOBAL=channel~[yourchannel]` Sets the preferred channel.  
 
 `GLOBAL=channel~1,FALSE/TRUE` Sets the channel number (in this case 1) and will set channel 0 to FALSE: The collar does not listen on channel 0; or TRUE: The collar does listen on channel 0.
+
+`GLOBAL=checkboxes~[ ],[X]` Changes the menu buttons to [X] and [ ] instead of white boxes, for machines that can't read the white box.
