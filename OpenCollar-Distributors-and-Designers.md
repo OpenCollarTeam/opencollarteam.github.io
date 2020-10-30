@@ -28,8 +28,7 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay Playground
 
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy & Medical Roleplay  
-[http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
-**Advisory:** The Vendor is 30 meters east of the landing point, inside the blue house.  
+**Moving--temporarily unavailable**   
 
 Blaise Tomsen  
 Second Life Railroad  
