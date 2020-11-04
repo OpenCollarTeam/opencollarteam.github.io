@@ -95,6 +95,10 @@ Playground
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
+
+Ian Junibalya, Black Quarters   
+Transformation Playground   
+[http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601](http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601)   
  
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
