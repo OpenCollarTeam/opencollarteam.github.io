@@ -66,6 +66,10 @@ Fapple (Anna Timmerman)
 Mesh Collars & BDSM Furniture - 250L  
 Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
 
+Gemstone Inc (Gem Oxygen)   
+Original Textures, starting at 250L   
+Marketplace: [https://marketplace.secondlife.com/stores/173815](https://marketplace.secondlife.com/stores/173815)
+   
 Giga's World (Gigante Radium)  
 Mesh Collars & Jewelry - 50L to 100L  
 Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)   
