@@ -159,6 +159,11 @@ Rocketroo, Bad Bunneh
 Shop Featuring Clothing, Jewelry, & Furniture  
 [http://maps.secondlife.com/secondlife/Spunk/115/205/799](http://maps.secondlife.com/secondlife/Spunk/115/205/799)  
 
+Sadie Dubratt, Kitty Creations   
+Shop Featuring Old World Fantasy Clothing Furniture, Home and Garden  
+[http://maps.secondlife.com/secondlife/Sadleirian/177/149/548](http://maps.secondlife.com/secondlife/Sadleirian/177/149/548)   
+
+
 Safra Nitely, Darkwing-Barns Stables  
 Pony Girl & Pet Play  
 [http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993](http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993)  
