@@ -2,7 +2,7 @@
 title: OpenCollar Designers 
 ---
 
-Official Design Partners use the OpenCollar scipts to create collars, jewelery, add-on apps, and accessories. Enjoy browsing their selections, visit their inworld shops, and add them to your Marketplace favorites!  
+Official Design Partners use the OpenCollar scripts to create collars, jewelery, add-on apps, and accessories. Enjoy browsing their selections, visit their inworld shops, and add them to your Marketplace favorites!  
 
 Interested in becoming an Official Design Partner? [Design Partner Application](#application)
 
@@ -66,7 +66,7 @@ Mesh Collars & Furniture - 250L
 Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
 
 Gemstone Inc (Gem Oxygen)   
-Mesh Collars - 250L to 300L   
+Mesh Collars with Original Textures - 250L to 300L   
 Marketplace: [https://marketplace.secondlife.com/stores/173815](https://marketplace.secondlife.com/stores/173815)
    
 Giga's World (Gigante Radium)  
@@ -113,7 +113,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](h
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
 
 Ping's Designs   
-Mesh Collars, Restraints, & Furniture 50L - 99L  
+Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
 Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629)   
 
