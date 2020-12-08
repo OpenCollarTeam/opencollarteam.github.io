@@ -33,11 +33,11 @@ TBW
 
 TIMEOUT_READY | 30497
 ---------|----------
-Last Update | 12/8/2020
-Formats | llMessageLinked(LINK_SET, TIMEOUT_REGISTER, sTime, sName);<br />link_message(iSender, TIMEOUT_FIRED, sName, "")
-Received By | oc_core
-Sent By | oc_core
-Description | This is a description
+Last Update | ---
+Formats | link_message(iSender, TIMEOUT_READY, "", "")
+Received By | ---
+Sent By | oc_states
+Description | Announces that queue timing is ready for TIMEOUT_REGISTER events
 
 ## OC_ SCRIPT SETTINGS:
 
