@@ -35,7 +35,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | CALL
 >---------|----------
->Reviewed | 11/01/2020
+>Reviewed | ---
 >Formats | ---
 >Received by | ---
 >Sent by | ---
@@ -65,7 +65,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | TIMEOUT_FIRED = 30499
 >---------|----------
->Last Update | ---
+>Last Update | 11/01/2020
 >Formats | link_message(iSender, TIMEOUT_FIRED, Str, "")
 >Received by | ---
 >Sent by | oc_states
