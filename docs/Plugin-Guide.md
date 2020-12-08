@@ -35,22 +35,32 @@ TBW
 >---------|----------
 >Last Update | ---
 >Formats | link_message(iSender, TIMEOUT_READY, "", "")
->Receives | ---
->Sends | oc_states
+>Received by | ---
+>Sent by | oc_states
 >
 >Announces that queue timing is ready for TIMEOUT_REGISTER calls
 
 >  &nbsp; | TIMEOUT_REGISTER = 30498
 >---------|----------
 >Last Update | ---
->Format | llMessageLinked(LINK_SET, TIMEOUT_REGISTER, sStr, kKey);
->Receives | oc_states
->Sends | ---
+>Format | llMessageLinked(LINK_SET, TIMEOUT_REGISTER, Str, Key);
+>Received by | oc_states
+>Sent by | ---
 >
->Adds a timer to the timer queue
->sStr is how long the timer should be for in seconds
->kKey is the event's identifier and will be returned once the TIMEOUT_FIRED call generates
->Queue timing is subject to time dilation, approximating 1 second accuracy at no dilation
+>Adds a timer to the timer queue.<br>
+>Str is how long the timer should be for in seconds.<br>
+>Key is the event's identifier and will be returned once the TIMEOUT_FIRED call generates.<br>
+>Queue timing is subject to time dilation, approximating 1 second accuracy at no dilation.<br>
+
+>  &nbsp; | TIMEOUT_FIRED = 30499
+>---------|----------
+>Last Update | ---
+>Formats | link_message(iSender, TIMEOUT_FIRED, Str, "")
+>Received by | ---
+>Sent by | oc_states
+>
+>Call received once a queued timer event has triggered.<br>
+>Str is the name of the event that sent with TIMEOUT_REGISTER
 
 ## OC_ SCRIPT SETTINGS:
 
