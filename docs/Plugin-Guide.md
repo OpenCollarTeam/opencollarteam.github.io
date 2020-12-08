@@ -31,13 +31,26 @@ Use your own prefix and/or brand name instead.
 
 TBW
 
-TIMEOUT_READY | 30497
----------|----------
-Last Update | ---
-Formats | link_message(iSender, TIMEOUT_READY, "", "")
-Received By | ---
-Sent By | oc_states
-Description | Announces that queue timing is ready for TIMEOUT_REGISTER events
+>  &nbsp; | TIMEOUT_READY = 30497
+>---------|----------
+>Last Update | ---
+>Formats | link_message(iSender, TIMEOUT_READY, "", "")
+>Receives | ---
+>Sends | oc_states
+>
+>Announces that queue timing is ready for TIMEOUT_REGISTER calls
+
+>  &nbsp; | TIMEOUT_REGISTER = 30498
+>---------|----------
+>Last Update | ---
+>Format | llMessageLinked(LINK_SET, TIMEOUT_REGISTER, sStr, kKey);
+>Receives | oc_states
+>Sends | ---
+>
+>Adds a timer to the timer queue
+>sStr is how long the timer should be for in seconds
+>kKey is the event's identifier and will be returned once the TIMEOUT_FIRED call generates
+>Queue timing is subject to time dilation, approximating 1 second accuracy at no dilation
 
 ## OC_ SCRIPT SETTINGS:
 
