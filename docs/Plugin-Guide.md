@@ -29,7 +29,15 @@ Use your own prefix and/or brand name instead.
 
 ## LINK MESSAGE CALLS:
 
-TBW
+
+>  &nbsp; | CALL
+>---------|----------
+>Last Update | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
 
 >  &nbsp; | TIMEOUT_READY = 30497
 >---------|----------
@@ -61,6 +69,8 @@ TBW
 >
 >Call received once a queued timer event has triggered.<br>
 >Str is the name of the event that sent with TIMEOUT_REGISTER
+
+
 
 ## OC_ SCRIPT SETTINGS:
 
