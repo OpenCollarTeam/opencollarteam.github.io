@@ -77,6 +77,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 ## OC_ SCRIPT SETTINGS:
 
+TODO: Add data types, like titler_show=<integer> ?
+
 Script | Settings
 ---------|-------------
 oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
