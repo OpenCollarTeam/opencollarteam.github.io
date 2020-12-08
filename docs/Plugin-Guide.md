@@ -1,7 +1,3 @@
-
-https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Plugin-Guide.md
-
-
 ---
 layout: home
 title: OpenCollar Plugin Guide
@@ -42,11 +38,3 @@ Script | Settings
 oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
 oc_API | auth_owner, auth_trust, auth_block, auth_owner, auth_trust, auth_block, global_channel, global_prefix, AUTH_runawaydisable
 - Handling a dialog response  
-
-### Animations
-- all animations automatically moved into Animator prim  
-- starting/stopping animation  
-
-### RLV
-- You can send your own @commands, but if you use our system instead you don't have to roll your own detection 
-of whether the viewer has RLV enabled or not.
