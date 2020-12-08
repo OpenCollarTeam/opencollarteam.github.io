@@ -34,7 +34,7 @@ TBW
 ## OC_ SCRIPT SETTINGS:
 
 Script | Settings
-----------------------
+---------|-------------
 oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
 oc_API | auth_owner, auth_trust, auth_block, auth_owner, auth_trust, auth_block, global_channel, global_prefix, AUTH_runawaydisable
 oc_bell | bell_vol, bell_show, bell_on, bell_sound
