@@ -29,7 +29,7 @@ Use your own prefix and/or brand name instead.
 
 ## BEST PRACTICES
 
-Scripts that use RLV may send their own @commands, but must honor all RLV_* management calls sent from the OpenCollar scripts. Using the built-in RLV calls will provide automated enablement/disablement, as well as viewer compliance checking.
+Scripts that use RLV may send their own @commands, but must honor all RLV_* management calls sent from the OpenCollar scripts. Using OpeCollar's built-in RLV management will provide automated enablement/disablement, as well as viewer compliance checking, and integration with other OpenCollar RLV features.
 
 ## LINK MESSAGE CALLS:
 
