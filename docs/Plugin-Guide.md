@@ -59,7 +59,7 @@ oc_resizer | No settings
 oc_rlvextension | rlvext_mincamdist, rlvext_maxcamdist, rlvext_bluramount, rlvext_muffle, rlvext_owner, rlvext_trusted, rlvext_custom, rlvext_strict
 oc_rlvsuite | rlvsuite_masks, rlvsuite_macros
 oc_rlvsys | rlvsys_on, rlvsys_handshakes
-oc_settings | No settings
+oc_settings | settings_nocomma
 oc_states | No settings
 oc_themes | global_hide
 oc_titler | titler_plain, titler_show, titler_offset, titler_title, titler_color
