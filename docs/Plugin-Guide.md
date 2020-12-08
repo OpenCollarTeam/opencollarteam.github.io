@@ -1,3 +1,7 @@
+
+https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Plugin-Guide.md
+
+
 ---
 layout: home
 title: OpenCollar Plugin Guide
@@ -27,20 +31,16 @@ Users should be able to clearly see which scripts are yours and which scripts ar
 To prevent confusion, do not use the "oc_" prefix or the word "OpenCollar" in your script name. 
 Use your own prefix and/or brand name instead. 
 
-## TECHNICAL:
+## LINK MESSAGE CALLS:
 
-### Auth
-- meaning of num, string, and key fields in auth linkmessages  
-- auth levels  
+TBW
 
-### Settings
-- storing  
-- retrieving  
+## OC_ SCRIPT SETTINGS:
 
-### Menus, Dialogs, and Notifications
-- Adding a button to the Apps menu  
-- Handling a "Back" button (triggering parent menu)  
-- Sending a dialog  
+Script | Settings
+----------------------
+oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
+oc_API | auth_owner, auth_trust, auth_block, auth_owner, auth_trust, auth_block, global_channel, global_prefix, AUTH_runawaydisable
 - Handling a dialog response  
 
 ### Animations
