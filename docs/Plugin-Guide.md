@@ -34,7 +34,24 @@ TBW
 ## OC_ SCRIPT SETTINGS:
 
 Script | Settings
---------- | -------------
+----------------------
 oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
 oc_API | auth_owner, auth_trust, auth_block, auth_owner, auth_trust, auth_block, global_channel, global_prefix, AUTH_runawaydisable
-
+oc_bell | bell_vol, bell_show, bell_on, bell_sound
+oc_bookmarks | bookmarks_<NAME>
+oc_core | global_safeword, global_safeworddisable, global_touchnotify, global_wearername, global_devicename, global_allowhide, global_locked, intern_weld, auth_group,  auth_public, auth_limitrange, global_hide, global_locked
+oc_couples | coupleanim_verbose, coupleanim_timeout
+oc_folders | folders_accessflags
+oc_label | label_font, label_color, label_show, label_scroll, label_text
+oc_leash | leash_leashedtoname, leash_leashedto, leash_strict, leash_turn, leash_leashlength
+oc_meshlabel | label_font, label_color, label_show, label_scroll, label_<line#>text
+oc_particle | particle_L_GLOW, particle_L_COLOR, particle_L_GRAVITY,  particle_L_SIZE, particle_rtexture, particle_ctexture, particle_particlemode
+oc_relay | relay_wearer, relay_helpless, relay_mode, relay_trustowner, relay_trusttrust
+oc_resizer | No settings
+oc_rlvextension | rlvext_mincamdist, rlvext_maxcamdist, rlvext_bluramount, rlvext_muffle, rlvext_owner, rlvext_trusted, rlvext_custom, rlvext_strict
+oc_rlvsuite | rlvsuite_masks, rlvsuite_macros
+oc_rlvsys | rlvsys_on, rlvsys_handshakes
+oc_settings | No settings
+oc_states | No settings
+oc_themes | global_hide
+oc_titler | titler_plain, titler_show, titler_offset, titler_title, titler_color
