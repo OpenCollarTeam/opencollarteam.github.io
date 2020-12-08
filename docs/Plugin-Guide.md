@@ -35,7 +35,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | CALL
 >---------|----------
->Last Update | ---
+>Reviewed | 11/01/2020
 >Formats | ---
 >Received by | ---
 >Sent by | ---
@@ -44,7 +44,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | TIMEOUT_READY = 30497
 >---------|----------
->Last Update | ---
+>Reviewed | 11/01/2020
 >Formats | link_message(iSender, TIMEOUT_READY, "", "")
 >Received by | ---
 >Sent by | oc_states
@@ -53,7 +53,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | TIMEOUT_REGISTER = 30498
 >---------|----------
->Last Update | ---
+>Reviewed | 11/01/2020
 >Format | llMessageLinked(LINK_SET, TIMEOUT_REGISTER, Str, Key);
 >Received by | oc_states
 >Sent by | ---
