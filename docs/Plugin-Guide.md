@@ -27,8 +27,11 @@ Users should be able to clearly see which scripts are yours and which scripts ar
 To prevent confusion, do not use the "oc_" prefix or the word "OpenCollar" in your script name. 
 Use your own prefix and/or brand name instead. 
 
-## LINK MESSAGE CALLS:
+## BEST PRACTICES
 
+Scripts that use RLV may send their own @commands, but must honor all RLV_* management calls sent from the OpenCollar scripts. Using the built-in RLV calls will provide automated enablement/disablement, as well as viewer compliance checking.
+
+## LINK MESSAGE CALLS:
 
 >  &nbsp; | CALL
 >---------|----------
