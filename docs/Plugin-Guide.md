@@ -20,11 +20,11 @@ Any OpenCollar resource or script you distribute along with your plugin must inc
 
 ## BEST PRACTICES
 
-Scripts are free to set Second Life share permissions however they wish within the confines of the above license. However, for end user convenience it is advised that separate copy/modify and modify/transfer versions of the script be made available to avoid the end user having a no copy/no transfer object.
+Creators are free to set Second Life share permissions for their creations however they wish within the confines of the above license. However, for end user convenience it is advised that separate copy/modify and modify/transfer versions of the script be made available to avoid the end user having a no copy/no transfer object.
 
 The prefix "oc_" and the word "OpenCollar" and its derivatives are reserved for use in only official OpenCollar script names. To prevent end user confusion, plugins should use their own prefix and/or brand name.
 
-Scripts that use RLV may send their own @commands, but must honor all RLV_* management calls sent from the OpenCollar scripts. Using OpeCollar's built-in RLV management will provide automated enablement/disablement, as well as viewer compliance checking, and integration with other OpenCollar RLV features.
+Scripts that use RLV may send their own @commands, but must honor all RLV_* management calls sent from the OpenCollar scripts. Using OpenCollar's built-in RLV management will provide automated enablement/disablement, as well as viewer compliance checking, and integration with other OpenCollar RLV features.
 
 ## LINK MESSAGE CALLS:
 
