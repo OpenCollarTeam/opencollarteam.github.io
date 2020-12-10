@@ -7,7 +7,7 @@ This document is a guide to  the creation, distribution and sale of third party 
 
 ## LICENSES
 
-Scripts that use only OpenCollar public domain scripts, such as the plugin template, or that only use code designed to interface with OpenCollar scripts, such as the Plugin API defined in this document, may be released by creators under any license they wish without restriction.
+Scripts of completely original material, derived only from OpenCollar public domain scripts--such as the plugin template--or that only use code designed to interface with OpenCollar scripts--such as the Plugin API defined in this document--may be released by creators under any license they wish without restriction.
 
 Any script derived from the OpenCollar open source scripts, in whole or in part, must retain the same permissions as the scripts they are derived from--namely full permissions to copy modify and transfer; with the exception of the plugin template itself or similar listener code whose sole purpose is to link your plugin to the OpenCollar object.
 
