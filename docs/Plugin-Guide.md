@@ -50,10 +50,10 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Received by | oc_states
 >Sent by | ---
 >
->Adds a timer to the timer queue.<br>
->Str is how long the timer should be for in seconds.<br>
->Key is the event's identifier and will be returned once the TIMEOUT_FIRED call generates.<br>
->Queue timing is subject to time dilation, approximating 1 second accuracy at no dilation.<br>
+>Adds a timer to the timer queue<br>
+>Str is how long the timer should be for in seconds<br>
+>Key is the event's identifier and will be returned once the TIMEOUT_FIRED call generates<br>
+>Queue timing is subject to time dilation, approximating 1 second accuracy at no dilation<br>
 
 >  &nbsp; | TIMEOUT_FIRED = 30499
 >---------|----------
@@ -65,7 +65,495 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Call received once a queued timer event has triggered.<br>
 >Str is the name of the event that sent with TIMEOUT_REGISTER
 
+>  &nbsp; | REBOOT = -1000
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, REBOOT, "reboot", "")
+>Received by | ---
+>Sent by | oc_states
+>
+>Scripts should reset when receiving this call<br>
+>An additional form of this exists for master script communication. Scripts should not listen for "reboot --f"
 
+>  &nbsp; | ALIVE = -55
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, ALIVE, llGetScriptName(),"");
+>Received by | oc_states
+>Sent by | ---
+>
+>Notifies oc_scripts that the script is active in the collar<br>
+>Causes oc_scripts to register the script for anti-crash checking<br>
+>This should be sent automatically on reset, and any time a READY message is received<br>
+>No longer needed after a STARTUP message is received<br>
+
+>  &nbsp; | READY = -56
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, READY, "", "")
+>Received by | oc_states
+>Sent by | ---
+>
+>Call from oc_states requesting the script to respond with an ALIVE call<br>
+>This only needs to be listened for during the startup phase. After receiving a STARTUP message, this is no longer required<br>
+
+>  &nbsp; | STARTUP = -57
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, STARTUP, Str, "")
+>Received by | ---
+>Sent by | ---
+>
+>Call signaling for plugin to enter active state<br>
+>Plugins do not need to check Str to accept this message<br>
+>Plugins no longer have to send ALIVE or listen for READY after receiving this call<br>
+>Str is a list of all scripts that succesfully registered during READY phase<br>
+
+>  &nbsp; | CMD_ZERO = 0
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | MENUNAME_REQUEST = 3000
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, MENUNAME_REQUEST, Str, "")
+>Received by | ---
+>Sent by | oc_core
+>
+>Sent when the collar is ready to register plugins for the menu system<br>
+>Str is the parent menu that is being requested, either "Apps" or "Main"<br>
+
+>  &nbsp; | MENUNAME_RESPONSE = 3001
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(iSender, MENUNAME_RESPONSE, ParentMenu|SubMenu, "");
+>Received by | oc_core
+>Sent by | ---
+>
+>Call sent in reply to a MENUNAME_REQUEST event<br>
+>ParentMenu is the parent menu to register this plugin's menus under. This can be either "Apps" or "Main"<br>
+>SubMenu is the name of the button for entering this plugin's menus<br>
+
+>  &nbsp; | MENUNAME_REMOVE = 3003
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, MENUNAME_REMOVE , ParentMenu|SubMenu, "");
+>Received by | oc_core
+>Sent by | ---
+>
+>Sent when a plugin what's to remove itself from the collar's menu system<br>
+>ParentMenu is the parent menu to register this plugin's menus under. This can be either "Apps" or "Main"<br>
+>SubMenu is the name of the button for entering this plugin's menus<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
 
 ## OC_ SCRIPT SETTINGS:
 
