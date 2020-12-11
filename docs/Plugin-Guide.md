@@ -564,7 +564,7 @@ Script | Settings
 oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
 oc_API | auth_owner, auth_trust, auth_block, auth_owner, auth_trust, auth_block, global_channel, global_prefix, AUTH_runawaydisable
 oc_bell | bell_vol, bell_show, bell_on, bell_sound
-oc_bookmarks | bookmarks_<NAME>
+oc_bookmarks | bookmarks_{NAME}
 oc_core | global_safeword, global_safeworddisable, global_touchnotify, global_wearername, global_devicename, global_allowhide, global_locked, intern_weld, auth_group,  auth_public, auth_limitrange, global_hide, global_locked
 oc_couples | coupleanim_verbose, coupleanim_timeout
 oc_folders | folders_accessflags
