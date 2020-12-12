@@ -746,7 +746,7 @@ Substitutions for SAY, NOTIFY_OWNERS, NOTIFY, DIALOG, SESORDIALOG text:
    - %CHANNEL% replaced with the non-local chat channel that the collar will accept commands on. By default "1"
    - %DEVICETYPE% replaced with the type of this device. By default, "collar"
    - %WEARERNAME% replaced with the name of the wearer. By default a URI for the wearer
-   - %DEVICENAME% replaced with the name of the collar. By default either the description of the root prim or the name of the root prim processed in oc_dialog
+   - %DEVICENAME% replaced with the name of the collar. By default either the description of the root prim or the name of the root prim
 
 
 ## OC_ SCRIPT SETTINGS:
