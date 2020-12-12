@@ -152,7 +152,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | MENUNAME_RESPONSE = 3001
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | llMessageLinked(iSender, MENUNAME_RESPONSE, ParentMenu|SubMenu, "");
+>Formats | llMessageLinked(iSender, MENUNAME_RESPONSE, ParentMenu\|SubMenu, "");
 >Received by | oc_core
 >Sent by | ---
 >
@@ -165,7 +165,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | MENUNAME_REMOVE = 3003
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | llMessageLinked(LINK_SET, MENUNAME_REMOVE , ParentMenu|SubMenu, "");
+>Formats | llMessageLinked(LINK_SET, MENUNAME_REMOVE , ParentMenu\|SubMenu, "");
 >Received by | oc_core
 >Sent by | ---
 >
@@ -191,7 +191,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | AUTH_REPLY=601
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | link_message(iSender, AUTH_REPLY, "AuthReply"|kID|iAuth, Key)
+>Formats | link_message(iSender, AUTH_REPLY, "AuthReply"\|kID\|iAuth, Key)
 >Received by | ---
 >Sent by | oc_API
 >
@@ -439,7 +439,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | ANIM_LIST_RES = 7003
 >---------|----------
 >Reviewed | 12/12/2020
->Formats | link_message(iSender, ANIM_LIST_RES, anim1|anim2|..., "")
+>Formats | link_message(iSender, ANIM_LIST_RES, anim1\|anim2\|..., "")
 >Received by | oc_anim
 >Sent by | ---
 >
@@ -610,9 +610,9 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >kRecipient is the key of the recipient of the dialog box<br>
 >sPrompt The message text at the top of the dialog box<br>
 >iPage If the list of buttons would generate multiple pages, this will generate the dialog box on the specified page. First page is page 0<br>
->``lButtons is list of buttons delimited by "`" ``<br>
+>lButtons is list of buttons delimited by "\`"<br>
 >If the first option in lButtons is "colormenu please", then the list of buttons will be replaced with a list of colors. The return value if a color is selected is the color's vector.<br>
->``lUtilityButtons is a list of buttons to be displayed on every page. delimited by ```<br>
+>lUtilityButtons is a list of buttons to be displayed on every page. delimited by "\`"<br>
 >iAuth will tag the dialog with a numerical value that will be returned as the iAuth on DIALOG_RESPONSE. When first entering the plugin's menu system, this represents the authorization level of the user. This should only ever be used to reflect true authorization levels of the user. iAuth is reassed if the plugin's dialog system is exited but not while the dialog calls are directed at the plugin.<br>
 >If setting global_showlevel is non-zero, then iAuth will display in the dialog text<br>
 >Key is a value identifying this specific menu request. This will be returned as the Key of the link message when a response is received<br>
@@ -719,7 +719,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 ## OC_ SCRIPT SETTINGS:
 
-TODO: Add data types, like titler_show={i} ?
+TODO: Add data types, like titler_show=i ?
 key = k, integer = i, float = f, string = s, rot = r, vector = v
 
 Script | Settings
