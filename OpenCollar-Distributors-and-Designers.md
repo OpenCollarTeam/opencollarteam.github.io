@@ -133,7 +133,7 @@ Arab Themed Slave Auction & Training
 
 Morris Mixmaster, Sensual Camping  
 Club & Nude Beach  
-[http://maps.secondlife.com/secondlife/Prohibition/71/213/21](http://maps.secondlife.com/secondlife/Prohibition/71/213/21)  
+[http://maps.secondlife.com/secondlife/Prana/202/163/38](http://maps.secondlife.com/secondlife/Prana/202/163/38)  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
