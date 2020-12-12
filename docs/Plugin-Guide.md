@@ -400,45 +400,51 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | ANIM_START = 7000
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 12/12/2020
+>Formats | llMessageLinked(LINK_SET, ANIM_START, Str,"");
+>Received by | oc_anim
 >Sent by | ---
 >
->Description<br>
+>Plays an animation<br>
+>Str must be an animation in the same prim as the oc_anim script<br>
+>This does not provide a success or fail response<br>
 
 .
 
 >  &nbsp; | ANIM_STOP = 7001
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 12/12/2020
+>Formats | llMessageLinked(LINK_SET, ANIM_STOP, Str,"");
+>Received by | oc_anim
 >Sent by | ---
 >
->Description<br>
+>Stops an active animation<br>
+>Str must be an active animation started by oc_anim
+>This does not provide a success or fail response<br>
 
 .
 
 >  &nbsp; | ANIM_LIST_REQ = 7002
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 12/12/2020
+>Formats | llMessageLinked(LINK_SET, ANIM_LIST_REQ, "","");
+>Received by | oc_anim
 >Sent by | ---
 >
->Description<br>
+>Requests a list of available animations<br>
+>List sent as ANIM_LIST_RES response<br>
 
 .
 
 >  &nbsp; | ANIM_LIST_RES = 7003
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 12/12/2020
+>Formats | link_message(iSender, ANIM_LIST_RES, anim1|anim2|..., "")
+>Received by | oc_anim
 >Sent by | ---
 >
->Description<br>
+>List of animations sent in response to a ANIM_LIST_REQ call<br>
+>List is a | (pipe) delimited list of animations in the same prim as the oc_anim script<br>
 
 .
 
@@ -592,7 +598,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | DIALOG = -9000
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | llMessageLinked(LINK_SET, DIALOG, kRecipient|sPrompt|iPage|lButtons|lUtilityButtons|iAuth|iSorted, Key);
+>Formats | llMessageLinked(LINK_SET, DIALOG, kRecipient\|sPrompt\|iPage\|lButtons\|lUtilityButtons\|iAuth\|iSorted, Key);
 >Received by | oc_dialog
 >Sent by | ---
 >
