@@ -34,6 +34,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
+.
+
 >  &nbsp; | TIMEOUT_READY = 30497
 >---------|----------
 >Reviewed | 11/01/2020
@@ -42,6 +44,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Sent by | oc_states
 >
 >Announces that queue timing is ready for TIMEOUT_REGISTER calls
+
+.
 
 >  &nbsp; | TIMEOUT_REGISTER = 30498
 >---------|----------
@@ -55,6 +59,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Key is the event's identifier and will be returned once the TIMEOUT_FIRED call generates<br>
 >Queue timing is subject to time dilation, approximating 1 second accuracy at no dilation<br>
 
+.
+
 >  &nbsp; | TIMEOUT_FIRED = 30499
 >---------|----------
 >Last Update | 11/01/2020
@@ -65,6 +71,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Call received once a queued timer event has triggered.<br>
 >Str is the name of the event that sent with TIMEOUT_REGISTER
 
+.
+
 >  &nbsp; | REBOOT = -1000
 >---------|----------
 >Reviewed | 11/01/2020
@@ -74,6 +82,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Scripts should reset when receiving this call<br>
 >An additional form of this exists for master script communication. Scripts should not listen for "reboot --f"
+
+.
 
 >  &nbsp; | ALIVE = -55
 >---------|----------
@@ -87,6 +97,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >This should be sent automatically on reset, and any time a READY message is received<br>
 >No longer needed after a STARTUP message is received<br>
 
+.
+
 >  &nbsp; | READY = -56
 >---------|----------
 >Reviewed | 11/01/2020
@@ -96,6 +108,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Call from oc_states requesting the script to respond with an ALIVE call<br>
 >This only needs to be listened for during the startup phase. After receiving a STARTUP message, this is no longer required<br>
+
+.
 
 >  &nbsp; | STARTUP = -57
 >---------|----------
@@ -109,6 +123,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Plugins no longer have to send ALIVE or listen for READY after receiving this call<br>
 >Str is a list of all scripts that succesfully registered during READY phase<br>
 
+.
+
 >  &nbsp; | CMD_ZERO = 0
 >---------|----------
 >Reviewed | ---
@@ -117,6 +133,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Sent by | ---
 >
 >Description<br>
+
+.
 
 >  &nbsp; | MENUNAME_REQUEST = 3000
 >---------|----------
@@ -127,6 +145,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Sent when the collar is ready to register plugins for the menu system<br>
 >Str is the parent menu that is being requested, either "Apps" or "Main"<br>
+
+.
 
 >  &nbsp; | MENUNAME_RESPONSE = 3001
 >---------|----------
@@ -139,6 +159,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >ParentMenu is the parent menu to register this plugin's menus under. This can be either "Apps" or "Main"<br>
 >SubMenu is the name of the button for entering this plugin's menus<br>
 
+.
+
 >  &nbsp; | MENUNAME_REMOVE = 3003
 >---------|----------
 >Reviewed | 11/01/2020
@@ -150,14 +172,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >ParentMenu is the parent menu to register this plugin's menus under. This can be either "Apps" or "Main"<br>
 >SubMenu is the name of the button for entering this plugin's menus<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -168,14 +183,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -186,14 +194,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -204,14 +205,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -222,14 +216,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -240,14 +227,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -258,14 +238,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -276,14 +249,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -294,14 +260,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -312,14 +271,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -330,14 +282,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -348,14 +293,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -366,14 +304,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -384,14 +315,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -402,14 +326,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -420,14 +337,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -438,14 +348,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -456,14 +359,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -474,14 +370,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -492,14 +381,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -510,14 +392,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -528,14 +403,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >
 >Description<br>
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+.
 
 >  &nbsp; | CALL
 >---------|----------
@@ -545,6 +413,250 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Sent by | ---
 >
 >Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CALL
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
 
 >  &nbsp; | CALL
 >---------|----------
