@@ -669,7 +669,8 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 ## OC_ SCRIPT SETTINGS:
 
-TODO: Add data types, like titler_show=<integer> ?
+TODO: Add data types, like titler_show={i} ?
+key = k, integer = i, float = f, string = s, rot = r, vector = v
 
 Script | Settings
 ---------|-------------
@@ -682,7 +683,7 @@ oc_couples | coupleanim_verbose, coupleanim_timeout
 oc_folders | folders_accessflags
 oc_label | label_font, label_color, label_show, label_scroll, label_text
 oc_leash | leash_leashedtoname, leash_leashedto, leash_strict, leash_turn, leash_leashlength
-oc_meshlabel | label_font, label_color, label_show, label_scroll, label_<line#>text
+oc_meshlabel | label_font, label_color, label_show, label_scroll, label_{line#}text
 oc_particle | particle_L_GLOW, particle_L_COLOR, particle_L_GRAVITY,  particle_L_SIZE, particle_rtexture, particle_ctexture, particle_particlemode
 oc_relay | relay_wearer, relay_helpless, relay_mode, relay_trustowner, relay_trusttrust
 oc_resizer | No settings
