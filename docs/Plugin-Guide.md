@@ -127,12 +127,12 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | CMD_ZERO = 0
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET,CMD_ZERO,Str,Key);
+>Received by | oc_API
 >Sent by | ---
->
->Description<br>
+>Calculates auth for Key, then rebroadcasts Str on the appropriate CMD call<br>
+>If Str == "initialize" this triggers several executive tasks. Plugins should not call initialize<br>
 
 .
 
@@ -174,14 +174,202 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | AUTH_REQUEST = 600
 >---------|----------
->Reviewed | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, AUTH_REQUEST , Str, Key);
+>Received by | oc_API
+>Sent by | ---
+>
+>Message sent by a plugin to check the auth level of Key<br>
+>Triggers an AUTH_REPLY event with Str as the key<br>
+>Str is a value identifying this request/reply pair<br>
+
+.
+
+>  &nbsp; | AUTH_REPLY=601
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, AUTH_REPLY, "AuthReply"|kID|iAuth, Key)
+>Received by | ---
+>Sent by | oc_API
+>
+>Call triggered in response to AUTH_REQUEST<br>
+>kID is the key being checked<br>
+>iAuth is the calculated auth level<br>
+>Key is the identifier for this request/reply pair. It copies the Str value in the AUTH_REQUEST call<br>
+
+.
+
+>  &nbsp; | CMD_SAFEWORD = 510
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, CMD_SAFEWORD, Str, "")<br>llMessageLinked(LINK_SET, CMD_SAFEWORD, Str,"")
+>Received by | oc_rlvsuite, oc_rlvsys
+>Sent by | Multiple
+>
+>Sent or received by the plugin to signify a safeword has been triggered<br>
+>Str can be empty and currently does not impact functionality, if Str == "safeword" this signifies it was sent by oc_API<br>
+>Will clear RLV restrictions in oc_rlvsuite and oc_rlvsys. Will trigger a CMD_RELAY_SAFEWORD event<br>
+
+.
+
+>  &nbsp; | CMD_RELAY_SAFEWORD = 511
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, CMD_RELAY_SAFEWORD, Str, "")<br>llMessageLinked(LINK_SET, CMD_RELAY_SAFEWORD, Str,"")
+>Received by | oc_rlvsys, oc_relay
+>Sent by | ---
+>
+>Message sent or received by the plugin to signify a safeword has been called.<br>
+>Str can be empty and currently does not impact functionality, if Str == "safeword" this signifies it was triggered by a CMD_SAFEWORD call<br>
+
+.
+
+>  &nbsp; | CMD_RLV_RELAY = 507
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, CMD_RLV_RELAY, Str, key)
+>Received by | oc_rlvsys
+>Sent by | ---
+>
+>When sent a relay !pong event, will sit on a previously stored object for force sitting<br>
+>Key is the key of the object to be sat upon<br>
+>Str is a relay call ending in "," + wearer's UUID + ",!pong"<br>
+>Note: This call may be deprecated<br>
+
+.
+
+>  &nbsp; | RLV_CMD = 6000
+>---------|----------
+>Reviewed | 12/4/2020
+>Formats | llMessageLinked(LINK_SET, RLV_CMD, Str, Key);
+>Received by | oc_rlvsys
+>Sent by | ---
+>
+>Applies restrictions if RLV is enabled in the collar<br>
+>Key is a value identifying the set of restrictions being modified. The restrictions of an identifier can be modified dynamically and are not static<br>
+>Str is a set of RLV restrictions in standard RLV format, except the leading @ symbol is dropped<br>
+>If Str == "clear" then the restrictions for a given identifier are removed, but not other restrictions<br>
+
+
+.
+
+>  &nbsp; | RLV_REFRESH = 6001
+>---------|----------
+>Reviewed | 12/4/2020
+>Formats | link_message(iSender, RLV_REFRESH, "", "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>RLV plugins should reinstate/refresh their restrictions upon receiving this call.<br>
+
+.
+
+>  &nbsp; | DO_RLV_REFRESH = 26001
+>---------|----------
+>Reviewed | 12/4/2020
+>Formats | link_message(iSender, DO_RLV_REFRESH, "", "")
+>Received by | ---
+>Sent by | oc_relay
+>
+>RLV plugins should reinstate/refresh their restrictions upon receiving this call.<br>
+>TODO: Check if this is listened to for anything outside relay comms? Why does this duplicate RLV_REFRESH?
+
+.
+
+>  &nbsp; | RLV_CLEAR = 6002
+>---------|----------
+>Reviewed | 12/4/2020
+>Formats | link_message(iSender, RLV_CLEAR, "", "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>RLV plugins should clear their restriction lists upon receiving this call.<br>
+
+.
+
+>  &nbsp; | RLV_OFF = 6100
+>---------|----------
+>Reviewed | 12/4/2020
+>Formats | link_message(iSender, RLV_OFF, "", "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>RLV plugins should disable RLV activity upon receiving this call<br>
+
+.
+
+>  &nbsp; | RLV_ON = 6101
+>---------|----------
+>Reviewed | 12/4/2020
+>Formats | link_message(iSender, RLV_ON, "", "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>RLV plugins should enable RLV activity upon receiving this call<br>
+
+.
+
+>  &nbsp; | POPUP_HELP = 1001
+>---------|----------
+>Reviewed | 12/5/2020
 >Formats | ---
 >Received by | ---
 >Sent by | ---
 >
->Description<br>
+>Not in use. Commented out in oc_rlvsys, oc_particle<br>
+>Note: This call may be deprecated<br>
+
+.
+
+>  &nbsp; | RLV_VERSION = 6003
+>---------|----------
+>Reviewed | 12/5/2020
+>Formats | link_message(iSender, RLV_VERSION, Str, "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>Provides the RLV version of the wearer's viewer<br>
+>Str is the numerical version string<br>
+>Sent when RLV is turned on and when the collar rezzes or is reset and RLV is on<br>
+
+.
+
+>  &nbsp; | RLVA_VERSION = 6004
+>---------|----------
+>Reviewed | 12/5/2020
+>Formats | link_message(iSender, RLVA_VERSION, Str, "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>Provides the RLVa version of the wearer's viewer<br>
+>Str is the numerical version string<br>
+>Sent when RLV is turned on and when the collar rezzes or is reset and RLV is on<br>
+
+.
+
+>  &nbsp; | RLV_QUERY = 6102
+>---------|----------
+>Reviewed | 12/5/2020
+>Formats | llMessageLinked(LINK_SET, RLV_QUERY, "", "")
+>Received by | oc_rlvsys
+>Sent by | ---
+>
+>Call for plugins to query whether RLV is on or off<br>
+>Generates an RLV_RESPONSE call<br>
+
+.
+
+>  &nbsp; | RLV_RESPONSE = 6103
+>---------|----------
+>Reviewed | 12/5/2020
+>Formats | link_message(iSender, RLV_RESPONSE, Str, "")
+>Received by | ---
+>Sent by | oc_rlvsys
+>
+>Response to an RLV_QUERY call<br>
+>Str is either "ON" or "OFF" depending on current RLV status<br>
 
 .
 
@@ -471,7 +659,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | LINK_CMD_RESTDATA = -2577
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -482,7 +670,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | LINK_CMD_RESTRICTIONS = -2576
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -493,172 +681,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
+>  &nbsp; | LINK_CMD_DEBUG=1999
 >---------|----------
 >Reviewed | ---
 >Formats | ---
