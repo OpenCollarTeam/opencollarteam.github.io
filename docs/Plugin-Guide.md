@@ -131,6 +131,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Formats | llMessageLinked(LINK_SET,CMD_ZERO,Str,Key);
 >Received by | oc_API
 >Sent by | ---
+>
 >Calculates auth for Key, then rebroadcasts Str on the appropriate CMD call<br>
 >If Str == "initialize" this triggers several executive tasks. Plugins should not call initialize<br>
 
