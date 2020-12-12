@@ -205,7 +205,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | CMD_SAFEWORD = 510
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | link_message(iSender, CMD_SAFEWORD, Str, "")<br>llMessageLinked(LINK_SET, CMD_SAFEWORD, Str,"")
+>Formats | link_message(iSender, CMD_SAFEWORD, Str, "")<br>llMessageLinked(LINK_SET, CMD_SAFEWORD, Str,"");
 >Received by | oc_rlvsuite, oc_rlvsys
 >Sent by | Multiple
 >
@@ -218,7 +218,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | CMD_RELAY_SAFEWORD = 511
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | link_message(iSender, CMD_RELAY_SAFEWORD, Str, "")<br>llMessageLinked(LINK_SET, CMD_RELAY_SAFEWORD, Str,"")
+>Formats | link_message(iSender, CMD_RELAY_SAFEWORD, Str, "")<br>llMessageLinked(LINK_SET, CMD_RELAY_SAFEWORD, Str,"");
 >Received by | oc_rlvsys, oc_relay
 >Sent by | ---
 >
@@ -230,7 +230,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | CMD_RLV_RELAY = 507
 >---------|----------
 >Reviewed | 11/01/2020
->Formats | llMessageLinked(LINK_SET, CMD_RLV_RELAY, Str, key)
+>Formats | llMessageLinked(LINK_SET, CMD_RLV_RELAY, Str, key);
 >Received by | oc_rlvsys
 >Sent by | ---
 >
@@ -353,7 +353,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >  &nbsp; | RLV_QUERY = 6102
 >---------|----------
 >Reviewed | 12/5/2020
->Formats | llMessageLinked(LINK_SET, RLV_QUERY, "", "")
+>Formats | llMessageLinked(LINK_SET, RLV_QUERY, "", "");
 >Received by | oc_rlvsys
 >Sent by | ---
 >
@@ -374,7 +374,152 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | LEASH_START_MOVEMENT = 6200
+>---------|----------
+>Reviewed | 12/7/2020
+>Formats | link_message(iSender, LEASH_START_MOVEMENT, "", "")
+>Received by | ---
+>Sent by | oc_leash
+>
+>Communication call between oc_anim and oc_leash signaling the start of movement redirect by the collar when user is leashed<br>
+>Does not generate call on yank<br>
+
+.
+
+>  &nbsp; | LEASH_END_MOVEMENT = 6201
+>---------|----------
+>Reviewed | 12/7/2020
+>Formats | link_message(iSender, LEASH_END_MOVEMENT, "", "")
+>Received by | ---
+>Sent by | oc_leash
+>
+>Communication call between oc_anim and oc_leash signaling the end of movement redirect by the collar when user is leashed<br>
+>Does not generate call on yank<br>
+
+.
+
+>  &nbsp; | ANIM_START = 7000
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | ANIM_STOP = 7001
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | ANIM_LIST_REQ = 7002
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | ANIM_LIST_RES = 7003
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | LOADPIN = -1904
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_PARTICLE = 20000
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_OWNER = 500
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_TRUSTED = 501
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_GROUP = 502
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_WEARER = 503
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_EVERYONE = 504
+>---------|----------
+>Reviewed | ---
+>Formats | ---
+>Received by | ---
+>Sent by | ---
+>
+>Description<br>
+
+.
+
+>  &nbsp; | CMD_BLOCKED = 520
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -396,7 +541,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | CMD_NOACCESS=599
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -407,190 +552,65 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | NOTIFY = 1002
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, NOTIFY, i + Str, Key);
+>Received by | oc_dialog
 >Sent by | ---
 >
->Description<br>
+>Sends Str as a message to avatar Key if they're within the region<br>
+>If i == 0, then the wearer is not given the message, otherwise both the Key specified and the wearer get the message<br>
+
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | NOTIFY_OWNERS = 1003
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, NOTIFY_OWNERS, Str, Key);
+>Received by | oc_dialog
 >Sent by | ---
 >
->Description<br>
+>Sends a message to the owners of the wearer who are within the current region<br>
+>If Key == "ignoreNearby", then any owner within 20 meters of the wearer will not be notified<br>
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | SAY = 1004
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, SAY, i + Str, "");
+>Received by | oc_dialog
 >Sent by | ---
 >
->Description<br>
+>Has the collar say Str to local as a pose and with a blank string as the name<br>
+>If i == 0, then this is a normal say, otherwise a whisper<br>
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | DIALOG = -9000
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, DIALOG, kRecipient|sPrompt|iPage|lButtons|lUtilityButtons|iAuth|iSorted, Key);
+>Received by | oc_dialog
 >Sent by | ---
 >
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+>Sends a dialog prompt to the specified user.<br>
+>Will automatically generate paged dialogs when there are more than 12 buttons to be displayed. Page turning events will not generate a DIALOG_RESPONSE<br>
+>If a string of UUID's is passed, collar will automatically attempt to resolve them to 1) a named URI link for avatars, 2: format of 'displayname (legacyname)', or 3) legacyname<br>
+>If any one button name is too long, the buttons will be numbered and a non-truncated button list generated in the dialog text<br>
+>iAuth and iSorted are optional<br>
+>kRecipient is the key of the recipient of the dialog box<br>
+>sPrompt The message text at the top of the dialog box<br>
+>iPage If the list of buttons would generate multiple pages, this will generate the dialog box on the specified page. First page is page 0<br>
+>``lButtons is list of buttons delimited by "`" ``<br>
+>If the first option in lButtons is "colormenu please", then the list of buttons will be replaced with a list of colors. The return value if a color is selected is the color's vector.<br>
+>``lUtilityButtons is a list of buttons to be displayed on every page. delimited by ```<br>
+>iAuth will tag the dialog with a numerical value that will be returned as the iAuth on DIALOG_RESPONSE. When first entering the plugin's menu system, this represents the authorization level of the user. This should only ever be used to reflect true authorization levels of the user. iAuth is reassed if the plugin's dialog system is exited but not while the dialog calls are directed at the plugin.<br>
+>If setting global_showlevel is non-zero, then iAuth will display in the dialog text<br>
+>Key is a value identifying this specific menu request. This will be returned as the Key of the link message when a response is received<br>
+>iSorted if true will attempt to sort the buttons. If the buttons are object or avatar UUID's this will attempt to sort by name.<br>
 
 .
 
