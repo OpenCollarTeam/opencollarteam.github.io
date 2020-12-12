@@ -610,9 +610,9 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >kRecipient is the key of the recipient of the dialog box<br>
 >sPrompt The message text at the top of the dialog box<br>
 >iPage If the list of buttons would generate multiple pages, this will generate the dialog box on the specified page. First page is page 0<br>
->lButtons is list of buttons delimited by "\`"<br>
+>lButtons is list of buttons delimited by \` (back quote)<br>
 >If the first option in lButtons is "colormenu please", then the list of buttons will be replaced with a list of colors. The return value if a color is selected is the color's vector.<br>
->lUtilityButtons is a list of buttons to be displayed on every page. delimited by "\`"<br>
+>lUtilityButtons is a list of buttons to be displayed on every page. delimited by \` (back quote)<br>
 >iAuth will tag the dialog with a numerical value that will be returned as the iAuth on DIALOG_RESPONSE. When first entering the plugin's menu system, this represents the authorization level of the user. This should only ever be used to reflect true authorization levels of the user. iAuth is reassed if the plugin's dialog system is exited but not while the dialog calls are directed at the plugin.<br>
 >If setting global_showlevel is non-zero, then iAuth will display in the dialog text<br>
 >Key is a value identifying this specific menu request. This will be returned as the Key of the link message when a response is received<br>
