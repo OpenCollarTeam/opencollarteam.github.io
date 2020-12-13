@@ -674,7 +674,40 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | LM_SETTING_SAVE = 2000
+>---------|----------
+>Reviewed | 12/12/2020
+>Formats | llMessageLinked(LINK_SET, LM_SETTING_SAVE, ScriptID_Token=Value, Key);
+>Received by | oc_settings
+>Sent by | ---
+>
+>Call used by plugins to save settings<br>
+>Token is the name of the setting<br>
+>ScriptID is a prepended string to identify settings specific to this script<br>
+>Global and intern are reserved scriptID's<br>
+>Value is the value of the token<br>
+>Key is a value to authorize modifying auth and intern scriptID's. To modify these, pass the Key "origin"<br>
+>An LM_SETTING_RESPONSE where sStr == scriptID_token=value is sent upon completion of this save<br>
+
+.
+
+>  &nbsp; | LM_SETTING_REQUEST = 2001
+>---------|----------
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, LM_SETTING_REQUEST, ScriptID_Token, "");
+>Received by | oc_settings
+>Sent by | ---
+>
+>Message sent by scripts to request the value of a given ScriptID_Token<br>
+>Token is the name of the setting to request<br>
+>ScriptID is the prepended ID for the script the setting belongs to<br>
+>If ScriptID = "ALL" then rhe response will be all the settings, one at a time every 1/4 seconde<br>
+>Any script can request the settings of any other script
+>This triggers an LM_SETTING_RESPONSE call
+
+.
+
+>  &nbsp; | LM_SETTING_RESPONSE = 2002
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -685,7 +718,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | LM_SETTING_DELETE = 2003
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -696,7 +729,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CALL
+>  &nbsp; | LM_SETTING_EMPTY = 2004
 >---------|----------
 >Reviewed | ---
 >Formats | ---
@@ -740,6 +773,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 
 ## CALL ERRATA:
+
 Substitutions for SAY, NOTIFY_OWNERS, NOTIFY, DIALOG, SESORDIALOG text:
    - %NOACCESS% replaced with "Access Denied"
    - %PREFIX% replaced with the wearer's prefix. By default first two letters of their legacy name
