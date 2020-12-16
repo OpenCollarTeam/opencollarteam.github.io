@@ -301,18 +301,6 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | POPUP_HELP = 1001
->---------|----------
->Reviewed | 12/5/2020
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Not in use. Commented out in oc_rlvsys, oc_particle<br>
->Note: This call may be deprecated<br>
-
-.
-
 >  &nbsp; | RLV_VERSION = 6003
 >---------|----------
 >Reviewed | 12/5/2020
