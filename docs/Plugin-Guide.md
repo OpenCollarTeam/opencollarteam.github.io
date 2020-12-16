@@ -709,34 +709,43 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | LM_SETTING_RESPONSE = 2002
 >---------|----------
->Reviewed | ---
->Formats | ---
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, DIALOG_RESPONSE, ScriptID_Token=Value, "")
 >Received by | ---
->Sent by | ---
+>Sent by | oc_settings
 >
->Description<br>
+>Message received by scripts in response to LM_SETTING_REQUEST events<br>
+>Token is the name of the setting to request<br>
+>ScriptID is the prepended ID for the script the setting belongs to<br>
+>Value is the value stored for this token<br>
 
 .
 
 >  &nbsp; | LM_SETTING_DELETE = 2003
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 11/01/2020
+>Formats | llMessageLinked(LINK_SET, LM_SETTING_DELETE,  scriptID_token, Key);
+>Received by | oc_settings
 >Sent by | ---
 >
->Description<br>
+>Sent by scripts to delete saved settings<br>
+>Token is the name of the setting to request<br>
+>ScriptID is the prepended ID for the script the setting belongs to<br>
+>Key is a value used to check if certain internal and authorization settings may be modified by the request. This will normally be "". To modify protected values, pass "origin"
+>Note: There is no check to prevent a script from deleting settings by other scripts. The plugin should sanity check itself to prevent this
 
 .
 
 >  &nbsp; | LM_SETTING_EMPTY = 2004
 >---------|----------
->Reviewed | ---
->Formats | ---
+>Reviewed | 11/01/2020
+>Formats | link_message(iSender, DIALOG_RESPONSE, ScriptID_Token, "")
 >Received by | ---
->Sent by | ---
+>Sent by | oc_settings
 >
->Description<br>
+>Response to an LM_SETTING_REQUEST when the requested ScriptID_Token does not exist<br>
+>Token is the name of the setting to request<br>
+>ScriptID is the prepended ID for the script the setting belongs to<br>
 
 .
 
