@@ -628,7 +628,7 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 >Sent by | oc_dialog
 >
 >Call received when user clicks a dialog button<br>
->Does not generate if user clicks the page turn buttons<b>
+>Does not generate if user clicks the page turn buttons<br>
 >kUser is the key of the user who clicked the button<br>
 >sButton is the button clicked<br>
 >iPage is the page of the dialog menu that was clicked<br>
