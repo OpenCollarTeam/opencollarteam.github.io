@@ -25,17 +25,6 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 ## LINK MESSAGE CALLS:
 
->  &nbsp; | CALL
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
 >  &nbsp; | TIMEOUT_READY = 30497
 >---------|----------
 >Reviewed | 11/01/2020
@@ -526,17 +515,6 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 .
 
 >  &nbsp; | CMD_BLOCKED = 520
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CALL
 >---------|----------
 >Reviewed | ---
 >Formats | ---
