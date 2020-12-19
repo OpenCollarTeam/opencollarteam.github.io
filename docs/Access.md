@@ -14,7 +14,8 @@ Adds and removes Owners.  Only owners can add and remove owners, and wearer if O
 
 >`[prefix] add owner [user name or UUID]`  
 >`[prefix] rm owner [user name or UUID]`  
->`AUTH=owner~[UUID]`  
+>`AUTH=owner~[UUID]`  for the first owner.
+>`AUTH+owner~[UUID]` for additional owners; on a new line from the first owner.
 
 - **To add the owner to wearer, go to + Owner and press >WEARER<**
 - (V 7.3 and previous, check OWNSELF to add the wearer to owner)
