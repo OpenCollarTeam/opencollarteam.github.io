@@ -427,23 +427,29 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 >  &nbsp; | LOADPIN = -1904
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
+>Reviewed | 12/16/2020
+>Formats | llMessageLinked(LINK_SET, LOADPIN, "oc_couple","");<br>link_message(iSender, LOADPIN, Pin + "@oc_couple", Key)
+>Received by | oc_couples
+>Sent by | oc_couples
 >
->Description<br>
+>Confirmed deprecated and slated for removal<br>
+>Sets the access pin for new scripts to be generated in the oc_couples prim<br>
+>Pin is the access pin<br>
+>Key is the UUID for the object oc_couple is in<br>
 
 .
 
 >  &nbsp; | CMD_PARTICLE = 20000
 >---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
+>Reviewed | 12/18/2020
+>Formats | llMessageLinked(LINK_SET, CMD_PARTICLE, Action + "|" + IsAvatar, Key)
+>Received by | oc_particle
 >Sent by | ---
 >
->Description<br>
+>This call generates a leash particle effect from the collar's leash point prim to the specified Key<br>
+>Key is the item to be be the leash particle target<br>
+>If Action == "unleash" then we're removing a leash particle. Any other value and we're creating a particle target<br>
+>IsAvatar is an integer defining if we're leashing to an avatar. If this is "1" then we are and this enabled such things as leash target redirect using the lockmeister<br>
 
 .
 
