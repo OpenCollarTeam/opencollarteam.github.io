@@ -453,80 +453,17 @@ Scripts that use RLV may send their own @commands, but must honor all RLV_* mana
 
 .
 
->  &nbsp; | CMD_OWNER = 500
+>  &nbsp; | CMD_OWNER = 500<br>CMD_TRUSTED = 501<br>CMD_GROUP = 502<br>CMD_WEARER = 503<br>CMD_EVERYONE = 504<br>CMD_BLOCKED = 520<br>CMD_NOACCESS=599
 >---------|----------
->Reviewed | ---
->Formats | ---
+>Reviewed | 12/20/2020
+>Formats | llMessageLinked(LINK_SET, CMD_\*, Str, Key);<br>link_message(iSender, CMD_\*, Str, Key
 >Received by | ---
->Sent by | ---
+>Sent by | oc_API
 >
->Description<br>
-
-.
-
->  &nbsp; | CMD_TRUSTED = 501
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CMD_GROUP = 502
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CMD_WEARER = 503
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CMD_EVERYONE = 504
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CMD_BLOCKED = 520
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
-
-.
-
->  &nbsp; | CMD_NOACCESS=599
->---------|----------
->Reviewed | ---
->Formats | ---
->Received by | ---
->Sent by | ---
->
->Description<br>
+>Defines the auth level of a calculated command that was broadcast on CMD_ZERO<br>
+>Key is the UUID of the person who sent the message. For internally generated calls, this can be "" or wearer<br>
+>Str is the command being issued, such as "clear", "safeword", "runaway", or submenu + " menu"<br>
+>CMD_\* is the call where \* represents the auth level name<br>
 
 .
 
