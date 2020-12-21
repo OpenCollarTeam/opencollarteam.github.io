@@ -703,9 +703,6 @@ Substitutions for SAY, NOTIFY_OWNERS, NOTIFY, DIALOG, SESORDIALOG text:
 
 ## OC_ SCRIPT SETTINGS:
 
-TODO: Add data types, like titler_show=i ?
-key = k, integer = i, float = f, string = s, rot = r, vector = v
-
 Script | Settings
 ---------|-------------
 oc_anim | anim_pose, offset_standhover, offset_hovers, anim_animlock
