@@ -14,8 +14,8 @@ Adds and removes Owners.  Only owners can add and remove owners, and wearer if O
 
 >`[prefix] add owner [user name or UUID]`  
 >`[prefix] rm owner [user name or UUID]`  
->`AUTH=owner~[UUID]`  for the first owner.
->`AUTH+owner~[UUID]` for additional owners; on a new line from the first owner.
+>`auth=owner~[UUID,UUID]` for one or more owners up to 255 characters.  If the line reaches more than 255 characters, start a new line:  
+>`auth+owner~[UUID]` for additional owners.
 
 - **To add the owner to wearer, go to + Owner and press >WEARER<**
 - (V 7.3 and previous, check OWNSELF to add the wearer to owner)
@@ -25,20 +25,20 @@ Trusted gives named individuals the same level of access as Public and Group.  T
 
 >`[prefix] add trust [name or UUID]`  
 >`[prefix] rm trust [name or UUID]`  
->`AUTH=trust~[UUID]`  
+>`auth=trust~[UUID]`  
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
 >`[prefix] public on`  
 >`[prefix] public off`  
 >`[prefix] limit range on/off` : limits range for public access.  
-`AUTH=public~1/0`
+`auth=public~1/0`
 
 # Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.  
 > `[prefix] group on`  
 >`[prefix] group off`  
->`AUTH=group~[groupuuid]~groupname~[groupname]`
+>`auth=group~[groupuuid]~groupname~[groupname]`
 
 # Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
@@ -50,8 +50,8 @@ This allows the collar only to block named avatars from using the collar.  Use s
 
 >Add to the Blocklist: `[prefix] add block [name or UUID]`  
 >Remove from the Blocklist: `[prefix] rm block [name or UUID]`
->Add to Settings: `AUTH=block~<UUID>`
+>Add to Settings: `auth=block~<UUID>`
 
 # Runaway  
 This command wipes the owner list and returns all collar settings to default.   
->`AUTH=norun~1` to disable runaway in Settings.
+>`auth=norun~1` to disable runaway in Settings.
