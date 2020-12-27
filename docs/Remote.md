@@ -2,18 +2,24 @@
 layout: home
 title: The OpenCollar Remote
 ---
-You can get your OpenCollar Remote from your [Social Partner Location](https://opencollar.cc/OpenCollar-Social-Partner-Locations) -- look for a box near the OpenCollar vendor !
+You can get your OpenCollar Remote from the OpenCollar Headquarters -- look for a box near the OpenCollar vendor !  This page is updated to the Remote for OpenCollar V8.
 
-The OpenCollar Remote is an HUD that lets an owner open and operate the wearers' collars from his HUD.  
+The OpenCollar Remote is an HUD that lets someone with collar access open and operate the wearers' collars from the HUD, if the collar is in range.  Many collar features can be accessed directly from the Remote through its dedicated buttons.  The Remote for OpenCollar V8 will also allow the wearer to open their own collar menu.   
 
-When you add the Remote to an HUD point you get this image on your screen.  This page will go through each icon left to right, top to bottom.
+When you add the Remote to an HUD point you get this image on your screen.  The plus icon is to expand the HUD, and the profile icon shows the active sub.
 <div style="width: 100%; text-align: center;">
-<img src="/static/Remote.png" width="100" style="margin: 20px auto;" />
+<img src="/static/RemoteStart.png" width="100" style="margin: 20px auto;" />
+</div>  
+Push the "Plus" icon to open the full menu.  It will take a few seconds to expand.   
+
+Here is the full menu when open:  
+<div style="width: 100%; text-align: center;">
+<img src="/static/RemoteV8.png" width="100" style="margin: 20px auto;" />
 </div>  
 
 # Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
 
-The gear icon at the top left opens the Remote menu where you can add, list and remove subs.  To add a wearer you must already have access to the collar they wear.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
+The gear icon (third row left) opens the Remote menu where you can add, list and remove subs.  To add a wearer you must already have access to the collar they wear.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
 
 - **Selection Arrows**   
 The left and right arrows at the top of the Gear menu scroll through your list of subs in range to select them.   
