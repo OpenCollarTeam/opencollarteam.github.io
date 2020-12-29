@@ -19,7 +19,7 @@ Here is the full menu when open:
 
 # Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
 
-The gear icon (third row left) opens the Remote menu where you can add, list and remove subs.  To add a wearer you must already have access to the collar they wear.  Public, group, Trusted and Owner access will each allow you to do through the remote what you can do with that level of access through the collar directly.  
+The gear icon (third row left) opens the Remote menu.    
 
 - **Selection Arrows**   
 The left and right arrows at the top of the Gear menu scroll through your list of subs in range to select them.   
