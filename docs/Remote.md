@@ -17,21 +17,18 @@ Here is the full menu when open:
 <img src="/static/RemoteV8.png" width="100" style="margin: 20px auto;" />
 </div>  
 
-# Remote Menu ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Menu")  
+# Remote Menu Buttons  
 
-The gear icon (third row left) opens the Remote menu.    
+## **Remote Manager** ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Manager")  (third row left) 
+ opens the Remote menu.   
+ 
+ - In the Remote Manager you can add and remove Favorites (connected subs).  You must have at least one collar connected to open the Remote Manager.
+ - Buttons takes you to the list of available Remote buttons.  You can customize your Remote by adding buttons or removing little used buttons.
 
-- **Selection Arrows**   
-The left and right arrows at the top of the Gear menu scroll through your list of subs in range to select them.   
-**ALL** between the arrows selects All subs in range.
-- **Add** Adds a sub in range with whom you have collar access to your Remote.   
-- **List** Lists the subs on your remote.
-- **Remove** Removes the selected sub from your remote.
-- **Collar menu** Opens the collar menu from the remote.
-- **Rez** Rezzes an inventory item from the remote.  A leash post ships with the remote. 
-- **Layout** allows you to customize the arrangement of the buttons on the Remote.
+- **Minus** ![Minus](https://opencollar.cc/static/Minus.PNG "Minimize") (bottom right)  Minimizes the Remote  
 
-# Short Cut Buttons
+
+# Collar Short Cut Buttons
 
 ## Stop Pose ![White Square](https://opencollar.cc/static/StopAnim.PNG "Stop Pose") 
 
