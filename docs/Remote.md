@@ -28,6 +28,8 @@ Here is the full menu when open:
 - **Minus** ![Minimize](https://opencollar.cc/static/Minimize.PNG "Minimize") (bottom right)  Minimizes the Remote  
 
 ## Favorites ![Star](https://opencollar.cc/static/Star.png "Favorites") (7th row center)  
+- This button lists frequently used collars and allows you to switch to the current profile among them.  
+## Switch Active Profiles  ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Manager")
 
 
 # Collar Short Cut Buttons
