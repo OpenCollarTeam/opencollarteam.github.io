@@ -25,7 +25,7 @@ Here is the full menu when open:
  - In the Remote Manager you can add and remove Favorites (connected subs).  You must have at least one collar connected to open the Remote Manager.
  - Buttons takes you to the list of available Remote buttons.  You can customize your Remote by adding buttons or removing little used buttons.
 
-- **Minus** ![Minus](https://opencollar.cc/static/Minus.PNG "Minimize") (bottom right)  Minimizes the Remote  
+- **Minus** ![Minimize](https://opencollar.cc/static/Minus.PNG "Minimize") (bottom right)  Minimizes the Remote  
 
 
 # Collar Short Cut Buttons
