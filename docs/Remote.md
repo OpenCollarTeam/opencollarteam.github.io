@@ -4,7 +4,7 @@ title: The OpenCollar Remote
 ---
 You can get your OpenCollar Remote from the OpenCollar Headquarters -- look for a box near the OpenCollar vendor !  This page is updated to the Remote for OpenCollar V8.
 
-The OpenCollar Remote is an HUD that lets someone with collar access open and operate the wearers' collars from the HUD, if the collar is in range.  Many collar features can be accessed directly from the Remote through its dedicated buttons.  The Remote for OpenCollar V8 will also allow the wearer to open their own collar menu.   
+The OpenCollar Remote is an HUD that lets someone with collar access open and operate subjects' collars from the HUD, if the collar is in range.  Many collar features can be accessed directly from the Remote through its dedicated buttons.  The Remote for OpenCollar V8 will also allow the wearer to open their own collar menu.   
 
 When you add the Remote to an HUD point you get this image on your screen.  The plus icon is to expand the HUD, and the profile icon shows the active sub.
 <div style="width: 100%; text-align: left;">
@@ -17,7 +17,15 @@ Here is the full menu when open:
 <img src="/static/RemoteV8.png" width="100" style="margin: 20px auto;" />
 </div>  
 
+# How to Use
+
+Once you have a subject to whom you have some kind of collar access, add them to the Remote.  : 
+
+1 - Press the Add/Remove Nearby Avatars button and select their name.  They will get a permission request to be added to the remote.  They have to say yes.  
+
 # Remote Menu Buttons  
+
+
 
 ## **Remote Manager** ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Manager")  (third row left) 
  opens the Remote menu.   
@@ -28,9 +36,13 @@ Here is the full menu when open:
 - **Minus** ![Minimize](https://opencollar.cc/static/Minimize.PNG "Minimize") (bottom right)  Minimizes the Remote  
 
 ## Favorites ![Star](https://opencollar.cc/static/Star.png "Favorites") (7th row center)  
-- This button lists frequently used collars and allows you to switch to the current profile among them.  
-## Switch Active Profiles  ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Manager")
+- This button lists frequently used collars and allows you to switch to the current profile among them, after you have added a subject to Favorites using the Gear icon.  
 
+## Add/Remove Nearby Avatars ![People](https://opencollar.cc/static/People.png "People")  
+- The "Nearby" icon (8th row center) opens a menu of nearby avatars and *at the same time* disconnects the current profile.  You can then add another profile to which you have access.  This button shows every avatar in range, not just ones with collars to which you have access.
+
+## Active Profile  ![Profile](https://opencollar.cc/static/Profile.png "Profile")  (bottom left)
+- The Profile button (bottom left) shows the profile pic of the active subject.  You can disconnect the subject here without switching to a new active subject.
 
 # Collar Short Cut Buttons
 
