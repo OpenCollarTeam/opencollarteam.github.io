@@ -42,50 +42,53 @@ Once you have a subject to whom you have some kind of collar access, add them to
 - The "Nearby" icon (8th row center) opens a menu of nearby avatars and *at the same time* disconnects the current profile.  You can then add another profile to which you have access.  This button shows every avatar in range, not just ones with collars to which you have access.
 
 ## Active Profile  ![Profile](https://opencollar.cc/static/Profile.png "Profile")  (bottom left)
-- The Profile button (bottom left) shows the profile pic of the active subject.  You can disconnect the subject here without switching to a new active subject.
+- The Profile button (bottom left) shows the profile pic of the active subject.  You can disconnect the subject here without switching to a new active subject.  
+## Minimize ![Minus Sign](https://opencollar.cc/static/Minimize.PNG "Minimize")  
+The minus icon, bottom right, will minimize the remote HUD menu.  When minimized you see a small plus sign you can touch to bring up the full menu again. 
 
-# Collar Short Cut Buttons
+# Collar Short Cut Buttons  
+These buttons open collar menus.  If you do not use one or more of these shortcuts, you can remove them in the Remote Manager to simplify use of the remote. We will go in order left to right and top to bottom starting at the top of the Remote menu.
+
+## Themes ![Themes](https://opencollar.cc/static/Themes.png "Themes)  
+The painter's palette opens the Themes menu.
+## Macros ![Macros](https://opencollar.cc/static/Macros.png "Macros") 
+The scroll icon opens the Macros menu for applying grouped RLV restrictions.  
+## Detach ![Figure with Pants](https://opencollar.cc/static/Detach.PNG "Detach")
+The icon of a figure undressing opens the collar "Detach" button in the RLV menu, showing a list of worn items that can be detached from the sub. 
+## Titler ![Chat Bubble](https://opencollar.cc/static/Titler.PNG "Titler")
+The chat bubble icon opens the Titler menu in the collar.  Works only if the sub's collar has a titler app.  
+## Restrictions ![Null Sign](https://opencollar.cc/static/Restrictions.PNG "Restrictions")  
+The Null icon opens the Restrictions menu in the collar.  
+
 
 ## Stop Pose ![White Square](https://opencollar.cc/static/StopAnim.PNG "Stop Pose") 
-
 The white square icon, top middle, stops a collar animation.
-
 ## Set Pose ![White Triangle](https://opencollar.cc/static/StartAnim.PNG "Set Pose")  
-The white triangle icon, top right, opens the pose menu to select and enforce a collar single pose.
+The white triangle icon opens the pose menu to select and enforce a collar single pose.
 ##  Rez Inventory ![Box](https://opencollar.cc/static/Rez.PNG "Rez Inventory Item")  
-The box icon, Row 2 left, allows you to rez an item from the remote's inventory such as a leash post (already loaded in the OpenCollar Remote) or any object you have edited into the contents tab of the Remote.  
+The box icon allows you to rez an item from the remote's inventory such as a leash post (already loaded in the OpenCollar Remote) or any object you have edited into the contents tab of the Remote.  
 ## Unsit ![Sitting with Up Arrow](https://opencollar.cc/static/UnSit.PNG "Unsit")
-The seated figure with up arrow, Row 2 middle, forces the sub to stand up from an object or the ground.
+The seated figure with up arrow forces the sub to stand up from an object or the ground.
 ## Force Sit ![Sitting with Down Arrow](https://opencollar.cc/static/Sit.PNG "Force Sit") 
-The seated figure with down arrow, Row 2 right, opens a menu of nearby objects upon which you can force the sub to sit.  
+The seated figure with down arrow opens a menu of nearby objects upon which you can force the sub to sit.  
 ## Yank ![Chain link with arrow](https://opencollar.cc/static/Yank.PNG "Yank")
-The icon of a chain link with an arrow, Row 3 left, yanks the leash to move a leashed sub closer to you.
-## Unleash ![Broken Chain](https://opencollar.cc/static/Unleash.PNG "Unleash")  
-The broken chain icon, Row 3 middle, unleashes the sub.  
+The icon of a chain link with an arrow yanks the leash to move a leashed sub closer to you.  
 ## Leash ![Chain Links](https://opencollar.cc/static/Leash.PNG "Leash")
-The chain links icon, Row 3 right, Leashes the sub.
-## Titler ![Chat Bubble](https://opencollar.cc/static/Titler.PNG "Titler")
-The chat bubble icon, Row 4 left, opens the Titler menu in the collar.  Works only if the sub's collar has a titler app.
-## Lock/Unlock ![Padlock](https://opencollar.cc/static/Lock.PNG "Lock/Unlock")  
-The padlock icon, Row 4 middle, locks and unlocks the collar (owner only; others will get an "Access Denied" message)
-## Detach ![Figure with Pants](https://opencollar.cc/static/Detach.PNG "Detach")
-The icon of a figure undressing, Row 4 right, opens the collar "Detach" button in the RLV menu, showing a list of worn items that can be detached from the sub.  
+The chain links icon Leashes the sub.  
+## Unleash ![Broken Chain](https://opencollar.cc/static/Unleash.PNG "Unleash")  
+The broken chain icon unleashes the sub.  
 ## #RLV Folders ![Folder](https://opencollar.cc/static/Folders.PNG "Folders")
-The folder icon, Row 5 left, opens the #RLV Folders menu in the collar.
+The folder icon opens the #RLV Folders menu in the collar.  
 ## Outfits ![Shirt and Hanger](https://opencollar.cc/static/Outfits.PNG "Outfits")
-The shirt and hanger icon, Row 5 middle, opens the Outfits menu in the collar.  This works only if the sub has set up an Outfits folder.
-## Restrictions ![Null Sign](https://opencollar.cc/static/Restrictions.PNG "Restrictions")  
-The Null icon, Row 5 right, opens the Restrictions menu in the collar.  
+The shirt and hanger icon opens the Outfits menu in the collar.  This works only if the sub has set up an Outfits folder.  
+## Lock/Unlock ![Padlock](https://opencollar.cc/static/Lock.PNG "Lock/Unlock")  
+The padlock icon, Row 4 middle, locks and unlocks the collar (owner only; others will get an "Access Denied" message
 ## Bookmarks ![Bookmark](https://opencollar.cc/static/Bookmarks.PNG "Bookmarks")
-The bookmark icon, Row 6 left, opens the Remote bookmarks menu. You can make your own bookmarks and teleport subs without having to add the bookmarks to their collars; however it only works if you have the necessary access to force teleport with bookmarks, which is Owner and Trusted access.
-## Add Bookmark ![Bookmark Plus](https://opencollar.cc/static/AddBookmark.PNG "Add Bookmark")  
-The icon of a bookmark with plus sign, Row 6 middle, takes you directly to the Bookmarks terminal where you can add a name for your location and press Save to add it to your bookmarks; or add a slurl for a destination elsewhere, press Save, then name, then Save again to add it to your bookmarks. 
-## Couples Animations ![Figures Embracing](https://opencollar.cc/static/Couples.PNG "Couples Animations")
+The bookmark icon opens the Remote bookmarks menu. You can make your own bookmarks and teleport subs without having to add the bookmarks to their collars; however it only works if you have the necessary access to force teleport with bookmarks, which is Owner and Trusted access.
+## Couples Animations ![Figures Embracing](https://opencollar.cc/static/Couples.PNG "Couples Animations")  
+
 The icon of two people embracing, Row 6 right, opens the Couples animations menu in the sub's collar. 
 ## Collar Main ![Collar](https://opencollar.cc/static/Collar.PNG "Collar")
 The collar icon, bottom left, opens the sub's collar main menu.
-## Select ![Three Heads](https://opencollar.cc/static/Select.PNG "Select")
-The icon of three heads, bottom middle, displays the profile pic of the selected sub, or the default three heads if All or None are selected.
-## Minimize ![Minus Sign](https://opencollar.cc/static/Minimize.PNG "Minimize")  
-The minus icon, bottom right, will minimize the remote HUD menu.  When minimized you see a small plus sign you can touch to bring up the full menu again.  
+
 
