@@ -3,6 +3,201 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
+# V 8.0 Pre-Release, Beta, Alpha  
+
+## V8.0 Release Candidate 2
+- Fixed bugs or implemented features (Ticket List) #455, 453, PR452, 451, PR450, 447, 458, 457, 462, 460, PR465, PR466, 461, 454  
+- Finish full implementation of the optin/update  
+        * Removed a deprecated oc_dialog link message (DIALOG+1) (DIALOG+2)  
+        * Added settings menu toggles  
+            * WearerAddons  
+            * AddonLimited (This will only affect wearer owned addons, it limits the ability to write to auth_ or intern_ namespaces in settings).
+- Code Cleanup: Addon signal for approve/deny in listen event was sending to all instead of targetting the addon
+- Fix: OC_Remote was disallowing public configuration menu access
+- Fixes to oc_anim per ticket, the page number was not persistent
+- Also fixed a potential for memory overflow by making the pose list temporary, and at the same time, enabling case-insensitive addons
+- Fixed pose hover heights
+- Updater now properly restores all settings (Fix specific to RC1).
+- Improve post-update finalizing since the new startup sequence no longer needs to be waited upon to complete.
+- Highlander fixed
+- Linter ran on ALL scripts
+- Major fix to oc_themes after a report that the script was not working to apply themes.
+    
+        
+## V 8.0 Release Candidate 1  
+- Fixed bugs or implemented features (Ticket List) PR444, 441, 443
+- Implement a addon link message filtering list, see addon API doc for information on this change.
+        * New packet type: update
+        * New online field: optin
+- Github: Added a quick load URL file for changing checkboxes to an ASCII type checkbox
+- Update to oc_remote
+- Re-added missing chat command: POSE
+    
+## V 8.0 Beta Version 3
+- Fixed bugs or implemented features (Ticket List) 439 (DUP 392), Poll437, 430, 392 (DUP 439), 436, 435
+- Addons feature: Addons that are owned by the collar owner or a trusted user will now automatically be granted collar access. This opens the door for the remote control to finally be created.
+- Reimplement the load url chat command
+- **SECURITY PATCH:** The collar now has a few security safeguards. In 7.5 there was an exploit that was discovered which utilized the collar remote to override the access list and even change the owners altogether. This manifested itself as something that would grab your relay then change your owners, masking the true cause of this exploit. This patch requires that all access list changes MUST go through the access menu or its related chat commands. The weld feature is also now safeguarded by a similar protocol, and is easy enough to bypass with legitimate intentions. If you plan to delete anything in the intern namespace, just pass the key value of "origin", and for anything in the auth namespace, same, just pass "origin" as the key value. This same security policy is also applied to the load url command. If the URL contains auth list modifications, it will block it from happening, unless the user reviews the URL contents and consents to said modifications.
+- Update the menu tester script in the development test script folder on github.
+- Fix an unreported infinite loop caused by the relay being off. This would continually send out a request to the collar that in turn triggered a reboot, and a rescan of settings. This will manifest as the collar giving multiple menu prompts or as it just being slow.
+## V 8.0 Beta Version 2   
+- Fixed bugs or implemented features (Ticket List) 431, 426  
+- Fixes to the addons API. (See addon API documentation for more information)  
+- Rewrite of oc_themes. (New themes file format.)  
+        * Each theme must be placed in the collar as its own notecard. Naming is: ThemeName DOT theme (TestTheme.theme)
+        * Advised to use search and replace to copy the output of the theme creator into a notecard. Building experience is required so you know what you can leave out of this notecard
+        * The theme creator will only be available on a full perm object, just look for the "New" button in the theme app menu.
+        * DO NOT USE ON LARGE LINKSETS
+-  Deprecate oc_meshthemes, and oc_themes in favor of rewrite.
+## V 8.0 Beta Version 1
+- Fixed bugs or implemented features (Ticket List) PR428, 427, 425, 424, 423, 422, PR417, 338        
+- Fix to the startup sequence / post-update sequence. This fix allows the collar to more accurately know when all scripts are ready and therefore should receive settings and have the startup / menu generation code run.
+- Fix addons being removed incorrectly after 120 seconds due to a typo.
+- Fix the bug where the collar reports it is newer than the updater
+- Fix safeword enable/disable
+        * Command to disable safeword is now: <prefix> safeword off
+        * Command to re-enable safeword is to set the safeword to ANYTHING EXCEPT OFF: <prefix> safeword RED
+
+        
+Alpha 9
+______
+    * Fixed bugs or implemented features (Ticket List)
+        411
+        410
+        409
+        421
+        420
+        415
+        418
+        PR410
+        PR411
+        PR412
+    * Finished script API for a "call me back" system, where a script can now register on the TIMEOUT_REGISTER signal, and it will call the script back with kID in sStr amount of time.
+    * All scripts were updated to utilize the Callback feature, and will attempt to force-load all settings after hearing the initial TIMEOUT_READY signal. This is effectively 1 setting per second per script.
+    * Special thanks to Madman Magnifico for his contributions in pull requests that sped along several high priority issues, as well as fixed the couples feature in OC 8
+    * Fixed bug where OC Updater may not properly remove the OC 3.x scripts
+        -> The script was not resetting the increment count, or the total item count, resulting in it skipping over items
+    * Full rewrite of oc_undress, which is now included as a default script in the updater
+    * Fixed an issue where the detach menu items were not properly triggering the selected item
+        -> This was actually triggering the "right" item, but only the pre-sorted item. The menu list was not being saved as the sorted version
+
+        
+Alpha 8
+______
+    * Fix major bug where oc_core was incorrectly seeing the collar being welded
+    * Fix minor bug in oc_titler where it would not accept more than one word from the chat command
+    * Fixed bugs or implemented features (Ticket List)
+        408
+        
+        
+Alpha 7
+______
+    * Fix to oc_bell script errors about spamming too many sound requests if you press keys too frequently
+    * Fix to oc_settings where intern_weld did not get saved in a persistent way
+    * Added 'welded by' to show who welded the collar. To have this show you will need to redo the weld. Use the debug-unweld chat command to see this
+    * Fix bug where oc_anim was not listening for the REBOOT signal and thus would not rescan animations ever
+    * Implemented color selection menu to oc_titler - now uses the oc_dialog's colormenu
+    * Several bugs in relay fixed
+    * Fixed bugs or implemented features (Ticket List)
+        404
+        397
+        405
+        406
+        
+        
+Alpha 6
+______
+    * Minor rewrite to oc_settings to clean the script up
+        * All tokens are now lowercase. All plugins need to use case insensitive checks, note: only the token_var portion of the token is forced to lowercase by settings
+    * Updated a few misc scripts to be compatible with the new settings changes
+    * Fixed unsit bug
+    * Began setting some memory limits in scripts to reduce the max available memory if a script never actually uses the full amount allowed by the simulator.
+    * Recreated some animations per ticket #370, as the github is missing some of the important animations, and our copies are lower priority in 7.5 and below.
+    * Fixed a misc bug where no chat commands for the oc_core script were actually being executed.
+    * Fix oc_anim loop issue
+    * Fix oc_anim script errors
+    * Fix oc_anim automatic antislide
+    * Fix bug where if you pressed a movement key while a pose is active and leash was causing movement, you would resume the pose unless you continues pressing a movement key
+    * Repair addons - SL apparently rolled back my previous fixes when i uploaded the code last time
+    * Modify installer to send out the full version string instead of first two numbers only. 
+        * Further modify to make for a 7.x or below, send the version as: AppInstall, due to a bug where the version number is not being handled properly in 7.5 and below
+    * Fixed bugs or implemented features (Ticket List)
+        398
+        395
+        396
+        390
+        393
+        374
+        
+        
+Alpha 5
+______
+    * Full rewrite of oc_folders, potentially fixing all former issues with the script, including but not limited to stack heap collisions.
+    * Added feature to oc_dialog: Sorting, this is enabled by passing a 1 after the AUTH level in the Dialog snippet code. Presently this only works for buttons that require numbers, so any menu with buttons longer than 24 digits, or  UUIDs which get passed to the Key2Name function, then sorted, then numbers get added.
+    * Fix unreported bug where updating a development version would result in the "same or newer" message appearing incorrectly.
+    * Fixed bugs or implemented features (Ticket List)
+        358
+        388
+        165
+        
+    
+Alpha 4
+______
+    * Removed oc_states and rewrote it to be a anti-crash and interactive settings editor, instead of being a script state manager due to too many bugs arising from the use of it, and not enough benefits gained.
+    * Fixed bug reported by notecard from Trinkitz where anim lock if enabled would spam the wearer when doing unrelated tasks.
+    * Added: Interactive Settings Editor
+    * Fixed bugs or implemented features (Ticket list)
+        387
+        388 (partial - see note about trinkitz' bug)
+        
+        
+Alpha 3
+______
+    * Added oc_states: This is a state manager, designed to shut off idle scripts, and turn them back on when needed. 
+    * Fixed bugs or implemented features (Ticket list)
+        386
+        385
+        384
+        383
+        382
+        381
+        380
+        379
+        378
+        377
+        376
+        375
+        373
+        110
+        79
+    * Added the ability for the owner to disable hiding the collar
+    * Attempt to fix more bugs with the new oc_anim script
+    
+        
+Alpha 2
+______
+    * Rewrite of oc_anim
+        * Fixed historical anti-slide bug
+        * Reuploaded animations from github as higher priority due to AOs all being 3 or 4 improperly
+    * Added weld feature (Use with caution, no current way to unweld except to reset all scripts)
+    * Fixed bugs or implemented features (Ticket list)
+        369
+        365
+        363
+        362
+        360
+        361
+        359
+        356
+    * Added a in-menu FEEDBACK / BUG button as a experimental alternative to GitHub. This button only works if you are on the newest Alpha/Beta/RC, and if it is newer than the release version. This shouldn't be used as a alternative to GitHub, but maybe hoping if reporting is more accessible, more might report issues.
+
+
+        
+Alpha 1
+______
+    * Rewrite of oc_auth, oc_com, oc_sys
+        * Combined into oc_core and oc_api
+
 # V 7.5  (aka V7.4.1)   
 OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
 **Dateline 22 April 2020**
