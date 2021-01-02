@@ -59,143 +59,71 @@ title: OpenCollar Release Notes
         * Command to re-enable safeword is to set the safeword to ANYTHING EXCEPT OFF: <prefix> safeword RED
 
         
-Alpha 9
-______
-    * Fixed bugs or implemented features (Ticket List)
-        411
-        410
-        409
-        421
-        420
-        415
-        418
-        PR410
-        PR411
-        PR412
-    * Finished script API for a "call me back" system, where a script can now register on the TIMEOUT_REGISTER signal, and it will call the script back with kID in sStr amount of time.
-    * All scripts were updated to utilize the Callback feature, and will attempt to force-load all settings after hearing the initial TIMEOUT_READY signal. This is effectively 1 setting per second per script.
-    * Special thanks to Madman Magnifico for his contributions in pull requests that sped along several high priority issues, as well as fixed the couples feature in OC 8
-    * Fixed bug where OC Updater may not properly remove the OC 3.x scripts
-        -> The script was not resetting the increment count, or the total item count, resulting in it skipping over items
-    * Full rewrite of oc_undress, which is now included as a default script in the updater
-    * Fixed an issue where the detach menu items were not properly triggering the selected item
-        -> This was actually triggering the "right" item, but only the pre-sorted item. The menu list was not being saved as the sorted version
+## V8.0 Alpha Versions 
 
+### V 8.0 Alpha 9
+- Fixed bugs or implemented features (Ticket List) 411, 410, 409, 421, 420, 415, 418, PR410, PR411, PR412
+- Finished script API for a "call me back" system, where a script can now register on the TIMEOUT_REGISTER signal, and it will call the script back with kID in sStr amount of time.
+- All scripts were updated to utilize the Callback feature, and will attempt to force-load all settings after hearing the initial TIMEOUT_READY signal. This is effectively 1 setting per second per script.
+- Special thanks to Madman Magnifico for his contributions in pull requests that sped along several high priority issues, as well as fixed the couples feature in OC 8
+- Fixed bug where OC Updater may not properly remove the OC 3.x scripts.  The script was not resetting the increment count, or the total item count, resulting in it skipping over items
+- Full rewrite of oc_undress, which is now included as a default script in the updater
+- Fixed an issue where the detach menu items were not properly triggering the selected item.  This was actually triggering the "right" item, but only the pre-sorted item. The menu list was not being saved as the sorted version
+### V8.0 Alpha 8
+- Fix major bug where oc_core was incorrectly seeing the collar being welded
+- Fix minor bug in oc_titler where it would not accept more than one word from the chat command
+- Fixed bugs or implemented features (Ticket List)   408
+
+### V 8.0  Alpha 7
+- Fix to oc_bell script errors about spamming too many sound requests if you press keys too frequently
+- Fix to oc_settings where intern_weld did not get saved in a persistent way
+- Added 'welded by' to show who welded the collar. To have this show you will need to redo the weld. Use the debug-unweld chat command to see this
+- Fix bug where oc_anim was not listening for the REBOOT signal and thus would not rescan animations ever
+- Implemented color selection menu to oc_titler - now uses the oc_dialog's colormenu
+- Several bugs in relay fixed
+- Fixed bugs or implemented features (Ticket List) 404, 397, 405, 406
         
-Alpha 8
-______
-    * Fix major bug where oc_core was incorrectly seeing the collar being welded
-    * Fix minor bug in oc_titler where it would not accept more than one word from the chat command
-    * Fixed bugs or implemented features (Ticket List)
-        408
-        
-        
-Alpha 7
-______
-    * Fix to oc_bell script errors about spamming too many sound requests if you press keys too frequently
-    * Fix to oc_settings where intern_weld did not get saved in a persistent way
-    * Added 'welded by' to show who welded the collar. To have this show you will need to redo the weld. Use the debug-unweld chat command to see this
-    * Fix bug where oc_anim was not listening for the REBOOT signal and thus would not rescan animations ever
-    * Implemented color selection menu to oc_titler - now uses the oc_dialog's colormenu
-    * Several bugs in relay fixed
-    * Fixed bugs or implemented features (Ticket List)
-        404
-        397
-        405
-        406
-        
-        
-Alpha 6
-______
-    * Minor rewrite to oc_settings to clean the script up
-        * All tokens are now lowercase. All plugins need to use case insensitive checks, note: only the token_var portion of the token is forced to lowercase by settings
-    * Updated a few misc scripts to be compatible with the new settings changes
-    * Fixed unsit bug
-    * Began setting some memory limits in scripts to reduce the max available memory if a script never actually uses the full amount allowed by the simulator.
-    * Recreated some animations per ticket #370, as the github is missing some of the important animations, and our copies are lower priority in 7.5 and below.
-    * Fixed a misc bug where no chat commands for the oc_core script were actually being executed.
-    * Fix oc_anim loop issue
-    * Fix oc_anim script errors
-    * Fix oc_anim automatic antislide
-    * Fix bug where if you pressed a movement key while a pose is active and leash was causing movement, you would resume the pose unless you continues pressing a movement key
-    * Repair addons - SL apparently rolled back my previous fixes when i uploaded the code last time
-    * Modify installer to send out the full version string instead of first two numbers only. 
-        * Further modify to make for a 7.x or below, send the version as: AppInstall, due to a bug where the version number is not being handled properly in 7.5 and below
-    * Fixed bugs or implemented features (Ticket List)
-        398
-        395
-        396
-        390
-        393
-        374
-        
-        
-Alpha 5
-______
-    * Full rewrite of oc_folders, potentially fixing all former issues with the script, including but not limited to stack heap collisions.
-    * Added feature to oc_dialog: Sorting, this is enabled by passing a 1 after the AUTH level in the Dialog snippet code. Presently this only works for buttons that require numbers, so any menu with buttons longer than 24 digits, or  UUIDs which get passed to the Key2Name function, then sorted, then numbers get added.
-    * Fix unreported bug where updating a development version would result in the "same or newer" message appearing incorrectly.
-    * Fixed bugs or implemented features (Ticket List)
-        358
-        388
-        165
-        
-    
-Alpha 4
-______
-    * Removed oc_states and rewrote it to be a anti-crash and interactive settings editor, instead of being a script state manager due to too many bugs arising from the use of it, and not enough benefits gained.
-    * Fixed bug reported by notecard from Trinkitz where anim lock if enabled would spam the wearer when doing unrelated tasks.
-    * Added: Interactive Settings Editor
-    * Fixed bugs or implemented features (Ticket list)
-        387
-        388 (partial - see note about trinkitz' bug)
-        
-        
-Alpha 3
-______
-    * Added oc_states: This is a state manager, designed to shut off idle scripts, and turn them back on when needed. 
-    * Fixed bugs or implemented features (Ticket list)
-        386
-        385
-        384
-        383
-        382
-        381
-        380
-        379
-        378
-        377
-        376
-        375
-        373
-        110
-        79
-    * Added the ability for the owner to disable hiding the collar
-    * Attempt to fix more bugs with the new oc_anim script
-    
-        
-Alpha 2
-______
-    * Rewrite of oc_anim
+### V 8.0 Alpha 6
+- Minor rewrite to oc_settings to clean the script up
+- All tokens are now lowercase. All plugins need to use case insensitive checks, note: only the token_var portion of the token is forced to lowercase by settings
+- Updated a few misc scripts to be compatible with the new settings changes
+- Fixed unsit bug
+- Began setting some memory limits in scripts to reduce the max available memory if a script never actually uses the full amount allowed by the simulator.
+- Recreated some animations per ticket #370, as the github is missing some of the important animations, and our copies are lower priority in 7.5 and below.
+- Fixed a misc bug where no chat commands for the oc_core script were actually being executed.
+- Fix oc_anim loop issue
+- Fix oc_anim script errors
+- Fix oc_anim automatic antislide
+- Fix bug where if you pressed a movement key while a pose is active and leash was causing movement, you would resume the pose unless you continues pressing a movement key
+- Repair addons - SL apparently rolled back my previous fixes when i uploaded the code last time
+- Modify installer to send out the full version string instead of first two numbers only. 
+- Further modify to make for a 7.x or below, send the version as: AppInstall, due to a bug where the version number is not being handled properly in 7.5 and below
+- Fixed bugs or implemented features (Ticket List) 398, 395, 396, 390, 393, 374
+         
+### V 8.0 Alpha 5
+- Full rewrite of oc_folders, potentially fixing all former issues with the script, including but not limited to stack heap collisions.
+- Added feature to oc_dialog: Sorting, this is enabled by passing a 1 after the AUTH level in the Dialog snippet code. Presently this only works for buttons that require numbers, so any menu with buttons longer than 24 digits, or  UUIDs which get passed to the Key2Name function, then sorted, then numbers get added.
+- Fix unreported bug where updating a development version would result in the "same or newer" message appearing incorrectly.
+- Fixed bugs or implemented features (Ticket List) 358, 388, 165
+### V 8.0 Alpha 4
+- Removed oc_states and rewrote it to be a anti-crash and interactive settings editor, instead of being a script state manager due to too many bugs arising from the use of it, and not enough benefits gained.
+- Fixed bug reported by notecard from Trinkitz where anim lock if enabled would spam the wearer when doing unrelated tasks.
+- Added: Interactive Settings Editor
+- Fixed bugs or implemented features (Ticket list) 387, 388 (partial - see note about trinkitz' bug)
+### V 8.0 Alpha 3
+- Added oc_states: This is a state manager, designed to shut off idle scripts, and turn them back on when needed. 
+- Fixed bugs or implemented features (Ticket list) 386, 385, 384, 383, 382, 381, 380, 379, 378, 377, 376, 375, 373, 110, 79
+- Added the ability for the owner to disable hiding the collar
+- Attempt to fix more bugs with the new oc_anim script
+### V 8.0 Alpha 2
+- Rewrite of oc_anim
         * Fixed historical anti-slide bug
         * Reuploaded animations from github as higher priority due to AOs all being 3 or 4 improperly
-    * Added weld feature (Use with caution, no current way to unweld except to reset all scripts)
-    * Fixed bugs or implemented features (Ticket list)
-        369
-        365
-        363
-        362
-        360
-        361
-        359
-        356
-    * Added a in-menu FEEDBACK / BUG button as a experimental alternative to GitHub. This button only works if you are on the newest Alpha/Beta/RC, and if it is newer than the release version. This shouldn't be used as a alternative to GitHub, but maybe hoping if reporting is more accessible, more might report issues.
-
-
-        
-Alpha 1
-______
-    * Rewrite of oc_auth, oc_com, oc_sys
+- Added weld feature (Use with caution, no current way to unweld except to reset all scripts)
+- Fixed bugs or implemented features (Ticket list) 369, 365, 363, 362, 360, 361, 359, 356
+- Added a in-menu FEEDBACK / BUG button as a experimental alternative to GitHub. This button only works if you are on the newest Alpha/Beta/RC, and if it is newer than the release version. This shouldn't be used as a alternative to GitHub, but maybe hoping if reporting is more accessible, more might report issues.
+### V 8.0 Alpha 1
+- Rewrite of oc_auth, oc_com, oc_sys
         * Combined into oc_core and oc_api
 
 # V 7.5  (aka V7.4.1)   
