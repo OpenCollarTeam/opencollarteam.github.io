@@ -31,9 +31,9 @@ OpenCollar exists to support people exploring submission and domination in Secon
 # How you can help 
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at our [issues page](https://github.com/OpenCollarTeam/OpenCollar/issues). Find the source code at our [github](https://github.com/OpenCollarTeam/OpenCollar).
 
-# OpenCollar Partners
+# OpenCollar Headquarters
 
-OpenCollar help can be found at our social partner, the [OpenCollar Theater](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001) at KBar West. See the links at the top of every page for our lists of partners and applications to become one!
+OpenCollar help can be found at our [Headquarters](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201).  Also see the following for our lists of partners and applications to become one!
 
 - Distributors -- Please visit our official [Distributors](/OpenCollar-Distributors-and-Designers) for OpenCollar vendors and so much more! 
 - Designers -- For wonderful designers, and an impressive list of creators, visit our [Design Partners](/Open-Collar-Designers)!
