@@ -4,7 +4,7 @@ title: How to Build Your OpenCollar
 ---
 This page explains how to build an OpenCollar. 
 
-**All the contents of OpenCollar V 7.4 are in the root prim.**   Instructions for child prims will no longer be necessary, except for non-script bearing prims such as Floattext, Bell and Label.
+**All the contents of OpenCollar V 7.4, 7.5, and V 8.0 are in the root prim.**   You will need a separate leashpoint and Floattext prim. Other optional parts, like Bell, Lock, and Label, may require extra prims.
 
 To build a collar yourself you need only basic inworld building skills with standard prims. If you can make a standard prim of any shape, texture prims, do simple tortured prims, link prims, edit linked prims, and load contents, you can do this.  If this is beyond you, consider taking a basic building class--it will pay off down the line in many ways.  
 
