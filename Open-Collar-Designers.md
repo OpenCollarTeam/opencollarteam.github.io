@@ -104,7 +104,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketpl
 
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Warrumbungles/156/24/37](http://maps.secondlife.com/secondlife/Warrumbungles/156/24/37)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Alcis/153/19/50](http://maps.secondlife.com/secondlife/Alcis/153/19/50)   
 Marketplace: [https://marketplace.secondlife.com/stores/163576](https://marketplace.secondlife.com/stores/163576)   
 
 PBM Enterprises & [maXplicit] (Peebee McMillan)  
