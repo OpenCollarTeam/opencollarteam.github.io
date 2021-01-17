@@ -6,6 +6,7 @@ title: OpenCollar Release Notes
 # V 8.0 Release:  Changelog
 
 ## New Features:  
+- OpenCollar Remote can now be used by the collar wearer on their own collar
 - There is now a "weld" capability.  
 - You can add a setting using the Settings editor, useful for settings that have no corresponding menu button.  No need to create a notecard for these.
 - "Stealth" is renamed "Hide/Show".
