@@ -58,6 +58,11 @@ Mesh Collars & Jewelry - 200L to 450L
 Inworld shop: [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)   
 Marketplace: [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
 
+The Compass (Casey Wardark)  
+Mesh Collars - 75L to 250L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Mayhem/135/192/2001](http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)  
+Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketplace.secondlife.com/stores/211817) 
+
 Danger Kitty's Sweets (Sweetdangerkitty)   
 "Kitty's Hearts" Plugin - 200L   
 Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketplace.secondlife.com/stores/220939)   
@@ -142,6 +147,12 @@ Mesh Collar & Clothing - 25L to 150L
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23](http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23)  
 Marketplace:  [https://marketplace.secondlife.com/stores/197511](https://marketplace.secondlife.com/stores/197511)
 
+Short Leash (shortleash)   
+Original Kinky Mesh Collar Designs, Pet Play - 249-399 L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/197/142/26](http://maps.secondlife.com/secondlife/Short%20Leash/197/142/26)   
+Marketplace:  [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
+
+
 SLAM // kink & stuff (daPhuk)   
 Mesh Collars, Furniture, & Accessories - 545L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Sedna/76/37/2001](http://maps.secondlife.com/secondlife/Sedna/76/37/2001)  
@@ -155,12 +166,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/54438](https://marketpla
 Tethered BDSM (Torus Heliosense)  
 Mesh Collars & BDSM Furniture - 299L to 999L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/22](http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/221)   
-Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)  
-
-The Compass (Casey Wardark)  
-Mesh Collars - 75L to 250L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Mayhem/135/192/2001](http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)  
-Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketplace.secondlife.com/stores/211817)  
+Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)   
 
 Willow's Weakness (Willow Redstar)  
 Mesh Collars & Clothing - 100L  
