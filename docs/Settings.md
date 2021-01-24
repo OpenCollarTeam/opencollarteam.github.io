@@ -33,19 +33,25 @@ Loads your settings from the .settings notecard.
 To load your settings from a url:  
 >[prefix] load url [url]  
 
-## Fix
+## Editor
+Allows you to save settings to the collar directly by dialog menu, useful for Settings that have no corresponding collar command.
+
+## Fix Menus
 Sometimes menus do not load all the way.  If you see buttons missing from your menus, press Fix.
 
-## Position
+## Resize
+This menu allows you to alter the position, Rotation and Size of your collar.
+
+- **Position**   
 Allows you to shift the position of the collar up, down, left and right.  The dashes indicate distance increments.
 
-## Rotation
+- **Rotation**  
 Allows you to adjust the rotation and tilt of the collar up, down, left and right.
 
-## Size
+- **Size**
 Here you can adjust the scale of the collar.
 
-## Stealth
+## Hide
 When checked, Stealth turns the collar transparent.
 
 ## Themes
