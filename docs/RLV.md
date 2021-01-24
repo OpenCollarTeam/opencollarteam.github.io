@@ -45,19 +45,16 @@ Opens a menu of nearby objects on which the wearer can be forced to sit.
 
 >[prefix] unsit (forces the wearer to stand and allows stand)
 
-# Restrictions
-Opens a menu of restrictions and macros which are shortcuts to apply groups of restrictions.  When the boxes are checked, the restrictions are active.  **Ability to manage macros is new in V 7.4**.  Each button gives you the option to add, replace, or clear the restriction or macro.  Add will add the restriction to your existing restrictions if any.  Replace will replace existing restrictions with the one on the button.  Clear will end the restriction.
->[prefix] restrictions  
- 
-Frequently used restrictions are on the same page as the macros.  They include:   
-* Hear: (single restriction) `@rcvchat` restricts wearer's ability to receive chat.  
-* Talk: (single restriction) `@sendchat` restricts wearer's ability to send chat.  
-* Touch: (single restriction) `@touchworld` restricts wearer's ability to touch rezzed objects and avatars.  
+# Macros
 
 Macros include:  
-* Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers. [prefix] forbid dress / allow dress
+
+* Hear: (single restriction) `@rcvchat` restricts wearer's ability to receive chat.  
+* Talk: (single restriction) `@sendchat` restricts wearer's ability to send chat.  
+* Touch: (single restriction) `@touchworld` restricts wearer's ability to touch rezzed objects and avatars. 
 * Stray: Restricts the wearer's ability to accept teleport offers, teleport to landmarks and map locations, sit on an object from a distance greater than 1 meter from the object center; and teleport to a  point on the landscape. [prefix] forbid stray / allow stray
 * Rummage: This group restricts building abilities including: edit, open the inventory window, rez objects, view scripts and textures. [prefix] forbid rummage / allow rummage
+* Dress:  Restricts the wearer's ability to add or remove attachments and clothing layers. [prefix] forbid dress / allow dress
 * Dazzle: uses RLV to enforce the debug setting "RenderResolutionDivisor" and create a blurred vision of the environment on the viewer screen. [prefix] forbid dazzle / allow dazzle
 * Daze:  This group restricts navigation data.  When active the wearer cannot see names, hovertext (group tags), minimap, world map, or locations at the viewer top menu. [prefix] forbid daze / allow daze
 * IM:  Restricts ability to send and receive IMs.  
@@ -65,9 +62,11 @@ Macros include:
 ### Manage
 Here you can save a group of restrictions as a new macro, and Delete an existing macro.
 
-### Individual
+# Restrictions
+Opens a complete menu of restrictions.  When the boxes are checked, the restrictions are active.  Each button gives you the option to add, replace, or clear the restriction or macro.  Add will add the restriction to your existing restrictions if any.  Replace will replace existing restrictions with the one on the button.  Clear will end the restriction.
+>[prefix] restrictions  
 
-List of individual restrictions are also grouped categorically for convenience but are applied individually. These can be applied and removed by toggling the button.  
+The individual restrictions are grouped in submenus for convenience but are applied individually. These can be applied and removed by toggling the button.  
 * Chat: Includes individual restrictions having to do with local chat, IMs and gestures:   
 > emote, sendchat, rcvchat, rcvemote, whisper, normal, shout, sendim, rcvim, starim, sendgesture  
 * Show/Hide: Includes individual restrictions that hide Locations, Maps, and hovertext:  
