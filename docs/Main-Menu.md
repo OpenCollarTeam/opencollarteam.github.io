@@ -9,7 +9,7 @@ The Main Menu contains the collar lock and links to all the functions in the col
 The Collar lock prevents / allows detaching the collar. It is available only to collar owners.  It does not affect collar access.  Wearers who have OwnSelf checked or who have not set an owner are owners and can lock or unlock their collars.  Owned wearers without OwnSelf checked can lock but cannot unlock their collars if they are using RLV.
 
 # AddOns
-This menu is for other items that link to OpenCollar via the AddOns API.
+This menu is for other items that link to OpenCollar via the AddOns API.  [Addons template here](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)   
 
 The remaining links each take you to the respective menu accessible from the Main Menu.
 
