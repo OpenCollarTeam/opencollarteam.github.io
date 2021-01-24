@@ -88,6 +88,7 @@ This app will notify the wearer in chat when their owner is online.
 - **On** The checkbox turns the app on or off.  When off, the checkbox is empty.
 - **Set Interval** sets the number of seconds after which the app will check for an owner online.  
 - **NotifChat** allows the owner online notification to appear in the wearer's local chat.   
+- **NotifDialog** the owner online notification appears in a dialog popup. 
 
 # Titler
 
