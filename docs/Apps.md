@@ -90,6 +90,14 @@ This app will notify the wearer in chat when their owner is online.
 - **NotifChat** allows the owner online notification to appear in the wearer's local chat.   
 - **NotifDialog** the owner online notification appears in a dialog popup. 
 
+# Size Presets
+This app allows you to save a size, position and rotation. 
+- **save** Use this button to save and name the set position, size and rotation.  
+- **Restore** Once at least one preset is saved, it will appear by name on this Restore list, to return the collar to that position, size and rotation.
+- **Delete** Removes a preset from the list.
+
+# Themes
+
 # Titler
 
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to set the position of the titler.
@@ -105,3 +113,28 @@ Sets a line of text overhead on the wearer's avatar.  Requires the FloatText pri
 `[prefix] titler show/hide`    
 **Color:** Changes the color of the titler text.  
 `[prefix] titler color [vector RGB]`     
+
+# Undress
+
+Allows those with collar access to remove, lock and unlock system layers.  
+System Layers include: 
+
+- alpha
+- tattoo 
+- universal  
+- shoes (shoe base) 
+- socks
+- underpants 
+- undershirt 
+- pants 
+- shirt
+- jacket 
+- gloves.   
+
+It will also lock and unlock the **required system layers.** These cannot be removed because they are required for the system avatar, they can only be replaced:  
+- skin
+- shape
+- eyes, 
+-  hair (hair base/eyebrow shaper)
+
+ 
