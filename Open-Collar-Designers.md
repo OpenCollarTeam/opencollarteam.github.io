@@ -22,7 +22,7 @@ Mesh Collars, Restraints, Toys, & Art - 100L to 450L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
 Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)   
 
-B&L Perfect Body/Perfect Fashion   
+B&L Perfect Body/Perfect Fashion (Ayumi23.Bracula)     
 Mesh Collar 250L  
 Inworld Shop: [https://maps.secondlife.com/secondlife/Coast%20of%20Passion/194/78/22](https://maps.secondlife.com/secondlife/Coast%20of%20Passion/194/78/22)   
 Directions:  From Temptation Event landing point walk 30m East into Perfect Body Shop.   
