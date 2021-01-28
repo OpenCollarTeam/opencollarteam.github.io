@@ -65,4 +65,6 @@ You can change your safeword:
 
 [prefix] name [newname] : changes the name of the wearer in collar chat messages such as couples animations.
 
-[prefix] device name [newname] changes the name of the collar in menus and chat messages.
+[prefix] device name [newname] changes the name of the collar in menus and chat messages.   
+
+[prefix] safeword off/on : disables or re-enables the collar safeword.
