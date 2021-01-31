@@ -80,6 +80,10 @@ Elizabeth Boissay, Hypnotropolis
 Shop  
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756)  
 
+Elmer Bellissarian, Mystical Isle   
+Fantasy Roleplay, Merfolk, Elves, Fairies, Petites   
+[http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22](http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22)   
+
 Forge, City of Callera  
 Gorean City & Roleplay  
 [http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442](http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442)  
