@@ -45,6 +45,7 @@ When you press Runaway menu opens with three options:
 - **Yes** will execute a factory reset and completely clear the Access list.
 - **No** will close the menu
 - **Disable** will block the wearer's ability to run away on this collar.  This action can be initiated by the wearer by cannot be reversed by the wearer.  Only an owner can reverse it.  If the owner presses Disable in the Runaway menu, the wearer gets a dialog box to accept or decline.  
+>`auth=runawaydisable~1/0`   
 
 # Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
