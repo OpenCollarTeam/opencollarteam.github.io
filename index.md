@@ -10,19 +10,22 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# CURRENT FULL RELEASE:  OPEN COLLAR V 7.5 
+# CURRENT FULL RELEASE:  OPEN COLLAR V 8.0.2 
 
 Dateline 10 April, 2020.  
-OpenCollar V 7.5 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
-OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
-## New in OpenCollar V 7.4:   
-- Included, integrated HUD relay.  
-- Many changes in RLV to make adding and removing items and outfits easier than ever !
-- All individual restrictions are now available through the RLV menu.
-- Restriction "Macros" can be customized.
-- Detach and Outfits are now in the Apps menu.
-- ALL SCRIPTS ARE NOW IN THE ROOT PRIM.  For Builders ! No more fussy linked prim architecture!  For Editors ! Easy drag and drop additions to animations and apps.  
-- PLEASE NOTE:  Due to the change in the build, it will not be possible to roll back to 7.3 and before without use of the collarizer. Use a copiable collar to make your changes.
+OpenCollar V 8 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
+ 
+## New in OpenCollar V 8:   
+New Features:
+- OpenCollar Remote can now be used by the collar wearer on their own collar
+- There is now a “weld” capability.
+- You can add a setting using the Settings editor, useful for settings that have no corresponding menu button. No need to create a notecard for these.
+- “Stealth” is renamed “Hide/Show”.
+- Added the ability for the owner to disable hiding the collar.
+- Included internal relay.
+- Undress menu is now included in the standard updater and is found in Apps. Updated for BOM layers.
+- New themes creation ability for creators (only available on full permission collars).
+- AddOns: New script makes it easier to connect other worn attachments and HUDs to the collar menu.
 
 ## Mission
 
