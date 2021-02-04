@@ -31,6 +31,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 * [Settings](/docs/Settings)
 * [Help / About](/docs/Help-About)
 * [Remote](/docs/Remote)
+* [Weld](/docs/Weld)
 * [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
 * [How to Update](/docs/How-To-Update-Your-OpenCollar)
 * [How to Build](/docs/How-to-Build-Your-OpenCollar)
