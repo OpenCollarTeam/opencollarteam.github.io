@@ -128,7 +128,7 @@ BDSM Themed Nightclub
 
 LadyLisaWild, Erziehungs Anstalt  
 German BDSM Club, Dungeon, & Roleplay  
-[http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001](http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001)  
+[https://opencollar.cc/OpenCollar-Distributors-and-Designers](https://opencollar.cc/OpenCollar-Distributors-and-Designers)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground & Club  
