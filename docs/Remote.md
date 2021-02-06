@@ -22,10 +22,10 @@ Here is the full menu when open:
 Once you have a subject to whom you have some kind of collar access, add them to the Remote.  : 
 
 1 - Press the Add/Remove Nearby Avatars button and select their name.  They will get a permission request to be added to the remote.  They have to say yes.  
+2 - Because the Remote is an AddOn, it appears in the AddOns menu of the wearer's collar when it's connected, and it can only connect to one collar at a time. To switch collars, go to the Favorites or Nearby Avatars button and select the next collar.
+3 - If the Remote has not used the active collar in several minutes, you will get this message:  "[X collar]: Addon: OC_Remote has been removed because it has not been seen for 5 minutes or more."  
 
 # Remote Menu Buttons  
-
-
 
 ## **Remote Manager** ![Gear](https://opencollar.cc/static/Gear.PNG "Remote Manager")  (third row left) 
  opens the Remote menu.   
