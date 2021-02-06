@@ -128,7 +128,7 @@ BDSM Themed Nightclub
 
 LadyLisaWild, Erziehungs Anstalt  
 German BDSM Club, Dungeon, & Roleplay  
-[https://opencollar.cc/OpenCollar-Distributors-and-Designers](https://opencollar.cc/OpenCollar-Distributors-and-Designers)  
+[http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/71/128/11](http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/71/128/11)  
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground & Club  
