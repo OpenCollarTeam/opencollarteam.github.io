@@ -62,8 +62,6 @@ Here you can change the textures and appearance of your collar.  There are two n
 
 Global Settings are not linked to any single function but pertain for the entire collar.  Here is a list.  
 
-`INTERN=Highlander~[1/0]` Turns on and off the block on wearing more than one OC scripted item. 
-
 `GLOBAL=prefix~[yourprefix]` Sets the collar prefix.   
 
 `GLOBAL=DeviceName~[yourcollarname]` Sets the collar name that shows in collar menus.  Substitute the desired name for `<value>`.  
