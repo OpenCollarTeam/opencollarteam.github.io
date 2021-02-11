@@ -3,10 +3,10 @@ layout: home
 title: Weld and Unweld
 ---
 
-Weld is a feature that appears in the main menu only when the collar is **locked.**  It permanently removes the ability to unlock the collar.
+Weld is a feature that appears in the main menu only when the collar is **locked.**  It is only visible to collar owners.  Wearers can use Weld if they are also owners (either by default or because they have added Wearer to the Owner list).  Weld permanently removes the ability to unlock the collar.
 # Weld   
 To enable weld, lock the collar and press Weld in the button that now appears in the main menu.   
-- Owners and wearers can enable Weld.   
+- Owners can enable Weld.   
 - If the owner enables Weld, the wearer gets a dialog request for consent.
 - When Weld is enabled, the **Lock** button disappears from the main menu.  At this point, neither the owner nor the wearer can unlock the collar until the weld is broken.   
 
