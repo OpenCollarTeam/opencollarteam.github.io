@@ -35,6 +35,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketpla
 
 Bound Infinity (Cara Lionheart)  
 Mesh Collars - 0L to 150L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Iseul/177/113/75](http://maps.secondlife.com/secondlife/Iseul/177/113/75)   
 Marketplace: [https://marketplace.secondlife.com/stores/145309](https://marketplace.secondlife.com/stores/145309)  
 
 Bright Corporation (Shan Bright)    
