@@ -20,7 +20,7 @@ Toggles RLV on and off in the collar (not in the viewer).  The collar lock is no
 Clears all collar RLV restrictions, including those enforced by the relay.  Available to anyone with collar access but the wearer unless self owned.
 >[prefix] clear
 
-# RLV SETTINGS (new in V 7.4)  
+# RLV SETTINGS  
 This menu contains Exceptions, which lets you set Exceptions to RLV restrictions for Owners and Trusted; plus allows you to set values for Camera and Chat Restrictions.
 
 ##  Exceptions 
