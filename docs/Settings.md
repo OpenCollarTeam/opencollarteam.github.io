@@ -62,21 +62,23 @@ Here you can change the textures and appearance of your collar.  There are two n
 
 Global Settings are not linked to any single function but pertain for the entire collar.  Here is a list.  
 
-`GLOBAL=prefix~[yourprefix]` Sets the collar prefix.   
+`global=prefix~[yourprefix]` Sets the collar prefix.   
 
-`GLOBAL=DeviceName~[yourcollarname]` Sets the collar name that shows in collar menus.  Substitute the desired name for `<value>`.  
+`global=DeviceName~[yourcollarname]` Sets the collar name that shows in collar menus.  Substitute the desired name for `<value>`.  
 
-`GLOBAL=DeviceType~[name of device type]` Sets the type of device in messages to something other than "collar" for instance "septum ring" or other.  
+`global=DeviceType~[name of device type]` Sets the type of device in messages to something other than "collar" for instance "septum ring" or other.  
 
-`GLOBAL=touchNotify~[1/0]` Turns on and off the collar's notification to the wearer if the collar is touched.  
+`global=touchNotify~[1/0]` Turns on and off the collar's notification to the wearer if the collar is touched.  
 
-`GLOBAL=WearerName~[yourname]` Sets the wearer's name in the collar menu. 
->For instance:  `GLOBAL=WearerName~Joe~DeviceName~Collar` would set the line that appears at the top of Joe Zipcode's collar menu to "Joe's Collar".  
+`global=WearerName~[yourname]` Sets the wearer's name in the collar menu. 
+>For instance:  `global=WearerName~Joe~DeviceName~Collar` would set the line that appears at the top of Joe Zipcode's collar menu to "Joe's Collar".  
 
-`GLOBAL=safeword~[yoursafeword]` Sets the preferred safeword.  
+`global=safeword~[yoursafeword]` Sets the preferred safeword.  
 
-`GLOBAL=channel~[yourchannel]` Sets the preferred channel.  
+`global=safeworddisable~1` Disables the collar safeword.
 
-`GLOBAL=channel~1,FALSE/TRUE` Sets the channel number (in this case 1) and will set channel 0 to FALSE: The collar does not listen on channel 0; or TRUE: The collar does listen on channel 0.
+`global=channel~[yourchannel]` Sets the preferred channel.  
+
+`global=channel~1,FALSE/TRUE` Sets the channel number (in this case 1) and will set channel 0 to FALSE: The collar does not listen on channel 0; or TRUE: The collar does listen on channel 0.
 
 `GLOBAL=checkboxes~[ ],[X]` Changes the menu buttons to [X] and [ ] instead of white boxes, for machines that can't read the white box.
