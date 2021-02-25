@@ -132,7 +132,4 @@ Folders and subfolders may be worn by chat command, for instance:
 
 Appending a tag to the end of a folder name in inventory blocks RLV devices from stripping the contents of the folder. It does not work on a top folder, only the folder immediately containing the item you don't want stripped, or on the name of that item itself. **You will not need to use (nostrip) if your folders are set up for V 8 with a lock on the .core folder.**  When locked, .core already prevents its contents from being removed by collar Outfits, Detach, Undress, and Relay.
 
-## More on RLV
-
-Davros Harkness' RLV folders walkthrough [here](https://davrosharkness.wordpress.com/2018/01/31/rlv-folders/)  
 
