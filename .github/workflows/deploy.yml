@@ -1,0 +1,28 @@
+name: Deploy
+on:
+    push:
+        branches:
+            - main
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                node-version: [14.x]
+        steps:
+            - uses: actions/checkout@v1
+            - name: Use Node.JS ${{ matrix.node-version }}
+              uses: actions/setup-node@v1
+              with:
+                node-version: ${{ matrix.node-version }}
+            - name: Restore Dependencies
+              run: npm install
+            - name: Predeployment
+              run: npm run predeploy
+            - name: Deploy to GitHub Pages
+              uses: JamesIves/github-pages-deploy-action@4.0.0
+              with:
+                branch: gh-pages
+                folder: build
+            - name: Confirmation of no error
+              run: echo "Finished"

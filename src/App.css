@@ -1,0 +1,107 @@
+body {
+  background-color: "black";
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+table {
+  border: 1px solid #1c6ea4;
+  background-color: #aaaaaa;
+  color: #000000;
+  width: 25%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table td,
+table.blueTable th {
+  border: 1px solid #aaaaaa;
+  padding: 3px 2px;
+}
+table tbody td {
+  font-size: 13px;
+}
+table tr:nth-child(even) {
+  background: #d0e4f5;
+}
+table thead {
+  background: #1c6ea4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1c6ea4 100%);
+  background: -webkit-linear-gradient(
+    top,
+    #5592bb 0%,
+    #327cad 66%,
+    #1c6ea4 100%
+  );
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1c6ea4 100%);
+  border-bottom: 2px solid #444444;
+}
+table thead th {
+  font-size: 15px;
+  font-weight: bold;
+  border-left: 2px solid #d0e4f5;
+}
+table thead th:first-child {
+  border-left: none;
+}
+
+table tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #d0e4f5 100%);
+  background: -webkit-linear-gradient(
+    top,
+    #dcebf7 0%,
+    #d4e6f6 66%,
+    #d0e4f5 100%
+  );
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #d0e4f5 100%);
+  border-top: 2px solid #444444;
+}
+table tfoot td {
+  font-size: 14px;
+}
+table tfoot .links {
+  text-align: right;
+}
+table tfoot .links a {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
