@@ -3,7 +3,7 @@ layout: home
 title: The Access Menu
 ---
 
-Access is the OpenCollar ownership tool. **Associated Script:** [oc_auth](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_auth.lsl)   
+Access is the OpenCollar ownership tool. **Associated Script:** [oc_core](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_core.lsl), [oc_api](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_api.lsl)    
 There is a cap of 28 avatars across all named Access levels: Owner, Trusted, Blocked, and Temp Owner.
 
 # Owner
@@ -45,7 +45,7 @@ When you press Runaway menu opens with three options:
 - **Yes** will execute a factory reset and completely clear the Access list.
 - **No** will close the menu
 - **Disable** will block the wearer's ability to run away on this collar.  This action can be initiated by the wearer by cannot be reversed by the wearer.  Only an owner can reverse it.  If the owner presses Disable in the Runaway menu, the wearer gets a dialog box to accept or decline.  
->`auth=runawaydisable~1/0` (**note** in 8.0.2, 1 means runaway is *not* disabled and 0 means runaway *is* disabled, in settings.)  
+>`auth=runaway~1/0`  
 
 # Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
