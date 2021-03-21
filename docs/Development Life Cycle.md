@@ -146,20 +146,6 @@ reviewer if:
    refrain from merging new features that don't have clear consensus or
    approval from the project leaders.
 
-## Testing
-
-Testing is our best tool for ensuring that new changes to the collar work as
-expected, and haven't inadvertently broken something else.  Testing happens in
-a few different contexts:
-
-- When developing a new feature, you should test it yourself to ensure that it
-  actually works.
-- When doing a bugfix release, the OpenCollar team will test the affected
-  functionality in the collar to ensure that the fix works and hasn't broken the
-  features most likely to be impacted.
-- When doing a full feature release, the entire [manual test
-  suite](Manual-Test-Suite.md) will be followed.
-
 ## Branches
 
 The master branch of the OpenCollar repository on Github will always contain
@@ -175,7 +161,7 @@ features being released at the same time.
 Bug fixes should target the master branch.  If we decide to bundle several bug
 fixes into one release, we can make a separate collector branch for it.
 
-## Releasing
+## Testing and Releasing
 
 There are two kinds of OpenCollar releases, each with their own process:
 
