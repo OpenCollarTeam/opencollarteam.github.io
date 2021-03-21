@@ -5,9 +5,10 @@ title: OpenCollar Development Life Cycle
 
 # OpenCollar Development Life Cycle
 
-There's a lot that goes into creating OpenCollar.  This document outlines the major groups of work and how they fit together.
+Developing OpenCollar requires collaboration and decisions from a bunch of
+people.  This document outlines how that should work.
 
-## Product Direction
+## Feature Decisions 
 
 Someone's got to decide what we'll include in OpenCollar.  The founders
 (Athaliah Opus and Nirea Mercury) have final decision-making power there,
