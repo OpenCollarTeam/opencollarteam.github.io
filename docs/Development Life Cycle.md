@@ -155,7 +155,7 @@ there before being copied inworld and distributed in the update system.
 New features for the upcoming feature release will be aggregated into a
 collector branch for that feature release, with a name like "features-2021-q2".
 Pull requests that contain new features should target the current feature
-branch, and should pull it into ensure that they're compatible with other
+branch, and should pull it in to ensure that they're compatible with other
 features being released at the same time.
 
 Bug fixes should target the master branch.  If we decide to bundle several bug
