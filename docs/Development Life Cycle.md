@@ -36,8 +36,10 @@ feature, or especially if it's a complicated architectural change, then you
 might need to create a separate document or diagrams to make it easy to
 understand.
 * Seek feedback.  Discuss your proposal with the project leaders and be
-prepared with answers to the questions above.  Consider gathering feedback from
-the larger community, such as through group chats or a poll.
+prepared with answers to the questions above.  [The OpenCollar Discord
+server](https://discord.gg/ZPmABEmPEJ) is the best place for this.  Consider
+gathering feedback from the larger community, such as through group chats or a
+poll.
 
 ## Writing Code
 
