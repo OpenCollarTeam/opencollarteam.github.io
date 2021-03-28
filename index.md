@@ -33,7 +33,7 @@ OpenCollar exists to support people exploring submission and domination in Secon
 
 # How you can help 
 Please report any bugs you find or feature requests to the OpenCollar bug tracker at our [issues page](https://github.com/OpenCollarTeam/OpenCollar/issues). Find the source code at our [github](https://github.com/OpenCollarTeam/OpenCollar).
-You can learn how we incorporate contributions here:  [Development Life Cycle](docs/Development-Life-Cycle)
+You can learn how we incorporate contributions here:  [Development Life Cycle](/docs/Development-Life-Cycle)
 
 # OpenCollar Headquarters
 
