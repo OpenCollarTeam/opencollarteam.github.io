@@ -3,8 +3,6 @@ layout: home
 title: OpenCollar Development Life Cycle
 ---
 
-# OpenCollar Development Life Cycle
-
 Developing OpenCollar requires collaboration and decisions from a bunch of
 people.  This document outlines how that should work.
 
