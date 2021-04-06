@@ -163,6 +163,10 @@ Rocketroo, Bad Bunneh
 Shop Featuring Clothing, Jewelry, & Furniture  
 [http://maps.secondlife.com/secondlife/Spunk/115/205/799](http://maps.secondlife.com/secondlife/Spunk/115/205/799)  
 
+Sabina Riederer, Blackrose Castle   
+LGBTQ Friendly BDSM Community, Roleplay, Shops   
+[http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23)   
+
 Sadie Dubratt, Kitty Creations   
 Shop Featuring Old World Fantasy Clothing Furniture, Home and Garden  
 [http://maps.secondlife.com/secondlife/Sadleirian/177/149/548](http://maps.secondlife.com/secondlife/Sadleirian/177/149/548)   
