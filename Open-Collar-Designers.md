@@ -109,6 +109,10 @@ Cock & Ball Collars, Clothing, & Furniture For Males - 300L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102](http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102)  
 Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
+Majestix (MadyHades)   
+Mesh Collars and Accessories - 299L   
+Marketplace:  [https://marketplace.secondlife.com/stores/207943](https://marketplace.secondlife.com/stores/207943   
+
 MATRIARCH (Beautifull Vyper)  
 Mesh Collars, Restraints, Toys, & Accessories - 399L+ 
 Inworld Shop: [http://maps.secondlife.com/secondlife/Ping/140/128/222](http://maps.secondlife.com/secondlife/Ping/140/128/22)  
