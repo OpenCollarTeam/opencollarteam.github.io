@@ -117,6 +117,10 @@ Kittin Ninetails, Ninetails
 Shop  
 [http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)  
 
+Knottykarma, Strangelove Fetish Manor   
+Club, Roleplay, Garden Area open to the public   
+[http://maps.secondlife.com/secondlife/Sekmet/226/103/34](http://maps.secondlife.com/secondlife/Sekmet/226/103/34)   
+
 Lady Harcassle, Shades of Emotions  
 BDSM Themed Nightclub  
 [http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
