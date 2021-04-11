@@ -1,6 +1,8 @@
 # Cuffs:
 Test/Review Beta  
-Wishlist:  More streamlined menus to get to poses more directly.   
+- More streamlined menus to get to poses more directly.   
+- Fix Lock issue
+- Create Settings menu to resize cuffs and create themes
 ## Status
 
 # AO:
