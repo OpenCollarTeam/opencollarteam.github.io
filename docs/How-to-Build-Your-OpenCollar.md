@@ -20,7 +20,6 @@ Here is the list of scripts that go in the collar:
 **REQUIRED CORE**
 
 - [oc_api](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_api.lsl)
-- [oc_auth](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_auth.lsl) 
 - [oc_core](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_core.lsl)  
 - [oc_dialog](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_dialog.lsl)  
 - [oc_settings](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_settings.lsl)    
