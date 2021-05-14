@@ -1,0 +1,40 @@
+Theme Configuration Notecard Details for OpenCollar Version 8.x
+A method used to generate [Name].theme configuration notecards
+Menu: Apps | Themes
+
+The oc_themes script is used to apply parameters to given faces of a mesh or primitive object that is included in your collar design. If you have a full permission collar, in other words Copy, Modify and Transfer permissions, you will see both an Apply Theme and a New Theme button in the Themes App menu. Setting your collar to No Transfer in the Next Owner permissions will prevent the next owner of the collar (your customer) from generating New Theme data.
+
+Before beginning this process you will want to set up your collar design with a default appearance. Apply textures, colors and other attributes so your collar looks finished.
+
+Once you are happy with your collar's appearance, go to the Apps | Themes menu of your collar. When you click the New Theme button, the script will "dump" the collar face parameters list into the Local Chat window. You can use Copy & Paste to save this parameters list to a notecard. 
+
+Name your notecard [Name].theme, where [Name] is the unique name to describe your theme.   The oc-themes script will use this [Name] in the Apply Theme menu. For instance, a notecard named Default.theme will show in the Apply Theme menu as Default.
+
+Collar designers can use this face parameters list to create multiple themes for your design. Because of SecondLife notecard size limitations, (64 KB limit) you may want to paste this parameters list to an external text editor like Notepad.
+
+Before using your .themes notecard for your different themes, it's best to reduce this file to the barest essentials. The reason for this is when applying a theme to your collar, the oc_themes script will read each line of the .themes notecard one at a time, applying that parameter to the indicated collar face before reading the next line in the notecard. Depending on sim processing speed, this could take as much as a second per line. Because of this, you will want to remove every line in the notecard which is not necessary. For example, if all of your collar themes use the default white Color tint, this parameter will never change between themes and should be removed from the notecard. (See caveat below)
+
+Any lines that reference prims that will always remain invisible eg. Leashpoint, FloatText should be removed entirely from the [Name].theme notecard. 
+
+For instance, because each face can have up to 21 parameters in the [Name].theme notecard, the small, invisible LeashPoint cube (6 faces) used in your collar will generate 126 lines of unneeded parameters, and the consequential 2 minutes it takes for the script to read those lines and apply those parameters.
+
+It's important to note that many face parameters are dependent on other parameters if they are to be used by a script. The oc_themes script will report an error if a dependent parameter is not included. If, for example your themes will use a Shininess setting, you must also include a value for Bump, as both parameters are needed for the PRIM_BUMP_SHINY constant. In the above example of removing the Color reference, you will also need to remove the reference to Alpha, as the script needs both parameters in the PRIM_COLOR constant, and will report an error if one parameter is included and the other is not.
+
+Here is a list of Required Parameters by Constant:
+
+PRIM_COLOR needs color, alpha
+
+PRIM_TEXTURE needs texture uuid, repeats, offsets, rot
+
+PRIM_GLOW intensity not dependent
+
+PRIM_NORMAL needs texture uuid, repeats, offsets, rot 
+
+PRIM_SPECULAR needs texture uuid, repeats, offsets, rot, color, glossiness, environment
+
+PRIM_FULLBRIGHT boolean not dependent
+
+PRIM_BUMP_SHINY needs shiny, bump
+
+Once you have generated a working .themes notecard for your collar's default appearance, you can make multiple copies of that notecard, renaming the notecards as needed to generate unique names in the Apply Theme menu. Then go into the new notecard and make changes as necessary for that theme to be properly applied. When you have added your .theme notecards to the collar contents, the collar will report how many themes are in inventory, and restart.
+
