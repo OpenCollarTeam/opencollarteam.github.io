@@ -22,6 +22,11 @@ Mesh Collars, Restraints, Toys, & Art - 100L to 450L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
 Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)   
 
+Ari-Pari (Ariana Petrova)   
+Simple yet functional collar styles with texture & color options via HUD - 250L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Malus/188/172/29](http://maps.secondlife.com/secondlife/Malus/188/172/29)   
+Marketplace: [https://marketplace.secondlife.com/stores/14581](https://marketplace.secondlife.com/stores/14581)   
+
 B&L Perfect Body/Perfect Fashion (Ayumi23.Bracula)     
 Mesh Collar 250L  
 Inworld Shop: [https://maps.secondlife.com/secondlife/Coast%20of%20Passion/194/78/22](https://maps.secondlife.com/secondlife/Coast%20of%20Passion/194/78/22)   
