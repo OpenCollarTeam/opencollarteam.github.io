@@ -4,7 +4,8 @@ title: OpenCollar Designers
 
 Official Design Partners use the OpenCollar scripts to create collars, jewelery, add-on apps, and accessories. Enjoy browsing their selections, visit their inworld shops, and add them to your Marketplace favorites!  
 
-Interested in becoming an Official Design Partner? [Design Partner Application](#application)
+Interested in becoming an Official Design Partner? [Design Partner Application](#application)   
+Looking for cool collar Apps and AddOns? See our Partners making third party plugins:  [Apps and Addons](#apps-and-addons) 
 
 
 Accents Design (Cynianne Hellershanks)   
@@ -188,8 +189,26 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http:
 Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketplace.secondlife.com/stores/125719) 
 
 
-- Official Design Partners are required to maintain current primary version, OpenCollar V7, and the OpenCollar scripts must remain full permission.  
-- Makers of custom apps may use closed source scripts for extra features that link to the collar.  See our [public domain plugin template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl) that makes this possible.
+- Official Design Partners are required to maintain current primary version, OpenCollar V8, and the OpenCollar scripts must remain full permission.  
+
+# Apps and AddOns   
+
+- Makers of custom apps may use closed source scripts for extra features that link to the collar.  
+- [public domain plugin template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl)     
+- [public domain addon template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)
+
+Danger Kitty's Sweets (sweetdangerkitty)
+Kitty's Hearts  200L  
+Marketplace: [https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
+
+Dark Elf Manufacture (DEM) (chloe1928.constantine)   
+DEM Relay plugin for OpenCollar   40L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28](http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28)   
+Marketplace:  [https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118](https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118)   
+
+
+
+
 
 # Application
 
