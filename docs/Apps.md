@@ -7,11 +7,11 @@ See in this page: [Bell](#bell) | [Bookmarks](#bookmarks) | [Capture](#capture) 
 
 # Apps Main Menu
 
-![](/static/Apps7-4.png) 
+![](/static/Apps.png) 
 
 
-This menu is where you will find links to applications and custom plugins.  The above image does not contain all the possible Apps.       
-The following apps are included in OpenCollar V 7.4:
+This menu is where you will find links to applications and custom plugins.  The above image includes all the optional apps in the standard V8 updater.       
+The following apps are included in OpenCollar V 8:
 
 # Bell
 
@@ -25,10 +25,14 @@ This App controls the bell visibility and sound.  Only operative with collar des
 # Bookmarks
 Bookmarks allows anyone with Trusted or Owner access to enter locations around the grid and teleport you to those locations.  Bookmarks makes it unnecessary to add landmarks to the collar for teleportation.  Not available to Public or Group access.
 
-To call the bookmarks menu: `[prefix] bookmarks`  
+## Using Bookmarks
 
-To send the wearer to a bookmark:  
+- To call the bookmarks menu: `[prefix] bookmarks`  
+
+- To send the wearer to a bookmark:  
 From the Main menu go to Apps > Bookmarks and press the named bookmark button, or: `[prefix] tp [bookmarkname]`   
+
+## Adding and Removing Bookmarks
 
 - Save   
 Opens a dialog window where you can enter a name for the wearer's current location, to create a bookmark for that location. Use a short name that's easy to remember and looks good on a button.  Pressing "submit" adds the name to the bookmarks menu.   
@@ -78,6 +82,22 @@ In collars built with a label only.  There are two versions of the label app, on
 # Outfits
 See:  [Outfits](/docs/Outfits)
 
+# Owner Online
+
+This app will notify the wearer in chat when their owner is online.  
+- **On** The checkbox turns the app on or off.  When off, the checkbox is empty.
+- **Set Interval** sets the number of seconds after which the app will check for an owner online.  
+- **NotifChat** allows the owner online notification to appear in the wearer's local chat.   
+- **NotifDialog** the owner online notification appears in a dialog popup. 
+
+# Size Presets
+This app allows you to save a size, position and rotation. 
+- **save** Use this button to save and name the set position, size and rotation.  
+- **Restore** Once at least one preset is saved, it will appear by name on this Restore list, to return the collar to that position, size and rotation.
+- **Delete** Removes a preset from the list.
+
+# Themes
+
 # Titler
 
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to set the position of the titler.
@@ -93,3 +113,28 @@ Sets a line of text overhead on the wearer's avatar.  Requires the FloatText pri
 `[prefix] titler show/hide`    
 **Color:** Changes the color of the titler text.  
 `[prefix] titler color [vector RGB]`     
+
+# Undress
+
+Allows those with collar access to remove, lock and unlock system layers.  
+System Layers include: 
+
+- alpha
+- tattoo 
+- universal  
+- shoes (shoe base) 
+- socks
+- underpants 
+- undershirt 
+- pants 
+- shirt
+- jacket 
+- gloves.   
+
+It will also lock and unlock the **required system layers.** These cannot be removed because they are required for the system avatar, they can only be replaced:  
+- skin
+- shape
+- eyes, 
+-  hair (hair base/eyebrow shaper)
+
+ 

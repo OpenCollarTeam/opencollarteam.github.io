@@ -28,8 +28,7 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay Playground
 
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy & Medical Roleplay  
-[http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22](http://maps.secondlife.com/secondlife/River%20Oaks/114/7/22)  
-**Advisory:** The Vendor is 30 meters east of the landing point, inside the blue house.  
+**Moving--temporarily unavailable**   
 
 Blaise Tomsen  
 Second Life Railroad  
@@ -81,6 +80,10 @@ Elizabeth Boissay, Hypnotropolis
 Shop  
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756)  
 
+Elmer Bellissarian, Mystical Isle   
+Fantasy Roleplay, Merfolk, Elves, Fairies, Petites   
+[http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22](http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22)   
+
 Forge, City of Callera  
 Gorean City & Roleplay  
 [http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442](http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442)  
@@ -96,6 +99,10 @@ Playground
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
+
+Ian Junibalya, Black Quarters   
+Transformation Playground   
+[http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601](http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601)   
  
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
@@ -110,6 +117,10 @@ Kittin Ninetails, Ninetails
 Shop  
 [http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)  
 
+Knottykarma, Strangelove Fetish Manor   
+Club, Roleplay, Garden Area open to the public   
+[http://maps.secondlife.com/secondlife/Sekmet/226/103/34](http://maps.secondlife.com/secondlife/Sekmet/226/103/34)   
+
 Lady Harcassle, Shades of Emotions  
 BDSM Themed Nightclub  
 [http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
@@ -117,6 +128,7 @@ BDSM Themed Nightclub
 
 LadyLisaWild, Erziehungs Anstalt  
 German BDSM Club, Dungeon, & Roleplay  
+
 [http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001](http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001)  
 **Advisory:** Take teleporter at Landing Point to "EA Home". 
 
@@ -131,7 +143,7 @@ Arab Themed Slave Auction & Training
 
 Morris Mixmaster, Sensual Camping  
 Club & Nude Beach  
-[http://maps.secondlife.com/secondlife/Prohibition/71/213/21](http://maps.secondlife.com/secondlife/Prohibition/71/213/21)  
+[http://maps.secondlife.com/secondlife/Prana/202/163/38](http://maps.secondlife.com/secondlife/Prana/202/163/38)  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
@@ -156,6 +168,15 @@ RLV Education Center
 Rocketroo, Bad Bunneh  
 Shop Featuring Clothing, Jewelry, & Furniture  
 [http://maps.secondlife.com/secondlife/Spunk/115/205/799](http://maps.secondlife.com/secondlife/Spunk/115/205/799)  
+
+Sabina Riederer, Blackrose Castle   
+LGBTQ Friendly BDSM Community, Roleplay, Shops   
+[http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23)   
+
+Sadie Dubratt, Kitty Creations   
+Shop Featuring Old World Fantasy Clothing Furniture, Home and Garden  
+[http://maps.secondlife.com/secondlife/Sadleirian/177/149/548](http://maps.secondlife.com/secondlife/Sadleirian/177/149/548)   
+
 
 Safra Nitely, Darkwing-Barns Stables  
 Pony Girl & Pet Play  

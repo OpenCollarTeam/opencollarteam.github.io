@@ -52,12 +52,13 @@ The default collar safeword is RED, all caps.  You can also type it on channel 1
 
 You can change your safeword: 
 
-[prefix] safeword [new safeword] or for instance: jo safeword BLUE.
+[prefix] safeword [new safeword] : or for instance: jo safeword BLUE.
 
 # Some Useful Chat Commands 
 
-[prefix] busted turns on touch notification: your collar will report when it is touched.  
-[prefix] busted on/off toggles touch notification.  
+[prefix] touchnotify : turns on or off touch notification: your collar will report when it is touched. 
+
+[prefix] getauth  :  reports what your current authorization level is on the collar.
 
 [prefix] help : delivers the .help notecard from the collar.
 
@@ -65,4 +66,6 @@ You can change your safeword:
 
 [prefix] name [newname] : changes the name of the wearer in collar chat messages such as couples animations.
 
-[prefix] device name [newname] changes the name of the collar in menus and chat messages.
+[prefix] device name [newname] changes the name of the collar in menus and chat messages.   
+
+[prefix] safeword off/on : disables or re-enables the collar safeword.

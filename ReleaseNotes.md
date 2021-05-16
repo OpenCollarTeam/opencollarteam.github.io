@@ -3,6 +3,83 @@ layout: home
 title: OpenCollar Release Notes
 ---
 
+# V 8.0 Release:  Changelog
+
+## New Features:  
+- OpenCollar Remote can now be used by the collar wearer on their own collar
+- There is now a "weld" capability.  
+- You can add a setting using the Settings editor, useful for settings that have no corresponding menu button.  No need to create a notecard for these.
+- "Stealth" is renamed "Hide/Show".
+- Added the ability for the owner to disable hiding the collar.
+- Included internal relay.
+- Undress menu is now included in the standard updater and is found in Apps.  Updated for BOM layers.
+- New themes creation ability for creators (only available on full permission collars).
+- AddOns: New script makes it easier to connect other worn attachments and HUDs to the collar menu.
+
+## All Scripts
+- New startup sequence to fix settings problems. All scripts were updated to utilize the Callback feature, and will attempt to force-load all settings after hearing the initial TIMEOUT_READY signal. This is effectively 1 setting per second per script.
+- Add DIALOG_TIMEOUT handling to scripts that were missing this signal handler
+- Set memory limits in scripts to reduce the max available memory if a script never actually uses the full amount allowed by the simulator.
+- Fix safeword enable/disable
+     * Command to disable safeword is now: <prefix> safeword off
+     * Command to re-enable safeword is to set the safeword to ANYTHING EXCEPT OFF: <prefix> safeword RED
+- **SECURITY PATCH:** The collar now has a few security safeguards. In 7.5 there was an exploit that was discovered which utilized the collar remote to override the access list and even change the owners altogether. This manifested itself as something that would grab your relay then change your owners, masking the true cause of this exploit. This patch requires that all access list changes MUST go through the access menu or its related chat commands. The weld feature is also now safeguarded by a similar protocol, and is easy enough to bypass with legitimate intentions. If you plan to delete anything in the intern namespace, just pass the key value of "origin", and for anything in the auth namespace, same, just pass "origin" as the key value. This same security policy is also applied to the load url command. If the URL contains auth list modifications, it will block it from happening, unless the user reviews the URL contents and consents to said modifications.
+
+## New Scripts  
+- oc_api : 
+    * New: Addons subsystem
+    * Handles auth
+    * Handles chat commands
+    * Handles safeword  
+- oc_core :
+    * New: Settings Editor
+    * Additional fix: Version checker code fixed
+    * New version numbering scheme: MAJOR . MINOR. Build 
+- oc_states :
+    * Handles Settings Editor  
+    * Handles Anti-Crash
+    * Handles startup sequence
+    * Manages script time by shutting off idle scripts and turning them on when needed.
+- DEPRECATED: oc_com, oc_auth, oc_sys  
+   * oc_auth, oc_com, oc_sys combined into oc_api, oc_core
+        
+
+## Revised Scripts
+
+- oc_anim : 
+   * Full rewrite with anti-slide kept in mind. Anti-slide is no longer able to be turned off, it also now attempts to circumvent most AOs that use higher priority animations.
+   * Reuploaded animations from github as higher priority due to commercial AOs being improperly imported at priority 3 or 4 .
+- oc_bell : Code cleanup  
+- oc_capture : 
+       * Added on/off chat commands.
+       * Added more checks against the Enabled status.
+       * Added code to prevent blocked users from capturing
+- oc_detach: Added sorting of the attachments alphabetically.
+- oc_dialog:  Implemented the ability to sort UUID lists
+- oc_folders:  Full rewrite.
+- oc_leash:  Added leash start and end movement signals.
+- oc_outfits:  
+       * Updated default checkboxes.
+       * Changed "remove" chat command to "naked".
+       * Added a Remove command to the Core Browser.   
+- oc_particle: 8.0 specific modifications to settings naming, and leashpoint fixing so leashes dont bounce between targets, take closest target, or leash holder, and prefer leash holder over coffle to a worn collar.
+- oc_remote:  Converted to an addon to connect to the Addon subsystem.
+- oc_rlvsuite:  
+       * Renamed "Accept_Perm" to "Permissions".   
+       * Re-organized menus:  Macros appears in the main RLV menu alongside Restrictions, which now leads directly to restrictions by type.
+- oc_settings: 
+       * Rearranged script and cleaned up.
+       * Made oc_settings handle weld
+       * Load URL now uses a consent dialog if the policy for auth and intern says to reject
+       * All tokens are now lowercase. All plugins need to use case insensitive checks, note: only the token_var portion of the token is forced to lowercase by settings
+- oc_themes:
+    * Fully Rewritten
+    * Old themes format no longer compatible
+    * New themes format is fully customizable and works for prims and for mesh with a single script.
+- oc_undress:  Fully rewritten to take advantage of the BakesOnMesh universal layer.
+
+-----------------------------------------------------------------------------------------------
+
 # V 7.5  (aka V7.4.1)   
 OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
 **Dateline 22 April 2020**

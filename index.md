@@ -10,30 +10,39 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# CURRENT FULL RELEASE:  OPEN COLLAR V 7.5 
+# CURRENT FULL RELEASE:  OPEN COLLAR V 8.0.5 
 
 Dateline 10 April, 2020.  
-OpenCollar V 7.5 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
-OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
-## New in OpenCollar V 7.4:   
-- Included, integrated HUD relay.  
-- Many changes in RLV to make adding and removing items and outfits easier than ever !
-- All individual restrictions are now available through the RLV menu.
-- Restriction "Macros" can be customized.
-- Detach and Outfits are now in the Apps menu.
-- ALL SCRIPTS ARE NOW IN THE ROOT PRIM.  For Builders ! No more fussy linked prim architecture!  For Editors ! Easy drag and drop additions to animations and apps.  
-- PLEASE NOTE:  Due to the change in the build, it will not be possible to roll back to 7.3 and before without use of the collarizer. Use a copiable collar to make your changes.
+OpenCollar V 8 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
+ 
+## New in OpenCollar V 8:   
+New Features:
+- OpenCollar Remote can now be used by the collar wearer on their own collar
+- There is now a “weld” capability.
+- You can add a setting using the Settings editor, useful for settings that have no corresponding menu button. No need to create a notecard for these.
+- “Stealth” is renamed “Hide/Show”.
+- Added the ability for the owner to disable hiding the collar.
+- Included internal relay.
+- Undress menu is now included in the standard updater and is found in Apps. Updated for BOM layers.
+- New themes creation ability for creators (only available on full permission collars).
+- AddOns: New script makes it easier to connect other worn attachments and HUDs to the collar menu.
 
 ## Mission
 
 OpenCollar exists to support people exploring submission and domination in Second Life and other virtual worlds.  It is nonprofit and volunteer driven.  The project builds, maintains, distributes and supports these scripts and the community that uses them. We encourage creation by users as well as designers.  We encourage learning by examining the scripts and building with them. We encourage people to share their skills with others. Any user or developer is welcome to use our work as long as they abide by the license and pass on the same permissions they received.
 
 # How you can help 
-Please report any bugs you find or feature requests to the OpenCollar bug tracker at our [issues page](https://github.com/OpenCollarTeam/OpenCollar/issues). Find the source code at our [github](https://github.com/OpenCollarTeam/OpenCollar).
+- **Bug reporting**  Anyone can report something they think is a bug!  Please report them to the OpenCollar bug tracker at our 
+- [issues page](https://github.com/OpenCollarTeam/OpenCollar/issues). 
+- **Reviewing** Knowledgeable about the OpenCollar code, don't have time to submit pulls? We badly need qualified people to review pull requests! Find the source code at our [github](https://github.com/OpenCollarTeam/OpenCollar).
+- **Feature Requests**  Use the same issues page or submit a pull request and be aware of the process feature requests will go through before they are incorporated. You can learn how we incorporate contributions here:  [Development Life Cycle](/docs/Development-Life-Cycle)
+- **Distributing** You are free to distribute any of our full permission AddOns, Apps and other scripts as long as you leave them full permission and include a copy of the license.  The more the merrier !  In addition you can be an official OpenCollar Distributions
+- **Designing** Anyone can make their own collar using our OpenCollar scripts!  If your collar designs are original mesh, you have a store or marketplace to sell them, apply to be an OpenCollar Design Partner ! We tell our members to only shop from the list of design partners.  The best, oldest, 
 
-# OpenCollar Partners
 
-OpenCollar help can be found at our social partner, the [OpenCollar Theater](http://maps.secondlife.com/secondlife/KBar%20West/23/97/1001) at KBar West. See the links at the top of every page for our lists of partners and applications to become one!
+# OpenCollar Headquarters
+
+OpenCollar help can be found at our [Headquarters](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201).  Also see the following for our lists of partners and applications to become one!
 
 - Distributors -- Please visit our official [Distributors](/OpenCollar-Distributors-and-Designers) for OpenCollar vendors and so much more! 
 - Designers -- For wonderful designers, and an impressive list of creators, visit our [Design Partners](/Open-Collar-Designers)!

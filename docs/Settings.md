@@ -33,19 +33,25 @@ Loads your settings from the .settings notecard.
 To load your settings from a url:  
 >[prefix] load url [url]  
 
-## Fix
+## Editor
+Allows you to save settings to the collar directly by dialog menu, useful for Settings that have no corresponding collar command.
+
+## Fix Menus
 Sometimes menus do not load all the way.  If you see buttons missing from your menus, press Fix.
 
-## Position
+## Resize
+This menu allows you to alter the position, Rotation and Size of your collar.
+
+- **Position**   
 Allows you to shift the position of the collar up, down, left and right.  The dashes indicate distance increments.
 
-## Rotation
+- **Rotation**  
 Allows you to adjust the rotation and tilt of the collar up, down, left and right.
 
-## Size
+- **Size**
 Here you can adjust the scale of the collar.
 
-## Stealth
+## Hide
 When checked, Stealth turns the collar transparent.
 
 ## Themes
@@ -54,23 +60,25 @@ Here you can change the textures and appearance of your collar.  There are two n
 
 # Global Settings
 
-Global Settings are not linked to any single function but pertain for the entire collar.  Here is the list.  
+Global Settings are not linked to any single function but pertain for the entire collar.  Here is a list.  
 
-`INTERN=Highlander~[1/0]` Turns on and off the block on wearing more than one OC scripted item. 
+`global=prefix~[yourprefix]` Sets the collar prefix.   
 
-`GLOBAL=prefix~[yourprefix]` Sets the collar prefix.   
+`global=DeviceName~[yourcollarname]` Sets the collar name that shows in collar menus.  Substitute the desired name for `<value>`.  
 
-`GLOBAL=DeviceName~[yourcollarname]` Sets the collar name that shows in collar menus.  Substitute the desired name for `<value>`.  
+`global=DeviceType~[name of device type]` Sets the type of device in messages to something other than "collar" for instance "septum ring" or other.  
 
-`GLOBAL=DeviceType~[name of device type]` Sets the type of device in messages to something other than "collar" for instance "septum ring" or other.  
+`global=touchNotify~[1/0]` Turns on and off the collar's notification to the wearer if the collar is touched.  
 
-`GLOBAL=touchNotify~[1/0]` Turns on and off the collar's notification to the wearer if the collar is touched.  
+`global=WearerName~[yourname]` Sets the wearer's name in the collar menu. 
+>For instance:  `global=WearerName~Joe~DeviceName~Collar` would set the line that appears at the top of Joe Zipcode's collar menu to "Joe's Collar".  
 
-`GLOBAL=WearerName~[yourname]` Sets the wearer's name in the collar menu. 
->For instance:  `GLOBAL=WearerName~Joe~DeviceName~Collar` would set the line that appears at the top of Joe Zipcode's collar menu to "Joe's Collar".  
+`global=safeword~[yoursafeword]` Sets the preferred safeword.  
 
-`GLOBAL=safeword~[yoursafeword]` Sets the preferred safeword.  
+`global=safeworddisable~1` Disables the collar safeword.
 
-`GLOBAL=channel~[yourchannel]` Sets the preferred channel.  
+`global=channel~[yourchannel]` Sets the preferred channel.  
 
-`GLOBAL=channel~1,FALSE/TRUE` Sets the channel number (in this case 1) and will set channel 0 to FALSE: The collar does not listen on channel 0; or TRUE: The collar does listen on channel 0.
+`global=channel~1,FALSE/TRUE` Sets the channel number (in this case 1) and will set channel 0 to FALSE: The collar does not listen on channel 0; or TRUE: The collar does listen on channel 0.
+
+`GLOBAL=checkboxes~[ ],[X]` Changes the menu buttons to [X] and [ ] instead of white boxes, for machines that can't read the white box.
