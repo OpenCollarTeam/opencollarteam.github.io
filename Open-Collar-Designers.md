@@ -124,6 +124,11 @@ Mesh Collars, Restraints, Toys, & Accessories - 399L+
 Inworld Shop: [http://maps.secondlife.com/secondlife/Ping/140/128/222](http://maps.secondlife.com/secondlife/Ping/140/128/22)  
 Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketplace.secondlife.com/stores/202671)  
 
+MKF (Modern Kink Fashion) (blackangelchris)  
+Adult Jewelry BDSM Collar - 200L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Frenscent/109/199/1988](http://maps.secondlife.com/secondlife/Frenscent/109/199/1988)   
+Marketplace:  [https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547](https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547)   
+
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Alcis/153/19/50](http://maps.secondlife.com/secondlife/Alcis/153/19/50)   
@@ -197,8 +202,8 @@ Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketpl
 - [public domain plugin template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl)     
 - [public domain addon template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)
 
-Danger Kitty's Sweets (sweetdangerkitty)
-Kitty's Hearts  200L  
+Danger Kitty's Sweets (sweetdangerkitty)   
+Kitty's Hearts  200L  (emits hearts and other particle shapes when owner is in range)   
 Marketplace: [https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
 
 Dark Elf Manufacture (DEM) (chloe1928.constantine)   
