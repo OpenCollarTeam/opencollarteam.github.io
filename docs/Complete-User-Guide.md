@@ -19,7 +19,10 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 
 # Index / Table of Contents
 
+## General Information
 * [How Do I Know if I am Running OpenCollar?](/docs/OpenCollar-Signature)
+
+## Manual Pages for Standard Apps
 * [Main](/docs/Main-Menu)
 * [Access](/docs/Access)
 * [Animations](/docs/Animations) 
@@ -33,5 +36,15 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 * [Remote](/docs/Remote)
 * [Weld](/docs/Weld)
 * [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
+
+## Build Your Own Collar   
 * [How to Update](/docs/How-To-Update-Your-OpenCollar)
 * [How to Build](/docs/How-to-Build-Your-OpenCollar)
+
+## Manual Pages for Extra Apps Available on Git or at OpenCollar Headquarters
+(These will be added as needed)   
+
+##  Contribution Guide
+* [Development Life Cycle](/docs/Development-Life-Cycle)
+
+## 
