@@ -92,7 +92,7 @@ things.
 If you have a pull request that you think is ready for merging into OpenCollar,
 you can request a review in the [OpenCollar dev-chat
 channel](https://discord.gg/D9hVHadFzD) in Discord, or the OpenCollar R&D
-channel inworld, or by sending a direct IM to Aria (tashia.redrose) or Nirea
+channel inworld, or by sending a direct IM to ròan (Silkie Sabra) or Nirea
 Mercury inworld.  For more prompt attention, you should probably do all of the
 above.
 
