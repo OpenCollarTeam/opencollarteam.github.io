@@ -180,7 +180,7 @@ Process:
 4. The testing coordinator distributes the updater object to the R&D group and
    to tester volunteers as a release candidate.
 5. Volunteer testers collaborate to check all the things in the [manual test
-   suite](Manual-Test-Suite.md).  The testing coordinator keeps track of which
+   suite](https://opencollar.cc/docs/Manual-Test-Suite.html).  The testing coordinator keeps track of which
    tests have passed and which have failed.
 6. If there are failed tests, fixes must be committed, reviewed, and merged.
    The failed tests will be repeated, as well as tests for any features likely
