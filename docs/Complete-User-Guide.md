@@ -42,7 +42,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 * [How to Build](/docs/How-to-Build-Your-OpenCollar)
 
 ## Manual Pages for Extra Apps Available on Git or at OpenCollar Headquarters
-(These will be added as needed)   
+* [Spy](/docs/Spy)
 
 ##  Contribution Guide
 * [Development Life Cycle](/docs/Development-Life-Cycle)
