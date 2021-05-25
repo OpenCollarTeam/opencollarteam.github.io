@@ -1,19 +1,21 @@
-Theme Configuration Notecard Details for OpenCollar Version 8.x
-A method used to generate [Name].theme configuration notecards
-Menu: Apps | Themes
+---
+layout: home
+title: Themes
+---
 
-The oc_themes script is used to apply parameters to given faces of a mesh or primitive object that is included in your collar design. If you 
-have a full permission collar, in other words Copy, Modify and Transfer permissions, you will see both an Apply Theme and a New Theme button 
-in the Themes App menu. Setting your collar to No Transfer in the Next Owner permissions will prevent the next owner of the collar (your customer) 
-from generating New Theme data.
+The oc_themes script applies textures to the faces of your mesh collar design. Creating themes is a Building feature and requires a full permission collar model.
+If you have a full permission collar (Copy/Modify/Transfer), you will see both an Apply Theme and a New Theme button in the Themes App menu. 
+Setting your collar to No Transfer in the Next Owner permissions will prevent the next owner of the collar (your customer) from generating New Theme data. 
 
-Before beginning this process you will want to set up your collar design with a default appearance. Apply textures, colors and other attributes 
+# Configuring Themes
+
+1 Before beginning this process you will want to set up your collar design with a default appearance. Apply textures, colors and other attributes 
 so your collar looks finished.
 
-Once you are happy with your collar's appearance, go to the Apps | Themes menu of your collar. When you click the New Theme button, the script 
+2 Once you are happy with your collar's appearance, go to the Apps | Themes menu of your collar. When you click the New Theme button, the script 
 will "dump" the collar face parameters list into the Local Chat window. You can use Copy & Paste to save this parameters list to a notecard. 
 
-Name your notecard [Name].theme, where [Name] is the unique name to describe your theme.   The oc-themes script will use this [Name] in the 
+3 Name your notecard [Name].theme, where [Name] is the unique name to describe your theme.   The oc-themes script will use this [Name] in the 
 Apply Theme menu. For instance, a notecard named Default.theme will show in the Apply Theme menu as Default.
 
 Collar designers can use this face parameters list to create multiple themes for your design. Because of SecondLife notecard size limitations, 
