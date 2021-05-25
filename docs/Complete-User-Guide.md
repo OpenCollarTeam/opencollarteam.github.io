@@ -32,6 +32,7 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 * [Apps](/docs/Apps)
 * [Outfits](/docs/Outfits)
 * [Settings](/docs/Settings)
+* [Themes](/docs/Themes)
 * [Help / About](/docs/Help-About)
 * [Remote](/docs/Remote)
 * [Weld](/docs/Weld)
