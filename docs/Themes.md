@@ -57,3 +57,5 @@ each notecard as needed to generate unique names in the Apply Theme menu. Then g
 theme to be properly applied. When you have added your .theme notecards to the collar contents, the collar will report how many themes are in 
 the collar's inventory, and restart the collar.
 
+> Contributed by Ping Duffield and Silkie Sabra
+
