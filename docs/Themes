@@ -15,7 +15,8 @@ Setting your collar to No Transfer in the Next Owner permissions will prevent th
 will "dump" the collar face parameters list into the Local Chat window. 
    * The resulting chat log contains a block for every prim in the collar.  Each block starts with the number and name of the prim in brackets, followed by a value 
    that tells if the name and link number have to match or if the script will use just the link number.  For instance:  
-   `[1/OpenCollar/0] Says "This is link #1, its name is OpenCollar, use just the link number".
+   `[1/OpenCollar/0]` Says "This is link #1, its name is OpenCollar, use just the link number".
+   * The entire group of lines after this describe each face of the prim and say what texture to apply there.  !0 is face #0, !1 is face #1, etc.
 
 2. Copy and paste this dump to a text editor.  Copy the parameters you want to use from the chat log (dump) in the text editor to a notecard.
 
