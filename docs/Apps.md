@@ -49,7 +49,7 @@ Removes selected bookmarks from the menu.
 
 # Capture
 
-Capture gives temporary Trusted level access to a Captor.  
+Capture gives temporary Trusted level access to a Captor.  If the Captor already has collar access, for instance if public access is set, touching the collar will get the collar menu directly.  In this case, if you still want to use capture, use the chat command described below.   
 - **Enabled** - When checked, it is possible to capture the wearer via chat command or by touching the collar which will deliver a dialogue: "Do you want to capture xx?". If the captor says yes, the wearer gets a dialog.
 > `[prefix] capture` Captures the wearer. Not available to the wearer.
 >`[prefix] capture`Ends capture.  Not available to the wearer.
