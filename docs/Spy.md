@@ -27,7 +27,7 @@ Note that whenever the owner activates any of the Spy app functions, the wearer 
 
 # Removing Spy
 
-The Spy app functions can only be turned off by the collar owner (NOT the wearer-owner).  To remove Spy from the collar, unlock the collar, right-click the collar, and select "edit". Find the contents tab, and then scroll down to find the oc_spy script. Right-click the script and delete it. The collar will re-boot after a few moments; when the reboot is complete the wearer needs to relog to clear Spy from the Apps menu.
+The Spy app functions can only be turned off by the collar owner (NOT the wearer-owner).  To remove Spy from the collar, unlock the collar, right-click the collar, and select "edit". Find the contents tab, and then scroll down to find the oc_spy script. Right-click the script and delete it. The collar will re-boot after a few moments; when the reboot is complete the wearer needs to relog to clear Spy from the Apps menu.   
 _________________________________________________   
 Documentation by Trinkitz and Silkie Sabra
 
