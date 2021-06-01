@@ -201,10 +201,6 @@ Silkie Sabra, Roadside Collar Shrine
 Social Hangout  
 [http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)  
 
-Silkie Sabra, Bondage Ranch  
-BDSM Hangout, Hunting Ground, & Roleplay  
-[http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29](http://maps.secondlife.com/secondlife/Bondage%20Ranch/94/208/29)  
-
 sinkt, Starbuck's Lair  
 Gay Sex & BDSM Dungeon  
 [http://maps.secondlife.com/secondlife/Tristan%20Vale/116/242/2212](http://maps.secondlife.com/secondlife/Tristan%20Vale/116/242/2212)  
