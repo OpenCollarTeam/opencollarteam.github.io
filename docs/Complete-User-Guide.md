@@ -45,7 +45,8 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 ## Manual Pages for Extra Apps Available on Git or at OpenCollar Headquarters
 * [Spy](/docs/Spy)
 
-##  Contribution Guide
+##  Development
 * [Development Life Cycle](/docs/Development-Life-Cycle)
+* [Beta Testing Checklist](docs/Manual-Test-Suite)
 
 ## 
