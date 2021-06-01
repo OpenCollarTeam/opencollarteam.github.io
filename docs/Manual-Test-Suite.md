@@ -6,12 +6,10 @@ If you're running tests and find an issue, please report it at https://github.co
 
 - Try updating an older collar (3.X-6.5) using a regular updater.  You should see no error messages.  The version number in dialogs should be updated.
 - Try updating a 6.6/6.7 collar using the seed script and a regular updater. 
-- Try updating a V7.X collar using a regular updater.
+- Try updating a V7.X collar to V8.X using a regular updater.
 - Set an owner.  Update the collar.  Check that the owner is still set.
-- Try removing animations from your collar's Animator prim, then doing an update.  The animations should be replaced.
-- Try having both a .couples card and a !couples card in the animator prim.  Customizations to the .couples card should be overwritten by an update, but customizations to !couples should not.
 - Try deleting the "nadu" animation from your collar, and then renaming "tower" to "nadu".  Then do an update.  Both "tower" and "nadu" should be replaced.
-- Put a no-copy "nadu" animation into the animator prim, then do an update.  It should be left in place (we never delete/replace no-copy anims).
+- Put a no-copy "nadu" animation into collar contents, then do an update.  It should be left in place (we never delete/replace no-copy anims).
 - Check the "Experience" attached to the scripts in the updater.  It should be the "OpenCollar" experience owned by "nirea" for all scripts.  (We're not using any experience-specific features in the collar yet, but are using it so users who want to verify that they have an unmodified official version can do so.)
 
 # Interface
