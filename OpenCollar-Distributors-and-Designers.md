@@ -177,7 +177,6 @@ Sadie Dubratt, Kitty Creations
 Shop Featuring Old World Fantasy Clothing Furniture, Home and Garden  
 [http://maps.secondlife.com/secondlife/Sadleirian/177/149/548](http://maps.secondlife.com/secondlife/Sadleirian/177/149/548)   
 
-
 Safra Nitely, Darkwing-Barns Stables  
 Pony Girl & Pet Play  
 [http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993](http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993)  
@@ -196,7 +195,7 @@ Adult Sandbox & Shop
 
 Silkie Sabra, K-Bar West  
 Western Themed D/s Roleplay  
-[http://maps.secondlife.com/secondlife/KBar%20West/51/125/24](http://maps.secondlife.com/secondlife/KBar%20West/51/125/24)  
+[http://maps.secondlife.com/secondlife/KBar%20West/59/121/24](http://maps.secondlife.com/secondlife/KBar%20West/59/121/24)  
 
 Silkie Sabra, Roadside Collar Shrine  
 Social Hangout  
