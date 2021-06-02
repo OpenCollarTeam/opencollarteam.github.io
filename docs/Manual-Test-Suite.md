@@ -29,7 +29,7 @@ If you're running tests and find an issue, please report it at https://github.co
 - Try adding an owner.
 - Try running away.
 - Try adding an owner, then another.  The second should fail.
-- Try setting OwnSelf, then adding an owner, then adding another.  Both additions should succeed.
+- Try going to + Owner and select Wearer, then add another owner, then add an owner again. All three owners should succeed. Check your work in List Access.  
 - Try adding an owner, then having that owner add another.  The second should succeed.
 - Try adding and removing people from the Trust and Block lists.
 - Try enabling Group access.  People in the same active group as the collar should be able to give commands (try "nadu" for example).
