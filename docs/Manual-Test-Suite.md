@@ -1,4 +1,4 @@
-This is a list of things to try when testing a new OpenCollar release.  It's a work in progress.  Please add more!
+This is a list of things to try when testing a new OpenCollar release.  It's a work in progress. It is not complete. Please add more!
 
 If you're running tests and find an issue, please report it at https://github.com/OpenCollarTeam/OpenCollar/issues.
 
