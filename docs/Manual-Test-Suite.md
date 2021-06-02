@@ -29,8 +29,9 @@ If you're running tests and find an issue, please report it at https://github.co
 - Try adding an owner.
 - Try running away.
 - Try adding an owner, then another.  The second should fail.
-- Try setting OwnSelf, then adding an owner, then adding another.  Both additions should succeed.
+- Try adding the wearer as an owner, then adding an owner, then adding another.  Both additions should succeed.
 - Try adding an owner, then having that owner add another.  The second should succeed.
+- Try adding an owner, and then having that owner try to remove or block the wearer. the wearer should get a prompt to allow this.
 - Try adding and removing people from the Trust and Block lists.
 - Try enabling Group access.  People in the same active group as the collar should be able to give commands (try "nadu" for example).
 - Try using the "safeword" command to tell you your current safeword.
@@ -40,6 +41,7 @@ If you're running tests and find an issue, please report it at https://github.co
 # Capture
 - Try enabling "Capture" mode.  Leave the Risky box unchecked.  When someone touches your collar, you should see a dialog asking whether to grant them access.
 - Try enabling "Capture" mode.  Also check the Risky box.  When someone touches your collar, they should immediately get access.
+- Try using Capture while the collar is set to Public access. Capture should fail.
 
 # Leash
 - Test saying "leashmenu" to bring up the leash menu.
@@ -48,6 +50,7 @@ If you're running tests and find an issue, please report it at https://github.co
 - Test the "pass" command for passing the leash to someone else.
 - Test the "length" command for changing the leash length.
 - Test the "anchor" command for leashing to an object.
+- Leash to an object, and then relog. Wearer should be re-leashed when they log back in.
 - Test walking away while leashed.  You should get pulled back.
 - Test changing the leash particles using the Leash -> Configure menu.
 - With RLV enabled, test setting Strict mode in Leash -> Configure.  You should be unable to TP while leashed in Strict mode.
