@@ -31,7 +31,7 @@ If you're running tests and find an issue, please report it at https://github.co
 - Try adding an owner, then another.  The second should fail.
 - Try adding the wearer as an owner, then adding an owner, then adding another.  Both additions should succeed.
 - Try adding an owner, then having that owner add another.  The second should succeed.
-- Try adding an owner, and then having that owner try to remove or block the wearer. the wearer should get a prompt to allow this.
+- Try adding an owner, and then having that owner try to remove or block the wearer. The wearer should get a prompt to allow this.
 - Try adding and removing people from the Trust and Block lists.
 - Try enabling Group access.  People in the same active group as the collar should be able to give commands (try "nadu" for example).
 - Try using the "safeword" command to tell you your current safeword.
