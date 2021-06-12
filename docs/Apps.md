@@ -135,6 +135,8 @@ It will also lock and unlock the **required system layers.** These cannot be rem
 - skin
 - shape
 - eyes, 
--  hair (hair base/eyebrow shaper)
+-  hair (hair base/eyebrow shaper)   
 
+_______________________   
+Contributors:  Silkie Sabra, Trinkitx   
  
