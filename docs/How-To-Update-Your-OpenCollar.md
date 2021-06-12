@@ -17,7 +17,7 @@ These are very easy updates.
 * Go to Help / About and Press Update
 * The update will begin.
 
-**NOTE**: Version 7.4 moved all scripts and contents to the root prim.  You will not be able to easily roll back this and later versions with an older updater.  If you think you might want your old version back, save a copy. 
+**NOTE**: Since Version 7.4, all scripts and contents are in the root prim. When older OC versions are updated, the updater will move contents to root. You will not be able to easily roll back to a pre-7.4 version.  If you think you might want your pre-7.4, multi-scripted-prim version back, save a copy before you update. 
 
 # Building from Scratch
 
