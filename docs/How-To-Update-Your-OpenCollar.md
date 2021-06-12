@@ -7,7 +7,7 @@ This page covers four ways to update a collar easily: | [From Scratch](#from-scr
 The Updater listens on channel -7483213; and on -7483214 when updating older collars (3.X)  
 
 # Current version
-We are currently at OpenCollar V7.4 as of 8 April 2020 !  
+We are currently at OpenCollar V8.0.5 as of 12 June 2021 !  
 
 ## Update to current version from V 7.0 and up; and from V 4.X through 6.5.2.
 
@@ -17,7 +17,7 @@ These are very easy updates.
 * Go to Help / About and Press Update
 * The update will begin.
 
-**NOTE**: the V 7.4 updater moves all scripts and contents to the root prim.  You will not be able to roll back this update easily with an older updater.  If you think you might want your old version back, save a copy. 
+**NOTE**: Version 7.4 moved all scripts and contents to the root prim.  You will not be able to easily roll back this and later versions with an older updater.  If you think you might want your old version back, save a copy. 
 
 # Building from Scratch
 
@@ -55,16 +55,16 @@ Beginning with OpenCollar V6.6, and for a short time until V 7.0 was produced (l
 * Rez or wear the collar.
 * Rez the updater
 * Examine the contents of the collar's root prim and delete the script named oc_root.
-* drop the oc_update_seed script into the root prim of the collar. 
+* Drop the oc_update_seed script into the root prim of the collar. 
 * Update will begin.
 
 ## Why can't my collar be updated?
-Some third party collars block the use of an OpenCollar V7 updater even though some or all of the collar scripts may be derived from OpenCollar.  To update these collars it is first necessary to delete the scripts, then use the collarizer method.
+Some third party collars block the use of an OpenCollar updater even though some or all of the collar scripts may be derived from OpenCollar.  To update these collars it is first necessary to delete the scripts, then use the collarizer method.
 1. Rez the collar. 
 2. Right click and edit the collar. 
 3. In the Build Menu of your viewer (this instruction based on Firestorm viewer) Go to > Scripts > Select "remove scripts from selection." 
 4. Wait until the window that pops up showing deletion process says "done". You can confirm there are now no scripts in the collar with Build Menu > Scripts > Show Script Info. It should show [0/0] Running Scripts. Repeat step 3 if necessary.  
-5. Rez OpenCollar updater 7.4 next to the collar. 
+5. Rez the OpenCollar updater for the current version next to the collar. 
 7. Edit the collar again, and add the collarizer script to contents. The updater will run.  
 
 Consult [How To Build your OpenCollar](/docs/How-to-Build-Your-OpenCollar) for more details and illustrations.
