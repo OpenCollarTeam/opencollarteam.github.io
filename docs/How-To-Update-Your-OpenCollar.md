@@ -37,7 +37,7 @@ Follow the instructions in the script:
 
 This is worthwhile if your very old collar is a custom build or sentimental item you want to bring up to date. After the update, you may need to rearrange the added child prims in Edit Linked to center them in the collar and make the Animator and Settings prims easier to locate if needed. In very old collars, the rotations may not function as expected.
 
-* Rez or wear the collar unlocked
+* Rez or wear the collar unlocked. NOTE: Some V3x collars will not update unless rezzed. These should give you that message in local chat.
 * Rez the updater.
 * In the collar menu go to Help / About or Help / Debug
 * Press update. Accept the permissions request to add prims. The update will begin. 
