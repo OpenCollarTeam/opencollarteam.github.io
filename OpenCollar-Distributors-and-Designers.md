@@ -161,6 +161,10 @@ ponygirlsarah.clapper, Pony City
 Pony Girl RP Community  
 [http://maps.secondlife.com/secondlife/Sarahs%20Island/129/86/23](http://maps.secondlife.com/secondlife/Sarahs%20Island/129/86/23)  
 
+Quaylie Vintner, Markquayz II   
+Club, Romance and BDSM   
+[http://maps.secondlife.com/secondlife/Blue%20Seas/141/168/22](http://maps.secondlife.com/secondlife/Blue%20Seas/141/168/22)   
+
 Randy Marenwolf, RLV: Reality & Magic In SL  
 RLV Education Center  
 [http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57](http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57)  
