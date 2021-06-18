@@ -39,6 +39,10 @@ Broken Swords, Valnor
 Female Dominated Medieval Themed Fantasy Roleplay (RLV & GM Enforced)  
 [http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
 
+Button Wright, Frilly Filly Farm   
+Pony Play, Tack Shop   
+[http://maps.secondlife.com/secondlife/Oraenji/170/99/90](http://maps.secondlife.com/secondlife/Oraenji/170/99/90)   
+
 Carin March, Sweet Domination  
 Dungeon Play Area  
 [http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201) 
