@@ -7,18 +7,27 @@ Access is the OpenCollar ownership tool. **Associated Script:** [oc_core](https:
 There is a cap of 28 avatars across all named Access levels: Owner, Trusted, Blocked, and Temp Owner.
 
 # Owner
-Owners have the highest rank of access on the collar.  The collar access, exceptions, lock, leash and some RLV functions are sensitive to rank.  Once an owner is set, unless OwnSelf is checked, the wearer can no longer use the access menu or add exceptions or unlock the collar.  Also the wearer cannot unleash from an owner without safewording.    
+Owners have the highest rank of access on the collar.  The collar access, exceptions, lock, leash and some RLV functions are sensitive to rank.  Once an owner is set, the wearer can no longer alter the access settubgs or add exceptions or unlock the collar.  Also the wearer cannot unleash from an owner without safewording.    
 
 ## +/- Owner
-Adds and removes Owners.  Only owners can add and remove owners, and wearer if OwnSelf is checked.  Limit three owners.  The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
+Adds and removes Owners.  
+* Only owners can add and remove owners.  
+* The collar wearer is owner by default until an owner is set.  
+* Once an owner is set, the wearer loses owner access and drops to the lowest level of access.
+* In this guide, "wearer" refers to this lowest level of access:  "wearer" access is what you have when you have set an owner other than yourself.
+
+### To Add the Wearer to Owner Access 
+Go to + Owner and press `>WEARER<` .  This can only be done by an owner.  Therefore if the wearer wants to retain owner access, do this step **before** adding an owner.
+
+### To Add Owners Remotely  
+
+The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add or remove an owner remotely.
 
 >`[prefix] add owner [user name or UUID]`  
 >`[prefix] rm owner [user name or UUID]`  
 >`auth=owner~[UUID,UUID]` for one or more owners up to 255 characters.  If the line reaches more than 255 characters, start a new line:  
 >`auth+owner~[UUID]` for additional owners.
 
-- **To add the owner to wearer, go to + Owner and press >WEARER<**
-- (V 7.3 and previous, check OWNSELF to add the wearer to owner)
    
 # Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
