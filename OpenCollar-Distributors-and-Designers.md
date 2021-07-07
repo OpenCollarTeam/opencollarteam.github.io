@@ -104,6 +104,11 @@ HaydenPryce, Xaara
 D/s Community, Art Gallery & Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
 
+Hectic1, HEC (Hot Elegant Clothing)   
+Shop   
+[http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001)   
+**Advisory:** Walk South to point 65 on the beacon from the fixed landing point.
+
 Ian Junibalya, Black Quarters   
 Transformation Playground   
 [http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601](http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601)   
