@@ -128,7 +128,7 @@ Shop
 
 Knottykarma, Strangelove Fetish Manor   
 Club, Roleplay, Garden Area open to the public   
-[http://maps.secondlife.com/secondlife/Sekmet/226/103/34](http://maps.secondlife.com/secondlife/Sekmet/226/103/34)   
+[http://maps.secondlife.com/secondlife/Guittarez/177/85/3186](http://maps.secondlife.com/secondlife/Guittarez/177/85/3186)   
 
 Lady Harcassle, Shades of Emotions  
 BDSM Themed Nightclub  
