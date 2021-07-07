@@ -107,7 +107,7 @@ D/s Community, Art Gallery & Theater
 Hectic1, HEC (Hot Elegant Clothing)   
 Shop   
 [http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001)   
-**Advisory:** Walk South to point 65 on the beacon from the fixed landing point.
+**Advisory:** Walk South 65m, following the beacon from the fixed landing point.
 
 Ian Junibalya, Black Quarters   
 Transformation Playground   
