@@ -70,6 +70,11 @@ Mesh Collars - 75L to 250L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Mayhem/135/192/2001](http://maps.secondlife.com/secondlife/Mayhem/135/192/2001)  
 Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketplace.secondlife.com/stores/211817) 
 
+Dahlia (June Fallon)   
+Original Mesh Luxury Collars with HD Materials Textures - starting at 175L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Daydreaming/189/96/22](http://maps.secondlife.com/secondlife/Daydreaming/189/96/22)   
+Marketplace:  [https://marketplace.secondlife.com/stores/169798](https://marketplace.secondlife.com/stores/169798)   
+
 Danger Kitty's Sweets (Sweetdangerkitty)   
 "Kitty's Hearts" Plugin - 200L   
 Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketplace.secondlife.com/stores/220939)   
