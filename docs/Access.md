@@ -3,6 +3,8 @@ layout: home
 title: The Access Menu
 ---
 
+[Trusted](#trusted) | [Group](#group) | [Public](#public)  
+
 Access is the OpenCollar ownership tool. **Associated Script:** [oc_core](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_core.lsl), [oc_api](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_api.lsl)    
 There is a cap of 28 avatars across all named Access levels: Owner, Trusted, Blocked, and Temp Owner.
 
@@ -33,6 +35,17 @@ Trusted gives named individuals the same level of access as Public and Group.  T
 
 >`[prefix] add trust [name or UUID]`    
 >`auth=trust~[UUID]`  
+
+## Trusted Access Permissions -- List  
+> Lock / Unlock = NO  
+> Access
+>> Add / Remove Owner = NO
+>> Add / Remove Trusted = NO
+>> Add / Remove Public = YES  (new in 8.0.5)
+>> Add / Remove Group = YES  (new in 8.0.5)
+>> 
+> Leash / Unleash, Follow, Anchor, Configure = YES *unless previously set by Owner.*
+> 
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
