@@ -36,16 +36,36 @@ Trusted gives named individuals the same level of access as Public and Group.  T
 >`[prefix] add trust [name or UUID]`    
 >`auth=trust~[UUID]`  
 
-## Trusted Access Permissions -- List  
+## Trusted Permissions -- List  
 > Lock / Unlock = NO  
-> Access
->> Add / Remove Owner = NO
->> Add / Remove Trusted = NO
->> Add / Remove Public = YES  (new in 8.0.5)
->> Add / Remove Group = YES  (new in 8.0.5)
+> **Access**
+>> Add / Remove Owner = NO   
+>> Add / Remove Trusted = NO   
+>> Block = NO
+>> Add / Remove Public = YES  (new in 8.0.5)   
+>> Add / Remove Group = YES  (new in 8.0.5)   
 >> 
-> Leash / Unleash, Follow, Anchor, Configure = YES *unless previously set by Owner.*
-> 
+> **Leash** -- can be set and unset by Trusted unless currently set by Owner.
+>> Leash / Unleash = YES
+>> Follow, Anchor, Configure = YES 
+>> Set length = YES
+> **Animations** 
+>> Set Pose = YES  
+>> Animlock = NO  
+>> Posture = NO  
+> **RLV**  
+>> Force Sit = YES  
+>> Unsit = YES  
+>> Set / Unset Strict Sit = NO   
+>> Macros = NO   
+>> Restrictions = YES
+>> Folders = YES   
+>> RLVSettings =  NO
+>> Relay Settings = NO
+> **Dress / Undress**
+>> Outfits = YES
+>> Detach = YES
+>> Undress = YES
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
