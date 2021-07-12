@@ -47,6 +47,6 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 
 ##  Development
 * [Development Life Cycle](/docs/Development-Life-Cycle)
-* [Beta Testing Checklist](/docs/manual-test-suite)
+* [Beta Testing Checklist](Manual-test-suite)
 
 ## 
