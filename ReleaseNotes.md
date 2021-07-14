@@ -2,10 +2,65 @@
 layout: home
 title: OpenCollar Release Notes
 ---
+OpenCollar V 8.1 is current ! Thanks to many contributors, including Scripters Medea Destiny, Khianna (khee44); Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Trinkitz and Omnia (animavenator); as always Nirea Mercury; and many many more who posted issues and pull requests and provided feedback.
 
-# V 8.0 Release:  Changelog
+# V 8.1 Release:  Changelog
 
-## New Features:  
+## New Features for V 8.1  
+### Global
+> Expanded explanatory texts in many menus.  
+> Restored menuto function to interface channel for backward compatibility  
+
+### Access
+> Wearers can now add to Trusted and Block List if Wearer Trusted is checked in Access.    
+> Wearer now gets an accept/deny dialog when owner disables Runaway  
+
+### Settings  
+> Limit Range moved to Settings  
+> Added warning to Settings print not to copy bookmarks to Settings notecard.  Instead, make a separate .bookmarks notecard.  
+
+### RLV > Folders  
+> Added **Hide ~** Button to Folders > Configure to hide folders beginning with "~" (Give-to-RLV folders).  
+
+### Undress App  
+> Added chat commands: 
+ >> `[prefix] undress [layer]` removes system layer. 
+ >> `[prefix] undress lock [layer]` locks system layer.  
+ >> `[prefix] undress unlock [layer]` unlocks system layer.  
+ 
+## Bug Fixes
+
+### Global  
+Restored interface channel listener and Highlander code to disallow wearing multiple collars.
+### Access
+> Trusted is no longer able to unlock the collar  
+> Trusted can no longer set Group or Public access
+> Group Setting now clears correctly when changing group mode, and group mode can no longer be set if no group is active.
+
+### Settings
+Fixed permissions to print Settings so it is limited to owner and wearer.
+
+### RLV
+> Fixed incorrect handling of folder-level permissions for browsing #RLV (this was causing "Access Denied" notices to be sent for other actions).  
+> Changing camera settings while restrictions are in place will now update the view in real time.
+> Fixed Dazzle restriction not setting.
+
+### Relay
+> Corrected Relay so Access Denied -- Out of Range messages are no longer triggered and sent to object owners when an object incidentally chats a collar prefix.  
+> Corrected Relay timing to improve recapture and avoid conflicts with internal collar rlv.   
+
+### Undress App
+Fixed oc_undress not displaying extended layers (alpha, tattoo, universal)
+
+
+
+_______________________________________________________    
+
+# Previous Releases
+
+## V 8.0 Release:  Changelog
+
+### New Features:  
 - OpenCollar Remote can now be used by the collar wearer on their own collar
 - There is now a "weld" capability.  
 - You can add a setting using the Settings editor, useful for settings that have no corresponding menu button.  No need to create a notecard for these.
@@ -16,7 +71,7 @@ title: OpenCollar Release Notes
 - New themes creation ability for creators (only available on full permission collars).
 - AddOns: New script makes it easier to connect other worn attachments and HUDs to the collar menu.
 
-## All Scripts
+### All Scripts
 - New startup sequence to fix settings problems. All scripts were updated to utilize the Callback feature, and will attempt to force-load all settings after hearing the initial TIMEOUT_READY signal. This is effectively 1 setting per second per script.
 - Add DIALOG_TIMEOUT handling to scripts that were missing this signal handler
 - Set memory limits in scripts to reduce the max available memory if a script never actually uses the full amount allowed by the simulator.
@@ -25,7 +80,7 @@ title: OpenCollar Release Notes
      * Command to re-enable safeword is to set the safeword to ANYTHING EXCEPT OFF: <prefix> safeword RED
 - **SECURITY PATCH:** The collar now has a few security safeguards. In 7.5 there was an exploit that was discovered which utilized the collar remote to override the access list and even change the owners altogether. This manifested itself as something that would grab your relay then change your owners, masking the true cause of this exploit. This patch requires that all access list changes MUST go through the access menu or its related chat commands. The weld feature is also now safeguarded by a similar protocol, and is easy enough to bypass with legitimate intentions. If you plan to delete anything in the intern namespace, just pass the key value of "origin", and for anything in the auth namespace, same, just pass "origin" as the key value. This same security policy is also applied to the load url command. If the URL contains auth list modifications, it will block it from happening, unless the user reviews the URL contents and consents to said modifications.
 
-## New Scripts  
+### New Scripts  
 - oc_api : 
     * New: Addons subsystem
     * Handles auth
@@ -44,7 +99,7 @@ title: OpenCollar Release Notes
    * oc_auth, oc_com, oc_sys combined into oc_api, oc_core
         
 
-## Revised Scripts
+### Revised Scripts
 
 - oc_anim : 
    * Full rewrite with anti-slide kept in mind. Anti-slide is no longer able to be turned off, it also now attempts to circumvent most AOs that use higher priority animations.
@@ -80,13 +135,13 @@ title: OpenCollar Release Notes
 
 -----------------------------------------------------------------------------------------------
 
-# V 7.5  (aka V7.4.1)   
+## V 7.5  (aka V7.4.1)   
 OpenCollar V 7.5 should be named OpenCollar V 7.4.1 but due to naming restrictions left over from V6 days we can't name it that.  So V 7.5 it is.  V 7.5 includes a bug fix to the force sit and could not wait to be released.   
 **Dateline 22 April 2020**
 
 As always, every old and new script on this list is licensed under the GPL V2.
 
-# V 7.4   
+## V 7.4   
 
 OC 7.4 is a major release, involving physical changes to the scripted prims.  Rolling back to previous versions is not possible using just an updater.     
 **Release Date 07 April 2020**   
