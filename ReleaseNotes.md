@@ -20,7 +20,7 @@ OpenCollar V 8.1 is current ! Thanks to many contributors, including Scripters M
 > Added warning to Settings print not to copy bookmarks to Settings notecard.  Instead, make a separate .bookmarks notecard.  
 
 ### RLV > Folders  
-> Added **Hide ~** Button to Folders > Configure to hide folders beginning with "~" (Give-to-RLV folders).  
+> Added **Hide ~** Button to Folders / Configure to hide folders beginning with "~" (Give-to-RLV folders).  
 
 ### Undress App  
 > Added chat commands: 
