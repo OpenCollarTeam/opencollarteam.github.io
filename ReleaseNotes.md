@@ -18,6 +18,7 @@ OpenCollar V 8.1 is current ! Thanks to many contributors, including Scripters M
 ### Settings  
 > Limit Range moved to Settings  
 > Added warning to Settings print not to copy bookmarks to Settings notecard.  Instead, make a separate .bookmarks notecard.  
+> **Listen 0** button added to turn off listening on channel 0 (local chat line).
 
 ### RLV > Folders  
 > Added **Hide ~** Button to Folders / Configure to hide folders beginning with "~" (Give-to-RLV folders).  
