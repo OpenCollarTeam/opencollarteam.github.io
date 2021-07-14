@@ -79,6 +79,10 @@ Danger Kitty's Sweets (Sweetdangerkitty)
 "Kitty's Hearts" Plugin - 200L   
 Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketplace.secondlife.com/stores/220939)   
 
+Devotion (lottiehottie86)   
+Mesh Collars 200-300L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/GoldLand/205/125/3504](http://maps.secondlife.com/secondlife/GoldLand/205/125/3504)   
+
 Emerald Dust (Emdragon)  
 Cock Cages, Clothing, & Toys - 80L to 160L  
 Inworld shop: [http://maps.secondlife.com/secondlife/Bravium/72/86/2817](http://maps.secondlife.com/secondlife/Bravium/72/86/2817)   
