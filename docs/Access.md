@@ -43,15 +43,18 @@ This list states the permissions Trusted has, not what they do not have--for cla
 >> Leash / Unleash = YES unless leash is set by an owner.    
 >> Leash Override if set by Public, Group or Wearer.   
 >> Follow, Anchor, Configure  
->> Set length 
-> **Animations** 
+>> Set length   
+
+> **Animations**    
 >> Call Pose  
->> Call Couples Animation
+>> Call Couples Animations  
+ 
 > **RLV**  
 >> Force Sit  
 >> Unsit        
 >> Restrictions (Individual)
 >> Folders    
+
 > **Dress / Undress**   
 >> Outfits 
 >> Detach 
