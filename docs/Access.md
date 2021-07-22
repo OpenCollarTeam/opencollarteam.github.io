@@ -39,9 +39,9 @@ Trusted gives named individuals the same level of access as Public and Group.  T
 ## Trusted Permissions -- List  
 
 This list states the permissions Trusted has, not what they do not have--for clarity and brevity.  
-> **Leash** -- can be set and unset by Trusted unless currently set by Owner.
->> Leash / Unleash = YES unless leash is set by an owner
->> Leash Override if set by Public, Group or Wearer.
+> **Leash** -- can be set and unset by Trusted unless currently set by Owner.   
+>> Leash / Unleash = YES unless leash is set by an owner.    
+>> Leash Override if set by Public, Group or Wearer.   
 >> Follow, Anchor, Configure  
 >> Set length 
 > **Animations** 
@@ -52,7 +52,7 @@ This list states the permissions Trusted has, not what they do not have--for cla
 >> Unsit        
 >> Restrictions (Individual)
 >> Folders    
-> **Dress / Undress**
+> **Dress / Undress**   
 >> Outfits 
 >> Detach 
 >> Undress 
