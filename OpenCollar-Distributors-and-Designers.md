@@ -137,9 +137,8 @@ BDSM Themed Nightclub
 
 LadyLisaWild, Erziehungs Anstalt  
 German BDSM Club, Dungeon, & Roleplay  
-
-[http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001](http://maps.secondlife.com/secondlife/Ecstasy%20Caye/92/128/2001)  
-**Advisory:** Take teleporter at Landing Point to "EA Home". 
+[http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11](http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11)  
+**Advisory:** Vendor is inside a shop approx 40 m NW of landing point. 
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground & Club  
@@ -196,7 +195,7 @@ Pony Girl & Pet Play
 
 Serjourn Daxter, Pirandello Bay  
 Shop, BDSM Dungeon & Roleplay  
-[http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/201/166/21)  
+[http://maps.secondlife.com/secondlife/Pirandello%20Bay/196/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/196/166/21)  
 
 Seth Ock, Griseus Farms  
 Human Livestock, Medical Play, & Alien Abductions Roleplay  
@@ -216,7 +215,7 @@ Social Hangout
 
 sinkt, Starbuck's Lair  
 Gay Sex & BDSM Dungeon  
-[http://maps.secondlife.com/secondlife/Tristan%20Vale/116/242/2212](http://maps.secondlife.com/secondlife/Tristan%20Vale/116/242/2212)  
+[http://maps.secondlife.com/secondlife/Tristan%20Vale/77/85/3102](http://maps.secondlife.com/secondlife/Tristan%20Vale/77/85/3102)  
 
 Susann DeCuir, Angel of Pain  
 Deutsch & English BDSM Playground  
