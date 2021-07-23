@@ -121,7 +121,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketpl
 
 Lo Kajirus Designs (Modernprimitive)   
 Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102](http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102)  
+Inworld Shop: Currently none.  
 Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 Majestix (MadyHades)   
@@ -178,7 +178,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/197511](https://marketp
 
 Short Leash (shortleash)   
 Original Kinky Mesh Collar Designs, Pet Play - 249-399 L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/205/142/26](http://maps.secondlife.com/secondlife/Short%20Leash/205/142/26)   
 Marketplace:  [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
 
 
