@@ -4,8 +4,8 @@ title: OpenCollar Cuffs!
 ---
 The OpenCollar Cuffs are available inworld at the OpenCollar Theater. 
 
-OC Cuffs 8.0 Beta
-OpenCollar Cuff Attachment Builder's Guide and Configuration
+OpenCollar Addon Cuffs Version 1.0.0
+OpenCollar Cuff Addon Builder's Guide and Configuration
 
 --Highlights--
 
