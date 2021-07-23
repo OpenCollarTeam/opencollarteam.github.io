@@ -15,7 +15,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketpla
 
 AMBIX (xambiguityx)  
 Mesh Collars - 399L to 599L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Avon/94/226/3751](http://maps.secondlife.com/secondlife/Avon/94/226/3751)  
+Inworld Shop: Currently none.  
 Marketplace: [https://marketplace.secondlife.com/stores/159850](https://marketplace.secondlife.com/stores/159850)  
 
 Anna's Bondage Shop Mainstore (AnnarussianMiss)  
@@ -41,7 +41,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketpla
 
 Bound Infinity (Cara Lionheart)  
 Mesh Collars - 0L to 150L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Iseul/177/113/75](http://maps.secondlife.com/secondlife/Iseul/177/113/75)   
+Inworld Shop: Currently none.   
 Marketplace: [https://marketplace.secondlife.com/stores/145309](https://marketplace.secondlife.com/stores/145309)  
 
 Bright Corporation (Shan Bright)    
@@ -155,7 +155,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketpl
 
 QUINN (Quinn1969)   
 Mesh Collar 100L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Ghulffoot/122/137/22](http://maps.secondlife.com/secondlife/Ghulffoot/122/137/22)   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Pastiche/25/75/21](http://maps.secondlife.com/secondlife/Pastiche/25/75/21)   
 
 RealEvil Industries (crashnoww)   
 Mesh Collars & Jewelry - 149L to 599L  
@@ -178,13 +178,13 @@ Marketplace:  [https://marketplace.secondlife.com/stores/197511](https://marketp
 
 Short Leash (shortleash)   
 Original Kinky Mesh Collar Designs, Pet Play - 249-399 L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/197/142/26](http://maps.secondlife.com/secondlife/Short%20Leash/197/142/26)   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
 Marketplace:  [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
 
 
 SLAM // kink & stuff (daPhuk)   
 Mesh Collars, Furniture, & Accessories - 545L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Sedna/76/37/2001](http://maps.secondlife.com/secondlife/Sedna/76/37/2001)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/SLAM/57/191/28](http://maps.secondlife.com/secondlife/SLAM/57/191/28)  
 Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)   
 
 Tempting Elegance (Angie Trefusis)   
@@ -194,7 +194,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/54438](https://marketpla
 
 Tethered BDSM (Torus Heliosense)  
 Mesh Collars & BDSM Furniture - 299L to 999L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/22](http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/221)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/22](http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/22)   
 Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)   
 
 Willow's Weakness (Willow Redstar)  
