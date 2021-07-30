@@ -3,7 +3,7 @@ layout: home
 title: Weld and Unweld
 ---
 
-Weld is a feature that appears in the main menu only when the collar is **locked.**  It is only visible to collar owners.  Wearers can use Weld if they are also owners (either by default or because they have added Wearer to the Owner list).  Weld permanently removes the ability to unlock the collar.
+Weld is a feature that appears in the main menu only when the collar is **locked.**  It is only visible to collar owners.  Wearers can use Weld if they are also owners (either by default or because they have added Wearer to the Owner list).  Weld permanently removes the ability to unlock the collar.  Weld does not reset when the collar is transferred, therefore it is possible to pass a previously welded collar to another avatar.  Weld will erase when the collar scripts are manually reset.
 # Weld   
 To enable weld, lock the collar and press Weld in the button that now appears in the main menu.   
 - Owners can enable Weld.   
