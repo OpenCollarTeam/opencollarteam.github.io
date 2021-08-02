@@ -119,11 +119,6 @@ Mesh Collar, Jewelry, & Clothing - 99L to 150L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Durumagi/32/108/3002](http://maps.secondlife.com/secondlife/Durumagi/32/108/3002)  
 Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketplace.secondlife.com/stores/189812)  
 
-Lo Kajirus Designs (Modernprimitive)   
-Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102](http://maps.secondlife.com/secondlife/Midnight%20Oasis/160/63/1102)  
-Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
-
 Majestix (MadyHades)   
 Mesh Collars and Accessories - 299L   
 Marketplace:  [https://marketplace.secondlife.com/stores/207943](https://marketplace.secondlife.com/stores/207943   
@@ -137,6 +132,11 @@ MKF (Modern Kink Fashion) (blackangelchris)
 Adult Jewelry BDSM Collar - 200L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Frenscent/109/199/1988](http://maps.secondlife.com/secondlife/Frenscent/109/199/1988)   
 Marketplace:  [https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547](https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547)   
+
+Modern Primitive (Modernprimitive)   
+Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Cira/94/77/2801](http://maps.secondlife.com/secondlife/Cira/94/77/2801)   
+Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
