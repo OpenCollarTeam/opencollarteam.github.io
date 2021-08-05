@@ -81,7 +81,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketpl
 
 Devotion (lottiehottie86)   
 Mesh Collars 200-300L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/GoldLand/205/125/3504](http://maps.secondlife.com/secondlife/GoldLand/205/125/3504)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/GoldLand/210/96/3980](http://maps.secondlife.com/secondlife/GoldLand/210/96/3980)   
 
 Emerald Dust (Emdragon)  
 Cock Cages, Clothing, & Toys - 80L to 160L  
