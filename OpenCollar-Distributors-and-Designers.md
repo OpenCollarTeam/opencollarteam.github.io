@@ -28,7 +28,7 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay Playground
 
 AussiePaul, You're Glowing Maternity Clinic  
 Pregnancy & Medical Roleplay  
-**Moving--temporarily unavailable**   
+[http://maps.secondlife.com/secondlife/Wingo/93/136/3032](http://maps.secondlife.com/secondlife/Wingo/93/136/3032)      
 
 Blaise Tomsen  
 Second Life Railroad  
