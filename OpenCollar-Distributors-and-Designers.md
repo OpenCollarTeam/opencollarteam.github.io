@@ -26,7 +26,7 @@ Aisha Marshdevil, Rubber Kingdom
 Fetish, Rubber, Bondage, Dungeons, Roleplay Playground  
 [http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21)  
 
-AussiePaul, You're Glowing Maternity Clinic  
+AussiePaul, Dr. Aussie Paul's Maternity Clinic
 Pregnancy & Medical Roleplay  
 [http://maps.secondlife.com/secondlife/Wingo/93/136/3032](http://maps.secondlife.com/secondlife/Wingo/93/136/3032)      
 
