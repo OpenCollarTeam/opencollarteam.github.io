@@ -109,6 +109,12 @@ Mesh Collars & Accessories - 399L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Ruby%20Caye/130/126/50](http://maps.secondlife.com/secondlife/Ruby%20Caye/130/126/50)    
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
+Krescendo (KrescendoStore)   
+Rigged and unrigged mesh collars - 345-400L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982](http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982)   
+*From the landing point, walk forward 8 m to find the Kitty collar, or Press the Adult section on the Teleport board and accept the Krescendo experience.*   
+Marketplace:  [https://marketplace.secondlife.com/stores/186645](https://marketplace.secondlife.com/stores/186645)   
+
 Kristen's (Kristen Mynx)  
 Mesh Collar & Cuff Set - 399L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002](http://maps.secondlife.com/secondlife/Tiratardi/92/90/2002)  
