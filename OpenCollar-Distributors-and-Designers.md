@@ -26,9 +26,9 @@ Aisha Marshdevil, Rubber Kingdom
 Fetish, Rubber, Bondage, Dungeons, Roleplay Playground  
 [http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21)  
 
-AussiePaul, Dr. Aussie Paul's Maternity Clinic
-Pregnancy & Medical Roleplay  
-[http://maps.secondlife.com/secondlife/Wingo/93/136/3032](http://maps.secondlife.com/secondlife/Wingo/93/136/3032)      
+AussiePaul, Aussie's Artifacts
+Shop and Maternity Roleplay  
+[http://maps.secondlife.com/secondlife/Critters/35/132/21](http://maps.secondlife.com/secondlife/Critters/35/132/21)      
 
 Blaise Tomsen  
 Second Life Railroad  
