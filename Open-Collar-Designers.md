@@ -173,6 +173,11 @@ Mesh Collars, Clothing, & Accessories - 349L to 699L
 Inworld Shop: [http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41](http://maps.secondlife.com/secondlife/The%20Birdcage/124/101/41)  
 Marketplace: [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)   
 
+Saltiveratia (Eolh)   
+Ribbon Bow and Leather Original Mesh Collars- 0L to 50L for single colors, 450 to 600L for fatpacks   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Ember%20Island/97/210/22](http://maps.secondlife.com/secondlife/Ember%20Island/97/210/22)   
+Marketplace:  [https://marketplace.secondlife.com/stores/151399](https://marketplace.secondlife.com/stores/151399)   
+
 Sergaltech Industries (Lukai Zufreur)   
 Mesh Collars, Toys, & Accessories - 100L  
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
