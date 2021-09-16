@@ -39,6 +39,11 @@ Mesh Collars - 199L to 250L
 Inworld Shop: [http://maps.secondlife.com/secondlife/DLicious/91/239/28](http://maps.secondlife.com/secondlife/DLicious/91/239/28)  
 Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
 
+BISON CORPS (leonardocore Adder)   
+Cyber and other mesh collars - 359L  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Ahjin/69/88/34](http://maps.secondlife.com/secondlife/Ahjin/69/88/34)   
+Marketplace: [https://marketplace.secondlife.com/pt-BR/stores/62411](https://marketplace.secondlife.com/pt-BR/stores/62411)   
+
 Bound Infinity (Cara Lionheart)  
 Mesh Collars - 0L to 150L  
 Inworld Shop: Currently none.   
