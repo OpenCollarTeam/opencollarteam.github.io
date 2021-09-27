@@ -25,7 +25,7 @@ Go to + Owner and press `>WEARER<` .  This can only be done by an owner.  Theref
 
 The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add an owner remotely.  Owners can be removed through the menu whether of not they are nearby.
 
->`[prefix] add owner [user name or UUID]`    
+>`[prefix] add owner [UUID]`    
 >`auth=owner~[UUID,UUID]` for one or more owners up to 255 characters.  If the line reaches more than 255 characters, start a new line:  
 >`auth+owner~[UUID]` for additional owners.
 
@@ -33,7 +33,7 @@ The UUID is the "key"--string of characters at the top of the inworld user profi
 # Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". 
 
->`[prefix] add trust [name or UUID]`    
+>`[prefix] add trust [UUID]`    
 >`auth=trust~[UUID]`  
 
 ## Trusted Permissions -- List  
@@ -91,8 +91,8 @@ Sends a readout of the list of owners and other access settings to chat.  Availa
 # Block    
 This allows the collar only to block named avatars from using the collar.  Use sparingly since this also adds to the memory consumption of the script.  
 
->Add to the Blocklist: `[prefix] add block [name or UUID]`  
->Remove from the Blocklist: `[prefix] rm block [name or UUID]`
+>Add to the Blocklist: `[prefix] add block [UUID]`  
+>Remove from the Blocklist: `[prefix] rm block [UUID]`
 >Add to Settings: `auth=block~<UUID>`
 
 # Runaway  
