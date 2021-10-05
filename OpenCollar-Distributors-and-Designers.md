@@ -45,11 +45,7 @@ Pony Play, Tack Shop
 
 Carin March, Sweet Domination  
 Dungeon Play Area  
-[http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201) 
-
-Castallia Maskalyne, S. A. G. (Slave Auction Group)  
-Slave Auctions  
-[http://maps.secondlife.com/secondlife/Slave%20Island/45/93/23](http://maps.secondlife.com/secondlife/Slave%20Island/45/93/23)  
+[http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201)   
 
 Cater1na, Charm  
 Playground, Hunt Roleplay  
