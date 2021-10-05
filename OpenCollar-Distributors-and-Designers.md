@@ -45,23 +45,11 @@ Pony Play, Tack Shop
 
 Carin March, Sweet Domination  
 Dungeon Play Area  
-[http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201)   
-
-Cater1na, Charm  
-Playground, Hunt Roleplay  
-[http://maps.secondlife.com/secondlife/Charm/102/173/3262](http://maps.secondlife.com/secondlife/Charm/102/173/3262)   
+[http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201)     
 
 Countrycat Furse, Defilers  
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/TRUE/122/185/1451](http://maps.secondlife.com/secondlife/TRUE/122/185/1451)  
-
-Crickett Booker, Dark Side Clubhouse  
-BDSM Club  
-[http://maps.secondlife.com/secondlife/Wanda/98/129/21](http://maps.secondlife.com/secondlife/Wanda/98/129/21)  
-
-Cutiebound, Palm Mountain  
-Prison Roleplay  
-[http://maps.secondlife.com/secondlife/Syrah/23/113/52](http://maps.secondlife.com/secondlife/Syrah/23/113/52)  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
@@ -72,21 +60,13 @@ Gorean Club & Roleplay
 [http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607)  
 **Advisory:** Landing is open to all, the rest of the roleplay area is members only.  
 
-Elirk Huntsman, House of Silent  
-Asian Themed BDSM Sim  
-[http://maps.secondlife.com/secondlife/Pantanal/241/16/24](http://maps.secondlife.com/secondlife/Pantanal/241/16/24)  
-
-Elizabeth Boissay, Hypnotropolis  
-Shop  
-[http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/141/174/2756)  
-
 Elmer Bellissarian, Mystical Isle   
 Fantasy Roleplay, Merfolk, Elves, Fairies, Petites   
-[http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22](http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22)   
+[http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22](http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22)  
 
-Forge, City of Callera  
-Gorean City & Roleplay  
-[http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442](http://maps.secondlife.com/secondlife/America%20Latina/126/156/3442)  
+Elizabeth Boissay, Velvet Sanctuary   
+Club   
+[http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24)   
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
@@ -103,11 +83,7 @@ D/s Community, Art Gallery & Theater
 Hectic1, HEC (Hot Elegant Clothing)   
 Shop   
 [http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001)   
-**Advisory:** Walk South 65m, following the beacon from the fixed landing point.
-
-Ian Junibalya, Black Quarters   
-Transformation Playground   
-[http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601](http://maps.secondlife.com/secondlife/SandboxZetamex/8/163/2601)   
+**Advisory:** Walk South 65m, following the beacon from the fixed landing point.  
  
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
@@ -141,21 +117,17 @@ Shop, Playground & Club
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
 **Advisory:** Walk into main shop about 100m toward the back and look left.  
 
-Monk Xenno, Desert Land of Nom  
+Monk Xenno, Island of Nom  
 Arab Themed Slave Auction & Training  
-[http://maps.secondlife.com/secondlife/Sunset%20Hill/18/30/23](http://maps.secondlife.com/secondlife/Sunset%20Hill/18/30/23)  
+[http://maps.secondlife.com/secondlife/Catalina/28/32/22](http://maps.secondlife.com/secondlife/Catalina/28/32/22)  
 
-Morris Mixmaster, Sensual Camping  
-Club & Nude Beach  
-[http://maps.secondlife.com/secondlife/Prana/202/163/38](http://maps.secondlife.com/secondlife/Prana/202/163/38)  
+Morris Mixmaster, BDSM Lifestyle Club by Sensual     
+BDSM Club   
+[http://maps.secondlife.com/secondlife/Prana/161/171/3474](http://maps.secondlife.com/secondlife/Prana/161/171/3474)  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
-
-osti, Pet Adoption Center  
-Petplay Hangout, Shelter, & Adoption Center  
-[http://maps.secondlife.com/secondlife/Makkeolli/100/96/59](http://maps.secondlife.com/secondlife/Makkeolli/100/96/59)  
 
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
