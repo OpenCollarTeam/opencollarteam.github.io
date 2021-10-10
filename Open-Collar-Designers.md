@@ -197,6 +197,10 @@ Original Kinky Mesh Collar Designs, Pet Play - 249-399 L
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
 Marketplace:  [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
 
+Simply Simple (SirRobertFL)   
+Simply designed mesh collars - 150L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626](http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626)
+Marketplace: [https://marketplace.secondlife.com/stores/238695](https://marketplace.secondlife.com/stores/238695)   
 
 SLAM // kink & stuff (daPhuk)   
 Mesh Collars, Furniture, & Accessories - 545L   
