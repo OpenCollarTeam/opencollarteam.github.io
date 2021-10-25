@@ -49,7 +49,7 @@ Dungeon Play Area
 
 Countrycat Furse, Defilers  
 Urban Roleplay  
-[http://maps.secondlife.com/secondlife/TRUE/122/185/1451](http://maps.secondlife.com/secondlife/TRUE/122/185/1451)  
+[http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
