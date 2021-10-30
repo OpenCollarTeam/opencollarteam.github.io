@@ -19,7 +19,7 @@ Adds and removes Owners.
 * In this guide, "wearer" refers to this lowest level of access:  "wearer" access is what you have when you have set an owner other than yourself.
 
 ### To Add the Wearer to Owner Access 
-Go to + Owner and press `>WEARER<` .  This can only be done by an owner.  Therefore if the wearer wants to retain owner access, do this step **before** adding an owner.
+Go to + Owner and press `>WEARER<` .  This can only be done by an owner.  Therefore if the wearer wants to retain owner access, do this step **before** adding an owner.  Setting to disable Wearer as owner (aka "Vanilla" in previous versions):  `auth=vanilla~0`
 
 ### To Add Owners Remotely  
 
