@@ -84,6 +84,11 @@ Danger Kitty's Sweets (Sweetdangerkitty)
 "Kitty's Hearts" Plugin - 200L   
 Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketplace.secondlife.com/stores/220939)   
 
+Darkwytch Manor (Raven76 Darkheart)   
+Mesh Choker Necklace Collars - 100L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Darkwytch%20Isle/191/148/1003](http://maps.secondlife.com/secondlife/Darkwytch%20Isle/191/148/1003)   
+Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
+
 Devotion (lottiehottie86)   
 Mesh Collars 200-300L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Cody/192/174/2498](http://maps.secondlife.com/secondlife/Cody/192/174/2498)   
