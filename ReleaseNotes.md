@@ -2,7 +2,86 @@
 layout: home
 title: OpenCollar Release Notes
 ---
-OpenCollar V 8.1 is current ! Thanks to many contributors, including Scripters Medea Destiny, Khianna (khee44); Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Trinkitz and Omnia (animavenator); as always Nirea Mercury; and many many more who posted issues and pull requests and provided feedback.
+OpenCollar V 8.2.1 is current ! Thanks to many contributors, including Scripters Medea Destiny, Yosty7B3; Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Trinkitz and Omnia (animavenator); as always Nirea Mercury; and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
+
+# V 8.2 Release: Changelong 
+
+## Summary 
+The most noticeable changes to 8.2 beta7 are:
+1. Restrictions/extensions refactoring: Restriction presets and individual restrictions now under a single menu rather than separated into Restrictions and Macros menus, with a major user interface overhaul including clearer button names, listings of current restrictions in the prompt, restriction settings now accessible directly from restrictions menu, and a button to inform user what restrictions the presets will actually put in place.  
+2. Exceptions menu restored to RLV menu, and major efficiency overhaul.  
+3. Far faster boot times  
+4. STRICT SIT function now no longer clashes with other restrictions.   
+5. Titler vastly less fussy about custom colour vectors and responds faster   
+
+There are also numerous efficiency improvements, bug fixes and improvements to user interface and user feedback. 
+
+## Complete Changelog
+
+**Contributor Yosty7B3**
+### oc_api:
+> Removed unused StrideOfList() function to save memory
+    
+**Contributor Medea Destiny**
+### oc_addons:    
+> Provided auth failure mode for menu. Insufficient auth now provides suitable notification to user and respawns main menu. Fixes issue #665 
+
+### oc_core: 
+> Added sleep before notify for device name change, issue #672  
+> Added confirmation messages when group or public access is toggled and fixed a typo  
+> Efficiency pass, inlined majorminor(), docheckupdate() and docheckdevupdate().   
+> Removed g_lTestReports, left over from alpha.   
+    
+### oc_dialog:
+> Optimised substitutions by shortcutting no match for % in string after %NOACCESS% and %WEARER%.   
+> Replaced GetTruncatedString function with far more optimised function.   
+> Restored dialog chatting over-long prompts in local, which seems to have got lost somewhere. Improved version of function now works with prompts of any length and does not break up words.   
+> Changed prompt for button descriptions in local chat from "Please check..." to "See..." to trigger it less often.   
+> Added warning text to prompt when prompt is trunctated, so menu prompt text will now show "(CONT. IN LOCAL CHAT)".   
+
+### oc_rlvextension:
+> Moved Exceptions menu into RLV as a main directory, and folded Menu Settings into RLVSuite menu customize.   
+> Refactored Exceptions setting with new functions to allow Exceptions to be applied individually (setUserExceptions() function), replaced ApplyAllExceptions() function with SetAllExes() that allows individual lists to be updated separately, and added list updating. Result is much cleaner setting of exceptions, where exceptions that have previously not been set don't get unset, and changing a single person on a  list doesn't require the entire list to be cleared and reset. One line of correct exceptions issued per user rather than one per exception per user, refreshed whenever anything needs updating. Result at bootup with a test collar with 8 people on owner/trusted list was 8 lines of RLV commands issued to viewer rather than up to 150 depending on timing of settings received.    
+> Added list compare function that works.   
+> Changed setting save function to allow individual settings to be saved rather than all settings being saved when any are changed.   
+> Changed MenuSetValue() function so that the correct values were given for the blur function rather than sharing values with camdist settings, which gave incorrect user feedback. Reformatted handling of dialog response to cast returned string rather  than using list of conditionals.   
+> Added remenu timer for force sit menu when unsit used, to delay scan so that object user is unsat from will show up in list rather than being ignored by scan if timing is such that it's still considered the object sat on by sensor.   
+> Strict Sit changes: now adds own restriction to RLVsys baked set, which is removed when unsat. This avoids collisions between strict sit and other unsit restrictions. Restriction is now added immediately if user is sat on last force-sit object when setting is added, so that sit followed by strict sit will in fact stop the user standing.   
+> UNSIT now uses the RLV_CMD_OVERRIDE function if the commanding user has owner auth. This means that a forced UNSIT by the owner is not stopped by a restriction to the wearer. Owners shouldn't be restricted by restrictions, wearers should. Previously the user would click unsit, be told it didn't work, have to navigate to restrictions, remove the restriction, navigate back to UNSIT, unsit the collar wearer, then navigate back to restrictions and reset it. This does that  automatically for owners.   
+> Added explanatory text to exceptions and force sit menus.   
+> Renamed Refuse TP to Force TP to reflect what the button actually does.   
+    
+### oc_rlvsuite: 
+> Corrected values for Rummage and Dress restrictions, added @emote=n to Talk restrictions #649.   
+> Restored SetDebug, SetEnv and Mouselook restrictions which had gone missing.   
+> Added Camera settings & Muffle to restriction settings. Created shortcut to camera settings from camera restrictions category, and support correct BACK button behavior so it returns the user to whichever menu they arrived at that from #649.   
+> **Menu Redesign** The individual restrictions subcategory menus are placed below the presets, on the basis that standard UI design principles call for detailed, multi-page functions to go lower in the attention hierarchy that quick, single-click preset functions. Various buttons/terminologies have been changed to try to make the whole thing more user-friendly. Also "macro" terminology has been removed, and preset used only where necessary to differentiate. issues #649 & # 654.   
+> Added ListRestrictions() function which converts restriction integer pairs into human-readable lists of restrictions and given chat command "(prefix)restriction list". Also used by List Presets button, which lists what the preset restriction buttons actually do. #649   
+> Given extensive explanatory text in menus. ListRestrictions() function is used to print out all restrictions the wearer is currently under, rather than requiring menu user to visit every category menu to find out.  #649   
+> "Daze" preset renamed to "Names/Map", "Dazzle" to "Blur", and "Rummage" to "Inventory" because older names were downright confusing.  #649
+> Changed some names in g_lRLVlist to be clearer #649.  
+> Changed auth for adding/removing presets to CMD_OWNER AND CMD_TRUSTED to match the auth requirements of setting individual restrictions as short-term solution to issue #656.    
+> Added Restore function to Customize menu to restore presets to defaults, per issue #663.   
+> Rewritten dialog code to set individual restrictions, 'cos it was badly broken. Issue #664
+
+### oc_rlvsys:
+> Added RLV_CMD_OVERRIDE function. This allows one shot (=force) commands to be sent that will override any restrictions. This command should only be used where operator has owner permission. The notion behind it is that owners should not be restricted by wearer restictions. They can unset restrictions manually, perform the function, and then reset  the restriction, but that's a lot of hassle. This performs the function automatically. Operator and wearer are notified of  restrictions that have been temporarily restricted to avoid being misled that a restriciton is not present.
+
+### oc_settings: 
+> Tightened timings on release of all settings and reduced sleep padding on initialize. (Fix for faster boot)
+
+### oc_states:
+> Tighten timings and number of passes on reboot process and reduced sleep padding. (Fix for faster boot)
+
+### oc_titler:
+> Refactored SAVE to only save changed settings.   
+> Added helpful menu text.   
+> Added text2col() function that makes a sensible colour vector out of whatever is thrown at it. 
+> Added validvector() function to confirm vectors are valid before setting, used to make "[prefix] title color" command without following vector provide colour menu rather than setting colour to black, and means that "[prefix] title color red" will now pop up the color menu rather than setting the title text to black. 
+> Text changes now set instantly rather than after 2.5 second delay.   
+_______________________________________________________    
+
+# Previous Releases
 
 # V 8.1 Release:  Changelog
 
@@ -52,12 +131,6 @@ Fixed permissions to print Settings so it is limited to owner and wearer.
 
 ### Undress App
 Fixed oc_undress not displaying extended layers (alpha, tattoo, universal)
-
-
-
-_______________________________________________________    
-
-# Previous Releases
 
 ## V 8.0 Release:  Changelog
 
