@@ -10,7 +10,7 @@ title: Welcome to OpenCollar!
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# CURRENT FULL RELEASE:  OPEN COLLAR V 8.1.0 
+# CURRENT FULL RELEASE:  OPEN COLLAR V 8.2.1
 
 Dateline 10 April, 2020.  
 OpenCollar V 8 is in! You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
