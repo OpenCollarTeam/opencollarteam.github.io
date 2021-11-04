@@ -4,10 +4,10 @@ title: OpenCollar Release Notes
 ---
 OpenCollar V 8.2.1 is current ! Thanks to many contributors, including Scripters Medea Destiny, Yosty7B3; Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Trinkitz and Omnia (animavenator); as always Nirea Mercury; and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
 
-# V 8.2 Release: Changelong 
+# V 8.2.1 Release: Changelong 
 
 ## Summary 
-The most noticeable changes to 8.2 beta7 are:
+The most noticeable changes to 8.2.1 are:
 1. Restrictions/extensions refactoring: Restriction presets and individual restrictions now under a single menu rather than separated into Restrictions and Macros menus, with a major user interface overhaul including clearer button names, listings of current restrictions in the prompt, restriction settings now accessible directly from restrictions menu, and a button to inform user what restrictions the presets will actually put in place.  
 2. Exceptions menu restored to RLV menu, and major efficiency overhaul.  
 3. Far faster boot times  
