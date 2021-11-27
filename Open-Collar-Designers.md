@@ -77,7 +77,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketpl
 
 Dahlia (June Fallon)   
 Original Mesh Luxury Collars with HD Materials Textures - starting at 175L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Daydreaming/189/96/22](http://maps.secondlife.com/secondlife/Daydreaming/189/96/22)   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Daydreaming/189/96/22](http://maps.secondlife.com/secondlife/Daydreaming/189/96/22)     
 Marketplace:  [https://marketplace.secondlife.com/stores/169798](https://marketplace.secondlife.com/stores/169798)   
 
 Danger Kitty's Sweets (Sweetdangerkitty)   
@@ -97,6 +97,11 @@ Emerald Dust (Emdragon)
 Cock Cages, Clothing, & Toys - 80L to 160L  
 Inworld shop: [http://maps.secondlife.com/secondlife/Bravium/72/86/2817](http://maps.secondlife.com/secondlife/Bravium/72/86/2817)   
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)  
+
+Fantasy Restraints (Deana Waydelich)   
+Collars and Cuffs - 150-400L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
+Marketplace:  [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
 Fapple (Anna Timmerman)  
 Mesh Collars & Furniture - 250L  
