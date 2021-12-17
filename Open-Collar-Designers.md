@@ -86,7 +86,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/220939](https://marketpl
 
 Darkwytch Manor (Raven76 Darkheart)   
 Mesh Choker Necklace Collars - 100L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Darkwytch%20Isle/191/148/1003](http://maps.secondlife.com/secondlife/Darkwytch%20Isle/191/148/1003)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Darkwytch%20Isle/138/132/27](http://maps.secondlife.com/secondlife/Darkwytch%20Isle/138/132/27)   
 Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
 
 Devotion (lottiehottie86)   
