@@ -60,10 +60,6 @@ Gorean Club & Roleplay
 [http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607)  
 **Advisory:** Landing is open to all, the rest of the roleplay area is members only.  
 
-Elmer Bellissarian, Mystical Isle   
-Fantasy Roleplay, Merfolk, Elves, Fairies, Petites   
-[http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22](http://maps.secondlife.com/secondlife/Clairvoyance/158/197/22)  
-
 Elizabeth Boissay, Velvet Sanctuary   
 Club   
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24)   
@@ -144,6 +140,10 @@ Club, Romance and BDSM
 Randy Marenwolf, RLV: Reality & Magic In SL  
 RLV Education Center  
 [http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57](http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57)  
+
+River Vortex, Mystical Isle   
+Fantasy Roleplay, Merfolk, Elves, Fairies, Petites   
+[http://maps.secondlife.com/secondlife/Mystical%20Realms/158/197/22](http://maps.secondlife.com/secondlife/Mystical%20Realms/158/197/22)  
 
 Rocketroo, Bad Bunneh  
 Shop Featuring Clothing, Jewelry, & Furniture  
