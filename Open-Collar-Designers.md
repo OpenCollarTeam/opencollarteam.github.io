@@ -227,6 +227,11 @@ Mesh Collars & BDSM Furniture - 299L to 999L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/22](http://maps.secondlife.com/secondlife/Rising%20Sun%20Isle/182/232/22)   
 Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)   
 
+Venus's Closet (VenusPriestess)   
+Mesh Leather Pet Collars - 99L - 199L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Gilgamesh/88/244/2102](http://maps.secondlife.com/secondlife/Gilgamesh/88/244/2102)   
+Marketplace: [https://marketplace.secondlife.com/stores/212021](https://marketplace.secondlife.com/stores/212021)   
+
 Willow's Weakness (Willow Redstar)  
 Mesh Collars & Clothing - 100L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)   
