@@ -7,6 +7,9 @@ Official Design Partners use the OpenCollar scripts to create collars, jewelery,
 Interested in becoming an Official Design Partner? [Design Partner Application](#application)   
 Looking for cool collar Apps and AddOns? See our Partners making third party plugins:  [Apps and Addons](#apps-and-addons) 
 
+Aaliyah's Legacy Shop (Alexus Jupiter)   
+Gorean Style Collars 350L   
+Marketplace: [https://marketplace.secondlife.com/stores/244025](https://marketplace.secondlife.com/stores/244025)   
 
 Accents Design (Cynianne Hellershanks)   
 Mesh Collars & Jewelry - 199L+  
