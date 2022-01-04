@@ -96,6 +96,14 @@ channel inworld, or by sending a direct IM to ròan (Silkie Sabra) or Nirea
 Mercury inworld.  For more prompt attention, you should probably do all of the
 above.
 
+There are two kinds of review, which can be combined or approached separately depending on
+the work flow and abilities of a particualar reviewer.
+
+1) Any volunteer can test the script inworld and verify that it performs to the relevant specifications.   
+2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Script%20Style%20Guide.md) and improves the codebase.   
+
+Both kinds of review are needed to submit an approving review, whereupon the script can be merged.   
+
 When reviewing a pull request, the reviewer will ask themselves the following
 questions:
 
@@ -104,7 +112,7 @@ questions:
   occasions may point out places where there should be more comments in the code,
   a clearer structure to the code, or a separate design doc that will help coders
   understand how it's supposed to work.
-- Does this code comply with the style guide?
+- Does this code comply with the [style guide](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Script%20Style%20Guide.md)?
 - Will this code actually work?
 - Does this change improve the overall health of the codebase?
 - Is the change going to introduce any new security problems? (E.g., ways for
