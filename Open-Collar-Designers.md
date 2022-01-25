@@ -97,6 +97,11 @@ Mesh Collars 200-300L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Cody/192/174/2498](http://maps.secondlife.com/secondlife/Cody/192/174/2498)   
 Marketplace: [https://marketplace.secondlife.com/stores/233550](https://marketplace.secondlife.com/stores/233550)   
 
+DragonFyre Designs (Lasynda Shichiroji)   
+Mesh Collars 0L-100L
+Inworld Shop:  [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416]   
+Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)   
+
 Emerald Dust (Emdragon)  
 Cock Cages, Clothing, & Toys - 80L to 160L  
 Inworld shop: [http://maps.secondlife.com/secondlife/Bravium/72/86/2817](http://maps.secondlife.com/secondlife/Bravium/72/86/2817)   
