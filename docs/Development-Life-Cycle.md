@@ -100,7 +100,7 @@ There are two kinds of review, which can be combined or approached separately de
 the work flow and abilities of a particualar reviewer.
 
 1) Any volunteer can test the script inworld and verify that it performs to the relevant specifications.   
-2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Script%20Style%20Guide.md) and improves the codebase.   
+2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://opencollar.cc/ScriptStyleGuide) and improves the codebase.   
 
 Both kinds of review are needed to submit an approving review, whereupon the script can be merged.   
 
@@ -112,14 +112,14 @@ questions:
   occasions may point out places where there should be more comments in the code,
   a clearer structure to the code, or a separate design doc that will help coders
   understand how it's supposed to work.
-- Does this code comply with the [style guide](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Script%20Style%20Guide.md)?
+- Does this code comply with the [style guide](https://opencollar.cc/ScriptStyleGuide)?
 - Will this code actually work?
 - Does this change improve the overall health of the codebase?
 - Is the change going to introduce any new security problems? (E.g., ways for
   someone not on the collar's Owner/Trusted lists to send commands that they
   shouldn't be able to send.)
 - Is there an entry in the [release
-notes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/RELEASE_NOTES.md)
+notes](https://opencollar.cc/ReleaseNotes)
   for this change?
 - Is this a new feature?  If so, is there consensus among the project leaders
   that it's a feature that should be in the collar?  Is there an update to the
