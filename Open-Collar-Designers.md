@@ -58,6 +58,11 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Austerity/16/16/666](http:/
 Marketplace: [https://marketplace.secondlife.com/stores/8717](https://marketplace.secondlife.com/stores/8717)  
 Bright Corporation: [http://brightcorporation.net/](http://brightcorporation.net/)   
 
+Bunk (Kittie Hexem)   
+Customizable Mesh Collar and Cuffs Sets 199L - 799L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Artifact/55/57/1616](http://maps.secondlife.com/secondlife/Artifact/55/57/1616)   
+Marketplace:  [https://marketplace.secondlife.com/stores/171204](https://marketplace.secondlife.com/stores/171204)   
+
 Cele'sations (Celestrea Vasiliov)   
 Mesh Collars & Jewelry - 0L to 299L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Sensual%20Delights/80/43/22](http://maps.secondlife.com/secondlife/Sensual%20Delights/80/43/22)  
