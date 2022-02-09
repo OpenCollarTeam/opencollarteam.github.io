@@ -178,6 +178,11 @@ Mesh Collars - 0L to 399L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Alcis/153/19/50](http://maps.secondlife.com/secondlife/Alcis/153/19/50)   
 Marketplace: [https://marketplace.secondlife.com/stores/163576](https://marketplace.secondlife.com/stores/163576)   
 
+Nik Design (Nik Emoto)   
+Knotted String necklace with themes 175L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Eduisland%2010/2/114/23](http://maps.secondlife.com/secondlife/Eduisland%2010/2/114/23)   
+Marketplace:  [https://marketplace.secondlife.com/stores/130473](https://marketplace.secondlife.com/stores/130473)   
+
 PBM Enterprises & [maXplicit] (Peebee McMillan)  
 Mesh Collars, Jewelry, Accessories, & Furniture For Males - 200L to 240L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
