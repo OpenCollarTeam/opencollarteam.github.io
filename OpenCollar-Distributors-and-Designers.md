@@ -197,6 +197,10 @@ Sylta Marabana, S&W Playground
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
 
+Tania Loon, Bondage City   
+BDSM Lifestyle Sim with emphasis on Bondage   
+[http://maps.secondlife.com/secondlife/Bondage%20City/133/146/1002](http://maps.secondlife.com/secondlife/Bondage%20City/133/146/1002)   
+
 Taylor Paine, Taylor's Toys  
 RLV Trap Shop & Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
@@ -220,6 +224,11 @@ Beach, Sailing, & Blake Sea Access
 Yannis Boucher, Fallen Angels BDSM Club  
 BDSM Club  
 [http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/90/137/3925](http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/90/137/3925)  
+
+Zaphod Plutonian, HalfLight Dreams   
+Immersive capture hunt experience (CARP)   
+[http://maps.secondlife.com/secondlife/Bondage%20City/127/118/3151](http://maps.secondlife.com/secondlife/Bondage%20City/127/118/3151)   
+
 
 # OpenCollar Partners Application Form
 
