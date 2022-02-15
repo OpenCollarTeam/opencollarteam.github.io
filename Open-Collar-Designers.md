@@ -21,9 +21,8 @@ Mesh Collars - 399L to 599L
 Inworld Shop: Currently none.  
 Marketplace: [https://marketplace.secondlife.com/stores/159850](https://marketplace.secondlife.com/stores/159850)  
 
-Anna's Bondage Shop Mainstore (AnnarussianMiss)  
-Mesh Collars, Restraints, Toys, & Art - 100L to 450L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63](http://maps.secondlife.com/secondlife/Fenfarg%20High/200/150/63)  
+Anna's Bondage Shop (AnnarussianMiss)  
+Mesh Collars, Restraints, Toys, & Art - 100L to 450L    
 Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)   
 
 Ari-Pari (Ariana Petrova)   
