@@ -53,7 +53,7 @@ Urban Roleplay
 
 Dargo Sin, Satori Island   
 D/s Club and Community   
-[http://maps.secondlife.com/secondlife/Kensho/203/44/29](http://maps.secondlife.com/secondlife/Kensho/203/44/29)   
+[http://maps.secondlife.com/secondlife/Kensho/13/9/48](http://maps.secondlife.com/secondlife/Kensho/13/9/48)   
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
