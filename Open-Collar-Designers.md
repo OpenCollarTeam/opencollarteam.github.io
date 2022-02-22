@@ -237,7 +237,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketpla
 
 Venus's Closet (VenusPriestess)   
 Mesh Leather Pet Collars - 99L - 199L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Gilgamesh/88/244/2102](http://maps.secondlife.com/secondlife/Gilgamesh/88/244/2102)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23](http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23)   
 Marketplace: [https://marketplace.secondlife.com/stores/212021](https://marketplace.secondlife.com/stores/212021)   
 
 Willow's Weakness (Willow Redstar)  
