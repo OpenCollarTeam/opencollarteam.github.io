@@ -217,6 +217,10 @@ Toy Wylie, Wylieville, Toy's Toys
 Inworld Playground & Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
 
+Teninista, Dirty Dolls   
+Club and Escort Lounge   
+[http://maps.secondlife.com/secondlife/FireBlood/245/217/3557](http://maps.secondlife.com/secondlife/FireBlood/245/217/3557)   
+
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)  
