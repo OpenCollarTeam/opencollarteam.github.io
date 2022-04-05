@@ -17,11 +17,6 @@ OpenCollar Headquarters
 OpenCollar Hangout & Support  
 [http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201)  
 
-Aisha Marshdevil, Noxia  
-Dark Urban Fantasy Roleplay, CCS enabled  
-[http://maps.secondlife.com/secondlife/Noxia/12/11/507](http://maps.secondlife.com/secondlife/Noxia/12/11/507)  
- 
-
 Aisha Marshdevil, Rubber Kingdom  
 Fetish, Rubber, Bondage, Dungeons, Roleplay Playground  
 [http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21)  
