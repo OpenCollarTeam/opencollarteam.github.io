@@ -133,6 +133,10 @@ Nerk Nexen, M&M Dungeon
 Playground, Chat, Dungeon Roleplay  
 [http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
 
+ostiabs, Pet Adoption Center   
+Petplay hangout   
+[http://maps.secondlife.com/secondlife/Pluto/171/230/27](http://maps.secondlife.com/secondlife/Pluto/171/230/27}   
+
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica%20Island/72/45/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/72/45/1522)   
