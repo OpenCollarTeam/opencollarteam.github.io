@@ -23,7 +23,7 @@ Fetish, Rubber, Bondage, Dungeons, Roleplay Playground
 
 AussiePaul, Aussie's Artifacts
 Shop and Maternity Roleplay  
-[http://maps.secondlife.com/secondlife/Critters/65/163/22](http://maps.secondlife.com/secondlife/Critters/65/163/22)      
+[http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
 
 Blaise Tomsen  
 Second Life Railroad  
