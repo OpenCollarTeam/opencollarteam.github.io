@@ -47,15 +47,6 @@ This locks the wearer in the current collar animation.
 
 Check this to force an erect posture.  Note that the posture lock might interfere with other animations.
 
-## Antislide
-
-Check this box and set a pose to allow the sub to walk while a collar pose is active.  **This function is not necessary if using the OpenCollar Sub AO, and may conflict with it if both are active**.
-
-To add your own walk to AntiSlide:  Choose a higher priority (such as priority 4 or 5) modifiable walk animation.  Rename it:
-> `~walk_[nameofwalk]` .  
-
-Load your walk into the Animator prim of the collar.
-
 ## AO Menu / AO ON / AO OFF
 
 These buttons sync with the OpenCollar Sub AO.
