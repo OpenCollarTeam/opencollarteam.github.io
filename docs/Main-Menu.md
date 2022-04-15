@@ -6,7 +6,7 @@ title: The Main Menu
 The Main Menu contains the collar lock and links to all the functions in the collar.
 
 # Lock
-The Collar lock prevents / allows detaching the collar. It is available only to collar owners.  It does not affect collar access.  Wearers who have been added to the Onwer list (see [Access](/docs/Access)), or who are owners by default because an owner has not been set, can lock or unlock their collars.  Owned wearers who have not been added to the owner list can lock but cannot unlock their collars if they are using RLV.  
+The Collar lock prevents / allows detaching the collar. It is available only to collar owners.  It does not affect collar access.  Wearers who have been added to the Owner list (see [Access](/docs/Access)), or who are owners by default because an owner has not been set, can lock or unlock their collars.  Owned wearers who have not been added to the owner list can lock but cannot unlock their collars if they are using RLV.  
 
 Once the collar has been locked, a [Weld](/docs/Weld) button appears in the main menu.  Setting Weld will remove the lock button from the Main Menu, leaving the collar locked with no option to unlock.  To reverse a weld, either apply an unwelder or reset the scripts in the collar.
 
