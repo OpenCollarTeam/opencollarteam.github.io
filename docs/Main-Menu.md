@@ -6,10 +6,13 @@ title: The Main Menu
 The Main Menu contains the collar lock and links to all the functions in the collar.
 
 # Lock
-The Collar lock prevents / allows detaching the collar. It is available only to collar owners.  It does not affect collar access.  Wearers who have OwnSelf checked or who have not set an owner are owners and can lock or unlock their collars.  Owned wearers without OwnSelf checked can lock but cannot unlock their collars if they are using RLV.
+The Collar lock prevents / allows detaching the collar. It is available only to collar owners.  It does not affect collar access.  Wearers who have been added to the Onwer list (see [Access](/docs/Access)), or who are owners by default because an owner has not been set, can lock or unlock their collars.  Owned wearers who have not been added to the owner list can lock but cannot unlock their collars if they are using RLV.  
+
+Once the collar has been locked, a [Weld](/docs/Weld) button appears in the main menu.  Setting Weld will remove the lock button from the Main Menu, leaving the collar locked with no option to unlock.  To reverse a weld, either apply an unwelder or reset the scripts in the collar.
 
 # AddOns
-This menu is for other items that link to OpenCollar via the AddOns API.  [Addons template here](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)   
+This menu is for other items that link to OpenCollar via the AddOns API. Currently OpenCollar distributes and supports the OpenCollar AO, the OpenCollar [Remote](/docs/Remote), and the OpenCollar AddOn Cuffs as AddOns.  
+[Addons template here](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)   
 
 The remaining links each take you to the respective menu accessible from the Main Menu.
 
