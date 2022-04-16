@@ -8,10 +8,11 @@ title: Outfits
 1.  If you don't already have one (see RLV), make a top folder in inventory and name it `#RLV`.  This is your RLV shareable folder, everything in it unless otherwise marked could be accessible to RLV enabled devices.  You control what you put in this folder.  
 2.  Inside `#RLV`, make a folder named `.outfits`. This is where you will put Outfits folders containing items you want to be worn and removed together as an organized outfit.   
 3.  Inside `.outfits` make a folder named `.core`.  This is where you will place items you do not want removed when changing Outfits.  If you have more than one "base" avatar, for instance different mesh heads, you can create subfolders in .core that will define different "bases".  See "Browse Core" below.     
-**Notes:** 
+### Troubleshooting Notes   
 1. For all three folders, `#RLV`, `.outfits` and `.core`, use the exact characters displayed here.  Case is critical and the dot in front of the name is critical.   
 2.  For Outfits to be visible in the Apps menu you must have at least one folder in #RLV that is *not* in .outfits. Otherwise it will behave like any other hidden folder and not be visible from the menu.  
-3.  Only put in your outfit the unique items that you will want changed when you change outfits.  Do *not* put anything in an outfit folder that is already in core.
+3.  Only put in your outfit the unique items that you will want changed when you change outfits.  
+4.  Do *not* put anything in an outfit folder that is already in core.  
 
 # Making Outfits
 1.  A "defined Outfit folder" is a folder with an outfit in it, inside the folder `.outfits`.  When an Outfit is worn, Outfits will detach/unwear any item that is in a defined Outfit folder other than the one called to be worn.  If an item is not in a defined outfit folder, it will not be removed.  This behavior can be changed in the Configure menu.  
