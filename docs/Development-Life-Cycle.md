@@ -100,7 +100,7 @@ There are two kinds of review, which can be combined or approached separately de
 the work flow and abilities of a particualar reviewer.
 
 1) Any volunteer can test the script inworld and verify that it performs to the relevant specifications.   
-2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://opencollar.cc/ScriptStyleGuide) and improves the codebase.   
+2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://opencollar.cc/docs/Script-Style-Guide) and improves the codebase.   
 
 Both kinds of review are needed to submit an approving review, whereupon the script can be merged.   
 
