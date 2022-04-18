@@ -262,6 +262,7 @@ Dark Elf Manufacture (DEM) (chloe1928.constantine)
 DEM Relay plugin for OpenCollar   40L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28](http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28)   
 Marketplace:  [https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118](https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118)   
+
 Marquis (marquismaker)   
 Apps and Addons   
 Marketplace:  [https://marketplace.secondlife.com/stores/180362](https://marketplace.secondlife.com/stores/180362)  
