@@ -31,7 +31,8 @@ The UUID is the "key"--string of characters at the top of the inworld user profi
 
    
 # Trusted
-Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner". **Advisory**  It is currently possible to add the wearer to Trusted by using this menu:  + Trust > Select <WEARER>.  However when this is done the collar will see the Wearer as Trusted, not both Wearer and Trusted.  The Wearer will therefore lose access to certain options that are currently wearer owner or wearer only.  Among these is *runaway* and *Access List*. 
+Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner".  
+**Advisory**  It is currently possible to add the wearer to Trusted by using this menu:  `+ Trust > Select <WEARER>`.  However when this is done the collar will see the Wearer as Trusted, not both Wearer and Trusted.  The Wearer will therefore lose access to certain options that are currently wearer owner or wearer only.  Among these is [Runaway](#runaway) and Access List. 
 
 >`[prefix] add trust [UUID]`    
 >`auth=trust~[UUID]`  
