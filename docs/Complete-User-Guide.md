@@ -48,6 +48,6 @@ Please report any bugs you find or feature requests to the OpenCollar bug tracke
 ##  Development
 * [Development Life Cycle](/docs/Development-Life-Cycle)
 * [Beta Testing Checklist](Manual-Test-Suite)  
-* [LSL Style Guide](/docs/Script-Style-Guide)  
+* [OpenCollar LSL Style Guide](https://opencollar.cc/ScriptStyleGuide)  
 
 ## 
