@@ -112,7 +112,7 @@ questions:
   occasions may point out places where there should be more comments in the code,
   a clearer structure to the code, or a separate design doc that will help coders
   understand how it's supposed to work.
-- Does this code comply with the [style guide](https://opencollar.cc/ScriptStyleGuide)?
+- Does this code comply with the [style_guide](/docs/Script-Style-Guide)?
 - Will this code actually work?
 - Does this change improve the overall health of the codebase?
 - Is the change going to introduce any new security problems? (E.g., ways for
