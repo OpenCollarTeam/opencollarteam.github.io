@@ -82,7 +82,7 @@ Original Mesh Luxury Collars with HD Materials Textures - starting at 175L
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Daydreaming/189/96/22](http://maps.secondlife.com/secondlife/Daydreaming/189/96/22)     
 Marketplace:  [https://marketplace.secondlife.com/stores/169798](https://marketplace.secondlife.com/stores/169798)   
 
-Darkwytch Manor (Raven76 Darkheart)   
+Darkwytch Bric-a-Brac (Raven76 Darkheart)   
 Mesh Choker Necklace Collars - 100L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Lilac%20Bay/178/48/22](http://maps.secondlife.com/secondlife/Lilac%20Bay/178/48/22)   
 Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
