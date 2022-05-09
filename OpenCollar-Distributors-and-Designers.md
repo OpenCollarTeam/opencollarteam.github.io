@@ -122,7 +122,7 @@ Arab Themed Slave Auction & Training
 
 Morris Mixmaster, BDSM Lifestyle Club by Sensual     
 BDSM Club   
-[http://maps.secondlife.com/secondlife/Prana/161/171/3474](http://maps.secondlife.com/secondlife/Prana/161/171/3474)  
+[http://maps.secondlife.com/secondlife/Phoenix/106/160/25](http://maps.secondlife.com/secondlife/Phoenix/106/160/25)  
 
 Nerk Nexen, M&M Dungeon  
 Playground, Chat, Dungeon Roleplay  
