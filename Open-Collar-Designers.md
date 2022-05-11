@@ -84,7 +84,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/169798](https://marketp
 
 Darkwytch Bric-a-Brac (Raven76 Darkheart)   
 Mesh Choker Necklace Collars - 100L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Lilac%20Bay/178/48/22](http://maps.secondlife.com/secondlife/Lilac%20Bay/178/48/22)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Calabria/97/230/23](http://maps.secondlife.com/secondlife/Calabria/97/230/23)   
 Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
 
 Devotion (lottiehottie86)   
