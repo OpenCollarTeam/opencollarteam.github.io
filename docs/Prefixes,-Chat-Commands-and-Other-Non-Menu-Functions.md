@@ -37,7 +37,7 @@ Please use this with care.  Just because someone is set to public or group acces
 
 ## Channel
 
-The Channel number can also be changed this way. To change the channel number, type
+The Channel number can also be changed this way (owner access only). To change the channel number, type
 
 > [prefix] channel [new number] or for instance:  jo channel 3 .  
 
