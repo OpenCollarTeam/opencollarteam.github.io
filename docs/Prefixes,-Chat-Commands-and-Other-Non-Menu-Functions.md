@@ -14,7 +14,7 @@ calls the main menu.
 
 Your default prefix is the first two letters of your user name.  It can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.
 
-To change the prefix, type: 
+To change the prefix (owner access only), type: 
 
 > [prefix] prefix [newprefix].
 
@@ -41,7 +41,7 @@ The Channel number can also be changed this way. To change the channel number, t
 
 > [prefix] channel [new number] or for instance:  jo channel 3 .  
 
-Public chat is channel 0.  You can turn this off so the collar doesn't listen to chat commands in local chat.
+Public chat is channel 0.  You can turn this off so the collar doesn't listen to chat commands in local chat.  Go to Settings and uncheck Listen 0.  
 
 > [prefix] channel 0 : enables the collar to listen to commands in local chat.  
 [prefix] channel -1 : disables the collar from listening to commands in local chat.
@@ -50,7 +50,7 @@ Public chat is channel 0.  You can turn this off so the collar doesn't listen to
 The collar safeword is a powerful global tool that will revoke all collar settings and return the collar to default, with the exception of the lock, the access list and the relay settings.  It will release you from traps set through the relay.  If you don't want all your settings changed when you are trapped through the relay, use the relay safeword button instead (see Relay).
 The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].
 
-You can change your safeword: 
+You can change your safeword (owner access only): 
 
 [prefix] safeword [new safeword] : or for instance: jo safeword BLUE.
 
