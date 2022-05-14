@@ -16,6 +16,11 @@ Mesh Collars & Jewelry - 199L+
 Inworld Shop: [http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333](http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333)  
 Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketplace.secondlife.com/stores/30432)  
 
+ALEX Design (AlexCramer)   
+Original Mesh Collars - 150L -   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/LUNATICA/112/43/3004](http://maps.secondlife.com/secondlife/LUNATICA/112/43/3004)   
+Marketplace:  [https://marketplace.secondlife.com/stores/180341](https://marketplace.secondlife.com/stores/180341)   
+
 AMBIX (xambiguityx)  
 Mesh Collars - 399L to 599L  
 Inworld Shop: Currently none.  
