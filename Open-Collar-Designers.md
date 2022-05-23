@@ -253,11 +253,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketpl
 
 - Makers of custom apps may use closed source scripts for extra features that link to the collar.  
 - [public domain plugin template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl)     
-- [public domain addon template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)
-
-Danger Kitty's Sweets (sweetdangerkitty)   
-Kitty's Hearts  200L  (emits hearts and other particle shapes when owner is in range)   
-Marketplace: [https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
+- [public domain addon template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)  
 
 Dark Elf Manufacture (DEM) (chloe1928.constantine)   
 DEM Relay plugin for OpenCollar   40L   
