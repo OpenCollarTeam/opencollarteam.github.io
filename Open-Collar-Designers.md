@@ -18,7 +18,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketpla
 
 ALEX Design (AlexCramer)   
 Original Mesh Collars - 150L -   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/LUNATICA/112/43/3004](http://maps.secondlife.com/secondlife/LUNATICA/112/43/3004)   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22](http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22)   
 Marketplace:  [https://marketplace.secondlife.com/stores/180341](https://marketplace.secondlife.com/stores/180341)   
 
 AMBIX (xambiguityx)  
