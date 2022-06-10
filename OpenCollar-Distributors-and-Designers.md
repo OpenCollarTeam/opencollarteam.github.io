@@ -63,6 +63,10 @@ Elizabeth Boissay, Velvet Sanctuary
 Club   
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24)   
 
+Frank1056, Vicky's Sky and Rooftop Rentals   
+Shopping, Rentals, Fishing Games   
+[http://maps.secondlife.com/secondlife/Protoplasnic/103/254/39](http://maps.secondlife.com/secondlife/Protoplasnic/103/254/39)   
+
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
 [http://maps.secondlife.com/secondlife/Caged%20Elegance/62/195/998](http://maps.secondlife.com/secondlife/Caged%20Elegance/62/195/998)  
@@ -167,6 +171,10 @@ Shop Featuring Old World Fantasy Clothing Furniture, Home and Garden
 Safra Nitely, Darkwing-Barns Stables  
 Pony Girl & Pet Play  
 [http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993](http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993)  
+
+Sayuki Solo, Indecent Fairies   
+BDSM hangout   
+[http://maps.secondlife.com/secondlife/Dunstone/138/40/3601](http://maps.secondlife.com/secondlife/Dunstone/138/40/3601)
 
 Serjourn Daxter, Pirandello Bay  
 Shop, BDSM Dungeon & Roleplay  
