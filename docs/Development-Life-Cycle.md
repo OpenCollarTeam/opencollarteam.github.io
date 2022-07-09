@@ -69,6 +69,13 @@ just that feature, and not a bunch of other bug fixes as well.  This makes it
 far easier for people to review your code and approve the easy stuff, while
 tackling the hard/controversial stuff separately.
 
+To ensure people can test your PR changes quickly and effectively, we ask that you  
+
+- a. have a copy of the script available in-world with changes in place to send to testers, and    
+- b. write a short explanation of the specific things that need testing, 
+considering as best as you can all the possible ramifications of the change you are proposing, 
+- c. put this explanation both in the PR discussion and in a notecard you can distribute in world with the script.
+
 Your code should comply with the OpenCollar style guide.  (TODO: insert link
 here).  In fact, some pull requests do nothing but change existing code to
 comply with that style.  Such pull requests tend to have a lot of changes in
