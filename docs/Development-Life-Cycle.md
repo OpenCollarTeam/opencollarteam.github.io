@@ -44,7 +44,9 @@ poll.
 Anyone can write code for OpenCollar.  You should commit changes on your own
 Git fork, then submit them to the [official repository](https://github.com/opencollarteam/opencollar) in the form of a Github
 [pull
-request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).  
+
+New contributors, please sign our [Contributor Agreement](https://opencollar.cc/docs/contributor-agreement).  
 
 Before submitting your changes, make sure that you have tested them inworld and
 they function as expected.
@@ -97,16 +99,32 @@ Mercury inworld.  For more prompt attention, you should probably do all of the
 above.
 
 There are two kinds of review, which can be combined or approached separately depending on
-the work flow and abilities of a particualar reviewer.
+the work flow and abilities of a particualar reviewer and the nature of the pull request.  
 
 1) Any volunteer can test the script inworld and verify that it performs to the relevant specifications.   
-2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://opencollar.cc/docs/Script-Style-Guide) and improves the codebase.   
+2) Any volunteer who knows LSL and OpenCollar code can review the script to verify that it complies with the [style guide](https://opencollar.cc/docs/Script-Style-Guide) and improves the codebase.  
 
-Both kinds of review are needed to submit an approving review, whereupon the script can be merged.   
+All pull requests need an approving review from someone other than the party who submitted the review.  
+- The party submitting the review should alert team members to review the pr or assign it to someone.  
+- For most minor edits and bug fixes, a simple inworld test is sufficient.  
+- If the requester desires a code review, or the person assigning the pull request to a reviewer requests it, a code review may also be required.   
+- For new features that will change the way users experience the collar, there should be discussion among core team members between the review phase and the merge.
+Once the pull request receives the required approving reviews, the code can be merged into the next release branch.  
+- The main branch is current release and should not be targeted for merging code (Exceptions to this might include changes to code that is not in the collar release cycle, or rarely, urgent bug fixes requiring an immediate minor release) .
 
 When reviewing a pull request, the reviewer will ask themselves the following
 questions:
 
+### For Testers
+- Do I understand what the specifications are for this change and what it is supposed to accomplish? 
+- Does it work as expected? 
+- If a chat command is expected, has it been included?  
+- Does it work as expected for each rank of user?
+- Does it work despite all the conditions I can throw at it?
+- Is it a bug fix or a feature? 
+- If it's a new feature or results in a changed user experience, alert the team that it may need discussion before merge.   
+
+### For Coders
 - Can I understand this code?  If the reviewer can't understand what's going
   on, they will leave a comment like "Can you explain what's going on here?" Such
   occasions may point out places where there should be more comments in the code,
@@ -142,8 +160,7 @@ leadership, the pull request will be closed.
 
 ### Adding Reviewers
 
-We can (and should!) add more reviewers over time.  Nirea will add someone as a
-reviewer if:
+We can (and should!) add more reviewers over time.  A reviewer will be added if:
 
 1. They know how to code in LSL, and know the OpenCollar style guide.
 2. They know how security and access control work in OpenCollar, and will not
