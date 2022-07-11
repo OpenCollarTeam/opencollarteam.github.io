@@ -220,13 +220,13 @@ Theragnarok1, Temptation Events
 Shopping Event   
 [http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/171/204/21](http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/171/204/21)   
 
-Toy Wylie, Wylieville, Toy's Toys  
-Inworld Playground & Shop  
-[http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
-
 Teninista, Dirty Dolls   
 Club and Escort Lounge   
 [http://maps.secondlife.com/secondlife/FireBlood/245/217/3557](http://maps.secondlife.com/secondlife/FireBlood/245/217/3557)   
+
+Toy Wylie, Wylieville, Toy's Toys  
+Inworld Playground & Shop  
+[http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
 
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
