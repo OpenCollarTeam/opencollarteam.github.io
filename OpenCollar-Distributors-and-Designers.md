@@ -200,6 +200,11 @@ sinkt, Starbuck's Lair
 Gay Sex & BDSM Dungeon  
 [http://maps.secondlife.com/secondlife/Tristan%20Vale/77/85/3102](http://maps.secondlife.com/secondlife/Tristan%20Vale/77/85/3102)  
 
+Sue Feiri, Freebie Galaxie   
+Freebie Shops Noob Friendly  
+[http://maps.secondlife.com/secondlife/Ibiza/54/85/16]9http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
+**Advisory** Land on the first floor and walk to the middle to reach the vendor   
+
 Susann DeCuir, Angel of Pain  
 Deutsch & English BDSM Playground  
 [http://maps.secondlife.com/secondlife/Embay/219/216/3002](http://maps.secondlife.com/secondlife/Embay/219/216/3002)  
