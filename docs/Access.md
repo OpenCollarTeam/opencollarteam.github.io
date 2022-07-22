@@ -62,7 +62,7 @@ This list states the permissions Trusted has, not what they do not have--for cla
 >> Undress 
 
 # Wearer Trust (WEARER TRU)   
-An owner can allow the wearer to set and unset Trusted and Public Access.   
+An owner can allow the wearer to set and unset Trusted even if they are not also an owner.   **Note** this is preferable to adding the Wearer to the Trusted list in + Trust, if the desire is to give the Wearer some additional control, since it actually removes more abilities than it adds.
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
