@@ -40,8 +40,7 @@ Mesh Collar 250L
 Marketplace: [https://marketplace.secondlife.com/stores/86886](https://marketplace.secondlife.com/stores/86886)   
 
 Birth (Silent Alchemi)   
-Mesh Collars - 199L to 250L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/DLicious/91/239/28](http://maps.secondlife.com/secondlife/DLicious/91/239/28)  
+Mesh Collars - 199L to 250L      
 Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
 
 BISON CORPS (leonardocore Adder)   
