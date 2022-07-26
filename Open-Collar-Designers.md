@@ -116,6 +116,7 @@ Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/
 
 Gemstone Inc (Gem Oxygen)   
 Mesh Collars with Original Textures - 250L to 300L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Badger/70/48/4032](http://maps.secondlife.com/secondlife/Badger/70/48/4032)   
 Marketplace: [https://marketplace.secondlife.com/stores/173815](https://marketplace.secondlife.com/stores/173815)
    
 Giga's World (Gigante Radium)  
