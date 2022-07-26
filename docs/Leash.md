@@ -37,6 +37,7 @@ In this menu you can change the texture of the leash particles, and also set rlv
 When checked, sets tp restrictions on the wearer when leashed (owner is exempted by default).  
 Strict leash setting:  `LEASH=Strict~1/0,503` . The three digit number at the end is the integer denoting the access rank of who set Strict.  "503" is the Wearer rank.  
 Restrictions include:  
+> fartouch (unable to touch objects whose center is more than 1m distant)   
 > fly (unable to fly)  
 > tplm (cannot teleport to a landmark)  
 > tploc (cannot teleport to a map location or click teleport to a point in the region)  
