@@ -111,9 +111,9 @@ German BDSM Club, Dungeon, & Roleplay
 [http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11](http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11)  
 **Advisory:** Vendor is inside a shop approx 40 m NW of landing point.   
 
-Micklondon4, Kitty's BDSM   
+Micklondon4, Sunny Village      
 Strip Club with dungeon and femdom   
-[http://maps.secondlife.com/secondlife/Mediterranea/75/112/3239](http://maps.secondlife.com/secondlife/Mediterranea/75/112/3239)   
+[http://maps.secondlife.com/secondlife/Sunny%20Village/179/97/22](http://maps.secondlife.com/secondlife/Sunny%20Village/179/97/22)   
 
 Mileia Dubrovna, Milena Doll Creations  
 Shop, Playground & Club  
