@@ -109,6 +109,11 @@ Collars and Cuffs - 150-400L
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
 Marketplace:  [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
+{Fantasy World} (xSmitx)   
+Fantasy styles 250-299L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902](http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902)   
+Marketplace: [https://marketplace.secondlife.com/stores/205208](https://marketplace.secondlife.com/stores/205208)   
+
 Fapple (Anna Timmerman)  
 Mesh Collars & Furniture - 250L  
 Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
