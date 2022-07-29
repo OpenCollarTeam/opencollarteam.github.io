@@ -273,8 +273,10 @@ Marquis (marquismaker)
 Apps and Addons   
 Marketplace:  [https://marketplace.secondlife.com/stores/180362](https://marketplace.secondlife.com/stores/180362)  
 
-
-
+Ping's Designs   
+Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
+Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
 
 
 # Application
