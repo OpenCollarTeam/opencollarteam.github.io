@@ -51,8 +51,7 @@ Removes selected bookmarks from the menu.
 
 Capture gives temporary Trusted level access to a captor. The wearer can enable Capture by first installing it on the collar, and then selecting "Enabled" in the Capture menu as described below. Capture works in one of two basic ways: If Public access is disabled, a captor can click the wearer's collar or use the chat command `[prefix] capture` to receive the Capture menu. If Public access is enabled, a captor can only use the chat command to access the Capture menu. Touching the collar in this case will get the collar menu directly.  If the wearer clicks the collar, and selects Apps and then Capture, the following check-box options are shown:  
 - **Enabled** - When checked, it is possible to capture the wearer via chat command or by touching the collar. This will deliver a dialogue to the captor: "Do you want to capture xx?". If the captor says yes, the wearer gets a dialog (unless "Risky" is checked as detailed below) asking if they will allow the capture.
-> `[prefix] capture` Captures the wearer. Not available to the wearer.
->`[prefix] capture release`ends the capture.  Not available to the wearer.
+> `[prefix] capture` Toggle to capture or release the wearer. Not available to the wearer.
 - **Risky** - When checked, the wearer does not get a dialog asking permission.
 - **Auto Release** - When checked, the capture event will end ten minutes after the captor leaves the region.
 - Using the collar safeword ends the capture event for the wearer.
