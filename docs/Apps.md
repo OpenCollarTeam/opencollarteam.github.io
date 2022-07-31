@@ -59,9 +59,7 @@ Capture gives temporary Trusted level access to a captor. The wearer can enable 
 In addition to Trusted access, the Capture function applies the Refusetp exception.  The wearer's viewer automatically accepts tp offers when he or she is leashed by the captor.
 
 > `[prefix] capture on`  
-> `prefix] capture off`  
-> `prefix] capture info on/off` -- turns on or off the recurring chat broadcasting the capture mode  
-> `[prefix] capture release` -- releases the sub from the current capture.  
+> `prefix] capture off`   
 > `[prefix] risky on/off` -- turns on and off wearer permission.
 
 # Detach  
