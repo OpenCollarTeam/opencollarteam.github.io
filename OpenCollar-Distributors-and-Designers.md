@@ -44,7 +44,7 @@ Dungeon Play Area
 
 Countrycat Furse, Defilers  
 Urban Roleplay  
-[http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501  
+[http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
 Dargo Sin, Satori Island   
 D/s Club and Community   
@@ -134,7 +134,7 @@ Playground, Chat, Dungeon Roleplay
 
 ostiabs, Pet Adoption Center   
 Petplay hangout   
-[http://maps.secondlife.com/secondlife/Pluto/171/230/27](http://maps.secondlife.com/secondlife/Pluto/171/230/27}   
+[http://maps.secondlife.com/secondlife/Pluto/171/230/27](http://maps.secondlife.com/secondlife/Pluto/171/230/27)   
 
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
@@ -202,7 +202,7 @@ Gay Sex & BDSM Dungeon
 
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
-[http://maps.secondlife.com/secondlife/Ibiza/54/85/16]9http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
+[http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
 **Advisory** Land on the first floor and walk to the middle to reach the vendor   
 
 Susann DeCuir, Angel of Pain  
