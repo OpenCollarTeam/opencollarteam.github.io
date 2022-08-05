@@ -17,7 +17,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/
 Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketplace.secondlife.com/stores/30432)  
 
 ALEX Design (AlexCramer)   
-Original Mesh Collars - 150L -   
+Original Mesh Collars - 150L    
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22](http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22)   
 Marketplace:  [https://marketplace.secondlife.com/stores/180341](https://marketplace.secondlife.com/stores/180341)   
 
@@ -92,12 +92,12 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Calabria/97/230/23](http://
 Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
 
 Devotion (lottiehottie86)   
-Mesh Collars 200-300L   
+Mesh Collars 200L-300L   
 Marketplace: [https://marketplace.secondlife.com/stores/233550](https://marketplace.secondlife.com/stores/233550)   
 
 DragonFyre Designs (Lasynda Shichiroji)   
 Mesh Collars 0L-100L
-Inworld Shop:  [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416]   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416)   
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)   
 
 Emerald Dust (Emdragon)  
@@ -105,12 +105,12 @@ Cock Cages, Clothing, & Toys - 80L to 160L
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)  
 
 Fantasy Restraints (Deana Waydelich)   
-Collars and Cuffs - 150-400L   
+Collars and Cuffs - 150L-400L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
 Marketplace:  [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
 {Fantasy World} (xSmitx)   
-Fantasy styles 250-299L   
+Fantasy styles 250L-299L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902](http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902)   
 Marketplace: [https://marketplace.secondlife.com/stores/205208](https://marketplace.secondlife.com/stores/205208)   
 
@@ -128,7 +128,7 @@ Mesh Collars & Jewelry - 50L to 100L
 Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)   
 
 JaHo (Jackal Hotaling)  
-Mesh Collars - 100 - 450L  
+Mesh Collars - 100L - 450L  
 Marketplace: [https://marketplace.secondlife.com/stores/232316](https://marketplace.secondlife.com/stores/232316)   
 
 Kawaii Couture (Saucey Sinister)   
@@ -137,7 +137,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Elmira/144/41/26](http://ma
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Krescendo (KrescendoStore)   
-Rigged and unrigged mesh collars - 345-400L   
+Rigged and unrigged mesh collars - 345L-400L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982](http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982)   
 *From the landing point, walk forward 8 m to find the Kitty collar, or Press the Adult section on the Teleport board and accept the Krescendo experience.*   
 Marketplace:  [https://marketplace.secondlife.com/stores/186645](https://marketplace.secondlife.com/stores/186645)   
@@ -154,10 +154,10 @@ Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketpl
 
 Majestix (MadyHades)   
 Mesh Collars and Accessories - 299L   
-Marketplace:  [https://marketplace.secondlife.com/stores/207943](https://marketplace.secondlife.com/stores/207943   
+Marketplace:  [https://marketplace.secondlife.com/stores/207943](https://marketplace.secondlife.com/stores/207943)   
 
 MATRIARCH (Beautifull Vyper)  
-Mesh Collars, Restraints, Toys, & Accessories - 399L+ 
+Mesh Collars, Restraints, Toys, & Accessories - 399L+  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Ping/140/128/222](http://maps.secondlife.com/secondlife/Ping/140/128/22)  
 Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketplace.secondlife.com/stores/202671)  
 
@@ -205,7 +205,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Salt%20and%20Pepper/114/124
 Marketplace: [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)   
 
 Saltiveratia (Eolh)   
-Ribbon Bow and Leather Original Mesh Collars- 0L to 50L for single colors, 450 to 600L for fatpacks   
+Ribbon Bow and Leather Original Mesh Collars- 0L to 50L for single colors, 450L to 600L for fatpacks   
 Marketplace:  [https://marketplace.secondlife.com/stores/151399](https://marketplace.secondlife.com/stores/151399)   
 
 Sergaltech Industries (Lukai Zufreur)   
@@ -218,13 +218,13 @@ Inworld Shop:  [http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23](h
 Marketplace:  [https://marketplace.secondlife.com/stores/197511](https://marketplace.secondlife.com/stores/197511)
 
 Short Leash (shortleash)   
-Original Kinky Mesh Collar Designs, Pet Play - 249-399 L   
+Original Kinky Mesh Collar Designs, Pet Play - 249L-399L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
 Marketplace:  [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
 
 Simply Simple (SirRobertFL)   
-Simply designed mesh collars - 150L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626](http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626)
+Simply designed mesh collars - 150L  
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626](http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626)  
 Marketplace: [https://marketplace.secondlife.com/stores/238695](https://marketplace.secondlife.com/stores/238695)   
 
 SLAM // kink & stuff (daPhuk)   
