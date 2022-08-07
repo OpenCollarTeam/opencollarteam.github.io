@@ -25,9 +25,9 @@ AussiePaul, Aussie's Artifacts
 Shop and Maternity Roleplay  
 [http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
 
-Bagnu, Sandy Island Resort
-The DeathSex Art Gallery: Erotic and non-Erotic art.
-[http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/2](http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/2)
+Bagnu, Sandy Island Resort  
+The DeathSex Art Gallery: Erotic and non-Erotic art.  
+[http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/24](http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/24)  
 
 Blaise Tomsen  
 Second Life Railroad  
