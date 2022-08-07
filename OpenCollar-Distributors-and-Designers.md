@@ -25,6 +25,10 @@ AussiePaul, Aussie's Artifacts
 Shop and Maternity Roleplay  
 [http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
 
+Bagnu, Sandy Island Resort
+The DeathSex Art Gallery: Erotic and non-Erotic art.
+[http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/2](http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/2)
+
 Blaise Tomsen  
 Second Life Railroad  
 [http://maps.secondlife.com/secondlife/Rivata/130/94/81](http://maps.secondlife.com/secondlife/Rivata/130/94/81)  
@@ -44,11 +48,7 @@ Dungeon Play Area
 
 Countrycat Furse, Defilers  
 Urban Roleplay  
-[http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501  
-
-Dargo Sin, Satori Island   
-D/s Club and Community   
-[http://maps.secondlife.com/secondlife/Kensho/13/9/48](http://maps.secondlife.com/secondlife/Kensho/13/9/48)   
+[http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
@@ -106,11 +106,6 @@ BDSM Themed Nightclub
 [http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
 **Advisory:** The Vendor is about 50m west of landing point.  
 
-LadyLisaWild, Erziehungs Anstalt  
-German BDSM Club, Dungeon, & Roleplay  
-[http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11](http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11)  
-**Advisory:** Vendor is inside a shop approx 40 m NW of landing point.   
-
 Micklondon4, Sunny Village      
 Strip Club with dungeon and femdom   
 [http://maps.secondlife.com/secondlife/Sunny%20Village/179/97/22](http://maps.secondlife.com/secondlife/Sunny%20Village/179/97/22)   
@@ -134,7 +129,7 @@ Playground, Chat, Dungeon Roleplay
 
 ostiabs, Pet Adoption Center   
 Petplay hangout   
-[http://maps.secondlife.com/secondlife/Pluto/171/230/27](http://maps.secondlife.com/secondlife/Pluto/171/230/27}   
+[http://maps.secondlife.com/secondlife/Pluto/171/230/27](http://maps.secondlife.com/secondlife/Pluto/171/230/27)   
 
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
@@ -202,7 +197,7 @@ Gay Sex & BDSM Dungeon
 
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
-[http://maps.secondlife.com/secondlife/Ibiza/54/85/16]9http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
+[http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
 **Advisory** Land on the first floor and walk to the middle to reach the vendor   
 
 Susann DeCuir, Angel of Pain  
