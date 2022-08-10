@@ -25,6 +25,10 @@ AussiePaul, Aussie's Artifacts
 Shop and Maternity Roleplay  
 [http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
 
+Bagnu, Sandy Island Resort  
+The DeathSex Art Gallery: Erotic and non-Erotic art.  
+[http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/24](http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/149/171/24)  
+
 Blaise Tomsen  
 Second Life Railroad  
 [http://maps.secondlife.com/secondlife/Rivata/130/94/81](http://maps.secondlife.com/secondlife/Rivata/130/94/81)  
@@ -105,11 +109,6 @@ Lady Harcassle, Shades of Emotions
 BDSM Themed Nightclub  
 [http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
 **Advisory:** The Vendor is about 50m west of landing point.  
-
-LadyLisaWild, Erziehungs Anstalt  
-German BDSM Club, Dungeon, & Roleplay  
-[http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11](http://maps.secondlife.com/secondlife/Serena%20Whispering%20Isles/48/152/11)  
-**Advisory:** Vendor is inside a shop approx 40 m NW of landing point.   
 
 Micklondon4, Sunny Village      
 Strip Club with dungeon and femdom   
