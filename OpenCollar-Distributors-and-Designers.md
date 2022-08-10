@@ -50,10 +50,6 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
-Dargo Sin, Satori Island   
-D/s Club and Community   
-[http://maps.secondlife.com/secondlife/Kensho/13/9/48](http://maps.secondlife.com/secondlife/Kensho/13/9/48)   
-
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
@@ -109,6 +105,10 @@ Lady Harcassle, Shades of Emotions
 BDSM Themed Nightclub  
 [http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
 **Advisory:** The Vendor is about 50m west of landing point.  
+
+Mairearad Islay, Fae*Gasm Breeding & Fuck Garden   
+Fantasy based adult playground   
+[http://maps.secondlife.com/secondlife/Frodes/16/164/801](http://maps.secondlife.com/secondlife/Frodes/16/164/801)   
 
 Micklondon4, Sunny Village      
 Strip Club with dungeon and femdom   
@@ -202,7 +202,7 @@ Gay Sex & BDSM Dungeon
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
 [http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
-**Advisory** Land on the first floor and walk to the middle to reach the vendor   
+**Advisory:** Land on the first floor and walk to the middle to reach the vendor   
 
 Susann DeCuir, Angel of Pain  
 Deutsch & English BDSM Playground  
