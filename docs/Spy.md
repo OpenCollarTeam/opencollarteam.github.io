@@ -27,7 +27,7 @@ Note that whenever the owner activates any of the Spy app functions, the wearer 
 
 # Removing Spy
 
-The Spy app functions can only be turned off by the collar owner (NOT the wearer-owner).  To remove Spy from your collar, unlock it, right-click your collar, and select "edit". Find the contents tab, and then scroll down to find the oc_spy script. Right-click the script and delete it. Your collar will re-boot after a few moments; when the reboot is complete you need to relog to clear Spy from the Apps menu. If your collar is locked or welded, you will have to turn off RLV and reboot. It's not possible to edit a locked or welded collar while RLV is on.
+The Spy app functions can only be turned off by the collar owner (NOT the wearer-owner).  To remove Spy from your collar, unlock it, right-click your collar, and select "edit". Find the contents tab, and then scroll down to find the oc_spy script. Right-click the script and delete it. Your collar will re-boot after a few moments; when the reboot is complete you need to relog to clear Spy from the Apps menu. If your collar is welded, you will have to turn off RLV and restart ypur viewer. It's not possible to edit a locked or welded collar while RLV is on. 
 _________________________________________________   
 Documentation by Trinkitz and Silkie Sabra
 
