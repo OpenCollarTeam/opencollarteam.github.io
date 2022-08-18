@@ -52,7 +52,18 @@ Allows you to adjust the rotation and tilt of the collar up, down, left and righ
 Here you can adjust the scale of the collar.
 
 ## Hide
-When checked, Stealth turns the collar transparent.
+When checked, turns the collar transparent.
+
+## AllowHiding
+When checked, allows the wearer to Hide the collar.  Checked by default.   
+
+## AddOns  
+- **WearerAdd**   
+Checked by default.  When unchecked, disallows use of wearer owned AddOns.   
+- **AddOns**   
+Checked by default.  When unchecked, disallows use of all Addons.
+- **AddOns Limits**
+Checked by default.  Limits use of AddOns to the wearer that affect collar access or collar weld state.  Must be unchecked to allow the wearer to unweld a collar. Owner access only. See [Weld](/docs/Weld).
 
 # Global Settings
 
