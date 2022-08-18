@@ -94,7 +94,7 @@ This app allows you to save a size, position and rotation.
 - **Delete** Removes a preset from the list.
 
 # Themes
-See: [Themes](/docs/Themes0   
+See: [Themes](/docs/Themes)   
 # Titler
 
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to set the position of the titler.
