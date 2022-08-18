@@ -18,6 +18,7 @@ If you must:
 ## Steps to Unweld
 
 - Open the collar menu.  Go to Settings > AddOn.  Uncheck Addon Limited.  Only an owner can do this.  
+- **Note**:  In Settings > AddOn menu there are three buttons.  The unwelder is an AddOn.  WearerAdd and Addons must both be checked and *only* AddOns Limit should be unchecked for the Unwelder to connect.
 - Acquire an OpenCollar Unwelder.  Only the wearer can use the unwelder.  There is one rezzed out at the OpenCollar HQ.  You can pull and compile an HUD from the git.  There may be other places that offer them.
 - Touch the unwelder.  
 - Press Unweld Now.  
