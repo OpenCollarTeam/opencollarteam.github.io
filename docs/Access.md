@@ -25,11 +25,14 @@ Go to + Owner and press `>WEARER<` .  This can only be done by an owner.  Theref
 
 The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add an owner remotely.  Owners can be removed through the menu whether of not they are nearby.
 
->`[prefix] add owner [UUID]`  Example: ba add owner szlkdfjszkjfzsjlkf      Don't use /1bamenu if the sub'sa name begin's wth ba. Just ba only
+>`[prefix] add owner [UUID]` 
 >`auth=owner~[UUID,UUID]` for one or more owners up to 255 characters.  If the line reaches more than 255 characters, start a new line:  
 >`auth+owner~[UUID]` for additional owners.
 
-   
+For Instance: To add an owner to joe zipcode's collar, type: jo add owner XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+
+Do NOT use a menu command such as this: jomenu add owner [UUID]
+
 # Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner".  
 **Advisory**  It is currently possible to add the wearer to Trusted by using this menu:  `+ Trust > Select <WEARER>`.  However when this is done the collar will see the Wearer as Trusted, not both Wearer and Trusted.  The Wearer will therefore lose access to certain options that are currently wearer owner or wearer only.  Among these is [Runaway](#runaway) and Access List. 
