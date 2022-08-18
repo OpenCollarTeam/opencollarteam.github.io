@@ -29,9 +29,9 @@ The UUID is the "key"--string of characters at the top of the inworld user profi
 >`auth=owner~[UUID,UUID]` for one or more owners up to 255 characters.  If the line reaches more than 255 characters, start a new line:  
 >`auth+owner~[UUID]` for additional owners.
 
-For Instance: To add an owner to joe zipcode's collar, type: jo add owner XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+For Instance: To add an owner remotely to joe zipcode's collar, type: jo add owner XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 
-Do NOT use a menu command such as this: jomenu add owner [UUID]
+Do NOT add "menu" when you type it in nearby chat. Such as this: jomenu add owner [UUID]. This will not work.
 
 # Trusted
 Trusted gives named individuals the same level of access as Public and Group.  Trusted cannot change the Access menu but do outrank the wearer on the leash. This is the function formerly known as "secondary owner" or "secowner".  
