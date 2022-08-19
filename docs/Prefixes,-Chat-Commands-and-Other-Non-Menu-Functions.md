@@ -6,9 +6,10 @@ title: Prefixes, Chat Commands and Other non-Menu Functions
 # Using Chat Commands
 In Second Life, the local chat line is also the line used for scripting calls. Any channel can be used; the channel that is visible as local chat is channel 0 and is used by default.  OpenCollar script calls include a prefix to direct the call, plus the call name. For instance, to call a menu directly, you can use the chat command with your prefix plus the menu name: 
 
-> [prefix] menu calls the main menu. 
+> [prefix] menu : calls the main menu.
+ 
+For instance:  If your username or your sub's is joe zipcode, type:  jo menu
 
-> For instance: If your username, or your sub's is joe zipcode, type:  jo menu
 
 # Prefixes
 
@@ -16,9 +17,9 @@ Your default prefix is the first two letters of your user name.  It can be chang
 
 To change the prefix (owner access only), type: 
 
-> [prefix] prefix [newprefix].
+> [prefix] prefix [newprefix]
 
-For instance:  Suppose your user name is joezipcode and you want to change jo to jz, type:  jo prefix jz.  
+For instance:  Suppose your user name is joezipcode and you want to change jo to jz, type:  jo prefix jz   
 
 To reset the prefix to default:  
 
@@ -29,9 +30,9 @@ To reset the prefix to default:
 
 There are two global prefixes. * issues commands to everyone in range with the required level of access, and # issues commands to everyone in range with the required level of access except yourself. 
 
- For instance: * menu 
-
-calls the main menu for every wearer to whom you have access in range of the call (20m by default) 
+ For instance: 
+ 
+ > \* menu : calls the main menu for every wearer to whom you have access in range of the call (20m by default) 
 
 Please use this with care.  Just because someone is set to public or group access does not mean they have given you blanket permission to mess with their collar without engaging them in play or conversation first.
 
@@ -39,7 +40,7 @@ Please use this with care.  Just because someone is set to public or group acces
 
 The Channel number can also be changed this way (owner access only). To change the channel number, type
 
-> [prefix] channel [new number] or for instance:  jo channel 3 .  
+> [prefix] channel [new number] or for instance:  jo channel 3   
 
 Public chat is channel 0.  You can turn this off so the collar doesn't listen to chat commands in local chat.  Go to Settings and uncheck Listen 0.  
 
@@ -52,20 +53,20 @@ The default collar safeword is RED, all caps.  You can also type it on channel 1
 
 You can change your safeword (owner access only): 
 
-[prefix] safeword [new safeword] : or for instance: jo safeword BLUE.
+> [prefix] safeword [new safeword] : or for instance: jo safeword BLUE
 
 # Some Useful Chat Commands 
 
-[prefix] touchnotify : turns on or off touch notification: your collar will report when it is touched. 
+> [prefix] touchnotify : turns on or off touch notification: your collar will report when it is touched. 
 
-[prefix] getauth  :  reports what your current authorization level is on the collar.
+> [prefix] getauth  :  reports what your current authorization level is on the collar.
 
-[prefix] help : delivers the .help notecard from the collar.
+> [prefix] help : delivers the .help notecard from the collar.
 
-[prefix] info : dumps info from Help / About into the local chat line
+> [prefix] info : dumps info from Help / About into the local chat line.
 
-[prefix] name [newname] : changes the name of the wearer in collar chat messages such as couples animations.
+> [prefix] name [newname] : changes the name of the wearer in collar chat messages such as couples animations.
 
-[prefix] device name [newname] changes the name of the collar in menus and chat messages.   
+> [prefix] device name [newname] changes the name of the collar in menus and chat messages.   
 
-[prefix] safeword off/on : disables or re-enables the collar safeword.
+> [prefix] safeword off/on : disables or re-enables the collar safeword.
