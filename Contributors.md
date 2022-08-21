@@ -96,7 +96,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 * Garvin Twine  
    Scripter
    Developer  
-   Assisted in the development of the current OpenCollar core architecture  
+   Developed OpenCollar V. 6  
 
 * Jane1066  
    User Help  
@@ -120,6 +120,11 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
    Http-in  
    Web Interface  
    Google App Engine programmer and admin  
+ 
+ * Medea Destiny
+   Scripter V 3.9, V 8.2
+   Developer
+   Overhaul RLV Restrictions menus, Undress, 
 
 * Melfina Marshdevil  
     Created the Teleport Restriction Plugin  
@@ -128,6 +133,11 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
     Started http-in project and collarcmds lookup service for appengine  
     Provides help and support to users and developers alike  
     Minor bug fixing and new features  
+  
+* Ping Duffield
+    Assist in Testing and Development of V 8.2. and OC AddOn Cuffs.
+    Builds Cuffs and other AddOns
+    Directs Beta Testing Team.
 
 * Rowena Bookmite  
    User Help  
@@ -159,6 +169,10 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 * Takat Su
     Scripter  
     Contributed Name2Key functionality
+ 
+ * Tashia Redrose
+   Scripter, V 7.3-8.1.
+   Contributor of many new scripts and animations.  Built Weld functionality, AddOns capability, Addons and Apps public domain templates.
 
 * Wendy Starfall  
    Compiled collars  
@@ -180,6 +194,7 @@ This is a list of people who have helped us in some way. They are listed in no o
    AndreaGabriela Reggiane  
    Marine Kelley  
    Executor Magic  
+   
   
 
 And many more  - please contact so we can add more to this page.  And yes, we do thank everyone on this page, and we do thank for their hard work, regardless of current issues. 
