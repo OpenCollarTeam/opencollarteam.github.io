@@ -17,10 +17,6 @@ OpenCollar Headquarters
 OpenCollar Hangout & Support  
 [http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201)  
 
-Aisha Marshdevil, Rubber Kingdom  
-Fetish, Rubber, Bondage, Dungeons, Roleplay Playground  
-[http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/201/200/21)  
-
 AussiePaul, Aussie's Artifacts
 Shop and Maternity Roleplay  
 [http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
@@ -34,17 +30,9 @@ Second Life Railroad
 [http://maps.secondlife.com/secondlife/Rivata/130/94/81](http://maps.secondlife.com/secondlife/Rivata/130/94/81)  
 **Advisory:** The Vendor is accessible from the SLRR Protected Land.  
 
-Broken Swords, Valnor  
-Female Dominated Medieval Themed Fantasy Roleplay (RLV & GM Enforced)  
-[http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001](http://maps.secondlife.com/secondlife/Valnor%20Isle/95/194/1001)  
-
 Button Wright, Frilly Filly Farm   
 Pony Play, Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/170/99/90](http://maps.secondlife.com/secondlife/Oraenji/170/99/90)   
-
-Carin March, Sweet Domination  
-Dungeon Play Area  
-[http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201](http://maps.secondlife.com/secondlife/Ciarnau/65/54/3201)     
 
 Countrycat Furse, Defilers  
 Urban Roleplay  
@@ -54,11 +42,6 @@ Dolma Dollinger, Latex Fetish Mall
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
 
-Dracco Cela, The Enclave  
-Gorean Club & Roleplay  
-[http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607](http://maps.secondlife.com/secondlife/Ragnars%20Hamlet/173/215/1607)  
-**Advisory:** Landing is open to all, the rest of the roleplay area is members only.  
-
 Elizabeth Boissay, Velvet Sanctuary   
 Club   
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24)   
@@ -66,14 +49,15 @@ Club
 Frank1056, Vicky's Sky and Rooftop Rentals   
 Shopping, Rentals, Fishing Games   
 [http://maps.secondlife.com/secondlife/Protoplasnic/103/254/39](http://maps.secondlife.com/secondlife/Protoplasnic/103/254/39)   
+**Advisory:** The Vendor is inside the building, under the stairs on the ground floor.   
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
-[http://maps.secondlife.com/secondlife/Caged%20Elegance/62/195/998](http://maps.secondlife.com/secondlife/Caged%20Elegance/62/195/998)  
+[http://maps.secondlife.com/secondlife/Caged%20Elegance/64/205/999](http://maps.secondlife.com/secondlife/Caged%20Elegance/64/205/999)  
 
 girlymp, Poppy's Hangout  
 Playground  
-[http://maps.secondlife.com/secondlife/Horizon%20Island/148/68/76](http://maps.secondlife.com/secondlife/Horizon%20Island/148/68/76)  
+[http://maps.secondlife.com/secondlife/Horizon%20Island/118/76/76](http://maps.secondlife.com/secondlife/Horizon%20Island/118/76/76)  
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
@@ -81,7 +65,7 @@ D/s Community, Art Gallery & Theater
 
 Hectic1, HEC (Hot Elegant Clothing)   
 Shop   
-[http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/73/30/2001)   
+[http://maps.secondlife.com/secondlife/Vashti%20Island/78/27/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/78/27/2001)   
 **Advisory:** Walk South 65m, following the beacon from the fixed landing point.  
  
 Kathy Hoyes, Slave Land  
@@ -91,20 +75,15 @@ Slave Auction & Matching Service
 
 KlewTea Rhapsody, Sprockets & Whip  
 Female Focused BDSM Community, Multiple Roleplay Settings  
-[http://maps.secondlife.com/secondlife/Sprockets/179/36/3506](http://maps.secondlife.com/secondlife/Sprockets/179/36/3506)  
+[http://maps.secondlife.com/secondlife/Sprockets/109/140/3505](http://maps.secondlife.com/secondlife/Sprockets/109/140/3505)  
 
 Kittin Ninetails, Ninetails  
 Shop  
 [http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)  
 
-Knottykarma, Strangelove Fetish Manor   
-Club, Roleplay, Garden Area open to the public   
-[http://maps.secondlife.com/secondlife/Guittarez/177/85/3186](http://maps.secondlife.com/secondlife/Guittarez/177/85/3186)   
-
 Lady Harcassle, Shades of Emotions  
 BDSM Themed Nightclub  
-[http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21](http://maps.secondlife.com/secondlife/Damone%20Estates/190/140/21)  
-**Advisory:** The Vendor is about 50m west of landing point.  
+[http://maps.secondlife.com/secondlife/Damone%20Estates/195/200/21](http://maps.secondlife.com/secondlife/Damone%20Estates/195/200/21)  
 
 Mairearad Islay, Fae*Gasm Breeding & Fuck Garden   
 Fantasy based adult playground   
@@ -123,53 +102,17 @@ Monk Xenno, Island of Nom
 Arab Themed Slave Auction & Training  
 [http://maps.secondlife.com/secondlife/Catalina/28/32/22](http://maps.secondlife.com/secondlife/Catalina/28/32/22)  
 
-Morris Mixmaster, BDSM Lifestyle Club by Sensual     
-BDSM Club   
-[http://maps.secondlife.com/secondlife/Phoenix/106/160/25](http://maps.secondlife.com/secondlife/Phoenix/106/160/25)  
-
-Nerk Nexen, M&M Dungeon  
-Playground, Chat, Dungeon Roleplay  
-[http://maps.secondlife.com/secondlife/Tovaris/193/66/49](http://maps.secondlife.com/secondlife/Tovaris/193/66/49)  
-
-ostiabs, Pet Adoption Center   
-Petplay hangout   
-[http://maps.secondlife.com/secondlife/Pluto/171/230/27](http://maps.secondlife.com/secondlife/Pluto/171/230/27)   
-
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
-[http://maps.secondlife.com/secondlife/Erotica%20Island/72/45/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/72/45/1522)   
-
-ponygirlsarah.clapper, Pony City  
-Pony Girl RP Community  
-[http://maps.secondlife.com/secondlife/Sarahs%20Island/129/86/23](http://maps.secondlife.com/secondlife/Sarahs%20Island/129/86/23)  
-
-Quaylie Vintner, Markquayz II   
-Club, Romance and BDSM   
-[http://maps.secondlife.com/secondlife/Blue%20Seas/141/168/22](http://maps.secondlife.com/secondlife/Blue%20Seas/141/168/22)   
+[http://maps.secondlife.com/secondlife/Erotica%20Island/39/67/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/39/67/1522)   
 
 Randy Marenwolf, RLV: Reality & Magic In SL  
 RLV Education Center  
 [http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57](http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57)  
 
-River Vortex, Mystical Isle   
-Fantasy Roleplay, Merfolk, Elves, Fairies, Petites   
-[http://maps.secondlife.com/secondlife/Mystical%20Realms/158/197/22](http://maps.secondlife.com/secondlife/Mystical%20Realms/158/197/22)  
-
-Rocketroo, Bad Bunneh  
-Shop Featuring Clothing, Jewelry, & Furniture  
-[http://maps.secondlife.com/secondlife/Spunk/115/205/799](http://maps.secondlife.com/secondlife/Spunk/115/205/799)  
-
 Sabina Riederer, Blackrose Castle   
 LGBTQ Friendly BDSM Community, Roleplay, Shops   
 [http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23)   
-
-Sadie Dubratt, Kitty Creations   
-Shop Featuring Old World Fantasy Clothing Furniture, Home and Garden  
-[http://maps.secondlife.com/secondlife/Sadleirian/177/149/548](http://maps.secondlife.com/secondlife/Sadleirian/177/149/548)   
-
-Safra Nitely, Darkwing-Barns Stables  
-Pony Girl & Pet Play  
-[http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993](http://maps.secondlife.com/secondlife/Devon%20Dream/230/112/3993)  
 
 Sayuki Solo, Indecent Fairies   
 BDSM hangout   
@@ -177,11 +120,11 @@ BDSM hangout
 
 Serjourn Daxter, Pirandello Bay  
 Shop, BDSM Dungeon & Roleplay  
-[http://maps.secondlife.com/secondlife/Pirandello%20Bay/196/166/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/196/166/21)  
+[http://maps.secondlife.com/secondlife/Pirandello%20Bay/148/133/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/148/133/21)  
 
 Seth Ock, Griseus Farms  
 Human Livestock, Medical Play, & Alien Abductions Roleplay  
-[http://maps.secondlife.com/secondlife/CrAzYToWn/56/202/21](http://maps.secondlife.com/secondlife/CrAzYToWn/56/202/21)  
+[http://maps.secondlife.com/secondlife/CrAzYToWn/55/206/21](http://maps.secondlife.com/secondlife/CrAzYToWn/55/206/21)  
 
 Shan Bright, Bright Corporation  
 Adult Sandbox & Shop  
@@ -193,7 +136,7 @@ Western Themed D/s Roleplay
 
 Silkie Sabra, Roadside Collar Shrine  
 Social Hangout  
-[http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54](http://maps.secondlife.com/secondlife/Claris%20Beck/219/251/54)  
+[http://maps.secondlife.com/secondlife/Claris%20Beck/233/242/55](http://maps.secondlife.com/secondlife/Claris%20Beck/233/242/55)  
 
 sinkt, Starbuck's Lair  
 Gay Sex & BDSM Dungeon  
@@ -211,6 +154,7 @@ Deutsch & English BDSM Playground
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
+**Advisory:** Take the teleporter pad to *Freebies*  
 
 Tania Loon, Bondage City   
 BDSM Lifestyle Sim with emphasis on Bondage   
@@ -222,11 +166,7 @@ RLV Trap Shop & Sandbox
 
 Theragnarok1, Temptation Events   
 Shopping Event   
-[http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/171/204/21](http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/171/204/21)   
-
-Teninista, Dirty Dolls   
-Club and Escort Lounge   
-[http://maps.secondlife.com/secondlife/FireBlood/245/217/3557](http://maps.secondlife.com/secondlife/FireBlood/245/217/3557)   
+[http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/241/208/33](http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/241/208/33)   
 
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground & Shop  
@@ -234,7 +174,7 @@ Inworld Playground & Shop
 
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
-[http://maps.secondlife.com/secondlife/Xegul/175/47/59](http://maps.secondlife.com/secondlife/Xegul/175/47/59)  
+[http://maps.secondlife.com/secondlife/Xegul/170/62/59](http://maps.secondlife.com/secondlife/Xegul/170/62/59)  
 
 Windrunner Shan, Fusion by the Sea  
 Beach, Sailing, & Blake Sea Access  
@@ -242,11 +182,11 @@ Beach, Sailing, & Blake Sea Access
 
 Yannis Boucher, Fallen Angels BDSM Club  
 BDSM Club  
-[http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/90/137/3925](http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/90/137/3925)  
+[http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/78/165/3925](http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/78/165/3925)  
 
 Zaphod Plutonian, HalfLight Dreams   
 Immersive capture hunt experience (CARP)   
-[http://maps.secondlife.com/secondlife/Bondage%20City/127/118/3151](http://maps.secondlife.com/secondlife/Bondage%20City/127/118/3151)   
+[http://maps.secondlife.com/secondlife/Bondage%20City/143/135/3151](http://maps.secondlife.com/secondlife/Bondage%20City/143/135/3151)   
 
 
 # OpenCollar Partners Application Form
@@ -288,4 +228,4 @@ Inworld Location SLURL:
 
 Name and brief description of your sim:  Playground | Roleplay | Shop | Club | Sandbox | Other
 
-* Distributors may be removed from the list if they fail to meet any of the above specifications.  
+\* Distributors may be removed from the list if they fail to meet any of the above specifications.  
