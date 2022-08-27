@@ -12,16 +12,14 @@ Just kidding ! There's a lot more to say. Having trouble reaching your collar to
 - Most but not all collar functions are available as buttons in the collar menu so chat commands are optional. 
 
 ## Chat Commands
-Chat Commands are typed into the local chat line. Many of the menus and submenus in OpenCollar can be called by using chat commands of the same name as the menu button.
+Chat Commands are typed into the local chat line. Many of the menus and submenus in OpenCollar can be called by using chat commands of the same name as the menu button.  Here is an example of a chat command by the collar wearer Joe Zipcode: `jo menu`.  This chat command calls the main menu. `jo` is Joe's prefix, the first two letters of h/er user name.
 
-Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing /1 [prefix] menu. This sends the command to channel 1 instead and you don't see it in local chat.
+Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing `/1 [prefix] menu`, or in Joe's case, `/1 jo menu`. This sends the command to channel 1 instead and you don't see it in local chat.
 
 ### Prefixes
-Chat commands take the form `[prefix] call [value]`.  The space between prefix, command, and sometimes value is important. Most commands are just `[prefix] call` but some include a value if you want to do something like change your leash length, your listener channel, your prefix, etc. Then you need your prefix, the call AND the word or number you want to change to. Your default prefix is the first two letters of your user name.  
-- Prefixes direct collar commands only to wearers with those two initials, for collars to which you have access.  So beware of possible duplicate prefixes! 
-- Your prefix can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless OwnSelf is checked.  
-
-**Using your prefix**:  Suppose your name is Joe Zipcode (joezipcode).  To call the menu you would type:  jo menu . If you want to send the command to channel one it will be `/1 jo menu`. 
+Chat commands take the form `[prefix] [call] [value]`.  The space between prefix, command, and sometimes value is important. Most commands are just `[prefix] [call]` but some include a value if you want to do something like change your leash length, your listener channel, your prefix, etc. Then you need your prefix, the call AND the word or number you want to change to.   
+- Prefixes direct collar commands only to wearers with those initials, for collars to which you have access.  So beware of possible duplicate prefixes! 
+- Your prefix can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless they are also owners.   
 
 [More About [Prefixes, Chat Commands and Other NonMenu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
 
