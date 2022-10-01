@@ -30,6 +30,10 @@ Second Life Railroad
 [http://maps.secondlife.com/secondlife/Rivata/130/94/81](http://maps.secondlife.com/secondlife/Rivata/130/94/81)  
 **Advisory:** The Vendor is accessible from the SLRR Protected Land.  
 
+Blisst, Tokyo 2077 NCS SIM   
+Neon Dream Adult Entertainment Club   
+[http://maps.secondlife.com/secondlife/Delicious/180/214/1975](http://maps.secondlife.com/secondlife/Delicious/180/214/1975)
+
 Button Wright, Frilly Filly Farm   
 Pony Play, Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/170/99/90](http://maps.secondlife.com/secondlife/Oraenji/170/99/90)   
@@ -145,7 +149,7 @@ Gay Sex & BDSM Dungeon
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
 [http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
-**Advisory:** Land on the first floor and walk to the middle to reach the vendor   
+**Advisory:** Land on the first floor and walk to the middle to reach the vendor.   
 
 Susann DeCuir, Angel of Pain  
 Deutsch & English BDSM Playground  
@@ -154,7 +158,7 @@ Deutsch & English BDSM Playground
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
-**Advisory:** Take the teleporter pad to *Freebies*  
+**Advisory:** Take the teleporter pad to *Freebies*.  
 
 Tania Loon, Bondage City   
 BDSM Lifestyle Sim with emphasis on Bondage   
