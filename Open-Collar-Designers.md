@@ -194,6 +194,10 @@ QUINN (Quinn1969)
 Mesh Collar 100L  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Pastiche/25/75/21](http://maps.secondlife.com/secondlife/Pastiche/25/75/21)   
 
+Rapture's Enchantment   
+Mesh Turian/Gor collars starting at 150L   
+Inworld Shop:[http://maps.secondlife.com/secondlife/Rainbow%20Dreams/97/161/3002](http://maps.secondlife.com/secondlife/Rainbow%20Dreams/97/161/3002)   
+
 RealEvil Industries (crashnoww)   
 Mesh Collars & Jewelry - 149L to 599L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25](http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25)  
