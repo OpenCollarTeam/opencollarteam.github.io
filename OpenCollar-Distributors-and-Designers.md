@@ -32,7 +32,7 @@ Second Life Railroad
 
 Blisst, Tokyo 2077 NCS SIM   
 Neon Dream Adult Entertainment Club   
-[http://maps.secondlife.com/secondlife/Delicious/165/251/1977](http://maps.secondlife.com/secondlife/Delicious/165/251/1977)   
+[http://maps.secondlife.com/secondlife/Delicious/249/169/1098](http://maps.secondlife.com/secondlife/Delicious/249/169/1098)   
 
 Button Wright, Frilly Filly Farm   
 Pony Play, Tack Shop   
