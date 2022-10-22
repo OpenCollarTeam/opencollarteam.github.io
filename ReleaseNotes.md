@@ -8,6 +8,11 @@ _______________________________________________________
 # V 8.2.2 Release:  Changelog
 
 ## Summary
+The biggest changes that are noticeable to the user or fix a major issue:  
+1) **ADDONS** is less verbose and does not send false disconnect messages.  
+2) **WEARER TRUSTED ACCESS** Fixes loophole where adding wearer to Trusted removed abilities not available to Trusted.  
+3) Outfits is now more compatible with RLV Viewers as well as RLVa.
+4) Exceptions are no longer cleared by traps or Clear All. This fixes the Force Teleport exception failure.
 
 ## Complete Changelog 
 
