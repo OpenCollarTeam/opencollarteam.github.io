@@ -2,11 +2,141 @@
 layout: home
 title: OpenCollar Release Notes
 ---
-OpenCollar V 8.2.1 is current ! Thanks to many contributors, including Scripters Medea Destiny, Yosty7B3; Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Trinkitz and Omnia (animavenator); as always Nirea Mercury; and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
+OpenCollar V 8.2.2 is current ! Thanks to many contributors, including Scripters Medea Destiny, Kristen Mynx,Phidoux (Taya Maruti), and Yosty7B3.  Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Ping Duffield, Trinkitz and Omnia (animavenator); and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
+_______________________________________________________    
 
-# V 8.2.1 Release: Changelong 
+# V 8.2.2 Release:  Changelog
 
-## Summary 
+## Summary
+
+## Complete Changelog 
+
+## ---COLLAR---  
+
+### OC_ADDONS
+
+    Scripters): Kristen
+    
+    Testers/Reviewers:  Ping Duffield, Omnia, Medea, Phidoux
+    
+    CHANGES: Kristen : Less chatty, fixed erroneous disconnection protocol (issues #791 & 792) 
+    
+### OC_ANIM
+ 
+    Scripters:  Phidoux, K9K8E
+    
+    Testers/Reviewers: 
+    
+    * Changes:  Phidoux: Stop the current AO pose, and restart after a collar pose (issue #812)   
+    
+    K9k8E: Fix mouselook left click (issue #763)
+    
+### OC_API
+    
+    Scripters: Medea
+    
+    Testers/Reviewers: Ping, Omnia
+    
+    Changes: Multiple access fixes for when wearer is also trusted, fix for possibility of private channel set to zero
+
+    Scripters: Yosty7B3
+    
+    Testers/Reviewers: Ping, Omnia, Medea
+    
+    Changes: Only reset script when needed, not on each reboot
+
+### OC_Bookmarks
+
+    Scripters: Medea Destiny
+    
+    Testers/Reviewers: Omnia, Ping
+    
+    CHANGES: Medea: Added clickable SLURL link chatted to command issuer to allow quickly following the wearer. (issue #715)
+    
+    
+### OC_CORE
+    
+    Scripters: Medea Destiny
+    
+    Testers/Reviewers: Taya phidoux, Silkie Sabra
+    
+    CHANGES: Modified handling of multiple situations where wearer access is blocked if they are trusted also (issue #774)
+    
+    Scripters: Yosty7B3
+    
+    Testers/Reviewers: Ping, Omnia, Medea
+    
+    CHANGES: Removed Setor() and Bool() functions for efficiency.
+    
+### OC_FOLDERS
+
+    Scripters: ròan (Silkie Sabra), Medea Destiny
+    
+    Testers/Reviewers:
+    
+    CHANGES:  ròan: reworded a menu text to make the lock checkboxes clearer(#829).  
+    Medea: Fix string handling in folder searches (issue #775); add notification when folder search returns no results.
+    
+### OC_OUTFITS
+
+    Scripters: Phidoux, 
+    
+    Testers/Reviewers:
+    
+    CHANGES:  added ~ for compatibility with users of RLV.  Fixed RLV/RLVa flip flopping.
+    
+### OC_RLVEXTENSION:
+
+    Scripter name:  Medea Destiny
+    
+    Testers/Reviewers: Roan, Acadia Ansar, Nightshade 231, Omnia, Lisle Rossini
+    
+    CHANGES:   Fix unsit chat command (issue #703), fix to release unsit restriction 
+    when strict sit is turned off while wearer is sitting; 
+    fix to race condition causing defaults restored for exception values (issues #719, #720, #740).   
+    Fix to filtering for changes to exceptions (issues 844 and 848)
+    
+### OC_RELAY
+
+    Scripters:  Phidoux, Kristen
+    
+    Testers/Revewers:  Kristen, Ping
+    
+    CHANGES: RLV restrictions and exceptions persist now over various bugs
+
+### OC_RLVSUITE
+
+    Scripters: Medea Destiny
+    
+    Testers/Reviewers: Roan, Ping, Omnia
+    
+    CHANGES: Fixed deletion of all macros breaking macro list (issue #723).   
+    Changes to lock behaviour due to changed relay code-- ensure an @detach removed on relay   
+    does not actually unlock a locked collar. 
+
+### OC_RLVSYS
+
+    Scripters: TayaPhidoux, Kristen Mynx
+    
+    Testers/Reviewers:
+    
+    CHANGES: Kristen: Changes as part of Relay modifications above.   
+    Tayaphidoux: Tweaks to RLVa version handling
+
+### OC_STATES
+
+    Scripters: Medea
+    
+    Testers/Reviewers: Roan
+    
+    CHANGES: Fixed typo
+
+
+# Previous Releases
+
+## V 8.2.1 Release: Changelong 
+
+### Summary 
 The most noticeable changes to 8.2.1 are:
 1. Restrictions/extensions refactoring: Restriction presets and individual restrictions now under a single menu rather than separated into Restrictions and Macros menus, with a major user interface overhaul including clearer button names, listings of current restrictions in the prompt, restriction settings now accessible directly from restrictions menu, and a button to inform user what restrictions the presets will actually put in place.  
 2. Exceptions menu restored to RLV menu, and major efficiency overhaul.  
@@ -79,9 +209,6 @@ There are also numerous efficiency improvements, bug fixes and improvements to u
 > Added text2col() function that makes a sensible colour vector out of whatever is thrown at it. 
 > Added validvector() function to confirm vectors are valid before setting, used to make "[prefix] title color" command without following vector provide colour menu rather than setting colour to black, and means that "[prefix] title color red" will now pop up the color menu rather than setting the title text to black. 
 > Text changes now set instantly rather than after 2.5 second delay.   
-_______________________________________________________    
-
-# Previous Releases
 
 # V 8.1 Release:  Changelog
 
