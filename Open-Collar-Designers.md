@@ -79,7 +79,12 @@ Marketplace: [https://marketplace.secondlife.com/stores/142444](https://marketpl
 
 The Compass (Casey Wardark)  
 Mesh Collars - 75L to 250L  
-Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketplace.secondlife.com/stores/211817) 
+Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketplace.secondlife.com/stores/211817)  
+
+Crimson Absinthe  
+Goth style mesh collars - 10L      
+Inworld shop:  [http://maps.secondlife.com/secondlife/Starshine%20Meadows/230/207/23](http://maps.secondlife.com/secondlife/Starshine%20Meadows/230/207/23)   
+Marketplace: [https://marketplace.secondlife.com/stores/248033](https://marketplace.secondlife.com/stores/248033)   
 
 Dahlia (June Fallon)   
 Original Mesh Luxury Collars with HD Materials Textures - starting at 175L   
