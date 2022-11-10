@@ -5,7 +5,22 @@ title: OpenCollar Release Notes
 OpenCollar V 8.2.2 is current ! Thanks to many contributors, including Scripters Medea Destiny, Kristen Mynx,Phidoux (Taya Maruti), and Yosty7B3.  Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Ping Duffield, Trinkitz and Omnia (animavenator); and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
 _______________________________________________________    
 
-# V 8.2.2 Release:  Changelog
+# V 8.2.3 Release:  Changelog  
+
+## Summary
+
+This was an opportunistic minor release because a mistake was made compiling the updater that was distributed to the groups, which when discovered, necessitated a version change to avoid confusion.  We too advantage of it to include a few things that missed the 8.2.2 release.
+
+## Changelog
+
+All changes were contributed by Medea Destiny.    
+1) Updated Installer to use "keep" instead of "skip" for retaining optional scripts. 
+2) Fixed version comparisons to ensure full versions supersede betas and improve reporting text.   
+3) Changed "RLV Ready!" text to "RLV Active!" to avoid confusion during boot process.  
+
+# Previous Releases  
+
+## V 8.2.2 Release:  Changelog
 
 ## Summary
 The biggest changes that are noticeable to the user or fix a major issue:  
@@ -135,9 +150,6 @@ The biggest changes that are noticeable to the user or fix a major issue:
     Testers/Reviewers: Roan
     
     CHANGES: Fixed typo
-
-
-# Previous Releases
 
 ## V 8.2.1 Release: Changelong 
 
