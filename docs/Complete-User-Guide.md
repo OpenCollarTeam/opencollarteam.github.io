@@ -45,6 +45,7 @@ OpenCollar uses a modular architecture. There is a set of core scripts required 
 
 ## Manual Pages for Extra Apps Available on Git or at OpenCollar Headquarters
 * [Spy](/docs/Spy)
+* [CageHome](/docs/Cage_Home)
 
 ##  Development
 * [Development Life Cycle](/docs/Development-Life-Cycle)
