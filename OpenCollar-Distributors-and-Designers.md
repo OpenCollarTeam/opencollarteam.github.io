@@ -199,7 +199,7 @@ Immersive capture hunt experience (CARP)
 
 # OpenCollar Partners Application Form
 
-Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to Silkie Sabra inworld.
+Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to [Yshida](secondlife:///app/agent/4d5a5a8f-5ffa-419a-8bf2-361d40faac4a/about) inworld.
 
 OpenCollar Official Partners
 
