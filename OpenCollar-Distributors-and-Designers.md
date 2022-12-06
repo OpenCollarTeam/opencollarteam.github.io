@@ -63,6 +63,10 @@ Gatatem, Caged Elegance
 BDSM Sim & Club  
 [http://maps.secondlife.com/secondlife/Caged%20Elegance/64/205/999](http://maps.secondlife.com/secondlife/Caged%20Elegance/64/205/999)  
 
+GinaVieras, Dead End Playground  
+RLV Rape Play  
+[http://maps.secondlife.com/secondlife/Toxen/205/173/3680](http://maps.secondlife.com/secondlife/Toxen/205/173/3680)  
+
 girlymp, Poppy's Hangout  
 Playground  
 [http://maps.secondlife.com/secondlife/Horizon%20Island/118/76/76](http://maps.secondlife.com/secondlife/Horizon%20Island/118/76/76)  
@@ -141,10 +145,6 @@ Adult Sandbox & Shop
 Silkie Sabra, K-Bar West  
 Western Themed D/s Roleplay  
 [http://maps.secondlife.com/secondlife/KBar%20West/59/121/24](http://maps.secondlife.com/secondlife/KBar%20West/59/121/24)  
-
-Silkie Sabra, Roadside Collar Shrine  
-Social Hangout  
-[http://maps.secondlife.com/secondlife/Claris%20Beck/233/242/55](http://maps.secondlife.com/secondlife/Claris%20Beck/233/242/55)  
 
 sinkt, Starbuck's Lair  
 Gay Sex & BDSM Dungeon  
