@@ -17,6 +17,10 @@ OpenCollar Headquarters
 OpenCollar Hangout & Support  
 [http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201)  
 
+Aisha Marshdevil, Rubber Kingdom   
+Club and Roleplay Community   
+[http://maps.secondlife.com/secondlife/Rubber%20Kingdom/230/202/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/230/202/21)   
+
 AussiePaul, Aussie's Artifacts
 Shop and Maternity Roleplay  
 [http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
