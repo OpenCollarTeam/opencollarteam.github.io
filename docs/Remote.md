@@ -49,7 +49,7 @@ The minus icon, bottom right, will minimize the remote HUD menu.  When minimized
 # Collar Short Cut Buttons  
 These buttons open collar menus.  If you do not use one or more of these shortcuts, you can remove them in the Remote Manager to simplify use of the remote. We will go in order left to right and top to bottom starting at the top of the Remote menu.
 
-## Themes ![Themes](https://opencollar.cc/static/Themes.png "Themes)  
+## Themes ![Themes](https://opencollar.cc/static/Themes.png "Themes")  
 The painter's palette opens the Themes menu.
 ## Macros ![Macros](https://opencollar.cc/static/Macros.png "Macros") 
 The scroll icon opens the Macros menu for applying grouped RLV restrictions.  
