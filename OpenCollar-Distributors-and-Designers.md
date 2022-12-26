@@ -225,7 +225,7 @@ To qualify as an OpenCollar Official Partner, collar distributors agree to the f
 
 APPLICATION
 
-If you would like to sign up for the Official Partners program, please make a notecard named  "OpenCollar Official Partners Application - (your user name)", and include the information indicated below.  Then pass it to Silkie Sabra, OpenCollar Partners Coordinator.
+If you would like to sign up for the Official Partners program, please make a notecard named  "OpenCollar Official Partners Application - (your user name)", and include the information indicated below.  Then pass it to Yshida (secondlife:///app/agent/4d5a5a8f-5ffa-419a-8bf2-361d40faac4a/about), OpenCollar Partners Coordinator.
 
 DISTRIBUTORS AND DESIGNERS:
 
