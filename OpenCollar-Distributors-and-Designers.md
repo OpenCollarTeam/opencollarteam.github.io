@@ -84,6 +84,10 @@ Shop
 [http://maps.secondlife.com/secondlife/Vashti%20Island/78/27/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/78/27/2001)   
 **Advisory:** Walk South 65m, following the beacon from the fixed landing point.  
  
+Jess Cloud, The Live Trance Lab  
+Erotic Hypnosis Community Hub  
+[http://maps.secondlife.com/secondlife/Dream%20Love%20Island/199/64/1003](http://maps.secondlife.com/secondlife/Dream%20Love%20Island/199/64/1003)  
+
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
 [http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
@@ -238,6 +242,8 @@ Secondlife Avatar UUID:
 Inworld Location SLURL:  
 * The SLURL should be to the spot you plan to rez the vendor, even if your sim has a fixed landing point.  
 
-Name and brief description of your sim:  Playground | Roleplay | Shop | Club | Sandbox | Other
+Name and brief description of your sim:  
+
+* Playground | Roleplay | Shop | Club | Sandbox | Other
 
 \* Distributors may be removed from the list if they fail to meet any of the above specifications.  
