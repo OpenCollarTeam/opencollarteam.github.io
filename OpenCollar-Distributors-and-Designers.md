@@ -93,6 +93,10 @@ Slave Auction & Matching Service
 [http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
 **Advisory:** The Vendor is about 20m west of the landing point around a corner.  
 
+Kentykaty, Pleasure Island Dungeon & Prison  
+Slut Project Designs retail store  
+[http://maps.secondlife.com/secondlife/Avarua%20Island/229/241/1001](http://maps.secondlife.com/secondlife/Avarua%20Island/229/241/1001)  
+
 KlewTea Rhapsody, Sprockets & Whip  
 Female Focused BDSM Community, Multiple Roleplay Settings  
 [http://maps.secondlife.com/secondlife/Sprockets/109/140/3505](http://maps.secondlife.com/secondlife/Sprockets/109/140/3505)  
@@ -187,6 +191,10 @@ Shopping Event
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground & Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
+
+vincent Weigler, Open Bar L'Overture d'Esprit des Toutes les Formes du BDSM   
+RLV Trap / Furniture Shop & RLV Playground  
+[http://maps.secondlife.com/secondlife/Remember/122/143/1102](http://maps.secondlife.com/secondlife/Remember/122/143/1102)  
 
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
