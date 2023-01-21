@@ -14,7 +14,7 @@ There are many different RLV relays.  Most are independent attachments.  Since H
  - **Trust Owner** When Trust Owner is checked, the relay will respond automatically to a trap owned by a collar owner.
  - **Trust Trusted** When Trust Trusted is checked, the relay will respond automatically to a trap owned by anyone with Trusted access on the collar.
  - **Wearer** This button toggles the wearer's ability to change the relay settings.  On by default. 
- - **Helpless** This button turns off the wearer's ability to refuse a trap .
+ - **Helpless** This button turns off the wearer's ability to escape a trap by pushing "Refuse" in the relay menu (see below).
 ## REFUSE
  This button appears when the wearer is trapped and will release them from an unwanted trap, without releasing other collar restrictions not initated by the relay.  The OpenCollar relay also responds to the global collar safeword.
  
