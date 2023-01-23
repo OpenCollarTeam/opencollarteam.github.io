@@ -17,7 +17,7 @@ Chat Commands are typed into the local chat line. Many of the menus and submenus
 Local chat is on channel 0. If you don't want your command to be visible in local chat, call your menu by typing `/1 [prefix] menu`, or in Joe's case, `/1 jo menu`. This sends the command to channel 1 instead and you don't see it in local chat.
 
 ### Prefixes
-Chat commands take the form `[prefix] [call] [value]`.  The space between prefix, command, and sometimes value is important. Most commands are just `[prefix] [call]` but some include a value if you want to do something like change your leash length, your listener channel, your prefix, etc. Then you need your prefix, the call AND the word or number you want to change to.   
+Chat commands take the form `[prefix] [call] [value]`. Most chat commands don't need a value, unless you want to do something like change your leash length, your listener channel, your prefix, etc. Then you need your prefix, the call AND the word or number you want to change to.  Use spaces between each place, it may not need it but some chat commands with more than two places do. 
 - Prefixes direct collar commands only to wearers with those initials, for collars to which you have access.  So beware of possible duplicate prefixes! 
 - Your prefix can be changed by the collar owner only.  Wearers who have set an owner cannot change the prefix unless they are also owners.   
 
