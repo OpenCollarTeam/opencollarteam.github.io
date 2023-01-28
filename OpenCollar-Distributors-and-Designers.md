@@ -154,6 +154,10 @@ Shan Bright, Bright Corporation
 Adult Sandbox & Shop  
 [http://maps.secondlife.com/secondlife/Reanna/44/44/77](http://maps.secondlife.com/secondlife/Reanna/44/44/77)  
 
+shylamine, Shyla Adult Book Store  
+Free Adult Bookstore with SL artists  
+[http://maps.secondlife.com/secondlife/ordago/35/175/3599](http://maps.secondlife.com/secondlife/ordago/35/175/3599)  
+
 Silkie Sabra, K-Bar West  
 Western Themed D/s Roleplay  
 [http://maps.secondlife.com/secondlife/KBar%20West/59/121/24](http://maps.secondlife.com/secondlife/KBar%20West/59/121/24)  
