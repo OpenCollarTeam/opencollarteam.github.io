@@ -122,10 +122,6 @@ Shop, Playground & Club
 [http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
 **Advisory:** Walk into main shop about 100m toward the back and look left.  
 
-Monk Xenno, Island of Nom  
-Arab Themed Slave Auction & Training  
-[http://maps.secondlife.com/secondlife/Catalina/28/32/22](http://maps.secondlife.com/secondlife/Catalina/28/32/22)  
-
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica%20Island/39/67/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/39/67/1522)   
@@ -137,10 +133,6 @@ RLV Education Center
 Sabina Riederer, Blackrose Castle   
 LGBTQ Friendly BDSM Community, Roleplay, Shops   
 [http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23)   
-
-Sayuki Solo, Indecent Fairies   
-BDSM hangout   
-[http://maps.secondlife.com/secondlife/Dunstone/138/40/3601](http://maps.secondlife.com/secondlife/Dunstone/138/40/3601)
 
 Serjourn Daxter, Pirandello Bay  
 Shop, BDSM Dungeon & Roleplay  
@@ -170,10 +162,6 @@ Sue Feiri, Freebie Galaxie
 Freebie Shops Noob Friendly  
 [http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
 **Advisory:** Land on the first floor and walk to the middle to reach the vendor.   
-
-Susann DeCuir, Angel of Pain  
-Deutsch & English BDSM Playground  
-[http://maps.secondlife.com/secondlife/Embay/219/216/3002](http://maps.secondlife.com/secondlife/Embay/219/216/3002)  
 
 Sylta Marabana, S&W Playground  
 Playground  
