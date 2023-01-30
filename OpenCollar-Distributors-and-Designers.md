@@ -46,10 +46,6 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
-Dargo Sin, Club Satori   
-Club   
-[http://maps.secondlife.com/secondlife/Dreamworld%20Bear/61/142/22](http://maps.secondlife.com/secondlife/Dreamworld%20Bear/61/142/22)   
-
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
