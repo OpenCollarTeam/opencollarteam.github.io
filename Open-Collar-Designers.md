@@ -250,6 +250,11 @@ Tethered BDSM (Torus Heliosense)
 Mesh Collars & BDSM Furniture - 299L to 999L  
 Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)   
 
+Uh-Oh (Olivia Littlepaws)   
+Original Mesh Kawaii and Cyberpunk Themed Collars, 199L+   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Sunny%20Hills/96/159/2501](http://maps.secondlife.com/secondlife/Sunny%20Hills/96/159/2501)   
+Marketplace:  [https://marketplace.secondlife.com/stores/183420](https://marketplace.secondlife.com/stores/183420)   
+
 Venus's Closet (VenusPriestess)   
 Mesh Leather Pet Collars - 99L - 199L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23](http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23)   
