@@ -47,7 +47,7 @@ In this menu collar users can select Outfits to dress the wearer.
 ### Chat Commands for Using Outfits
 - `[prefix] wear [outfitname]`
 - `[prefix] wear naked` will remove the current Outfit and leave the avatar stripped to just the worn items that are in the .core folder.
-- For subfolders: `[prefix] wear [outfitname1/outfitname2].   
+- For subfolders: `[prefix] wear [outfitname1/outfitname2]`.   
 ## Browse Core 
 Using Browse Core you can create, wear and remove defined `.core` subfolders, allowing you to change your base avatar. 
 - **Troubleshootin Tip**.  If you place multiple copies of your collar in different .core subfolders, then use Browse Core and Wear, the collar issuing the command may be detached and this will break the change of core outfits at the point the collar issuing the command is detached.  
