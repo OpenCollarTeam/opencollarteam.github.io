@@ -18,7 +18,8 @@ title: Outfits
 # Making Outfits
 1.  A "defined Outfit folder" is a folder with an outfit in it, inside the folder `.outfits`.  When an Outfit is worn, Outfits will detach/unwear any item that is in a defined Outfit folder other than the one called to be worn.  If an item is not in a defined outfit folder, it will not be removed.  This behavior can be changed in the Configure menu.  
 2.  To make an outfit, create a folder inside `.outfits` named anything you like that is short, unique and memorable--to look good on a button.  If you like, you can use subfolders.  If you use subfolders, make sure all items in the Outfit are in one of the subfolders. Link any items that are always worn together (for instance shoe and shoe base) by putting them next to each other in the same folder or subfolder.
-# The Outfits Menu
+
+# Using The Outfits Menu
 
 ## Lock Core
 This button has a check box.  
@@ -43,16 +44,17 @@ To change the contents of the folder, first Uncheck Lock Core.
 In this menu collar users can select Outfits to dress the wearer.  
 - >Wear< will wear the current outfit.  Be careful ! If you see more than one outfit on the current page, >Wear< will put on all of them!  Select the desired outfit first !
 - >RemoveAll< will remove the current outfit.  Again, Be careful ! If you see more than one outfit on the current page, >RemoveAll< will remove all of them!  Select the desired outfit first !
+### Chat Commands for Using Outfits
 - `[prefix] wear [outfitname]`
-- `[prefix] rem [outfitname]`
-- For subfolders: `[prefix] wear [outfitname1/outfitname2]; [prefix] rem [outfitname1/outfitname2]`
+- `[prefix] wear naked` will remove the current Outfit and leave the avatar stripped to just the worn items that are in the .core folder.
+- For subfolders: `[prefix] wear [outfitname1/outfitname2].   
 ## Browse Core 
 Using Browse Core you can create, wear and remove defined `.core` subfolders, allowing you to change your base avatar. 
 - **Troubleshootin Tip**.  If you place multiple copies of your collar in different .core subfolders, then use Browse Core and Wear, the collar issuing the command may be detached and this will break the change of core outfits at the point the collar issuing the command is detached.  
 ## Help
 Delivers a short set of instructions to the wearer's local chat.
 
-# Using Outfits
+# Tips on Using Outfits
 Here are a few tips for using Outfits well.  
 - Make sure you have at least one item in #RLV that is **not** in .outfits, otherwise the Outfits won't show in the menu.
 - Keep a small number of your favorite Outfits in this folder, ones that you wear a lot or that your owners like to see you in.
