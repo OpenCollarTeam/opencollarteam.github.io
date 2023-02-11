@@ -96,6 +96,10 @@ Mesh Choker Necklace Collars - 100L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Calabria/97/230/23](http://maps.secondlife.com/secondlife/Calabria/97/230/23)   
 Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
 
+Deserve and Desire (allonalectricax)   
+Original Mesh and Materials Textures - 200L   
+Marketplace: [https://marketplace.secondlife.com/stores/250594](https://marketplace.secondlife.com/stores/250594)   
+
 Devotion (lottiehottie86)   
 Mesh Collars 200L-300L   
 Marketplace: [https://marketplace.secondlife.com/stores/233550](https://marketplace.secondlife.com/stores/233550)   
