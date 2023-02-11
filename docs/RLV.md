@@ -144,8 +144,6 @@ Folders and subfolders may be worn by chat command, for instance:
 
 >[prefix] &ringgag adds the contents of the folder named ringgag to the wearer.  
 >[prefix] &&gags adds the contents of the folder named gags and all its subfolders.  
->[prefix] +ringgag wears the contents of the folder named ringgag  
->[prefix] ++gags wears the contents of the folder named gags and all its subfolders  
 >[prefix] -ringgag removes the contents of the folder named ringgag.  
 >[prefix] --gags removes the contents of the folder named gags and its subfolders  
 
