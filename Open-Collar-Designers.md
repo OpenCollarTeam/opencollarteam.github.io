@@ -39,6 +39,11 @@ B&L Perfect Body/Perfect Fashion (Ayumi23.Bracula)
 Mesh Collar 250L  
 Marketplace: [https://marketplace.secondlife.com/stores/86886](https://marketplace.secondlife.com/stores/86886)   
 
+Beary Nice (luhsyd)   
+Rigged and unrigged mesh ring 299L     
+Inworld Shop: [http://maps.secondlife.com/secondlife/Infinite%20Forest/158/98/501](http://maps.secondlife.com/secondlife/Infinite%20Forest/158/98/501)   
+Marketplace:  [https://marketplace.secondlife.com/stores/239558](https://marketplace.secondlife.com/stores/239558)   
+
 Birth (Silent Alchemi)   
 Mesh Collars - 199L to 250L      
 Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketplace.secondlife.com/stores/57814) 
