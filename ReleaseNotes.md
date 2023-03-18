@@ -8,21 +8,6 @@ _______________________________________________________
 # V 8.2.3 Release:  Changelog  
 
 ## Summary
-
-This was an opportunistic minor release because a mistake was made compiling the updater that was distributed to the groups, which when discovered, necessitated a version change to avoid confusion.  We too advantage of it to include a few things that missed the 8.2.2 release.
-
-## Changelog
-
-All changes were contributed by Medea Destiny.    
-1) Updated Installer to use "keep" instead of "skip" for retaining optional scripts. 
-2) Fixed version comparisons to ensure full versions supersede betas and improve reporting text.   
-3) Changed "RLV Ready!" text to "RLV Active!" to avoid confusion during boot process.  
-
-# Previous Releases  
-
-## V 8.2.2 Release:  Changelog
-
-## Summary
 The biggest changes that are noticeable to the user or fix a major issue:  
 1) **ADDONS** is less verbose and does not send false disconnect messages.  
 2) **WEARER TRUSTED ACCESS** Fixes loophole where adding wearer to Trusted removed abilities not available to Trusted.  
@@ -150,6 +135,21 @@ The biggest changes that are noticeable to the user or fix a major issue:
     Testers/Reviewers: Roan
     
     CHANGES: Fixed typo
+    
+## INSTALLER  
+    Scripter:  Medea Destiny.
+    
+1) Updated Installer to use "keep" instead of "skip" for retaining optional scripts. 
+2) Fixed version comparisons to ensure full versions supersede betas and improve reporting text.   
+3) Changed "RLV Ready!" text to "RLV Active!" to avoid confusion during boot process.  
+    
+# V 8.2.2 Release:  Changelog
+
+## Summary
+
+In this release a mistake was made compiling the updater that was distributed to the groups, so that most of the scripts were still 8.2.1 although labeled 8.2.2.  When the error was  discovered, ot necessitated another version change to avoid confusion, resulting in 8.2.3.     
+
+# Previous Releases  
 
 ## V 8.2.1 Release: Changelong 
 
