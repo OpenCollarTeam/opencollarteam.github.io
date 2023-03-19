@@ -147,7 +147,7 @@ The biggest changes that are noticeable to the user or fix a major issue:
 
 ## Summary
 
-In this release a mistake was made compiling the updater that was distributed to the groups, so that most of the scripts were still 8.2.1 although labeled 8.2.2.  When the error was  discovered, ot necessitated another version change to avoid confusion, resulting in 8.2.3.     
+In this release a mistake was made compiling the updater that was distributed to the groups, so that most of the scripts were still 8.2.1 although labeled 8.2.2.  When the error was  discovered, it necessitated another version change to avoid confusion, resulting in 8.2.3.     
 
 # Previous Releases  
 
