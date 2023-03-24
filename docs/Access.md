@@ -22,10 +22,11 @@ Adds and removes Owners.
 Go to + Owner and press `>WEARER<` .  This can only be done by an owner.  Therefore if the wearer wants to retain owner access, do this step **before** adding an owner.  Setting to disable Wearer as owner (aka "Vanilla" in previous versions):  `auth=vanilla~0`
 
 ### To Add Owners Remotely  
-
 The UUID is the "key"--string of characters at the top of the inworld user profile.  Enter the UUID to add an owner remotely.  Owners can be removed through the menu whether of not they are nearby.
 
 >`[prefix] add owner [UUID]`    
+### Owner Setting
+To add owners to the .settings notecard (also see [Settings](https://github.com/OpenCollarTeam/opencollarteam.github.io/blob/master/docs/Settings))
 >`auth=owner~[UUID,UUID]` for one or more owners up to 255 characters.  If the line reaches more than 255 characters, start a new line:  
 >`auth+owner~[UUID]` for additional owners.
 
