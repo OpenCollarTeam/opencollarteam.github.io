@@ -126,6 +126,10 @@ Randy Marenwolf, RLV: Reality & Magic In SL
 RLV Education Center  
 [http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57](http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57)  
 
+River Vortex, Dare to Bare Nude Beach  
+Beach Hangout  
+[http://maps.secondlife.com/secondlife/The%20Vortex%20Playground/189/31/22](http://maps.secondlife.com/secondlife/The%20Vortex%20Playground/189/31/22)  
+
 Sabina Riederer, Blackrose Castle   
 LGBTQ Friendly BDSM Community, Roleplay, Shops   
 [http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23)   
