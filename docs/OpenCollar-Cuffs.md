@@ -68,14 +68,14 @@ Two Example Config Entries:
 
 PoseName:Belt
 PoseAnim:cuff-belt2
-PoseChains:illac=lbelt~irlac=rbelt~iluac=bbelt~iruac=bbelt~bluac=bruac
+`PoseChains:illac=lbelt~irlac=rbelt~iluac=bbelt~iruac=bbelt~bluac=bruac`
 PoseRestrictions:touchall,showinv,viewnote,viewscript,viewtexture,edit
 PoseAge:5
 PoseGravity:0
 
 PoseName:Pinion
 PoseAnim:cuff-pinion
-PoseChains:bluac=bruac~bruac=bbelt~bbelt=bluac~fluac=fllac~fruac=frlac~bllac=lbelt~brlac=rbelt
+`PoseChains:bluac=bruac~bruac=bbelt~bbelt=bluac~fluac=fllac~fruac=frlac~bllac=lbelt~brlac=rbelt`
 PoseRestrictions:touchall,showinv,viewnote,viewscript,viewtexture,edit
 PoseAge:5
 PoseGravity:0
@@ -120,7 +120,7 @@ In order to see chains when a Pose of the Collar is running, you need to create 
 The syntax is as follows:
 
     [tower]
-    Chains = frlac=fllac~frulc=flulc~irulc=ilulc~irllc=illlc~rulc=rllc~lulc=lllc
+    `Chains = frlac=fllac~frulc=flulc~irulc=ilulc~irllc=illlc~rulc=rllc~lulc=lllc`
 
     Animation Name is bracketed
     Chain Configuration: The list of chain-points (see Attachment Poses)
