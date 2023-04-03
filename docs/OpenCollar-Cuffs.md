@@ -114,9 +114,11 @@ As noted earlier, each cuff in the set needs a CuffConfig notecard, naming the c
     (This example is from the Right Lower Leg Cuff so most likely the note will indicate Poses = Legs, and Noposes is commented out with the # symbol along with the reference to Collar poses)   
     In the example above, "Cuffname" is the button name which will appear in the Addons Menu
 
-- [oc_cuff_pose.lsl Script] Every cuff with the Poses condition needs the oc_cuff_pose script. In other words if there are poses in the cuff you need the CuffConfig to indicate Poses = [NoteCardName] and you need the oc_cuff_pose script in the cuff contents.
+### oc_cuff_pose.lsl Script 
+   
+Every cuff with the Poses condition needs the oc_cuff_pose script. In other words if there are poses in the cuff you need the CuffConfig to indicate Poses = [NoteCardName] and you need the oc_cuff_pose script in the cuff contents.
 
-- [*Collar* Poses]-
+### *Collar* Poses
 
 In order to see chains when a Pose of the Collar is running, you need to create a Notecard named “Collar” and put it into one of the set of cuffs. Inside this Notecard, you need to add all the names of the animations you want to have chains.
 The syntax is as follows:   
@@ -127,8 +129,17 @@ The syntax is as follows:
     Animation Name is bracketed   
     Chain Configuration: The list of chain-points (see Attachment Poses)   
 
-The CuffConfig notecard must identify the Collar notecard (for example CollarPoses = Collar) and the cuff must have the oc_cuff_pose.lsl script  
+- The CuffConfig notecard must identify the Collar notecard (for example CollarPoses = Collar) and the cuff must have the oc_cuff_pose.lsl script  
     
-Please note: The Collar notecard syntax is slightly different than the Arm cuff or Leg cuff notecard. The Collar notecard uses two lines rather than three or four. This is because pose names in the collar are managed by the collar. The only thing the Collar notetcard needs to do is associate a pose with a specific set of chain points.
+- Please note: The Collar notecard syntax is slightly different than the Arm cuff or Leg cuff notecard. The Collar notecard uses two lines rather than three or four. This is because pose names in the collar are managed by the collar. The only thing the Collar notetcard needs to do is associate a pose with a specific set of chain points.
 
-- Additional Script Required in the collar: None at this time, everything is controlled through the oc_addons script.
+- Additional Script Required in the collar: If needed, Themes Support and Resize Support can be included in each cuff
+   
+### Resizer
+-   A resizer script has been created, based on the Collar Resize script. The oc_resizer script should be placed in every cuff in the set. The Cuff Resize button can then be found in the cuff menu when you touch each cuff. Support for the resizer is included in the oc_cuff script beginning with version 2.1.5
+
+### Cuff Themes: 
+
+-   A script can be included in each cuff to silently listen to the Themes app in the collar. When properly set up, the oc_cuff_theme.lsl script can work together with .theme notecards to allow the user to change the texture and color theme of the individual cuffs. The instructions for creating .theme notecards can be found at https://opencollar.cc/docs/Themes.
+-   It's important to remember a few basic rules of theme creation. Each notecard should address specific parameters of the cuff it's placed in. Cuff prim link numbers and the face numbers of those linked prims are vital. Additionally, just as in the collar, the .theme notecard needs to have the least amount of parameters to have it work without too much delay, while at the same time the list of Required Parameters by Constant needs to be adhered to, so you can avoid error messages. I can not stress enough the suggestion to review the collar Themes document in the Complete User's Guide referenced above.
+-   The oc_cuff_themes script should be placed in each cuff where you want to control the cuff appearance. Each cuff should also include the themes notecards specific to that cuff, with the name of the notecard matching the name of the collar .theme notecard. For example, if you have 2 textures you want to use, one black and one white, place the parameter information for the black in a notecard named Black.theme, and the parameter information from the white into a notecard named White.theme (the collar should also have the same notecard names). When the Apps/Themes/Apply Theme menu is opened, the button for Black, and White will be displayed. When the button for Black is clicked, the collar and cuffs will both attempt to apply the parameters from the Black.theme notecard.
