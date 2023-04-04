@@ -136,7 +136,7 @@ The syntax is as follows:
 - Additional Script Required in the collar: If needed, Themes Support and Resize Support can be included in each cuff
    
 ### Resizer
--   A resizer script has been created, based on the Collar Resize script. The oc_resizer script should be placed in every cuff in the set. The Cuff Resize button can then be found in the cuff menu when you touch each cuff. Support for the resizer is included in the oc_cuff script beginning with version 2.1.5
+-   A resizer script has been created, based on the Collar Resize script. The oc_cuff_resizer.lsl script should be placed in every cuff in the set. The Cuff Resize button can then be found in the cuff menu when you touch each cuff. Support for the resizer is included in the oc_cuff script beginning with version 2.1.5
 
 ### Cuff Themes: 
 
