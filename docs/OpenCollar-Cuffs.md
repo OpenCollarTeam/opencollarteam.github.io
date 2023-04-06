@@ -67,19 +67,19 @@ In order to use Cuff poses, you need to create a notecard. Move the notecard and
 4. Two Example Config Entries:
 
    - Example One   
-`PoseName:Belt   
-PoseAnim:cuff-belt2  
-PoseChains:illac=lbelt~irlac=rbelt~iluac=bbelt~iruac=bbelt~bluac=bruac  
-PoseRestrictions:touchall,showinv,viewnote,viewscript,viewtexture,edit   
-PoseAge:5  
-PoseGravity:0`  
+`PoseName:Belt`   
+`PoseAnim:cuff-belt2`  
+`PoseChains:illac=lbelt~irlac=rbelt~iluac=bbelt~iruac=bbelt~bluac=bruac`  
+`PoseRestrictions:touchall,showinv,viewnote,viewscript,viewtexture,edit`   
+`PoseAge:5`  
+`PoseGravity:0`  
    - Example Two   
-`PoseName:Pinion   
-PoseAnim:cuff-pinion    
-PoseChains:bluac=bruac~bruac=bbelt~bbelt=bluac~fluac=fllac~fruac=frlac~bllac=lbelt~brlac=rbelt   
-PoseRestrictions:touchall,showinv,viewnote,viewscript,viewtexture,edit   
-PoseAge:5   
-PoseGravity:0`
+`PoseName:Pinion`   
+`PoseAnim:cuff-pinion`    
+`PoseChains:bluac=bruac~bruac=bbelt~bbelt=bluac~fluac=fllac~fruac=frlac~bllac=lbelt~brlac=rbelt`   
+`PoseRestrictions:touchall,showinv,viewnote,viewscript,viewtexture,edit`   
+`PoseAge:5`   
+`PoseGravity:0`
 
 5. PoseChain Config Specific Example:   
     'rlac=llac~ruac=luac'   
@@ -100,8 +100,8 @@ PoseGravity:0`
 
 ### CuffConfig Notecard 
 As noted earlier, each cuff in the set needs a CuffConfig notecard, naming the chain points attached to that specific cuff. Cuffs that do not have poses in the contents need to edit the CuffConfig to indicate the NoPose condition. Typical entry in the CuffConfig might look like the following example:   
-       ` Cuffname Right Ankle   
-        Poses = Legs   
+       `Cuffname Right Ankle`   
+        `Poses = Legs`   
         # Poses = Arms   
         # CollarPoses = Collar   
         # NoPoses   
@@ -118,7 +118,7 @@ As noted earlier, each cuff in the set needs a CuffConfig notecard, naming the c
    
 Every cuff with the Poses condition needs the oc_cuff_pose script. In other words if there are poses in the cuff you need the CuffConfig to indicate Poses = [NoteCardName] and you need the oc_cuff_pose script in the cuff contents.
 
-### *Collar* Poses
+### Collar Poses
 
 In order to see chains when a Pose of the Collar is running, you need to create a Notecard named “Collar” and put it into one of the set of cuffs. Inside this Notecard, you need to add all the names of the animations you want to have chains.
 The syntax is as follows:   
