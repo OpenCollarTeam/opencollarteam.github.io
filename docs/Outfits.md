@@ -3,7 +3,7 @@ layout: home
 title: Outfits
 ---
 **Associated Script** [oc_outfits](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/Apps/oc_outfits.lsl)   
-**Note for Users of Restrained Love Viewer** RLVa is used by [Firestorm Viewer](https://www.firestormviewer.org/) and several other third party viewers.  RLV is used by Marine Kelley's [Restrained Love Viewer](http://www.erestraints.com/realrestraint/).  To use Outfits with Restrained Love Viewer, follow the instructions below, except when spelling the Outfits and Core folders in your inventory, eliminate the period in front of the name:  `outfts` and `core` in place of `.outfits` and `.core`.  Unfortunately this means your Outfits folders will also appear in the Folders menu.
+**Note for Users of Restrained Love Viewer** RLVa is used by [Firestorm Viewer](https://www.firestormviewer.org/) and several other third party viewers.  RLV is used by Marine Kelley's [Restrained Love Viewer](http://www.erestraints.com/realrestraint/).  To use Outfits with Restrained Love Viewer, follow the instructions below, except when spelling the Outfits and Core folders in your inventory, use a tilde in place of the period in front of the name:  `~outfts` and `~core` in place of `.outfits` and `.core`.  .
 # Setting up Outfits
 1.  If you don't already have one (see RLV), make a top folder in inventory and name it `#RLV`.  This is your RLV shareable folder, everything in it unless otherwise marked could be accessible to RLV enabled devices.  You control what you put in this folder.  
 2.  Inside `#RLV`, make a folder named `.outfits`. This is where you will put Outfits folders containing links to items you want to be worn and removed together as an organized outfit.   
