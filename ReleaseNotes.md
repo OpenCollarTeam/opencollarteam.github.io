@@ -2,7 +2,7 @@
 layout: home
 title: OpenCollar Release Notes
 ---
-OpenCollar V 8.2.2 is current ! Thanks to many contributors, including Scripters Medea Destiny, Kristen Mynx,Phidoux (Taya Maruti), and Yosty7B3.  Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Ping Duffield, Trinkitz and Omnia (animavenator); and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
+OpenCollar V 8.2.3 is current. Thanks to many contributors, including Scripters Medea Destiny, Kristen Mynx,Phidoux (Taya Maruti), and Yosty7B3.  Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Ping Duffield, Trinkitz and Omnia (animavenator); and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
 _______________________________________________________    
 
 # V 8.2.3 Release:  Changelog  
