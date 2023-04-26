@@ -4,7 +4,7 @@ title: OpenCollar Cuffs
 ---
 The OpenCollar Cuffs are available inworld at the OpenCollar Headquarters. 
 
-OpenCollar Addon Cuffs Version 1.0.0
+OpenCollar Addon Cuffs Version 2.2.0
 OpenCollar Cuff Addon Builder's Guide and Configuration
 
 # Highlights
@@ -12,7 +12,7 @@ OpenCollar Cuff Addon Builder's Guide and Configuration
 1. A full set of cuffs will include 9 objects. There are 4 arm cuffs and 4 leg cuffs plus a belt. Additional options include Piercings.
 2.  Cuff animations are typically placed in Right Wrist (for Arm poses) and Right Ankle (for Leg poses), but this is not a rule. Additional poses can be placed in the belt, for example. Animations can be placed in any attachment.
 3. Corresponding Arm and Leg notecards are also typically placed in the Right Wrist and Right Ankle cuff (See Cuff Poses section below).
-4. Every cuff in the set needs a CuffConfig notecard, naming the chain points associated with that cuff. Cuffs that do not have poses in the contents need to edit the CuffConfig to indicate the NoPose condition. 
+4. Every cuff in the set needs a CuffConfig notecard, naming the ChainPoints associated with that cuff. Cuffs that do not have poses in the contents need to edit the CuffConfig to indicate the NoPose condition. 
 5. Every cuff with the Pose condition needs the oc_cuff_pose script.
 6. Every cuff needs the oc_cuffs script. Put this in last, otherwise you will get an error message.
 7. *Collar* animations can be associated with chainpoints using the Collar notecard
@@ -25,7 +25,7 @@ OpenCollar Cuff Addon Builder's Guide and Configuration
 - Create a visual representation of your Object.
 - This could be either a Mesh or a Prim build (Rigged mesh is not supported).
 - Rez the Object to the ground
-- create a prim (cube) for each Chain Attachment Point you want to support.
+- create a prim (cube) for each ChainPoint you want to support.
     *Note: Invisible prims generate high complexity
 - Name the newly created Prims according the name-list (see Naming Guide.md for details)
 
@@ -34,13 +34,13 @@ OpenCollar Cuff Addon Builder's Guide and Configuration
 - Make sure the Prims are highlighted blue and the visible Object is highlighted yellow (root)
 - Check “Edit Linked” in the build menu and select the Prims.
 - Go to “Texture” tab
-- Click on the Texture and select “Transparent”
+- Click on the Texture and select “Blank”, then adjust the Transparency to 100%
 - Uncheck “Edit Linked”
 - Add the notecards and cuff scripts required (to the root prim)
 - (optional) add “~nohide” in the description of all prims that should not hide/unhide. Other options include ~notexture ~nocolor ~noshiny ~noglow
 
-## Collar Attachment Points 
-- The collar can have up to 4 chain attachment points. They are created and linked to the collar the same way the other attachments are. Attachment points should be named rcollar, lcollar, bcollar, and ooc respectively.
+## Collar ChainPoints 
+- The collar can have up to 4 ChainPoints. They are created and linked to the collar. Collar ChainPoints should be named rcollar, lcollar, bcollar, and ooc respectively.
 
 ## Cuff Poses
 In order to use Cuff poses, you need to create a notecard. Move the notecard and the animations into the cuff contents, next to the oc_cuffs script. Animations and notecards are typically placed in Right Wrist (Arms) and Right Ankle (Legs)
@@ -127,7 +127,7 @@ The syntax is as follows:
     `Chains = frlac=fllac~frulc=flulc~irulc=ilulc~irllc=illlc~rulc=rllc~lulc=lllc`
 
     Animation Name is bracketed   
-    Chain Configuration: The list of chain-points (see Attachment Poses)   
+    Chain Configuration: The list of ChainPoints (see Attachment Poses)   
 
 - The CuffConfig notecard must identify the Collar notecard (for example CollarPoses = Collar) and the cuff must have the oc_cuff_pose.lsl script  
     
