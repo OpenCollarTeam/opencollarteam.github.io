@@ -42,8 +42,9 @@ OpenCollar uses a modular architecture. There is a set of core scripts required 
 ## Build Your Own Collar   
 * [How to Update](/docs/How-To-Update-Your-OpenCollar)
 * [How to Build](/docs/How-to-Build-Your-OpenCollar)
+* [How to Build OpenCollar Addon Cuffs](/docs/OpenCollar-Cuffs)
 
-## Manual Pages for Extra Apps Available on Git or at OpenCollar Headquarters
+## Manual Pages for Extra Apps and AddOns Available on Git or at OpenCollar Headquarters
 * [Spy](/docs/Spy)
 * [CageHome](/docs/Cage_Home)
 
