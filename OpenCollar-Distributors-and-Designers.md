@@ -54,6 +54,10 @@ Elizabeth Boissay, Velvet Sanctuary
 Club   
 [http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24)   
 
+Esclados, Geela Island  
+Gorean Role Play  
+[http://maps.secondlife.com/secondlife/Seahorse%20Island/169/138/21](http://maps.secondlife.com/secondlife/Seahorse%20Island/169/138/21)  
+
 Frank1056, Vicky's Sky and Rooftop Rentals   
 Shopping, Rentals, Fishing Games   
 [http://maps.secondlife.com/secondlife/Protoplasnic/103/254/39](http://maps.secondlife.com/secondlife/Protoplasnic/103/254/39)   
