@@ -17,6 +17,7 @@ OpenCollar Cuff Addon Builder's Guide and Configuration
 6. Every cuff needs the oc_cuffs script. Put this in last, otherwise you will get an error message.
 7. *Collar* animations can be associated with chainpoints using the Collar notecard
 8. Typical restrictions in the Arm and Leg notecard can include: touchall,showinv,viewnote,edit (Complete list further on)
+9. Instructions for a Collar ChainPoints Addon are included at the end of this document
 
 
 # Builder's Guide
@@ -38,9 +39,6 @@ OpenCollar Cuff Addon Builder's Guide and Configuration
 - Uncheck “Edit Linked”
 - Add the notecards and cuff scripts required (to the root prim)
 - (optional) add “~nohide” in the description of all prims that should not hide/unhide. Other options include ~notexture ~nocolor ~noshiny ~noglow
-
-## Collar ChainPoints 
-- The collar can have up to 4 ChainPoints. They are created and linked to the collar. Collar ChainPoints should be named rcollar, lcollar, bcollar, and ooc respectively.
 
 ## Cuff Poses
 In order to use Cuff poses, you need to create a notecard. Move the notecard and the animations into the cuff contents, next to the oc_cuffs script. Animations and notecards are typically placed in Right Wrist (Arms) and Right Ankle (Legs)
@@ -143,3 +141,46 @@ The syntax is as follows:
 -   A script can be included in each cuff to silently listen to the Themes app in the collar. When properly set up, the oc_cuff_theme.lsl script can work together with .theme notecards to allow the user to change the texture and color theme of the individual cuffs. The instructions for creating .theme notecards can be found at https://opencollar.cc/docs/Themes.
 -   It's important to remember a few basic rules of theme creation. Each notecard should address specific parameters of the cuff it's placed in. Cuff prim link numbers and the face numbers of those linked prims are vital. Additionally, just as in the collar, the .theme notecard needs to have the least amount of parameters to have it work without too much delay, while at the same time the list of Required Parameters by Constant needs to be adhered to, so you can avoid error messages. I can not stress enough the suggestion to review the collar Themes document in the Complete User's Guide referenced above.
 -   The oc_cuff_themes script should be placed in each cuff where you want to control the cuff appearance. Each cuff should also include the themes notecards specific to that cuff, with the name of the notecard matching the name of the collar .theme notecard. For example, if you have 2 textures you want to use, one black and one white, place the parameter information for the black in a notecard named Black.theme, and the parameter information from the white into a notecard named White.theme (the collar should also have the same notecard names). When the Apps/Themes/Apply Theme menu is opened, the button for Black, and White will be displayed. When the button for Black is clicked, the collar and cuffs will both attempt to apply the parameters from the Black.theme notecard.
+   
+### Collar ChainPoints 
+
+-   It has always been the intention of OpenCollar to include ChainPoints on the collar, allowing cuff poses to use the collar as the end of a restraint chain. But, when the OpenCollar Addon Cuffs were created, we didn't finish the Collar ChainPoints because it would have required new scripting and it would have held back a much needed collar upgrade. As time has gone on, the idea of Collar Chainpoints has really taken a back burner, as it is considered a low priority upgrade.
+
+-   As initially proposed, the collar can have up to 4 ChainPoints. They were to be created and linked to the collar. These proposed Collar ChainPoints would be named rcollar, lcollar, bcollar, and fcollar respectively.
+
+The functionality of these chain points is already built in to the system. Within the Arms notecard in the OpenCollar Addon Cuffs there are 5 poses that call out a collar ChainPoint: There are the Belt Collar pose and all four Head poses. For example the Belt Collar pose has a single chain from the back loop of the belt to the back loop of the collar: (bb=bcollar)
+
+`PoseName:Belt Collar`
+`PoseAnim:BTC P6`
+`PoseChains:bluac=bb~bruac=bb~illac=lb~irlac=rb~bb=bcollar`
+   
+Meanwhile we have a work-around!  We created an OpenCollar Addon (similar to another cuff) to emulate the Collar ChainPoints
+   
+The new addon is a simple ring with 4 ChainPoints. We used the oc_cuff script, along with a CuffConfig Notecard, and the oc_cuff-resizer script.  Each of the 4 ChainPoints are named as shown above. We linked the 4 ChainPoints to the ring and gave it the name CollarChainPoints. The ring is the root, and contains all of the scripts and notecards. 
+
+The CuffConfig Notecard has the following information:
+        # This notecard is used to determine the cuff's properties
+        CuffName = CollarChainPoints
+        #
+        # Poses = Arms
+        # If you do not want poses in this cuff, for instance, if it is one of the slave cuffs, not one of the master ones, then uncomment the line below, and comment out the line above.
+        NoPoses
+        #
+        # Define the points that this cuff owns below
+        MyPoint = bcollar
+        MyPoint = fcollar
+        MyPoint = rcollar
+        MyPoint = lcollar
+        LMV2Map = collar > fcollar
+        LGv2Map = collarfrontloop > fcollar
+        
+The new Collar ChainPoints Addon can be attached to the avatar at the Neck, just as the collar is. Upon attaching the Addon, you should see a message saying the Addon is connected.
+
+You can use either the editor or the resizer script to position the ChainPoints Addon to the middle of the collar.
+
+Once you are happy with the positioning of the ChainPoints Addon, use the default Transparent Texture to make it invisible. 
+   
+Alternatively you can link the Addon to the collar, making sure your collar maintains the root prim. 
+
+You can now use the Head poses and the Collar Belt pose and see visible chain. And you can add in chains to the Arms or Legs notecard as you see fit using method described earlier in this document.
+
