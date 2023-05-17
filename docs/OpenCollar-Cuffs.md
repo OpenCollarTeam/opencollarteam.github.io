@@ -142,19 +142,19 @@ The syntax is as follows:
 -   It's important to remember a few basic rules of theme creation. Each notecard should address specific parameters of the cuff it's placed in. Cuff prim link numbers and the face numbers of those linked prims are vital. Additionally, just as in the collar, the .theme notecard needs to have the least amount of parameters to have it work without too much delay, while at the same time the list of Required Parameters by Constant needs to be adhered to, so you can avoid error messages. I can not stress enough the suggestion to review the collar Themes document in the Complete User's Guide referenced above.
 -   The oc_cuff_themes script should be placed in each cuff where you want to control the cuff appearance. Each cuff should also include the themes notecards specific to that cuff, with the name of the notecard matching the name of the collar .theme notecard. For example, if you have 2 textures you want to use, one black and one white, place the parameter information for the black in a notecard named Black.theme, and the parameter information from the white into a notecard named White.theme (the collar should also have the same notecard names). When the Apps/Themes/Apply Theme menu is opened, the button for Black, and White will be displayed. When the button for Black is clicked, the collar and cuffs will both attempt to apply the parameters from the Black.theme notecard.
    
-### Collar ChainPoints 
+### Collar ChainPoints
+   
+The typical collar does not have all the chain points it needs to fully express all the possible cuffs poses that could link chains to the collar. Here's how to adapt your collar to create all the possible chains from cuffs to collar in various cuffs poses.
 
--   It has always been the intention of OpenCollar to include ChainPoints on the collar, allowing cuff poses to use the collar as the end of a restraint chain. But, when the OpenCollar Addon Cuffs were created, we didn't finish the Collar ChainPoints because it would have required new scripting and it would have held back a much needed collar upgrade. As time has gone on, the idea of Collar Chainpoints has really taken a back burner, as it is considered a low priority upgrade.
+A collar can have up to 4 ChainPoints. These Collar ChainPoints should be named rcollar, lcollar, bcollar, and fcollar respectively.
 
--   As initially proposed, the collar can have up to 4 ChainPoints. They were to be created and linked to the collar. These proposed Collar ChainPoints would be named rcollar, lcollar, bcollar, and fcollar respectively.
-
-The functionality of these chain points is already built in to the system. Within the Arms notecard in the OpenCollar Addon Cuffs there are 5 poses that call out a collar ChainPoint: There are the Belt Collar pose and all four Head poses. For example the Belt Collar pose has a single chain from the back loop of the belt to the back loop of the collar: (bb=bcollar)
+Within the Arms notecard in the OpenCollar Addon Cuffs there are 5 poses that call out a collar ChainPoint: There are the Belt Collar pose and all four Head poses. For example the Belt Collar pose has a single chain from the back loop of the belt to the back loop of the collar: (bb=bcollar)
 
 `PoseName:Belt Collar`
 `PoseAnim:BTC P6`
 `PoseChains:bluac=bb~bruac=bb~illac=lb~irlac=rb~bb=bcollar`
    
-Meanwhile we have a work-around!  We created an OpenCollar Addon (similar to another cuff) to emulate the Collar ChainPoints
+Meanwhile we have a work-around!  We created an OpenCollar Addon (similar to adding another cuff) to emulate the Collar ChainPoints
    
 The new addon is a simple ring with 4 ChainPoints. We used the oc_cuff script, along with a CuffConfig Notecard, and the oc_cuff-resizer script.  Each of the 4 ChainPoints are named as shown above. We linked the 4 ChainPoints to the ring and gave it the name CollarChainPoints. The ring is the root, and contains all of the scripts and notecards. 
 
