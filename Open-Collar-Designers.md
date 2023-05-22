@@ -265,7 +265,7 @@ Mesh Collars & BDSM Furniture - 299L to 999L
 Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)   
 
 Twisted Embrace (Dodgeman DeCuir)   
-Gor themed collar 69L   
+BDSM themed collar 69L   
 Marketplace:  [https://marketplace.secondlife.com/stores/182592](https://marketplace.secondlife.com/stores/182592)   
 
 Uh-Oh (Olivia Littlepaws)   
