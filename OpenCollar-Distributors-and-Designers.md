@@ -46,7 +46,7 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
-Dodgeman DeCuir, Fragile Lounge BDSM Club   
+Dodgeman DeCuir, Fragile Lounge Fetish BDSM Club   
 Club, BDSM Roleplay   
 [http://maps.secondlife.com/secondlife/Leords/97/233/4082](http://maps.secondlife.com/secondlife/Leords/97/233/4082)   
 
