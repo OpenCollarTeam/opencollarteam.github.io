@@ -46,6 +46,10 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
+Dodgeman DeCuir, Fragile Lounge BDSM Club   
+Club, BDSM Roleplay   
+[http://maps.secondlife.com/secondlife/Leords/97/233/4082](http://maps.secondlife.com/secondlife/Leords/97/233/4082)   
+
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
