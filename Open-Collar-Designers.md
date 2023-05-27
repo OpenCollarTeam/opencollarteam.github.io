@@ -114,10 +114,6 @@ Mesh Collars 0L-100L
 Inworld Shop:  [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416)   
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)   
 
-Emerald Dust (Emdragon)  
-Cock Cages, Clothing, & Toys - 80L to 160L  
-Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)  
-
 Fantasy Restraints (Deana Waydelich)   
 Collars and Cuffs - 150L-400L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
@@ -188,6 +184,10 @@ Nailed Down (Despero Windstorm)
 Mesh Collars - 0L to 399L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Alcis/153/19/50](http://maps.secondlife.com/secondlife/Alcis/153/19/50)   
 Marketplace: [https://marketplace.secondlife.com/stores/163576](https://marketplace.secondlife.com/stores/163576)   
+
+Naughty Venus 
+Collars and Cock cages - 80L to 160L  
+Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)  
 
 Nik Design (Nik Emoto)   
 Knotted String necklace with themes 175L   
