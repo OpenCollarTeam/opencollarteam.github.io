@@ -253,7 +253,12 @@ Marketplace: [https://marketplace.secondlife.com/stores/238695](https://marketpl
 SLAM // kink & stuff (daPhuk)   
 Mesh Collars, Furniture, & Accessories - 545L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/SLAM/57/191/28](http://maps.secondlife.com/secondlife/SLAM/57/191/28)  
-Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)   
+Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
+
+STI Workshop (Brampton Beaumont)   
+Gorean Wildflower Collar - 200L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
+Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
 Tempting Elegance (Angie Trefusis)   
 Mesh Collars, Jewelry, & Accessories - 100L to 1800L  
