@@ -166,6 +166,10 @@ sinkt, Starbuck's Lair
 Gay Sex & BDSM Dungeon  
 [http://maps.secondlife.com/secondlife/Tristan%20Vale/77/85/3102](http://maps.secondlife.com/secondlife/Tristan%20Vale/77/85/3102)  
 
+Sklavin Lisa, ErziehungsAnstalt Proenix  
+Educational institution  
+[http://maps.secondlife.com/secondlife/Sofia/142/186/21](http://maps.secondlife.com/secondlife/Sofia/142/186/21)  
+
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
 [http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
