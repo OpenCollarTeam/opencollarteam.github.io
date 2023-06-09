@@ -270,7 +270,7 @@ Mesh Collars & BDSM Furniture - 299L to 999L
 Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketplace.secondlife.com/stores/69916)   
 
 Twisted Embrace (Dodgeman DeCuir)   
-BDSM themed collar 69L   
+BDSM themed collar 69L - 666L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Leords/72/229/4052](http://maps.secondlife.com/secondlife/Leords/72/229/4052)
 Marketplace:  [https://marketplace.secondlife.com/stores/182592](https://marketplace.secondlife.com/stores/182592)   
 
