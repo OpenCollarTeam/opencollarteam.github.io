@@ -271,6 +271,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketpla
 
 Twisted Embrace (Dodgeman DeCuir)   
 BDSM themed collar 69L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Leords/72/229/4052](http://maps.secondlife.com/secondlife/Leords/72/229/4052)
 Marketplace:  [https://marketplace.secondlife.com/stores/182592](https://marketplace.secondlife.com/stores/182592)   
 
 Uh-Oh (Olivia Littlepaws)   
