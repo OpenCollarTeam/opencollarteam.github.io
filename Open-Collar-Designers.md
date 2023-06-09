@@ -256,7 +256,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/SLAM/57/191/28](http://maps
 Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
 
 STI Workshop (Brampton Beaumont)   
-Gorean Wildflower Collar - 200L   
+Wildflower Collar - 200L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
 Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
