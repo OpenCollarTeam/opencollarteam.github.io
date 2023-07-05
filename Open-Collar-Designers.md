@@ -190,9 +190,9 @@ Collars and Cock cages - 80L to 160L
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)  
 
 Nik Design (Nik Emoto)   
-Knotted String necklace with themes 175L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Eduisland%2010/2/114/23](http://maps.secondlife.com/secondlife/Eduisland%2010/2/114/23)   
-Marketplace:  [https://marketplace.secondlife.com/stores/130473](https://marketplace.secondlife.com/stores/130473)   
+Barcode, Kitty, BowTie, Bunny Mesh Collars 175L
+Inworld Shop:  [https://maps.secondlife.com/secondlife/Eduisland 10/251/47/2801](https://maps.secondlife.com/secondlife/Eduisland 10/251/47/2801)   
+Marketplace:  [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 PBM Enterprises & [maXplicit] (Peebee McMillan)  
 Mesh Collars, Jewelry, Accessories, & Furniture For Males - 200L to 240L  
