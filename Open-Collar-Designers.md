@@ -13,13 +13,13 @@ Marketplace: [https://marketplace.secondlife.com/stores/244025](https://marketpl
 
 Accents Design (Cynianne Hellershanks)   
 Mesh Collars & Jewelry - 199L+  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333](http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Dangerous Curves/156/131/333](http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333)  
 Marketplace: [https://marketplace.secondlife.com/stores/30432](https://marketplace.secondlife.com/stores/30432)  
 
 ALEX Design (AlexCramer)   
 Original Mesh Collars - 150L    
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22](http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22)   
-Marketplace:  [https://marketplace.secondlife.com/stores/180341](https://marketplace.secondlife.com/stores/180341)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Surreal Gold/171/214/22](http://maps.secondlife.com/secondlife/Surreal%20Gold/171/214/22)   
+Marketplace: [https://marketplace.secondlife.com/stores/180341](https://marketplace.secondlife.com/stores/180341)   
 
 AMBIX (xambiguityx)  
 Mesh Collars - 399L to 599L  
@@ -35,14 +35,14 @@ Simple yet functional collar styles with texture & color options via HUD - 250L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Malus/188/172/29](http://maps.secondlife.com/secondlife/Malus/188/172/29)   
 Marketplace: [https://marketplace.secondlife.com/stores/14581](https://marketplace.secondlife.com/stores/14581)   
 
-B&L Perfect Body/Perfect Fashion (Ayumi23.Bracula)     
+B&L Perfect Body/Perfect Fashion (Ayumi23 Bracula)     
 Mesh Collar 250L  
 Marketplace: [https://marketplace.secondlife.com/stores/86886](https://marketplace.secondlife.com/stores/86886)   
 
 Beary Nice (luhsyd)   
 Rigged and unrigged mesh ring 299L     
-Inworld Shop: [http://maps.secondlife.com/secondlife/Infinite%20Forest/158/98/501](http://maps.secondlife.com/secondlife/Infinite%20Forest/158/98/501)   
-Marketplace:  [https://marketplace.secondlife.com/stores/239558](https://marketplace.secondlife.com/stores/239558)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Infinite Forest/158/98/501](http://maps.secondlife.com/secondlife/Infinite%20Forest/158/98/501)   
+Marketplace: [https://marketplace.secondlife.com/stores/239558](https://marketplace.secondlife.com/stores/239558)   
 
 Birth (Silent Alchemi)   
 Mesh Collars - 199L to 250L      
@@ -51,7 +51,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/57814](https://marketpla
 BISON CORPS (leonardocore Adder)   
 Cyber and other mesh collars - 359L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Ahjin/69/88/34](http://maps.secondlife.com/secondlife/Ahjin/69/88/34)   
-Marketplace: [https://marketplace.secondlife.com/pt-BR/stores/62411](https://marketplace.secondlife.com/pt-BR/stores/62411)   
+Marketplace: [https://marketplace.secondlife.com/stores/62411](https://marketplace.secondlife.com/stores/62411)   
 
 Bound Infinity (Cara Lionheart)  
 Mesh Collars - 0L to 150L  
@@ -67,7 +67,7 @@ Bright Corporation: [http://brightcorporation.net/](http://brightcorporation.net
 Bunk (Kittie Hexem)   
 Customizable Mesh Collar and Cuffs Sets 199L - 799L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Artifact/55/57/1616](http://maps.secondlife.com/secondlife/Artifact/55/57/1616)   
-Marketplace:  [https://marketplace.secondlife.com/stores/171204](https://marketplace.secondlife.com/stores/171204)   
+Marketplace: [https://marketplace.secondlife.com/stores/171204](https://marketplace.secondlife.com/stores/171204)   
 
 Cele'sations (Celestrea Vasiliov)   
 Mesh Collars & Jewelry - 0L to 299L  
@@ -88,18 +88,18 @@ Marketplace: [https://marketplace.secondlife.com/stores/211817](https://marketpl
 
 Crimson Absinthe  
 Goth style mesh collars - 10L      
-Inworld shop:  [http://maps.secondlife.com/secondlife/Starshine%20Meadows/230/207/23](http://maps.secondlife.com/secondlife/Starshine%20Meadows/230/207/23)   
+Inworld shop: [http://maps.secondlife.com/secondlife/Starshine Meadows/230/207/23](http://maps.secondlife.com/secondlife/Starshine%20Meadows/230/207/23)   
 Marketplace: [https://marketplace.secondlife.com/stores/248033](https://marketplace.secondlife.com/stores/248033)   
 
 Dahlia (June Fallon)   
 Original Mesh Luxury Collars with HD Materials Textures - starting at 175L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Daydreaming/189/96/22](http://maps.secondlife.com/secondlife/Daydreaming/189/96/22)     
-Marketplace:  [https://marketplace.secondlife.com/stores/169798](https://marketplace.secondlife.com/stores/169798)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Daydreaming/189/96/22](http://maps.secondlife.com/secondlife/Daydreaming/189/96/22)     
+Marketplace: [https://marketplace.secondlife.com/stores/169798](https://marketplace.secondlife.com/stores/169798)   
 
 Darkwytch Bric-a-Brac (Raven76 Darkheart)   
 Mesh Choker Necklace Collars - 100L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Calabria/97/230/23](http://maps.secondlife.com/secondlife/Calabria/97/230/23)   
-Marketplace:  [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
+Marketplace: [https://marketplace.secondlife.com/stores/168833](https://marketplace.secondlife.com/stores/168833)   
 
 Deserve and Desire (allonalectricax)   
 Original Mesh and Materials Textures - 200L   
@@ -111,26 +111,26 @@ Marketplace: [https://marketplace.secondlife.com/stores/233550](https://marketpl
 
 DragonFyre Designs (Lasynda Shichiroji)   
 Mesh Collars 0L-100L
-Inworld Shop:  [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416)   
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)   
 
 Fantasy Restraints (Deana Waydelich)   
 Collars and Cuffs - 150L-400L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
-Marketplace:  [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
+Marketplace: [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
 {Fantasy World} (xSmitx)   
 Fantasy styles 250L-299L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902](http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Surreal Pink/241/160/1902](http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902)   
 Marketplace: [https://marketplace.secondlife.com/stores/205208](https://marketplace.secondlife.com/stores/205208)   
 
 Fapple (Anna Timmerman)  
 Mesh Collars & Furniture - 250L  
-Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
+Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple BDSM Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
 
 Gemstone Inc (Gem Oxygen)   
 Mesh Collars with Original Textures - 250L to 300L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Badger/70/48/4032](http://maps.secondlife.com/secondlife/Badger/70/48/4032)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Badger/70/48/4032](http://maps.secondlife.com/secondlife/Badger/70/48/4032)   
 Marketplace: [https://marketplace.secondlife.com/stores/173815](https://marketplace.secondlife.com/stores/173815)
    
 Giga's World (Gigante Radium)  
@@ -148,9 +148,9 @@ Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketpla
 
 Krescendo (KrescendoStore)   
 Rigged and unrigged mesh collars - 345L-400L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982](http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/SkyBeam Hideaway/178/252/3982](http://maps.secondlife.com/secondlife/SkyBeam%20Hideaway/178/252/3982)   
 *From the landing point, walk forward 8 m to find the Kitty collar, or Press the Adult section on the Teleport board and accept the Krescendo experience.*   
-Marketplace:  [https://marketplace.secondlife.com/stores/186645](https://marketplace.secondlife.com/stores/186645)   
+Marketplace: [https://marketplace.secondlife.com/stores/186645](https://marketplace.secondlife.com/stores/186645)   
 
 Kristen's (Kristen Mynx)  
 Mesh Collar & Cuff Set - 399L  
@@ -164,7 +164,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/189812](https://marketpl
 
 Majestix (MadyHades)   
 Mesh Collars and Accessories - 299L   
-Marketplace:  [https://marketplace.secondlife.com/stores/207943](https://marketplace.secondlife.com/stores/207943)   
+Marketplace: [https://marketplace.secondlife.com/stores/207943](https://marketplace.secondlife.com/stores/207943)   
 
 MATRIARCH (Beautifull Vyper)  
 Mesh Collars, Restraints, Toys, & Accessories - 399L+  
@@ -173,7 +173,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketpl
 
 MKF (Modern Kink Fashion) (blackangelchris)  
 Adult Jewelry BDSM Collar - 200L   
-Marketplace:  [https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547](https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547)   
+Marketplace: [https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547](https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-Collar/21912547)   
 
 Modern Primitive (Modernprimitive)   
 Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
@@ -190,46 +190,46 @@ Collars and Cock cages - 80L to 160L
 Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketplace.secondlife.com/stores/195166)  
 
 Nik Design (Nik Emoto)   
-Barcode, Kitty, BowTie, Bunny Mesh Collars 175L
-Inworld Shop:  [https://maps.secondlife.com/secondlife/Eduisland 10/251/47/2801](https://maps.secondlife.com/secondlife/Eduisland 10/251/47/2801)   
-Marketplace:  [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
+Barcode, Kitty, BowTie, Bunny Mesh Collars 175L  
+Inworld Shop: [https://maps.secondlife.com/secondlife/Eduisland 10/251/47/2801](https://maps.secondlife.com/secondlife/Eduisland%2010/251/47/2801)   
+Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 PBM Enterprises & [maXplicit] (Peebee McMillan)  
 Mesh Collars, Jewelry, Accessories, & Furniture For Males - 200L to 240L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Sand Beach/242/16/3001](http://maps.secondlife.com/secondlife/Sand%20Beach/242/16/3001)  
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
 
 Ping's Designs   
 Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
-Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
+Inworld Shop: [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
+Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
 
 QUINN (Quinn1969)   
 Mesh Collar 100L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Pastiche/25/75/21](http://maps.secondlife.com/secondlife/Pastiche/25/75/21)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Pastiche/25/75/21](http://maps.secondlife.com/secondlife/Pastiche/25/75/21)   
 
 Rapture's Enchantment (Rapture Enchantment)   
 Mesh Turian/Gor collars starting at 150L   
-Inworld Shop:[http://maps.secondlife.com/secondlife/Rainbow%20Dreams/97/161/3002](http://maps.secondlife.com/secondlife/Rainbow%20Dreams/97/161/3002)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Rainbow Dreams/97/161/3002](http://maps.secondlife.com/secondlife/Rainbow%20Dreams/97/161/3002)   
 
 RealEvil Industries (crashnoww)   
 Mesh Collars & Jewelry - 149L to 599L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25](http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/RealEvil Industries/109/137/25](http://maps.secondlife.com/secondlife/RealEvil%20Industries/109/137/25)  
 Marketplace: [https://marketplace.secondlife.com/stores/128000](https://marketplace.secondlife.com/stores/128000)     
 
 RuinYou (rushnready)   
 RLV Face Mask OpenCollar scripted - 200L Single, 1000L Fatpack, 1500L Megapack   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Sunny%20Side%20Up/120/214/30](http://maps.secondlife.com/secondlife/Sunny%20Side%20Up/120/214/30)   
-Marketplace:  [https://marketplace.secondlife.com/stores/249999](https://marketplace.secondlife.com/stores/249999)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Sunny Side Up/120/214/30](http://maps.secondlife.com/secondlife/Sunny%20Side%20Up/120/214/30)   
+Marketplace: [https://marketplace.secondlife.com/stores/249999](https://marketplace.secondlife.com/stores/249999)   
 
 Salt & Pepper (Salt Peppermint)   
 Mesh Collars, Clothing, & Accessories - 349L to 699L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Salt%20and%20Pepper/114/124/41](http://maps.secondlife.com/secondlife/Salt%20and%20Pepper/114/124/41)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Salt and Pepper/114/124/41](http://maps.secondlife.com/secondlife/Salt%20and%20Pepper/114/124/41)  
 Marketplace: [https://marketplace.secondlife.com/stores/163109](https://marketplace.secondlife.com/stores/163109)   
 
 Saltiveratia (Eolh)   
 Ribbon Bow and Leather Original Mesh Collars- 0L to 50L for single colors, 450L to 600L for fatpacks   
-Marketplace:  [https://marketplace.secondlife.com/stores/151399](https://marketplace.secondlife.com/stores/151399)   
+Marketplace: [https://marketplace.secondlife.com/stores/151399](https://marketplace.secondlife.com/stores/151399)   
 
 Sergaltech Industries (Lukai Zufreur)   
 Mesh Collars, Toys, & Accessories - 100L  
@@ -237,17 +237,17 @@ Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketpla
 
 Shamrock Boutiques (Dews Shamrock)  
 Mesh Collar & Clothing - 25L to 150L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23](http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23)  
-Marketplace:  [https://marketplace.secondlife.com/stores/197511](https://marketplace.secondlife.com/stores/197511)
+Inworld Shop: [http://maps.secondlife.com/secondlife/Mysti Isle/223/230/23](http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23)  
+Marketplace: [https://marketplace.secondlife.com/stores/197511](https://marketplace.secondlife.com/stores/197511)
 
 Short Leash (shortleash)   
 Original Kinky Mesh Collar Designs, Pet Play - 249L-399L   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
-Marketplace:  [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Short Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
+Marketplace: [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
 
 Simply Simple (SirRobertFL)   
 Simply designed mesh collars - 150L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626](http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Cerveza Island/209/53/626](http://maps.secondlife.com/secondlife/Cerveza%20Island/209/53/626)  
 Marketplace: [https://marketplace.secondlife.com/stores/238695](https://marketplace.secondlife.com/stores/238695)   
 
 SLAM // kink & stuff (daPhuk)   
@@ -271,17 +271,17 @@ Marketplace: [https://marketplace.secondlife.com/stores/69916](https://marketpla
 
 Twisted Embrace (Dodgeman DeCuir)   
 BDSM themed collar 69L - 666L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Leords/72/229/4052](http://maps.secondlife.com/secondlife/Leords/72/229/4052)
-Marketplace:  [https://marketplace.secondlife.com/stores/182592](https://marketplace.secondlife.com/stores/182592)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Leords/72/229/4052](http://maps.secondlife.com/secondlife/Leords/72/229/4052)  
+Marketplace: [https://marketplace.secondlife.com/stores/182592](https://marketplace.secondlife.com/stores/182592)   
 
 Uh-Oh (Olivia Littlepaws)   
 Original Mesh Kawaii and Cyberpunk Themed Collars, 199L+   
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Sunny%20Hills/96/159/2501](http://maps.secondlife.com/secondlife/Sunny%20Hills/96/159/2501)   
-Marketplace:  [https://marketplace.secondlife.com/stores/183420](https://marketplace.secondlife.com/stores/183420)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Sunny Hills/96/159/2501](http://maps.secondlife.com/secondlife/Sunny%20Hills/96/159/2501)   
+Marketplace: [https://marketplace.secondlife.com/stores/183420](https://marketplace.secondlife.com/stores/183420)   
 
 Venus's Closet (VenusPriestess)   
 Mesh Leather Pet Collars - 99L - 199L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23](http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Horizons Mars/194/32/23](http://maps.secondlife.com/secondlife/Horizons%20Mars/194/32/23)   
 Marketplace: [https://marketplace.secondlife.com/stores/212021](https://marketplace.secondlife.com/stores/212021)   
 
 Willow's Weakness (Willow Redstar)  
@@ -299,8 +299,8 @@ Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketpl
 - [public domain addon template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)  
 
 Dark Elf Manufacture (DEM) (chloe1928.constantine)   
-DEM Relay plugin for OpenCollar   40L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28](http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28)   
+DEM Relay plugin for OpenCollar 40L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Adult Hub BDSM/182/157/28](http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28)   
 Marketplace:  [https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118](https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118)
 
 Danger Kitty's Sweets (SweetDangerKitty)   
@@ -313,7 +313,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/180362](https://marketp
 
 Ping's Designs   
 Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
 Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
 
 
