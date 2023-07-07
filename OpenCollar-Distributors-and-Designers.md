@@ -37,6 +37,10 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
+Devante Thorne, The Temple of the Collar Outcasts  
+BDSM Playground  
+[http://maps.secondlife.com/secondlife/Lesser Farnley/31/207/2538](http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538)  
+
 Dodgeman DeCuir, Fragile Lounge Fetish BDSM Club   
 Club, BDSM Roleplay   
 [http://maps.secondlife.com/secondlife/Leords/69/241/4051](http://maps.secondlife.com/secondlife/Leords/69/241/4051)   
