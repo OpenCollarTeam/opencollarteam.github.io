@@ -260,6 +260,10 @@ Wildflower Collar - 200L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
 Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
+Temple of the Collar Outcasts (Devante Thorne)   
+Many styles including ring and ankle collars - Free 0L
+Inworld Shop: [http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538](http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538)   
+
 Tempting Elegance (Angie Trefusis)   
 Mesh Collars, Jewelry, & Accessories - 100L to 1800L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Whanganui/233/168/2001](http://maps.secondlife.com/secondlife/Whanganui/233/168/2001)  
