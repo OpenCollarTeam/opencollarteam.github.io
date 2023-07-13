@@ -1,9 +1,9 @@
 ---
 title: OpenCollar Distributors 
 ---
-Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date. The slurls are as close as possible to the vendor; you may have to use Area Search or follow the red map arrow to get there from a fixed landing point.
-Looking for a unique collar design? Go here: [Design Partners](https://opencollar.cc/Open-Collar-Designers)
-How Do I Apply to be a Distributor or Design Partner? Look here! [Application](#opencollar-partners-application-form)
+Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date. The slurls are as close as possible to the vendor; you may have to use Area Search or follow the red map arrow to get there from a fixed landing point.  
+Looking for a unique collar design? Go here: [Design Partners](https://opencollar.cc/Open-Collar-Designers)  
+How Do I Apply to be a Distributor or Design Partner? Look here: [Application](#opencollar-partners-application-form)
 
 Look for this image on the vendor:
 
@@ -56,10 +56,6 @@ Club
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
 [http://maps.secondlife.com/secondlife/Caged Elegance/199/130/999](http://maps.secondlife.com/secondlife/Caged%20Elegance/199/130/999)  
-
-GinaVieras, Dead End Playground  
-RLV Rape Play  
-[http://maps.secondlife.com/secondlife/Toxen/205/173/3680](http://maps.secondlife.com/secondlife/Toxen/205/173/3680)  
 
 girlymp, Poppy's Hangout  
 Playground  
@@ -135,6 +131,10 @@ Western Themed D/s Roleplay
 Sklavin Lisa, ErziehungsAnstalt Proenix  
 Educational institution  
 [http://maps.secondlife.com/secondlife/Sofia/142/186/21](http://maps.secondlife.com/secondlife/Sofia/142/186/21)  
+
+ST1970, Dead End Playground  
+RLV Rape Play  
+[http://maps.secondlife.com/secondlife/Toxen/203/173/3680](http://maps.secondlife.com/secondlife/Toxen/203/173/3680)  
 
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
