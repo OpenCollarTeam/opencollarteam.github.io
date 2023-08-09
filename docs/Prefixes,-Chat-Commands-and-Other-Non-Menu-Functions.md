@@ -48,7 +48,7 @@ Public chat is channel 0.  You can turn this off so the collar doesn't listen to
 [prefix] channel -1 : disables the collar from listening to commands in local chat.
 
 # Safeword
-The collar safeword is a powerful global tool that will revoke all collar settings and return the collar to default, with the exception of the lock, the access list and the relay settings.  It will release you from traps set through the relay.  If you don't want all your settings changed when you are trapped through the relay, use the relay safeword button instead (see Relay).
+The collar safeword is a powerful global tool that will revoke all collar settings and return the collar to default, with the exception of the lock, the weld feature, the access list, and the relay settings.  It will release you from traps set through the relay.  If you don't want all your settings changed when you are trapped through the relay, use the relay safeword button instead (see Relay).
 The default collar safeword is RED, all caps.  You can also type it on channel 1 [ /1 RED ] or in ooc brackets which cannot be blocked by an RLV command [ ((RED)) ].
 
 You can change your safeword (owner access only): 
