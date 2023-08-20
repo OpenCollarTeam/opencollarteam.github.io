@@ -266,7 +266,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/253
 
 Tempting Elegance (Angie Trefusis)   
 Mesh Collars, Jewelry, & Accessories - 100L to 1800L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Whanganui/233/168/2001](http://maps.secondlife.com/secondlife/Whanganui/233/168/2001)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Valley%20of%20Honor/212/45/3501](http://maps.secondlife.com/secondlife/Valley%20of%20Honor/212/45/3501)   
 Marketplace: [https://marketplace.secondlife.com/stores/54438](https://marketplace.secondlife.com/stores/54438)   
 
 Tethered BDSM (Torus Heliosense)  
