@@ -70,7 +70,7 @@ If you don't have an object you want to use as the base for your collar you can 
 The last step is to load the scripts into the collar.  Do this with moderate speed, letting the asset server catch up to your work as you go along. IN THIS ORDER:  
 - Rez the Updater.  
 - Rez the collar model.
-- Find the script [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_update_seed.lsl) and drop it into your collar model.  (you can also use [oc_collarizer](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_collarizer.lsl) if you prefer). 
+- Find the script [oc_update_seed](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_update_seed.lsl) and drop it into your collar model.  If you want to skip the steps for building the leashpoint and FloatText prims, and use the prims that are in the updater instead, you can use [oc_collarizer](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_collarizer.lsl) . It will add and link those prims for you, but you may still have to position them where you want.
 - The update will start.
 
  
