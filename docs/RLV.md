@@ -122,6 +122,8 @@ To call this menu:
 
 Once you have your #RLV folder set up, make folders in #RLV for attachments you want to allow other avatars to force you to wear.  These usually include items like cuffs and gags (to force wear complete outfits, see .outfits below). Group them in an easy to read, intuitive way so users can find them without paging through dozens of unrelated folders.  
 
+**Links or Original?** Links will work, *but* if you want to lock folders on or off using Lock Attach or Lock Detach in Actions (see below), the original to which the link points must be inside #RLV.  
+
 >Sample folder arrangement:  #RLV > Gags > Ringgag | Ballgag where the ringgag and the ballgag are each in their own folder, inside the "gags" folder, inside #RLV.  
 
 ## Configure
