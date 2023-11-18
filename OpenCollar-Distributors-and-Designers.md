@@ -182,6 +182,10 @@ Zaphod Plutonian, HalfLight Dreams
 Immersive capture hunt experience (CARP)   
 [http://maps.secondlife.com/secondlife/Bondage City/143/135/3151](http://maps.secondlife.com/secondlife/Bondage%20City/143/135/3151)   
 
+ZenBaby Jewell, South Wind  
+Hangout, Nude Beach & Dance Club  
+[http://maps.secondlife.com/secondlife/South Wind/141/155/23](http://maps.secondlife.com/secondlife/South%20Wind/141/155/23)  
+
 
 # OpenCollar Partners Application Form
 
