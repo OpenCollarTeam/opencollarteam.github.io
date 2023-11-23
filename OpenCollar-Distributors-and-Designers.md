@@ -87,6 +87,11 @@ Lady Harcassle, Shades of Emotions
 BDSM Themed Nightclub  
 [http://maps.secondlife.com/secondlife/Damone Estates/195/200/21](http://maps.secondlife.com/secondlife/Damone%20Estates/195/200/21)  
 
+LinnaeaBorealis, Terra Catena    
+BDSM & D/s roleplay  
+[http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
+**Advisory:** Enter the manor, then turn right to the library.  
+
 Mairearad Islay, Fae*Gasm Breeding & Fuck Garden   
 Fantasy based adult playground   
 [http://maps.secondlife.com/secondlife/Frodes/16/164/801](http://maps.secondlife.com/secondlife/Frodes/16/164/801)   
