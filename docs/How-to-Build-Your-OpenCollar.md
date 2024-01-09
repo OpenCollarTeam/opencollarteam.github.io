@@ -54,7 +54,7 @@ If you don't have an object you want to use as the base for your collar you can 
 <img src="/static/torus.png" width="400" style="margin: 20px auto;" />
 </div>
 
-- Tiny Invisible Sphere as Root Prim, positioned where the leash will emit from. OR use the collar band as root prim and add a prim named `leashpoint` and described `leashpoint~notexture~nocolor~nohide~noshiny~noglow`.  Position the leashpoint so the center of the prim is on the spot where the leash will emit from.  For instance if you are using a mesh collar with a ring, position the leashpoint prim so the center of the prim intersects the bottom of the ring.   
+- Add a tiny invisible prim named `leashpoint` and in the description field put `leashpoint~notexture~nocolor~nohide~noshiny~noglow`.  Position the leashpoint so the center of the prim is on the spot where the leash will emit from. For instance if you are using a mesh collar with a ring, position the leashpoint prim so the center of the prim intersects the bottom of the ring. Link it to the collar. Wehn you link the prims, always shift-select the prim that contains the scripts and other contents last.   This will ensure that the contents remain in the root prim which is alway the last prim selected when you make a linkset.
 
 ## Optional Parts
 
