@@ -72,9 +72,10 @@ Gives a list of occupied attachment points with the names of the objects attache
 
 In collars built with a label only.  There are two versions of the label app, one for standard prim labels and one for mesh faces.  The label app applies the wearer name using a scripted texture offset.  
 
-**Set Label:** opens a dialog to change the text on the label.  `[prefix] label [newlabel]`   
+**Set Line:** opens a dialog to change the text on the label.  `[prefix] label [newlabel]`   
 **Color:** changes the color of the label text. `[prefix] label color`  
 **Font:** changes the font of the label text. `[prefix] label font`  
+**Scroll**  sets the label so it scrolls on the mesh label prim.
 
 # Outfits
 See:  [Outfits](/docs/Outfits)
