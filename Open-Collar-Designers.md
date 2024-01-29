@@ -79,8 +79,11 @@ Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketpla
 
 CODEX (Animaldj)   
 Mesh Collars & Jewelry - 200L to 450L  
-Inworld shop: [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)   
-Marketplace: [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
+Inworld shop: [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)  Marketplace: [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
+
+CollarClick!   
+Mesh Collars, 300L - 900L   
+Marketplace: [https://marketplace.secondlife.com/stores/258749](https://marketplace.secondlife.com/stores/258749)   
 
 The Compass (Casey Wardark)  
 Mesh Collars - 75L to 250L  
