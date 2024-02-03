@@ -120,11 +120,13 @@ To call this menu:
 
 **Making the #RLV Folder**: The wearer creates a top folder in inventory named #RLV for this menu to work. The name must be exactly these four characters [#RLV] and it *must* be a top folder, *not* a sub folder of any other folder in the inventory. It allows users and scripted objects to force wear the clothing and attachments contained in those folders.  
 
-Once you have your #RLV folder set up, make folders in #RLV for attachments you want to allow other avatars to force you to wear.  These usually include items like cuffs and gags (to force wear complete outfits, see .outfits below). Group them in an easy to read, intuitive way so users can find them without paging through dozens of unrelated folders.  
+Once you have your #RLV folder set up, make folders in #RLV for attachments you want to allow other avatars to force you to wear.  These usually include items like cuffs and gags (to force wear complete outfits, see .outfits below). Group them in an easy to read, intuitive way so users can find them without paging through dozens of unrelated folders. Keep the folder names short so they are readable on a button name. 
+
+**How Many Folders Can I Have and How long can the folder names be?** To avoid oc_folders running out of memory, your folders should follow the "rule of 20:" No more than 20 characters in a folder name, no more than 20 folders in #RLV, no more than 20 subfolders in each folder, each subfolder can contain no more than 20 sub-subfolders.
 
 **Links or Original?** Links will work, *but* if you want to lock folders on or off using Lock Attach or Lock Detach in Actions (see below), the original to which the link points must be inside #RLV.  
 
->Sample folder arrangement:  #RLV > Gags > Ringgag | Ballgag where the ringgag and the ballgag are each in their own folder, inside the "gags" folder, inside #RLV.  
+>Sample folder arrangement:  #RLV > Gags > Ringgag | Ballgag where the ringgag and the ballgag are each in their own folder, inside the "gags" folder, inside #RLV.
 
 ## Configure
 The front page of the Folders menu includes the **Configure** button and your first level of folders in #RLV.  
