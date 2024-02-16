@@ -37,21 +37,9 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
-Devante Thorne, The Temple of the Collar Outcasts  
-BDSM Playground  
-[http://maps.secondlife.com/secondlife/Lesser Farnley/31/207/2538](http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538)  
-
-Dodgeman DeCuir, Fragile Lounge Fetish BDSM Club   
-Club, BDSM Roleplay   
-[http://maps.secondlife.com/secondlife/Leords/69/241/4051](http://maps.secondlife.com/secondlife/Leords/69/241/4051)   
-
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
-
-Elizabeth Boissay, Velvet Sanctuary   
-Club   
-[http://maps.secondlife.com/secondlife/Velvet Sanctuary/68/148/24](http://maps.secondlife.com/secondlife/Velvet%20Sanctuary/68/148/24)   
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
@@ -92,18 +80,9 @@ BDSM & D/s roleplay
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
 **Advisory:** Enter the manor, then turn right to the library.  
 
-Mairearad Islay, Fae*Gasm Breeding & Fuck Garden   
-Fantasy based adult playground   
-[http://maps.secondlife.com/secondlife/Frodes/16/164/801](http://maps.secondlife.com/secondlife/Frodes/16/164/801)   
-
-Mileia Dubrovna, Milena Doll Creations  
-Shop, Playground & Club  
-[http://maps.secondlife.com/secondlife/Evil Spirits/218/218/51](http://maps.secondlife.com/secondlife/Evil%20Spirits/218/218/51)  
-**Advisory:** Walk into main shop about 100m toward the back and look left.  
-
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
-[http://maps.secondlife.com/secondlife/Erotica Island/39/67/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/39/67/1522)   
+[http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
 
 Randy Marenwolf, RLV: Reality & Magic In SL  
 RLV Education Center  
@@ -119,7 +98,7 @@ LGBTQ Friendly BDSM Community, Roleplay, Shops
 
 Serjourn Daxter, Pirandello Bay  
 Shop, BDSM Dungeon & Roleplay  
-[http://maps.secondlife.com/secondlife/Pirandello Bay/148/133/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/148/133/21)  
+[http://maps.secondlife.com/secondlife/Pirandello Bay/221/158/22](http://maps.secondlife.com/secondlife/Pirandello%20Bay/221/158/221)  
 
 Seth Ock, Griseus Farms  
 Human Livestock, Medical Play, & Alien Abductions Roleplay  
@@ -136,10 +115,6 @@ Western Themed D/s Roleplay
 Sklavin Lisa, ErziehungsAnstalt Proenix  
 Educational institution  
 [http://maps.secondlife.com/secondlife/Sofia/142/186/21](http://maps.secondlife.com/secondlife/Sofia/142/186/21)  
-
-ST1970, Dead End Playground  
-RLV Rape Play  
-[http://maps.secondlife.com/secondlife/Toxen/203/173/3680](http://maps.secondlife.com/secondlife/Toxen/203/173/3680)  
 
 Sue Feiri, Freebie Galaxie   
 Freebie Shops Noob Friendly  
@@ -158,10 +133,6 @@ BDSM Lifestyle Sim with emphasis on Bondage
 Taylor Paine, Taylor's Toys  
 RLV Trap Shop & Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
-
-Theragnarok1, Temptation Events   
-Shopping Event   
-[http://maps.secondlife.com/secondlife/Renaissance Van Withelmind/241/208/33](http://maps.secondlife.com/secondlife/Renaissance%20Van%20Withelmind/241/208/33)   
 
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground & Shop  
@@ -182,10 +153,6 @@ Beach, Sailing, & Blake Sea Access
 Yannis Boucher, Fallen Angels BDSM Club  
 BDSM Club  
 [http://maps.secondlife.com/secondlife/Crystal Cove II/78/165/3925](http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/78/165/3925)  
-
-Zaphod Plutonian, HalfLight Dreams   
-Immersive capture hunt experience (CARP)   
-[http://maps.secondlife.com/secondlife/Bondage City/143/135/3151](http://maps.secondlife.com/secondlife/Bondage%20City/143/135/3151)   
 
 ZenBaby Jewell, South Wind  
 Hangout, Nude Beach & Dance Club  

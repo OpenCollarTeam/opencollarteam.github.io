@@ -79,7 +79,8 @@ Marketplace: [https://marketplace.secondlife.com/stores/12936](https://marketpla
 
 CODEX (Animaldj)   
 Mesh Collars & Jewelry - 200L to 450L  
-Inworld shop: [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)  Marketplace: [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
+Inworld shop: [http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001](http://maps.secondlife.com/secondlife/Hazelnut/64/196/3001)  
+Marketplace: [https://marketplace.secondlife.com/stores/142444](https://marketplace.secondlife.com/stores/142444)  
 
 CollarClick!   
 Stylish Roleplay Collars, 300L - 900L   
@@ -113,7 +114,7 @@ Mesh Collars 200L-300L
 Marketplace: [https://marketplace.secondlife.com/stores/233550](https://marketplace.secondlife.com/stores/233550)   
 
 DragonFyre Designs (Lasynda Shichiroji)   
-Mesh Collars 0L-100L
+Mesh Collars 0L-100L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416)   
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)   
 
@@ -305,14 +306,14 @@ Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketpl
 - [public domain plugin template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_plugin_template.lsl)     
 - [public domain addon template](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/spares/oc_addon_template.lsl)  
 
+Danger Kitty's Sweets (SweetDangerKitty)   
+Hearts Emitter App and more   
+Marketplace: [https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
+
 Dark Elf Manufacture (DEM) (chloe1928.constantine)   
 DEM Relay plugin for OpenCollar 40L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Adult Hub BDSM/182/157/28](http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28)   
 Marketplace:  [https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118](https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118)
-
-Danger Kitty's Sweets (SweetDangerKitty)   
-Hearts Emitter App and more   
-Marketplace:[https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
 
 Marquis (marquismaker)   
 Apps and Addons   
@@ -360,4 +361,4 @@ Sample of a completed product using the current version of OpenCollar:
 
 Brief description of your styles and price range: 
 
-* Designers may be removed from the list if they fail to meet any of the above specifications.
+\* Designers may be removed from the list if they fail to meet any of the above specifications.
