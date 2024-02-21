@@ -108,7 +108,7 @@ Shan Bright, Bright Corporation
 Adult Sandbox & Shop  
 [http://maps.secondlife.com/secondlife/Reanna/44/44/77](http://maps.secondlife.com/secondlife/Reanna/44/44/77)  
 
-Silkie Sabra, K-Bar West  
+Silkie Serenade, K-Bar West  
 Western Themed D/s Roleplay  
 [http://maps.secondlife.com/secondlife/KBar West/59/121/24](http://maps.secondlife.com/secondlife/KBar%20West/59/121/24)  
 
@@ -116,7 +116,11 @@ Sklavin Lisa, ErziehungsAnstalt Proenix
 Educational institution  
 [http://maps.secondlife.com/secondlife/Sofia/142/186/21](http://maps.secondlife.com/secondlife/Sofia/142/186/21)  
 
-Sue Feiri, Freebie Galaxie   
+Skye Winchester, Passion Bay   
+Newcomer friendly welcome area and Adult Beach   
+[http://maps.secondlife.com/secondlife/Passion/34/192/34](http://maps.secondlife.com/secondlife/Passion/34/192/340)   
+
+Sue Feiri, Freebie Galaxie      
 Freebie Shops Noob Friendly  
 [http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
 **Advisory:** Land on the first floor and walk to the middle to reach the vendor.   
