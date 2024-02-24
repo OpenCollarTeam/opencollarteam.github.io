@@ -37,6 +37,10 @@ Countrycat Furse, Defilers
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
 
+Devante Thorne, The Temple of the Collar Outcasts  
+BDSM Playground  
+[http://maps.secondlife.com/secondlife/Lesser Farnley/88/209/2508](http://maps.secondlife.com/secondlife/Lesser%20Farnley/88/209/2508)  
+
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
