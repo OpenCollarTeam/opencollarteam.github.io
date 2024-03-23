@@ -45,6 +45,10 @@ Dolma Dollinger, Latex Fetish Mall
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
 
+Esclados, Geela Island  
+Gorean Roleplay  
+[http://maps.secondlife.com/secondlife/King and Queen/123/185/4094](http://maps.secondlife.com/secondlife/King%20and%20Queen/123/185/4094)  
+
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
 [http://maps.secondlife.com/secondlife/Caged Elegance/199/130/999](http://maps.secondlife.com/secondlife/Caged%20Elegance/199/130/999)  
