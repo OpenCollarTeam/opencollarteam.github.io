@@ -206,7 +206,11 @@ Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketpla
 Ping's Designs   
 Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
-Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
+Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629)   
+
+Pride 24/7 Event and INSANE-D (diumenge)   
+Mesh Collars 150-200L   
+Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494](http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494)   
 
 QUINN (Quinn1969)   
 Mesh Collar 100L  
