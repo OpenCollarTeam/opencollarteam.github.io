@@ -97,12 +97,8 @@ This app allows you to save a size, position and rotation.
 # Themes
 See: [Themes](/docs/Themes)   
 # Titler
-
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to set the position of the titler.
-> `[prefix] titler plain` saves the title input to settings as plain text rather than base64 
-
-**Image:** Opens a menu where you can set an image overhead on the wearer's avatar.  There are several preset to choose from. (Currently not active in OC 7.5)    
-**Custom:** Opens a text box; Allows wearer and user to set a custom image by inserting the desired texture uuid into the text box.  (Currently not active in OC 7.5)   
+> `[prefix] titler plain` saves the title input to settings as plain text rather than base64   
 **Set Title:** Opens a dialog where you can input and submit the desired text.  
 `[prefix] title [text string]`   
 **Up / Down:** Adjusts the position of the titler text up or down.  
