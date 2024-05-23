@@ -147,7 +147,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/232316](https://marketpl
 
 Kawaii Couture (Saucey Sinister)   
 Mesh Collars & Accessories - 399L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Elmira/144/41/26](http://maps.secondlife.com/secondlife/Elmira/144/41/26)    
+Inworld Shop: [http://maps.secondlife.com/secondlife/Gomorra/37/195/2419](http://maps.secondlife.com/secondlife/Gomorra/37/195/2419)        
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Krescendo (KrescendoStore)   
