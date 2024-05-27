@@ -120,7 +120,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplac
 
 Fantasy Restraints (Deana Waydelich)   
 Collars and Cuffs - 150L-400L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Wanda/111/176/22](http://maps.secondlife.com/secondlife/Wanda/111/176/22)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Gratia/87/77/3001(http://maps.secondlife.com/secondlife/Gratia/87/77/3001)   
 Marketplace: [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
 {Fantasy World} (xSmitx)   
