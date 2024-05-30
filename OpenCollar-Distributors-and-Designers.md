@@ -66,6 +66,10 @@ Shop
 [http://maps.secondlife.com/secondlife/Vashti Island/78/27/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/78/27/2001)   
 **Advisory:** Walk South 65m, following the beacon from the fixed landing point.  
  
+Jae Avedon, P3 (PLEASURE POWER PASSION)  
+BDSM Sim  
+[http://maps.secondlife.com/secondlife/Pleasure Power Passion/7/98/22](http://maps.secondlife.com/secondlife/Pleasure%20Power%20Passion/7/98/22)  
+
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
 [http://maps.secondlife.com/secondlife/Mostly Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
