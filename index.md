@@ -2,7 +2,9 @@
 layout: home
 title: Welcome to OpenCollar!
 ---
-<p><img style="float: right; margin: 5px 15px 15px 5px;" src="/static/steelcollar.png" width="100" />OpenCollar (OC) offers a set of scripts for a D/s collar similar to other scripted collars in Second Life. Unlike most other collars, however, OpenCollar is open source. You can read more about what that means at the [Open Source Initiative](https://opensource.org/osd-annotated). You are free to copy and redistribute the OC scripts, provided that you leave them full perms. Read the entire OpenCollar License in the notecard accompanying the scripts.  OpenCollar has been continuously operating since 2008 to provide our open source scripts contained in a working collar model free to the BDSM Community of Second Life. <br style="clear: both;" /></p>
+<p><img style="float: right; margin: 5px 15px 15px 5px;" src="/static/steelcollar.png" width="100" />OpenCollar (OC) offers a set of scripts for a D/s collar similar to other scripted collars in Second Life. Unlike most other collars, however, OpenCollar is open source. <br style="clear: both;" /></p>
+ 
+You can read more about what that means at the [Open Source Initiative](https://opensource.org/osd-annotated). You are free to copy and redistribute the OC scripts, provided that you leave them full perms. Read the entire OpenCollar License in the notecard accompanying the scripts.  OpenCollar has been continuously operating since 2008 to provide our open source scripts contained in a working collar model free to the BDSM Community of Second Life. 
 
 ### Visit Our Github  
 
