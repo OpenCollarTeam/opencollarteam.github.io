@@ -120,7 +120,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplac
 
 Fantasy Restraints (Deana Waydelich)   
 Collars and Cuffs - 150L-400L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Gratia/87/77/3001(http://maps.secondlife.com/secondlife/Gratia/87/77/3001)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Gratia/87/77/3001](http://maps.secondlife.com/secondlife/Gratia/87/77/3001)   
 Marketplace: [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
 {Fantasy World} (xSmitx)   
@@ -210,7 +210,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketpla
 
 Pride 24/7 Event and INSANE-D (diumenge)   
 Mesh Collars 150-200L   
-Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494](http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494)   
+Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh entity/146/18/2494](http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494)   
 
 QUINN (Quinn1969)   
 Mesh Collar 100L  
@@ -270,11 +270,11 @@ Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketpla
 
 Temple of the Collar Outcasts (Devante Thorne)   
 Many styles including ring and ankle collars - Free 0L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538](http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Lesser Farnley/31/207/2538](http://maps.secondlife.com/secondlife/Lesser%20Farnley/31/207/2538)   
 
 Tempting Elegance (Angie Trefusis)   
 Mesh Collars, Jewelry, & Accessories - 100L to 1800L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Valley%20of%20Honor/212/45/3501](http://maps.secondlife.com/secondlife/Valley%20of%20Honor/212/45/3501)   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Valley of Honor/212/45/3501](http://maps.secondlife.com/secondlife/Valley%20of%20Honor/212/45/3501)   
 Marketplace: [https://marketplace.secondlife.com/stores/54438](https://marketplace.secondlife.com/stores/54438)   
 
 Tethered BDSM (Torus Heliosense)  
@@ -314,7 +314,7 @@ Danger Kitty's Sweets (SweetDangerKitty)
 Hearts Emitter App and more   
 Marketplace: [https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
 
-Dark Elf Manufacture (DEM) (chloe1928.constantine)   
+Dark Elf Manufacture (DEM) (Chloe1982 Constantine)   
 DEM Relay plugin for OpenCollar 40L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Adult Hub BDSM/182/157/28](http://maps.secondlife.com/secondlife/Adult%20Hub%20BDSM/182/157/28)   
 Marketplace:  [https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118](https://marketplace.secondlife.com/p/DEM-Plugin-for-OC-Boxed/21924118)
@@ -331,7 +331,7 @@ Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketpl
 
 # Application
 
-Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to Silkie Sabra inworld.
+Want to receive an OpenCollar Vendor and get on this list? Copy the text below to a notecard and send it to [Silkie Serenade](secondlife:///app/agent/1a828b4e-6345-4bb3-8d41-f93e6621ba25/about) inworld.
 OpenCollar Official Design Partners are listed on this page, and we'll refer users to it when they inquire about where to find OpenCollar-based products.  
 
 To qualify as an OpenCollar Official Design Partner, collar designers agree to the following*:
@@ -353,7 +353,7 @@ To qualify as an OpenCollar Official Design Partner, collar designers agree to t
 
 OPENCOLLAR DESIGN PARTNER APPLICATION
 
-If you would like to sign up for the Official Design Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below. Then pass it to Silkie Sabra or Skyler Pancake, OpenCollar Partner Coordinators.
+If you would like to sign up for the Official Design Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below. Then pass it to Silkie Serenade or Skyler Pancake, OpenCollar Partner Coordinators.
 
 Inworld Shop SLURL:   
 
