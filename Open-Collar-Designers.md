@@ -212,6 +212,11 @@ Pride 24/7 Event and INSANE-D (diumenge)
 Mesh Collars 150-200L   
 Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh entity/146/18/2494](http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494)   
 
+PsiCorps (Psistorm Voxel)   
+Original Mesh Collars and Cuffs sets with PBR Materials  
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Amare/47/34/631](http://maps.secondlife.com/secondlife/Amare/47/34/631)   
+Marketplace:  [https://marketplace.secondlife.com/en-US/stores/48263](https://marketplace.secondlife.com/en-US/stores/48263)   
+
 QUINN (Quinn1969)   
 Mesh Collar 100L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Pastiche/25/75/21](http://maps.secondlife.com/secondlife/Pastiche/25/75/21)   
@@ -327,6 +332,11 @@ Ping's Designs
 Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
 Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
+
+PsiCorps (Psistorm Voxel)   
+Original Mesh Collars and Cuffs sets with PBR Materials  
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Amare/47/34/631](http://maps.secondlife.com/secondlife/Amare/47/34/631)   
+Marketplace:  [https://marketplace.secondlife.com/en-US/stores/48263](https://marketplace.secondlife.com/en-US/stores/48263)   
 
 
 # Application
