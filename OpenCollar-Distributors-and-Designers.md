@@ -92,6 +92,10 @@ BDSM & D/s roleplay
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
 **Advisory:** Enter the manor, then turn right to the library.  
 
+Outlaw Ninetails, Outlaw's Haven  
+Adult RLV playground  
+[http://maps.secondlife.com/secondlife/Lorcrest Falls/240/106/25](http://maps.secondlife.com/secondlife/Lorcrest%20Falls/240/106/25)  
+
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
