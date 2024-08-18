@@ -100,6 +100,10 @@ Pingout Duffield, Erotica Island
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
 
+pundari, Cellestara Sultinate  
+Arabic Roleplay sim  
+[http://maps.secondlife.com/secondlife/Celestara Sultanate/233/177/22](http://maps.secondlife.com/secondlife/Celestara%20Sultanate/233/177/22)  
+
 Randy Marenwolf, RLV: Reality & Magic In SL  
 RLV Education Center  
 [http://maps.secondlife.com/secondlife/Denholme Field/243/231/57](http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57)  
