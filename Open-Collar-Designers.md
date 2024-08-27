@@ -139,7 +139,14 @@ Marketplace: [https://marketplace.secondlife.com/stores/173815](https://marketpl
    
 Giga's World (Gigante Radium)  
 Mesh Collars & Jewelry - 50L to 100L  
-Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)   
+Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketplace.secondlife.com/stores/83455)  
+
+Gorean Emporium (stephaniesapphyre)   
+Gorean and BDSM Collars - 249L to 499L   
+Inworld Shop:  [http://maps.secondlife.com/secondlife/Black%20Rose%20Estates/186/77/1008](http://maps.secondlife.com/secondlife/Black%20Rose%20Estates/186/77/1008)   
+Marketplace Stores: [https://marketplace.secondlife.com/en-US/stores/205355](https://marketplace.secondlife.com/en-US/stores/205355)   
+[https://marketplace.secondlife.com/en-US/stores/787](https://marketplace.secondlife.com/en-US/stores/787)  
+
 
 JaHo (Jackal Hotaling)  
 Mesh Collars - 100L - 450L  
