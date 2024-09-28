@@ -138,40 +138,41 @@ timer / menu timer  calls the timer menu in APps
 `give holder` gives a leash holder to the command issuer.   
 `particle reset` resets the leash particle settings.   
 
-==CLOTHES/ATTACHMENTS==
+## CLOTHES/ATTACHMENTS
 
--(string) - remove first #RLV folder found  with name that matches (string)
--- (string) - remove first #RLV folder found  with name that matches (string) and all subfolders
-+(string) - Wear first #RLV folder found with name that matches (string)
-&(string) - Add first #RLV folder found with name that matches (string)
-++(string) - Add first #RLV folder found with name that matches (string)
-&&(string) - Add first #RLV folder found with name that matches (string) and subfolders
-(NOTE! We seem to have an inconsistency here where ++ does a non-recursive (no subfolder) add rather than a recursive wear.)
+#### Folders
+`-[foldername]` removes first #RLV folder found with the name that matches the command name.  Buttons in RLV > Folders.   
+`--[foldername] removes first #RLV folder found  with the matching name and all its subfolders.   
+`&[foldername]` Adds first #RLV folder found with the matching name.   
+`&&[foldername]` Adds first #RLV folder found with the matching name and its subfolders.    
+`+[foldername]` Wears first #RLV folder found with the matching name.    
+`++[foldername]` Adds first #RLV folder found with the matching name.   
 
-wear - Open list of outfits to wear
-wear (outfit) - wear outfit called (outfit)
-naked - remove all outfits (and everything outside .core if strip all mode is on
+#### Outfits
+`wear` opens list of outfits to wear. Corresponds to Browse button in Outfits.   
+`wear` [outfitname]` wears outfit with the matching name   
+`naked` removes all contents of outfits folders except for contents of core folder (and everything outside .core if strip all mode is on)   
+#### Other Apps
+`undress lock [systemlayername]` locks a system clothing layer by the name of the layer, for instance, shirt, undershirt, etc.   
+`undress unlock [systemlayername]` a system clothing layer by the name of the layer   
 
-undress lock (layer) - locks a clothing layer (layer)
-undress unlock (layer) - unlocks a clothing layer (layer)
+`detach` opens a list of attachments to remove by the name of the attachment.  
 
-detach - Open list of attachments to remove
+## RLV RESTRICTIONS/EXCEPTIONS & FUNCTIONS
 
-RLV RESTRICTIONS/EXCEPTIONS & FUNCTIONS
+`rlv on` `rlv off` - switches RLV functions in the collar on or off.    
+`clear` clears all RLV restrictions except the collar lock.  Not available to owned wearers.   
 
-rlv on / rlv off - switches RLV functions in the collar on or off. 
-clear - clears all RLV.
+`relay off` `relay ask` `relay auto` set the relay mode to the desired state.   
+`relay helpless` toggles helpless mode on / off.   
+`relay wearer` toggles wearer lockout for relay options.   
 
-relay off / relay ask / relay auto - set relay mode
-relay helpless - toggle helpless mode on / off
-relay wearer - toggle wearer lockout for relay options
+`rlv handshakes [number]` sets the number of times the collar will attempt to confirm RLV is active in the viewer. Default is 3 and if this isn't enough there's probably something badly wrong with your connection, but you can increase it here if your collar is not recognizing RLV on attach / logon.   
 
-rlv handshakes (number) - sets the number of times the collar will attempt to confirm RLV is active in the viewer. Default is 3 and if this isn't enough there's probably something badly wrong with your connection, but you can increase it here if your collar is not recognizing RLV on attach / logon.
-
-show restrictions  -  list all restrictions from all sources that are handled by the collar (for example, including relay restrictions
-list presets - shows current restriction presets and what they do. Default presets are Hear, Talk, Touch, Stray, Inventory, Dress, IM, Names/Map and Blur, but these can be changed  via the [Customize] submenu in Restrictions. These can be set or cleared using the commands below, replacing (preset) with the name of the preset you wish to add or remove. Note that these are case sensitive (i.e you have to use "Blur" rather than "blur").
-preset add (preset) - activates preset (preset).
-preset replace (preset) - removes current presets and adds (preset) as new restriction set
+`show restrictions` lists all restrictions from all sources that are handled by the collar, including the relay.   
+`list presets` shows current restriction presets and what they do. Default presets are Hear, Talk, Touch, Stray, Inventory, Dress, IM, Names/Map and Blur, but these can be changed  via the [Customize] submenu in Restrictions. These can be set or cleared using the commands below, replacing [presetname] with the name of the preset you wish to add or remove. Note that these are case sensitive (i.e you have to use "Blur" rather than "blur").
+`preset add [presetname]` activates the named preset.
+`preset replace [presetname]` - removes current presets and adds (preset) as new restriction set
 preset clear (preset) - removes preset (preset)
 
 garble on - activates garbling when talk restriction is set
