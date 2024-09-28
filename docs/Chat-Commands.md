@@ -2,53 +2,53 @@
 layout: home
 title: Chat Commands
 ---
-# List of (almost) all OC chat commands
+# List Chat Commands
 
-(document version 0.2)
+(document version 0.2; thanks to Medea Destiny for writing most of this)   
 
-These chat commands can be issued by typing the command as listed in local chat, with the wearer's collar prefix in front. Collar prefix is normally the first two letters of the wearer's name, though if you're not sure you can see the prefix in the collar's Help/About menu. Saying "* prefix" in local chat will tell you the prefix of any collar within 20m of you which you have access to.
+Below is the complete list of chat commands.  What's listed are the calls after the prefix.  See [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions) for how to learn, use, and change the wearer's prefix.
+Help us make this list complete ! Please submit any chat commands you find that are not listed here, or ones that are listed here that no longer work, via pull request to this page.
 
-EXAMPLE: If your name is "Bob" your prefix will be "bo". To issue a chat command listed below, you'd type "bo" in front of it. For example to open the main menu, you'd type "bo menu".
+**IMPORTANT:** 
+* Many chat commands do not *need* a space after the prefix but some do, especially chat commands with more than a single term.  All chat commands do work with a space after the prefix.  
+* Not all chat commands are case-insensitive (i.e some will require you to capitalize things correctly). If you see a command in the list below with a capital letter, you have to use it in that form. When you're referring to a specific function (for example the name of an animation or a restriction preset), use the capitalization of that animation, function, etc. There are a few places where we've made things case-insensitive, but not everywhere. If something doesn't work as expected, check your capitalization.
+  
+## MENU SHORTCUTS
 
-By default, collars will listen to both a private channel (by default channel 1) and the local chat channel (channel). Note that some users switch channel 0 listening off, as this reduces script load significantly. This is done with the "Listen0" button in the Settings menu, and honestly we recommend doing it. In this case you'll use channel 1 instead (i.e. "/1 bo menu").  The advantages of using the private rather than public channel are that your collar scripts will be doing much less work as they don't need to check every word spoken in local chat, and that people can't see what you're doing (until it happens!).
+### Primary menus:
 
-Very occasionally you'll find someone has changed the private channel to something other than the default channel. This can be done with the "channel" chat command (i.e "[prefix] channel 100" will set the private channel to 100 and you'd then use /100 rather than /1). The Help/About menu will show you the current channel setting.
+`menu` calls the Main Menu   
+   
+`access`  calls the Access (formerly "auth") Menu  
+`animations` or `menu animations` calls the Animations Menu   
+`apps`  calls the Apps Menu  
+`exceptions` calls the Exceptions Menu in RLV  
+`help/about`  calls the Help/about Menu    
+`leashmenu` calls the Leash Menu   
+`relay` calls the Relay Menu  in RLV   
+`restrictions`  calls the Restrictions Menu   
+`rlv`  calls the main RLV Menu   
+`settings` calls the Settings Menu 
 
-IMPORTANT: Not all chat commands are case-insensitive (i.e some will require you to capitalize things correctly). If you see a command in the list below with a capital letter, you have to use it in that form. When you're referring to a specific function (for example the name of an animation or a restriction preset), use the capitalization of that animation, function, etc. There are a few places where we've made things case-insensitive, but not everywhere. If something doesn't work as expected, check your capitalization. 
+### Submenus:
+`pose` calls the pose menu in Animations   
+`couples`  calls the couples menu in Animations   
+   
+`leash configure`  calls the leash configuration menu in Leash  
 
-==MENU SHORTCUTS==
+`customize`  calls the Customize menu in Restrictions   
+`menu managecamera` and `menu managecamera2` call the camera control menus in Restrictions > Customize   
+`menu managechat` calls the muffle menu in Restrictions > Customize   
+`sit` calls the menu to pick a target for force sit in the RLV menu     
+`advanced` calls the Advanced menu in Restrictions   
 
-Primary menus:
+#### Clothing/attachments:
+`undress`  calls the undress menu in Apps   
+`detach` or `menu detach` calls the Detach menu in Apps   
+`outfits` or `menu outfits` calls the Outfits menu in Apps   
+`folders`  calls the Folders menu in RLV   
 
-menu  -  open collar main menu
-menu animations - open anim menu
-leashmenu - open leash menu
-access  - open auth menu
-settings - open settings menu ( at the moment some apps will print there settings when this command is issued, but this will change).
-apps  - open apps menu
-help/about  -  open help/about menu
-rlv  - opens main RLV menu
-relay  - open relay menu
-exceptions - open exceptions menu
-restrictions  - open restrictions menu
-
-Submenus:
-pose -  open pose menu
-couples  - open couple animations menu
-leash configure  - open leash configure menu
-menu managecamera / menu managecamera2 - open camera control menus
-menu managechat - open muffle settings menu
-sit - open menu to pick a target for force sit
-advanced  - open advanced restrictions menu
-customize  - open restrictions management menu
-
-Clothing/attachments:
-undress  -  opens undress menu
-detach / menu detach - open detach menu
-outfits / menu outfits - open outfits menu
-folders  - open folders menu
-
-Apps menus:
+#### Apps menus:
 appearance - open main resizer menu
 badwords -  opens badwords menu
 themes  - opens themes menu
