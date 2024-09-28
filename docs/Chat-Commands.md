@@ -100,10 +100,10 @@ timer / menu timer  calls the timer menu in APps
 
 ## ADDING OR REMOVING OWNERS, ETC.
 
-`add owner` / add trust / add block` Opens a selection menu to add nearby avatars to owner / trust /block lists.    
-`rem owner / rem trust / rem block` opens a selection menu to remove names from owner / trust / block list.   
-`add owner [uuid] / add trust [uuid] / add block [uuid]` adds an owner/trusted/blocked to list by key, remotely.   
-`rem owner [uuid] / rem trust [uuid] /rem block [uuid]`  removes an owner/trusted/blocked from list by key.     
+`add owner` `add trust` `add block` Opens a selection menu to add nearby avatars to owner / trust /block lists.       
+`rem owner` `rem trust` `rem block` opens a selection menu to remove names from owner / trust / block list.      
+`add owner [uuid]` `add trust [uuid]` `add block [uuid]` adds an owner/trusted/blocked to list by key, remotely.      
+`rem owner [uuid]` `rem trust [uuid]` rem block [uuid]`  removes an owner/trusted/blocked from list by key.        
 
 ## ANIMATIONS
 `[pose name]` plays a collar pose.   
@@ -119,24 +119,24 @@ timer / menu timer  calls the timer menu in APps
 
 ## LEASHING
 
-yank / beckon - Pull wearer closer, unseating them if seated if they are leashed.
-grab / leash - take leash
-post / anchor - open menu to select object to leash wearer to 
-anchor (uuid) - leash wearer to object with key uuid
-follow me - make collar wearer follow command issuer
-follow (uuid) - make collar wearer follow (uuid)
-follow - open picker for who to follow
-unleash / unfollow  - stop leashing / following
-stay - disallow movement without being pulled by leash
-unstay / move - allow movement again after stay has been issued
-strict on / strict off - turn leash strict mode on or off
-turn on / turn off - turn turn mode (leashee faces direction of movement) on or off
-pass - open menu to pick person to pass leash to
-pass (uuid) pass leash to (uuid) where UUID can be a person or object
-length - open leash length menu
-length (val) - set length of leash to val where val is a whole number from 1-60
-give holder - gives a leash holder to command issuer
-particle reset - reset leash settings
+`yank` or `beckon` Pulls the wearer closer, unseating them if seated if they are leashed.  
+`grab` or `leash` takes the leash.  Ranked:  Owners can take the leash even if the wearer is already leashed by another avatar with access.  
+`post` or `anchor` opens a menu to select an object to leash wearer to.  
+`anchor [uuid]` leashes the wearer to object with key uuid.    
+`follow me` engages an invisible leash, making the collar wearer follow the command issuer.  
+`follow [uuid]` makes the collar wearer follow an avatar by avatar key.  
+`follow` opens a selection menu from nearby chat to select who to follow.  
+`unleash` or `unfollow` stops leashing / following.  
+`stay` disallows movement unless pulled by leash.  Not in leash menu but still available as a chat command.  
+`unstay` or `move` revokes stay, allowing movement again.  
+`strict on` / `strict off` turns leash strict mode on or off.     
+`turn on` / `turn off` turns the wearer in the direction of the leasher and stops it again.   
+`pass` opens a menu to select an avatar in nearby chat to pass the leash to.   
+`pass [uuid]` passes the leash to a uuid where UUID can be a person or object.   
+`length` opens the leash length menu.   
+`length [value]` - sets the length of the leash to a whole number value from 1 - 60.   
+`give holder` gives a leash holder to the command issuer.   
+`particle reset` resets the leash particle settings.   
 
 ==CLOTHES/ATTACHMENTS==
 
