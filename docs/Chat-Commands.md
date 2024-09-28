@@ -49,75 +49,75 @@ Help us make this list complete ! Please submit any chat commands you find that 
 `folders`  calls the Folders menu in RLV   
 
 #### Apps menus:
-appearance - open main resizer menu
-badwords -  opens badwords menu
-themes  - opens themes menu
-menu Capture - open capture menu
-menu bell  - open bell menu
-tp  - open bookmarks menu
-titler / menu titler - shows menu
-label / menu label  - open label menu
-timer / menu timer  - open timer menu
+`appearance` calls the main resizer menu in Settings   
+`badwords` calls the badwords menu in Apps (if installed)   
+`themes` calls the themes menu in Apps   
+`menu Capture` calls the capture menu in Apps   
+`menu bell`  calls the bell menu in Apps   
+`tp`  calls the bookmarks menu   
+`titler` or `menu titler` calls the titler menu in Apps   
+`label` or `menu label`  calls the label menu in Apps   
+timer / menu timer  calls the timer menu in APps   
 
 
-==GENERAL FUNCTIONS==
+## GENERAL FUNCTIONS
 
-lock - lock collar
-unlock - unlock collar
+`lock` locks the collar   
+`unlock` unlocks the collar   
+    
+`fix` or `fix menus` repairs missing menus and reboots the collar.  Button in Settings.  
+`update` searches for an updater owned by the wearer, and runs the update.  Button in the Help/About menu.   
+`help`  sends a help notecard and a link to the web manual.  Button in Help/About.  
+`touchnotify` toggles notification of collar touches on/off.   
+`allowhide`  toggles allowing collar wearer to hide collar on/off. Button in Settings.   
+`channel [number]` - changes the listen channel to a chosen number.   
+`getauth` tells you your access level in private chat.   
+`print auth` lists all users auth levels (owners, trusted, block) etc. in private chat.  Button in access, available to wearer and owner only.   
+`info` prints channel, safeword, prefix and collar version in private chat.   
+`reboot`  reboots the collar. Button in Help/About.    
 
-fix - fix menus (will cause collar to reboot)
-update - search for updater and start update process
-help  - receive help notecard & link to website
-touchnotify - toggle notification of collar touches on/off
-allowhide - toggle allowing collar wearer to hide collar on/off
-channel (number) - changes the listen channel to (number) (default is 1).
-getauth - find out your access level
-print auth - lists all users auth levels (owners, trusted, block) etc.
-info - prints channel, safeword, prefix and collar version.
-reboot - reboots collar
+`prefix` reports the current prefix.  Owner only.   
+`prefix [newprefix]` changes the prefix to desired string.  Owner only.   
+`prefix reset` resets prefix to default (first two letters of user name). Owner only.   
 
-prefix - discover current prefix
-prefix (string) - sets prefix to (string)
-prefix reset - sets prefix to default (first two letters of name)
+`[safeword]` **Does not require a prefix.**  Clears all restrictions in the collar excluding the collar lock and including the leash. Default is RED.   
+`safeword` prints the current safeword or tells if the safeword is disabled.   
+`safeword off` disables the safeword.   
+`safeword [newsafeword]` resets the safeword to the desired word and enables it if it is disabled.   
 
-(safeword) - Safewords the collar, freeing wearer from restrictions.
-safeword - print current safeword or tell if safeword is disabled
-safeword off - disable safeword
-safeword (word) - set safeword to (word) and enable if disabled.
+`runaway`  starts the runaway process to clear the Access settings, removing all owners/trusted/block/public/group.   
 
-runaway - start runaway process to remove all owners/trusted/block
+`weld` starts the weld process. Requires wearer consent.   
 
-weld - start weld process
+`name`  prints the name of the collar wearer.   
+`name [newname]` changes the name of the collar wearer in collar messages.  
+`device name` prints the current collar name.   
+`device name [newname]` changes the name of the collar in collar messages.   
 
-name (string) - set name of collar wearer to (string)
-name  - print name of collar wearer
-device  name (string) - set name of collar to (string)
-device name - print current name
+`print settings` prints out all stored settings.  Button in Settings menu.  
+`load` loads settings from .settings notecard.  Button in Settings.   
+`load url [url]` loads settings from a text file on the web.   
 
-print settings  - prints out all stored settings
-load - loads settings from .settings notecard
-load url (url)  - loads settings from a web page
+## ADDING OR REMOVING OWNERS, ETC.
 
-==ADDING OR REMOVING OWNERS, ETC.==
+`add owner` / add trust / add block` Opens a selection menu to add nearby avatars to owner / trust /block lists.    
+`rem owner / rem trust / rem block` opens a selection menu to remove names from owner / trust / block list.   
+`add owner [uuid] / add trust [uuid] / add block [uuid]` adds an owner/trusted/blocked to list by key, remotely.   
+`rem owner [uuid] / rem trust [uuid] /rem block [uuid]`  removes an owner/trusted/blocked from list by key.     
 
-add owner / add trust / add block - Open picker to add to owner / trust /block lists
-rem owner / rem trust / rem block - Open picker to remove from owner / trust / block list
-add owner (uuid) / add trust (uuid) / add block (uuid) - add person to list by key
-rem owner (uuid) / rem trust (uuid) /rem block (uuid)  - remove person from list by key
+## ANIMATIONS
+`[pose name]` plays a collar pose.   
+`stop` or `release` stops a collar pose.   
+`up / down` moves pose offset up or down. Only use while the desired collar pose is active.   
+`standoffset on / standoffset off` switches offsets for standing (no pose active) on or off.   
+`animlock`  toggles animlock on or off.   
+`posture on / posture off` switches posture collar anim (stiff neck) on or off.   
+`[couple anim]` animates the wearer in a couple animation with command issuer.  Insert the name of the couple animation in the brackets.   
+`[couple anim] [nearby avatar name]` animates the wearer in a couple animation with a nearby avatar.   
+`stop couples`  stops playing a couple animation.   
+`couples verbose on / couples verbose off` toggles verbose chat for couple animations on or off.   
 
-==ANIMATION==
-(anim name) - play animation
-stop  / release -  stop animation
-up / down - move pose offset up or down
-standoffset on / standoffset off - switch offsets for standing (no pose playing) on or off
-animlock  - toggle animlock on or off
-posture on / posture off - switch posture collar anim (stiff neck) on or off
-(couple anim name) - command wearer to do couple animation with command issuer
-(couple anim name) (name) - command wearer to do couple animation with person nearby who's name matches (name)
-stop couples  - stop playing couple animation
-couples verbose on / couples verbose off - toggle verbose chat for couple animations on or off
-
-==LEASHING==
+## LEASHING
 
 yank / beckon - Pull wearer closer, unseating them if seated if they are leashed.
 grab / leash - take leash
