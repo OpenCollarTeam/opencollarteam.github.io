@@ -4,7 +4,7 @@ title: Chat Commands
 ---
 # List Chat Commands
 
-(document version 0.2; thanks to Medea Destiny for writing most of this)   
+(markup work in progress-- thanks to Medea Destiny for compiling and writing most of this)   
 
 Below is the complete list of chat commands.  What's listed are the calls after the prefix.  See [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions) for how to learn, use, and change the wearer's prefix.
 Help us make this list complete ! Please submit any chat commands you find that are not listed here, or ones that are listed here that no longer work, via pull request to this page.
