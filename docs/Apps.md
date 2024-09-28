@@ -3,7 +3,7 @@ layout: home
 title: The Apps Menu
 ---
 
-See in this page: [Bell](#bell) | [Bookmarks](#bookmarks) | [Capture](#capture) | [Label](#label) | [Outfits](#outfits) | [Titler](#titler)   
+See in this page: [Bell](#bell) | [Bookmarks](#bookmarks) | [Capture](#capture) | [Label](#label) | [Outfits](#outfits) | [Timer](#timer) | [Titler](#titler)   
 
 # Apps Main Menu
 
@@ -96,6 +96,35 @@ This app allows you to save a size, position and rotation.
 
 # Themes
 See: [Themes](/docs/Themes)   
+
+# Timer
+(version 8.3 and later) This app allows a timer to be set, for a wide range of purposes. The most common use would be to have the collar unlock the wearer after the time limit is up, but you can also use it to activate things after a certain amount of time has passed. You may set multiple things to be triggered at the same time when the timer expires. For example, you might set the wearer kneeling, leash them to a post, and set the 'Stray' restriction. By activating a timer with Unpose, Unleash and Clear RLV all ticked, then when the timer expires, the collar wearer is freed. By using the Customs button, it is possible to set any combination of chat commands on a time delay, so you could for example remove a particular restrictions preset without clearing all restrictions, set an outfit to change after a fixed time, teleport someone home in an hour, and so forth.
+
+
+**Timer:** Opens a dialog to allow you to set the length of the timer.   
+`[prefix] timer time`   
+**Lockout:** When Lockout is selected, the collar wearer will be locked out of their collar entirely when timer is active (primarily for self-bondage). Wearer setting.      
+**Customs:** Opens a text box to allow custom commands to be entered that will be triggered when the timer runs down. These are entered in the form of chat commands, and you can set multiple commands separated by commas. The commands will be issued as if the person starting the timer had said them in chat. Do not include the prefix, just the command.   
+`[prefix] timer customs`   
+**Unleash:** Wearer will be unleashed when the timer expires.   
+`[prefix] timer unleash on(off)`   
+**Unpose:** Poses will be stopped when the tmer expires.   
+`[prefix] timer unpose on(off)`   
+**Unsit:** Wearer will be unsat when the timer expires.   
+`[prefix] timer unsit on(off)`   
+**Clear RLV:** Issues a Clear RLV command when timer expires (same as CLEAR ALL button in the main RLV menu), which will end restrictions when the timer expires.   
+`[prefix] timer clearrlv on(off)`   
+**Titler:** Sets a title over the wearer's head when the timer is active, with time remaining showing. Will not appear if another title has already been set with the titler app.   
+`[prefix] timer titler on (off)`   
+**Permissive** Allows users with lower authority than the timer setter (apart from the wearer) to stop their timer.   
+`[prefix] timer permissive on (off)`   
+**Start:** Starts the timer running.   
+`[prefix] timer start`   
+**EndNow:** (Only when timer is active) Jumps the timer forwards to the end of the timer, and issues commands that are set to be issued when the timer runs down.   
+`[prefix] timer endnow`   
+**Cancel:** (Only when timer is active) Cancels the timer and resets, without issueing the commmands that are set to be issued when the timer runs down.   
+`[prefix] timer cancel`   
+
 # Titler
 Sets a line of text overhead on the wearer's avatar.  Requires the FloatText prim to set the position of the titler.
 > `[prefix] titler plain` saves the title input to settings as plain text rather than base64   
