@@ -162,31 +162,33 @@ timer / menu timer  calls the timer menu in APps
 
 `rlv on` `rlv off` - switches RLV functions in the collar on or off.    
 `clear` clears all RLV restrictions except the collar lock.  Not available to owned wearers.   
+`rlv handshakes [number]` sets the number of times the collar will attempt to confirm RLV is active in the viewer. Default is 3 and if this isn't enough there's probably something badly wrong with your connection, but you can increase it here if your collar is not recognizing RLV on attach / logon.   
+`show restrictions` lists all restrictions from all sources that are handled by the collar, including the relay.   
+`garble on` activates garbling when talk restriction is set.   
+`garble off` deactivates garbling.   
+`sit [UUID]` force sits the wearer on an object via object key (UUID).   
+`unsit` forces the wearer to stand.   
 
+#### Relay
 `relay off` `relay ask` `relay auto` set the relay mode to the desired state.   
 `relay helpless` toggles helpless mode on / off.   
 `relay wearer` toggles wearer lockout for relay options.   
 
-`rlv handshakes [number]` sets the number of times the collar will attempt to confirm RLV is active in the viewer. Default is 3 and if this isn't enough there's probably something badly wrong with your connection, but you can increase it here if your collar is not recognizing RLV on attach / logon.   
+#### Presets 
+`list presets` shows current restriction presets and what they do.   
+`preset add [presetname]` activates the named preset.   
+`preset replace [presetname]` removes current presets and adds the named preset in place of them.   
+`preset clear [presetname]` removes the named preset.   
 
-`show restrictions` lists all restrictions from all sources that are handled by the collar, including the relay.   
-`list presets` shows current restriction presets and what they do. Default presets are Hear, Talk, Touch, Stray, Inventory, Dress, IM, Names/Map and Blur, but these can be changed  via the [Customize] submenu in Restrictions. These can be set or cleared using the commands below, replacing [presetname] with the name of the preset you wish to add or remove. Note that these are case sensitive (i.e you have to use "Blur" rather than "blur").
-`preset add [presetname]` activates the named preset.
-`preset replace [presetname]` - removes current presets and adds (preset) as new restriction set
-preset clear (preset) - removes preset (preset)
 
-garble on - activates garbling when talk restriction is set
-garble off - deactivates garbling
+### Restrictions
+`rlv list` lists all current restrictions.   
+`rlv add [restrictionname]` adds the named individual restriction (see list below).   
+`rlv rem [restrictionname]` removes individual restricion (see below).   
 
-sit (uuid) - force sit on object with key (uuid)
-unsit - force wearer to stand
-
-rlv list - lists all current restrictions
-rlv add (restriction) - adds individual restriction (see below)
-rlv rem (restriction) - removes individual restricion (see below)
-
-INDIVIDUAL RESTRICTIONS:
-The following individual restrictions can be added or cleared with the above commands, using either the prettified button name for the restriction or its actual internal RLV command. Note that where a command requires a value (such as the camera max distance) it will apply the value that has been set in the relevant configuration menus. For more information on what each command does, consult the RLV API document at https://wiki.secondlife.com/wiki/LSL_Protocol/RestrainedLoveAPI and look up the individual internal command.
+#### INDIVIDUAL RESTRICTIONS:
+The following individual restrictions can be added or cleared with the above commands, using either the prettified button name for the restriction or its actual internal RLV command. Note that where a command requires a value (such as the camera max distance) it will apply the value that has been set in the relevant configuration menus. For more information on what each command does, consult the RLV API document at (https://wiki.secondlife.com/wiki/LSL_Protocol/RestrainedLoveAPI) and look up the individual internal command.   
+>EXAMPLE: "/1 [prefix] rlv add fly"
 
 Button command   =  internal RLV command
 ------------------------------------------------------
@@ -253,15 +255,13 @@ Button command   =  internal RLV command
     Environment    =    setenv
     Mouselook    =    camdistmax:0
     
-EXAMPLE: "/1 (prefix) rlv add fly"
 
-
-[Exceptions stuff -- experts only!]
-rlvex modify owner (val) / rlvex modify trust (val) - sets owner and trust exceptions to (val) where (val) is the bitmask of exceptions
-rlvex modify (custom) (val) - as above but changes custom value
-rlvex listmasks - lists  bitmasks values
-rlvex help  - lists valid commands for changing bitmasks
-rlvex listcustom - lists custom exceptions and their bitmasks
+### Exceptions (Experts only!)
+`rlvex modify owner [value]` / `rlvex modify trust [value]` sets owner and trust exceptions to a value where the value is the bitmask of exceptions.   
+`rlvex modify [custom] [value]` as above but changes custom value.   
+`rlvex listmasks` lists  bitmasks values.   
+`rlvex help`  lists valid commands for changing bitmasks.   
+`rlvex listcustom` lists custom exceptions and their bitmasks.   
 
 
 
