@@ -255,7 +255,6 @@ Button command   =  internal RLV command
     Environment    =    setenv
     Mouselook    =    camdistmax:0
     
-
 ### Exceptions (Experts only!)
 `rlvex modify owner [value]` / `rlvex modify trust [value]` sets owner and trust exceptions to a value where the value is the bitmask of exceptions.   
 `rlvex modify [custom] [value]` as above but changes custom value.   
@@ -263,26 +262,24 @@ Button command   =  internal RLV command
 `rlvex help`  lists valid commands for changing bitmasks.   
 `rlvex listcustom` lists custom exceptions and their bitmasks.   
 
+## APPS
 
+### BELL
+`bell volume [number from 1-10]` sets the bell volume.   
+`bell on` / `bell off` turns the bell on or off.   
+`bell nextsound` changes to the next available bell sound.   
+`bell ring` rings the bell once
+`rm bell` Uninstalls the bell script.
 
-==APPS==
+### BOOKMARKS
+`tp save` opens the dialog to save the current location.   
+`tp save [name]` saves a bookmark of that name to the current location.
+`tp remove` opens the list of bookmarks to remove.
+`tp remove [name]` removes the named bookmark.
+`tp [name]` teleports the wearer to the location of the named bookmark.
+`rm bookmarks` uninstalls the bookmarks app.
 
-BELL
-bell volume (number from 1-10) set bell volume
-bell on / bell off - turn bell on or off
-bell nextsound - changes to next available sound for bell noise
-bell ring - rings the bell once
-rm bell - Uninstall bell script.
-
-BOOKMARKS
-tp save - open dialog to save current location
-tp save (name) - create bookmark called (name) to current location
-tp remove - open list of bookmarks to remove
-tp remove (name) - remove bookmark called (name)
-tp (name) - tp wearer to location of bookmark called (name)
-rm bookmarks - uninstall bookmark app
-
-LABEL/MESHLABEL
+### LABEL/MESHLABEL
 label font - open font picker menu
 label font (name) - set font to (name). Default values are "Andale 1", "Andale 2", "Serif 1", "Serif 2", "LCD".
 label color (vector) - sets label color to (vector) - i.e <1,1,1> for white
