@@ -87,7 +87,7 @@ When you press Runaway menu opens with three options:
 
 # Access List 
 Sends a readout of the list of owners and other access settings to chat.  Available to owner and wearer only.  
-> `[prefix] list`  
+> `[prefix] print auth`  
 
 
 # Block    
