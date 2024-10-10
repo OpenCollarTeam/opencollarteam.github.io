@@ -33,21 +33,13 @@ Button Wright, Frilly Filly Farm
 Pony Play, Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/170/99/90](http://maps.secondlife.com/secondlife/Oraenji/170/99/90)   
 
-Countrycat Furse, Defilers  
-Urban Roleplay  
-[http://maps.secondlife.com/secondlife/Nocht/118/182/1501](http://maps.secondlife.com/secondlife/Nocht/118/182/1501)  
-
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
-[http://maps.secondlife.com/secondlife/Lesser Farnley/88/209/2508](http://maps.secondlife.com/secondlife/Lesser%20Farnley/88/209/2508)  
+[http://maps.secondlife.com/secondlife/Lesser Farnley/12/35/2505](http://maps.secondlife.com/secondlife/Lesser%20Farnley/12/35/2505)  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
-
-Esclados, Geela Island  
-Gorean Roleplay  
-[http://maps.secondlife.com/secondlife/King and Queen/123/185/4094](http://maps.secondlife.com/secondlife/King%20and%20Queen/123/185/4094)  
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
@@ -102,11 +94,7 @@ Club, Shops, Roleplay Areas
 
 pundari, Cellestara Sultinate  
 Arabic Roleplay sim  
-[http://maps.secondlife.com/secondlife/Celestara Sultanate/233/177/22](http://maps.secondlife.com/secondlife/Celestara%20Sultanate/233/177/22)  
-
-Randy Marenwolf, RLV: Reality & Magic In SL  
-RLV Education Center  
-[http://maps.secondlife.com/secondlife/Denholme Field/243/231/57](http://maps.secondlife.com/secondlife/Denholme%20Field/243/231/57)  
+[http://maps.secondlife.com/secondlife/Celestara Sultanate/121/161/23](http://maps.secondlife.com/secondlife/Celestara%20Sultanate/121/161/23)  
 
 River Vortex, Dare to Bare Nude Beach  
 Beach Hangout  
@@ -118,15 +106,11 @@ LGBTQ Friendly BDSM Community, Roleplay, Shops
 
 Serjourn Daxter, Pirandello Bay  
 Shop, BDSM Dungeon & Roleplay  
-[http://maps.secondlife.com/secondlife/Pirandello Bay/221/158/22](http://maps.secondlife.com/secondlife/Pirandello%20Bay/221/158/221)  
+[http://maps.secondlife.com/secondlife/Pirandello Bay/135/135/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/135/135/21)  
 
 Seth Ock, Griseus Farms  
 Human Livestock, Medical Play, & Alien Abductions Roleplay  
 [http://maps.secondlife.com/secondlife/CrAzYToWn/55/206/21](http://maps.secondlife.com/secondlife/CrAzYToWn/55/206/21)  
-
-Shan Bright, Bright Corporation  
-Adult Sandbox & Shop  
-[http://maps.secondlife.com/secondlife/Reanna/44/44/77](http://maps.secondlife.com/secondlife/Reanna/44/44/77)  
 
 Silkie Serenade, K-Bar West  
 Western Themed D/s Roleplay  
@@ -169,14 +153,6 @@ RLV Trap / Furniture Shop & RLV Playground
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
 [http://maps.secondlife.com/secondlife/Xegul/170/62/59](http://maps.secondlife.com/secondlife/Xegul/170/62/59)  
-
-Windrunner Shan, Fusion by the Sea  
-Beach, Sailing, & Blake Sea Access  
-[http://maps.secondlife.com/secondlife/Kasparov/163/207/21](http://maps.secondlife.com/secondlife/Kasparov/163/207/21)  
-
-Yannis Boucher, Fallen Angels BDSM Club  
-BDSM Club  
-[http://maps.secondlife.com/secondlife/Crystal Cove II/78/165/3925](http://maps.secondlife.com/secondlife/Crystal%20Cove%20II/78/165/3925)  
 
 ZenBaby Jewell, South Wind  
 Hangout, Nude Beach & Dance Club  
