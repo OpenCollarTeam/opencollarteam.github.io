@@ -41,6 +41,10 @@ Dolma Dollinger, Latex Fetish Mall
 Shopping Mall  
 [http://maps.secondlife.com/secondlife/Fetish VooDoo/130/92/338](http://maps.secondlife.com/secondlife/Fetish%20VooDoo/130/92/338)  
 
+Elirk Huntsman, Order of Dracul @ House of Huldschinsky  
+Roleplay & Shop  
+[http://maps.secondlife.com/secondlife/Egglebury/125/46/3002](http://maps.secondlife.com/secondlife/Egglebury/125/46/3002)  
+
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
 [http://maps.secondlife.com/secondlife/Caged Elegance/199/130/999](http://maps.secondlife.com/secondlife/Caged%20Elegance/199/130/999)  
@@ -60,7 +64,7 @@ Shop
  
 Jae Avedon, P3 (PLEASURE POWER PASSION)  
 BDSM Sim  
-[http://maps.secondlife.com/secondlife/Pleasure Power Passion/7/98/22](http://maps.secondlife.com/secondlife/Pleasure%20Power%20Passion/7/98/22)  
+[http://maps.secondlife.com/secondlife/Pleasure Power Passion/23/88/22](http://maps.secondlife.com/secondlife/Pleasure%20Power%20Passion/23/88/22)  
 
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
