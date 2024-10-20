@@ -43,7 +43,7 @@ Shopping Mall
 
 Elirk Huntsman, Order of Dracul @ House of Huldschinsky  
 Roleplay & Shop  
-[http://maps.secondlife.com/secondlife/Egglebury/125/46/3002](http://maps.secondlife.com/secondlife/Egglebury/125/46/3002)  
+[http://maps.secondlife.com/secondlife/Egglebury/110/44/3002](http://maps.secondlife.com/secondlife/Egglebury/110/44/3002)  
 
 Gatatem, Caged Elegance  
 BDSM Sim & Club  
@@ -153,6 +153,10 @@ Inworld Playground & Shop
 vincent Weigler, Open Bar L'Overture d'Esprit des Toutes les Formes du BDSM   
 RLV Trap / Furniture Shop & RLV Playground  
 [http://maps.secondlife.com/secondlife/Remember/132/132/3000](http://maps.secondlife.com/secondlife/Remember/132/132/3000)  
+
+VizierPaimon, Kinkiva - BDSM Community  
+Tropical BDSM Club, Games, Dungeons  
+[http://maps.secondlife.com/secondlife/Chimayo Bay/189/120/25](http://maps.secondlife.com/secondlife/Chimayo%20Bay/189/120/25)  
 
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
