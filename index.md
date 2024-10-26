@@ -12,7 +12,7 @@ You can read more about what that means at the [Open Source Initiative](https://
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# CURRENT FULL RELEASE:  OPEN COLLAR V 8.2.3
+# CURRENT FULL RELEASE:  OPEN COLLAR V 8.3
 You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
  
 ## New in OpenCollar V 8:   
