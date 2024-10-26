@@ -2,18 +2,192 @@
 layout: home
 title: OpenCollar Release Notes
 ---
-OpenCollar V 8.2.3 is current. Thanks to many contributors, including Scripters Medea Destiny, Kristen Mynx,Phidoux (Taya Maruti), and Yosty7B3.  Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Ping Duffield, Trinkitz and Omnia (animavenator); and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
+OpenCollar V 8.3 is current. Thanks to many contributors, including Scripters Medea Destiny, Kristen Mynx,Phidoux (Taya Maruti), and Yosty7B3.  Builder/compilers Ping Duffield and ròan (Silkie Sabra); Testers Ping Duffield, Trinkitz and Omnia (animavenator); and many many more who posted issues and pull requests and provided feedback.  Thanks to Medea Destiny for this comprehensive changelog. 
 _______________________________________________________    
+# OpenCollar V 8.3: Changelog
+8.3 has been a while coming, but we hope this one is going to be worth it. It's the biggest update we've done in years and brings a number of tasty new features to OpenCollar as well as a whole host of smaller fixes, bug-squashing, and optimizations. As of 8.3 OC now has a new object interface to allow OC to interact with furniture and devices in new ways, a timer app that allows you to set time locks or trigger any OC function on a time delay and more.
 
-# V 8.2.3 Release:  Changelog  
+OC and PBR (physically-based rendering): OC8.3 does not have support for PBR materials to be added to a collar at this time. That one's on LL. The scripting required to make show/hide functions compatible with PBR is incredibly clunky and inefficient, and potentially breaks content. LL have promised us that they are addressing the issue, but until they've actually done so, OC will not support PBR materials and we strongly advise you NOT to use PBR on collars until we're able to add this update (or LL implements an update that is compatible with current scripting). Doing so WILL break your show/hide functions.
 
+OC and LSD (Linkset Data): We are in the process of transitioning OC to use the Linkset Data functions for storing data in a linkset rather than in script memory. This is a fantastic addition from LL that will eventually mean a significantly faster, more stable, and more capable OC. This represents a fundamental change to the OC architecture, which will take a while to fully implement it. OC9.0 will be the first version of OC to use LSD at its core. However we have a new app in 8.3, oc_timer, which is written using LSD functions and provides a template for how we will be using LSD going forwards. Scripters interested in contributing to the transition of OC to use LSD are urged to study this script.
+
+## New Features
+
+1.  Brand new timer App that allows timers to be set to release restrictions of all sorts, or indeed to add restrictions. Any command or combination of commands can be set to be triggered when the timer expires, so this can be used to release the wearer after a set time, or to execute time-delayed commands. Want to lock someone's attachments and have them released after a certain amount of time? Or leash them to a post and have the collar release them automatically after a set time? Or alternatively give them a couple of hours of freedom before they're teleported home, restricted from teleporting away, and stripped naked? All that's possible now!   An optional hover text countdown will show how long until timer expires. Optional wearer lockout will lock the wearer out of their own collar while the timer is active,  allowing e.g.  the full scope of self-bondage possibilities for self-owned collar wearers. (Created by Medea Destiny)   
+2. Object interface channel reintroduced and expanded. External objects can now access collar functions with the auth level of the object owner, or optionally the auth level of the object USER if it is equal or lower than the object owner. This will allow for OC powered furniture and devices similar to those that use an RLV relay, except using OpenCollar's own auth functionality, and allowing access to all OC functions not just RLV ones, such as posing and leashing. A new Grabby Post has been created using this feature, as well as a more advanced, menu-powered Smart Post that can pick a target from a menu, leash them, pose them, and add restrictions. The script for the Smart Post is heavily commented to act as an example device for creators to make their own devices. (Created by Medea Destiny)   
+3. New improved bell sounds. (Provided by Trix7125)   
+4. Improved Runaway handling, # prefix (similar to * to target all collars in range but excluding command issuer's own collar) restored & numerous internal optimizations (provided by Nikki Lacrima)   
+5. Optional partner-controlled permission system for couple anims that will remove the need to accept animation permission when receiving a couple animation from a compatible device. This will be built into the next version of the owner hud soon, which means that if an owner orders their sub to hug them, they won't have to additionally accept the permission.  (Created by Rosalyn Russell)   
+6. Extended chat handling of individual RLV restrictions now allows all restrictions to be added by chat commands using the standard RLV expression as well as by button name, and button names no longer require matching capitalization   
+7. Stand offset checkbox added to anim menu, so that hover height will only offset stand poses (i.e. no animation is being played) when selected.   
+8. When strict mode is active, leash holders may now force tp leashees even if they don't have a forcetp exception set by default.   
+9. Extended Lockguard compatibility (provided by Nikki Lacrima)   
+10. Updated help notecard with more basic information about the collar functions, and a much expanded list of chat commands, covering almost every available chat command in OC. (Medea Destiny and Trinkitz Resident)   
+   
+These are the things you'll notice. Behind the scenes we also have numerous small bug fixes, optimizations to improve the speed and memory use of the collar, and smaller fixes for things you probably didn't notice but some people do. For a full listing of changes since 8.2.3, see the per-script changes below. Notably we have refactored runaway, safeword, name and device name changing commands, restored the # prefix (everyone but me) function, streamlined menu handling, reduced link message overhead for chat commands, added owner ability to instantly end capture, fixed the issue with stack/heap collisions in dialog caused by Linden Lab increasing the amount of data sensors return, clear clothing locks on RLV Clear, fixed the stray restriction and more.
+## Contributors
+SPECIAL THANKS TO: Medea Destiny, who knows more about the collar code than anyone else and did a lot of work on 8.3; Nikki Lacrima who has done great work implementing a lot of important optimizations under the hood, unglamorous but vital work that might not grab the attention as much as adding fancy new features, but makes everyone's experience with OC better. Also to our core testing team (Ping, Omnia, Trinkitz, Roan) for their hard work on an update that had a lot to test.   
+
+Code: Ping Duffield, Medea Destiny, Nikki Lacrima, Yosty7B3, Rosalyn Russell, Neil2Ball, Sue Cripter, Tayaphidoux, Phuk, Trix7125, AdmiralTails   
+
+Testing & beta bugspotting: Kristina Hearts, Ping Duffield, Trinkitz Resident, Yshida, Omnia, Roan, Arcadia Ansar, lilly & grace Russell, puddle, Tania Uzz, Kasumi, Drakonadrgora Darkfold, Clover Starlight & Bria, Surssin and TotallyIn Corrigible, Leila Green, Scottie Muircastle.   
+
+Admin: Roan, Ping Duffield, Medea Destiny   
+
+Last but not least every one of you who submitted a bug report or feature request. We can't do this without you.   
+
+## Per-script changes
+
+* oc_addons    
+
+Ping (pingout.duffield)   
+> April 2024            -  Fix at Initial Handshake to disregard any nearby rezzed collar. Ref Issue #1038
+   
+* oc_anim   
+
+Medea (Medea Destiny)
+> Nov 2023    - Added StandOffset checkbox button to Anim menu. This toggles use of hover height offset when no pose is selected (i.e. for stand animation). This has been a frequent
+                problem in support, with people accidentally setting a stand offset. However as some people may use this it seemed better to keep the capability but have it switchable and default to off. Issue #1012
+                
+* oc_api
+    *  Nikki Lacrima
+    > * Aug 2023   Clear group on runaway issue #935     
+    > * Nov 2023   Only wearer can initiate and confirm runaway, add link message "runaway_confirmed" and remove the g_iRunawayMode. 
+    > * Add "#" prefix wildcard, issue #897
+    > * implemented Yosty7b3's menu streamlining, see pr#963    
+    * Medea (Medea Destiny)
+    > * Nov 2023    Reformatted chat command handling for efficiency. Chat commands no longer sent as CMD_ZERO for authing as this script handles auth so we can auth locally to save a link_message round trip on every chat command. 
+    > * Restored object command handling as per v7.x and previous, using interface channel rather than HUDchannel as there seems no reason to duplicate and hudchannel stuff hasn't  worked for a few years anyway.
+    > * Added remote auth function - llSay(g_iInterfaceChannel,"checkauth 1111"); will return "AuthReply|(wearerkey)|(auth level)" on channel 1111, reporting the auth level of the object owner. Commands can be prefixed with"authas:(userkey)=", which will use the LOWER auth level between object owner and userkey.   
+Commmand format is targetkey:chat command. Examples:  
+                   > authas:(userkey)=(targetkey):kneel" - will issue kneel command if (userkey) and object owner
+                    both have valid auth   
+                    > "(targetkey):sit (sittarget key)" - sit wearer on (sittarget key) if object owner has validauth   
+    > * menuto cleanup requires menuto target to be in sim AND be the owner of the issuing command
+    > * Set g_iStartup to TRUE in active state on_rez event to restore "owned by" message #906  
+    > * May 2024   Implemented wearerlockout for timer app and future rework of capture app, as well as future options for self-bondage, excluding wearer from all collar access etc. This uses Linkset data, the token being 'auth_WearerLockout". Any script that initiates a lockout should add its script name (excluding the "oc_" part to a comma-separated list, and remove itself from that list when removing, so that multiple scripts can apply this without interfering with each other.  When llLinksetDataRead("auth_WearerLocout") does not return an empty string, the only thing the wearer can do is safeword, which will deactivate it.  Any attempt to trigger a menu/command will send the AUTH_WEARERLOCKOUT Link message. Any script setting a wearer lockout should respond to this with a status update.  
+    > * Sept 2024  -  Added rejection of interface channel commands from temp-attached objects
+                    
+* oc_bell   
+Trix7125   
+> * Feb 2024 - New bell sounds with normalized volumes   
+AdmiralTails
+> * Aug 2023 - Ringing of bell dependent on On status, not Hidden status, as menu states.
+* oc_bookmarks   
+Medea Destiny   
+> * Aug 2024   -   Fix for above, escaping sim name with spaces, issue #1026
+* oc_capture  
+Ping (Pingout Duffield), Nikki Lacrima   
+> * July 2023     - Owner ability to end Capture, Prevent BLOCKED from using Capture
+* oc_core   
+    * Medea Destiny   
+    > * Oct 2023    -   Refactor of safeword function in usercommand. 'Safeword off' now no longer sets safeword to 'off' before disabling, resulting in confusing "Safeword is now set to 'off'" message. Instead safeword off is clearly notified. Wearer can now set their own safeword, but only owners can disable it still. See issue # 986. Attempting to access safeword without permission now gives no access response. 
+    > * Provide no access notification for device name, and allow non-owner wearer to name. Notify wearer as well when another person changes device name. See issue # 987 
+    > * Jul 2024   Further work on above safeword stuff, see PR #999 
+    > * added delay after name change to ensure report is correct and added clarification text hereand in device name. Issue #1053   
+    * Yosty7B3   
+    > * Aug 2023    -   Combine all menu functions into the Dialog function to save memory.   
+  
+* oc_couples
+Rosalyn (RosalynRussell)
+> * Apr 2024   -   Added optional partner controlled couples pose system to remove legacy ask box if initiator is trusted   
+* oc_detach   
+Medea (Medea Destiny)
+>  Nov 2023     Fix to ignore case (i.e either "menu detach" or "menu Detach") issue #875  
+* oc_dialog   
+    * Medea Destiny    
+        > * Mar 2024  - Emergency fix for extended sensor function flooding memory and crashing script
+    * Nikki Lacrima   
+         > * Aug 2023 - Changed functions for clearing auth so  auth doesn't persist for open menus
+         > * Sep 2024  - Invalidate all menus except wearer when public mode is turned off
+    
+* oc_folders
+Neil2Ball & Sue Cripter - Fix for OpenSim, replacing invalid return r(); with {r(); return}    
+* oc_folders_locks UNCHANGED   
+* oc_label UNCHANGED   
+* oc_leash   
+ Medea (medea.destiny)  
+    > * Nov 2023    -   Added EXC_REFRESH call after releasing strict leashto ensure that exceptions that should be in place get restored. issue #1008
+    > * Aug 2024    -   Uses the above feature to add an accepttp function to strict leash, so that the leash wearer. Notification now sent to both leashee and leasher when leash is grabbed while strict mode is active, informing them of restrictions/exceptions.
+    > *  Refactored timer event to fix bypassed awaycounter functionality so that the strict leash restrictions do not instantly get removed when leash holder is absent. Time buffer now functions as intended and is extended from 15 to 60 seconds to give leash holder time after a  teleport to send leashee a tp lure.    
+Nikki Larima    
+    > *  Nov 2023    - Remove processing of "runaway" command string, handled by CMD_SAFEWORD implemented Yosty7b3's menu streamlining, see pr#963   
+      
+* oc_meshlabel
+Ping (Pingout Duffield) 
+    > * Aug 2023 - Revise visibility when collar is hidden Ref Issue #932
+
+* oc_outfits
+    * Phidoux (Taya Maruti)
+        > * Mar 2023       - Fixed lock issues with "~" and some navigation errors. (issue #910)
+        > * June 2023      - Fixed Lock issue kAv instead of kID on the button check.
+        > * June 20 2023   - Fixed Stray ~ that was causing detach to not work.   
+    * Medea (Medea Destiny)   
+        > * Nov 2023        - Fix for #902 (kAV instead of kID on button check) was not complete, No Access notify also changed to kAV
+* oc_particle   
+ Nikki Lacrima   
+    > * Aug 2023: Updated for lockguard chain texture
+    > * Sept 2024: Fix setting name for leash length
+* oc_presets UNCHANGED
+* oc_relay
+Nikki Lacrima   
+    > * Nov 2023   - Remove extra CMD_SAFEWORD to CMD_RELAY_SAFEWORD processing
+    > * implemented Yosty7b3's menu streamlining, see pr#963  
+* oc_resizer UNCHANGED              
+* oc_rlvextension  
+ Medea Destiny  
+    > * Nov 2023   -   Added EXC_REFRESH link message capability to request all exceptions are refreshed. This to fix real leash temporary exception removing permanent exception, but likely to find other uses. This is less optimal than having a way to refresh individual exceptions, or even better having this script handle multiple source exceptions the way rlv_sys handles restrictions. However that's something to consider for 9.x where linkset data can reduce memory load, this one's already very tight. Issue #1008
+    > * folded bool() function into checkbox() function with (iValue&1) and strReplace() into MuffleText() to save memory                    
+* oc_rlvsuite   
+    * Medea Destiny
+        > * April 2023  -   #947 Fix stray restriction to apply sittp rather than sit restriction                    
+        > * Nov 2023  -   Chat command for applying restrictions had problems -- if the restriction itself is given rather than the button name, it would break. Added sanity check to ApplyCommand function, index of g_lRLVList is now checked to see if it gets an RLVCMD and if so converts to index  of ButtonText, and returns if hit is CategoryIndex. Ensure the full command is fed to ApplyCommand, not just the first word -- ie (prefix) restriction add "TP Location" shouldn't attempt to add just "TP". NOTE: This fix will also allow presets with a space in the name to be accessed properly. 
+        > * Changed filtering in UserCommand so that capitalization does not have to match (i.e it will accept "Preset" as well as "preset". Now also passes rlv as a synonym for setting restrictions which was coded but rejected before hit, but filters to only pass to ApplyCommand if there is a command following that is not "on" or "off" to avoid collision with RLV menu
+        > * Removed double menu for (prefix) restrictions
+        > * Jun 2024  -   Extended chat command function above to allow for capitalization of individual restriction names.    
+    * Nikki Lacrima   
+        > * Sept 2024 -   Remove superflous llOwnerSay commands and replace g_lMenuIDs (Yosty patch PR #963)      
+* oc_rlvsys UNCHANGED
+* oc_settings UNCHANGED
+* oc_states UNCHANGED
+* oc_themes UNCHANGED
+* oc_titler   
+Medea Destiny
+    > * Sept 2023  Zero length titles via chat commands (i.e [prefix]title) were returning "title" as a title rather than opening the textbox as intended.  
+* oc_timer   
+    * Medea (Medea Destiny)   
+    > * May 2024   -   Created script 
+   * Ping (Pingout Duffield)
+    > Jul 2024   -   Fixed typos in variable %WEARER% -> %WEARERNAME%  
+* oc_undress
+ Medea Destiny   
+   > * Dec 2023     - Clothing locks now get cleared on RLV_CLEAR/Safeword function.
+* oc_spy   
+ Nikki Lacrima (Nov 2023)   
+  > * Check for empty owner list, replaces faulty "runaway" check.
+* oc_badwords   
+  Phuk   
+  > * May 2023 - Reset script on owner change
+
+* oc_leash_on_Collision (Grabbypost 2.0)
+  Medea Destiny
+  > * May 2024 - created script
+    
+* oc_smartpost (Grabbypost 2.0)
+  Medea Destiny
+  * > May 2024 - created script
+    
+## Installer functions*
+* oc_installer_sys
+Medea Destiny - changed whisper to Owner Say to avoid local chat spam
+# Previous Releases   
+## V 8.2.3 Release:  Changelog  
 ## Summary
 The biggest changes that are noticeable to the user or fix a major issue:  
 1) **ADDONS** is less verbose and does not send false disconnect messages.  
 2) **WEARER TRUSTED ACCESS** Fixes loophole where adding wearer to Trusted removed abilities not available to Trusted.  
 3) **Outfits** is now more compatible with RLV Viewers as well as RLVa.
 4) **Exceptions** are no longer cleared by traps or Clear All. This fixes the Force Teleport exception failure.
-
 ## Complete Changelog 
 
 ## ---COLLAR---  
@@ -136,7 +310,7 @@ The biggest changes that are noticeable to the user or fix a major issue:
     
     CHANGES: Fixed typo
     
-## INSTALLER  
+### INSTALLER  
     Scripter:  Medea Destiny.
     
 1) Updated Installer to use "keep" instead of "skip" for retaining optional scripts. 
@@ -145,11 +319,9 @@ The biggest changes that are noticeable to the user or fix a major issue:
     
 # V 8.2.2 Release:  Changelog
 
-## Summary
+### Summary
 
-In this release a mistake was made compiling the updater that was distributed to the groups, so that most of the scripts were still 8.2.1 although labeled 8.2.2.  When the error was  discovered, it necessitated another version change to avoid confusion, resulting in 8.2.3.     
-
-# Previous Releases  
+In this release a mistake was made compiling the updater that was distributed to the groups, so that most of the scripts were still 8.2.1 although labeled 8.2.2.  When the error was  discovered, it necessitated another version change to avoid confusion, resulting in 8.2.3.      
 
 ## V 8.2.1 Release: Changelong 
 
