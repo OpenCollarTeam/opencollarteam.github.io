@@ -67,6 +67,7 @@ An owner can allow the wearer to set and unset Trusted even if they are not also
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
+**Note** the chat commands for toggling public mode on and off are currently not working -- see [Issue 1109](https://github.com/OpenCollarTeam/OpenCollar/issues/1109)
 >`[prefix] public on`  
 >`[prefix] public off`  
 >`[prefix] limit range on/off` : limits range for public access.  
