@@ -67,7 +67,7 @@ An owner can allow the wearer to set and unset Trusted even if they are not also
 
 # Public
 Checking Public gives anyone limited access to your collar, including the leash, animations, bookmarks and force sit.  
-**Note** the chat commands for toggling public mode on and off are currently not working -- see [Issue 1109](https://github.com/OpenCollarTeam/OpenCollar/issues/1109)
+**Note** the chat commands for toggling public mode on and off are currently not working -- see [Issue 1109](https://github.com/OpenCollarTeam/OpenCollar/issues/1109)   
 >`[prefix] public on`  
 >`[prefix] public off`  
 >`[prefix] limit range on/off` : limits range for public access.  
@@ -75,6 +75,7 @@ Checking Public gives anyone limited access to your collar, including the leash,
 
 # Group  
 To set Group, first activate the desired group, then check Group in the Access menu.  Group members with the group active will then have public / trusted level access.  NOTE the collar restricts activating a different group if the wearer has group access checked.  To change groups, first uncheck group access. Then activate a different group.  
+**Note** the chat commands for toggling group mode on and off are currently not working -- see [Issue 1109](https://github.com/OpenCollarTeam/OpenCollar/issues/1109)   
 > `[prefix] group on`  
 >`[prefix] group off`  
 >`auth=group~[groupuuid]~groupname~[groupname]`
