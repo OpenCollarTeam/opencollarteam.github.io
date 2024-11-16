@@ -29,6 +29,10 @@ Bagnu, Sandy Island Resort
 The DeathSex Art Gallery: Erotic and non-Erotic art.  
 [http://maps.secondlife.com/secondlife/Dreamworld Ibis/45/154/23](http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/45/154/23)  
 
+blackdelon, infinite adult animation  
+Shop  
+[http://maps.secondlife.com/secondlife/Woobin/87/130/50](http://maps.secondlife.com/secondlife/Woobin/87/130/50)  
+
 Button Wright, Frilly Filly Farm   
 Pony Play, Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/170/99/90](http://maps.secondlife.com/secondlife/Oraenji/170/99/90)   
@@ -156,7 +160,7 @@ RLV Trap / Furniture Shop & RLV Playground
 
 VizierPaimon, Kinkiva - BDSM Community  
 Tropical BDSM Club, Games, Dungeons  
-[http://maps.secondlife.com/secondlife/Chimayo Bay/189/120/25](http://maps.secondlife.com/secondlife/Chimayo%20Bay/189/120/25)  
+[http://maps.secondlife.com/secondlife/Chimayo Bay/244/125/25](http://maps.secondlife.com/secondlife/Chimayo%20Bay/244/125/25)  
 
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
