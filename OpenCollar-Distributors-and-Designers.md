@@ -132,11 +132,6 @@ Skye Winchester, Passion Bay
 Newcomer friendly welcome area and Adult Beach   
 [http://maps.secondlife.com/secondlife/Passion/34/192/34](http://maps.secondlife.com/secondlife/Passion/34/192/340)   
 
-Sue Feiri, Freebie Galaxie      
-Freebie Shops Noob Friendly  
-[http://maps.secondlife.com/secondlife/Ibiza/54/85/16](http://maps.secondlife.com/secondlife/Ibiza/54/85/16)   
-**Advisory:** Land on the first floor and walk to the middle to reach the vendor.   
-
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
