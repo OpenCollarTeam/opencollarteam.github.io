@@ -276,7 +276,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/SLAM/57/191/28](http://maps
 Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
 
 STI Workshop (Brampton Beaumont)   
-Collara and Matching Cuffs - 200L   
+Collars and Matching Cuffs - 200L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
 Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
@@ -346,7 +346,7 @@ Inworld Shop:  [http://maps.secondlife.com/secondlife/Amare/47/34/631](http://ma
 Marketplace:  [https://marketplace.secondlife.com/en-US/stores/48263](https://marketplace.secondlife.com/en-US/stores/48263)   
 
 STI Workshop (Brampton Beaumont)   
-Collara and Matching Cuffs - 200L   
+Collars and Matching Cuffs - 200L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
 Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
