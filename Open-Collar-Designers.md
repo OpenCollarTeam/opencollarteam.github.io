@@ -276,7 +276,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/SLAM/57/191/28](http://maps
 Marketplace: [https://marketplace.secondlife.com/stores/219071](https://marketplace.secondlife.com/stores/219071)  
 
 STI Workshop (Brampton Beaumont)   
-Wildflower Collar - 200L   
+Collara and Matching Cuffs - 200L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
 Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
@@ -336,7 +336,7 @@ Apps and Addons
 Marketplace:  [https://marketplace.secondlife.com/stores/180362](https://marketplace.secondlife.com/stores/180362)  
 
 Ping's Designs   
-Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
+Medieval themed Mesh Collars, Cuffs, Restraints, & Furniture 50L - 99L  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
 Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
 
@@ -344,6 +344,11 @@ PsiCorp (Psistorm Voxel)
 Original Mesh Collars and Cuffs sets with PBR Materials  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Amare/47/34/631](http://maps.secondlife.com/secondlife/Amare/47/34/631)   
 Marketplace:  [https://marketplace.secondlife.com/en-US/stores/48263](https://marketplace.secondlife.com/en-US/stores/48263)   
+
+STI Workshop (Brampton Beaumont)   
+Collara and Matching Cuffs - 200L   
+Inworld Shop: [http://maps.secondlife.com/secondlife/Huk/234/107/2001](http://maps.secondlife.com/secondlife/Huk/234/107/2001)   
+Marketplace: [https://marketplace.secondlife.com/stores/12205](https://marketplace.secondlife.com/stores/12205)   
 
 
 # Application
