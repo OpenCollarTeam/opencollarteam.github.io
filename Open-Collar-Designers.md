@@ -369,13 +369,13 @@ To qualify as an OpenCollar Official Design Partner, collar designers agree to t
 --Benefits
 
 1. All the above benefits to Distributors plus:  
-2. The right to use the OpenCollar Official Partner graphic on your complying products.  **Please contact Silkie Sabra inworld with proof of your updated OpenCollar scripted device to receive the textures.**
+2. The right to use the OpenCollar Official Partner graphic on your complying products.  **Please contact Silkie Serenade inworld with proof of your updated OpenCollar scripted device to receive the textures.**
 3. Your Marketplace URL listed on the Official Design Partners page.  
 4. The right to use the "OpenCollar Official Partner" name in the descriptions of your complying products on the Second Life Marketplace.  
 
 OPENCOLLAR DESIGN PARTNER APPLICATION
 
-If you would like to sign up for the Official Design Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below. Then pass it to Silkie Serenade or Skyler Pancake, OpenCollar Partner Coordinators.
+If you would like to sign up for the Official Design Partners program, please append your avatar name to this notecard's name (ie, "OpenCollar Official Partners - Somebody Resident"), and fill out the form below. Then pass it to Silkie Serenade, OpenCollar Partner Coordinators.
 
 Inworld Shop SLURL:   
 
