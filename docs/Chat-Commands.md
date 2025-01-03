@@ -142,7 +142,7 @@ timer / menu timer  calls the timer menu in APps
 
 #### Folders
 `-[foldername]` removes first #RLV folder found with the name that matches the command name.  Buttons in RLV > Folders.   
-`--[foldername] removes first #RLV folder found  with the matching name and all its subfolders.   
+`--[foldername]` removes first #RLV folder found  with the matching name and all its subfolders.   
 `&[foldername]` Adds first #RLV folder found with the matching name.   
 `&&[foldername]` Adds first #RLV folder found with the matching name and its subfolders.    
 `+[foldername]` Wears first #RLV folder found with the matching name.    
@@ -150,7 +150,7 @@ timer / menu timer  calls the timer menu in APps
 
 #### Outfits
 `wear` opens list of outfits to wear. Corresponds to Browse button in Outfits.   
-`wear` [outfitname]` wears outfit with the matching name   
+`wear [outfitname]` wears outfit with the matching name   
 `naked` removes all contents of outfits folders except for contents of core folder (and everything outside .core if strip all mode is on)   
 #### Other Apps
 `undress lock [systemlayername]` locks a system clothing layer by the name of the layer, for instance, shirt, undershirt, etc.   
