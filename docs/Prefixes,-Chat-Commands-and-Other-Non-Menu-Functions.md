@@ -5,7 +5,7 @@ title: Prefixes, Chat Commands and Other non-Menu Functions
 
 # Using Chat Commands
 **see also** [Complete List of Chat Commands](/docs/Chat-Commands.md)    
-In Second Life, the local chat line is also the line used for scripting calls. Any channel number can be used; the channel that is visible as local chat is channel 0 and is used by default.  Channel 1 is also turned on by default.  OpenCollar calls include a prefix to direct the call, plus the call name. To call a menu directly, you can use the chat command with your prefix plus the menu name: 
+In Second Life, the local chat line is also the channel used for scripting calls. Calls are sent on channels.  Any channel number can be used; the channel that is visible as local chat is channel 0 and is used in the collar by default.  Channel 1 is also turned on by default.  You can change these settings.  OpenCollar calls include a prefix to direct the call, plus the call name. To call a menu directly, you can use the chat command with your prefix plus the menu name: 
 
 > [prefix] menu : calls the main menu in local chat.
 > /1 [prefix] menu : calls the main menu on channel 1.
@@ -38,15 +38,15 @@ Please use this with care.  Just because someone is set to public or group acces
 
 ## Channel
 
-The Channel number can also be changed this way (owner access only).To change the channel number, type
+The Channel number can also be changed this way (owner access only).  To change the channel number, type
 
-> [prefix] channel [new number] or for instance:  jo channel 3   
+> `[prefix] channel [new number]` or for instance:  jo channel 3   
 
 Public chat is channel 0.  You can turn this off so the collar doesn't listen to chat commands in local chat.  Go to Settings and uncheck Listen 0.  
 **Note** It is advisable to turn off channel 0 to reduce script time!
 
 > [prefix] channel 0 : enables the collar to listen to commands in local chat.  
-> [prefix] channel -1 : disables the collar from listening to commands in local chat.
+> [prefix] channel -0 : disables the collar from listening to commands in local chat.
 
 # Safeword
 The collar safeword is a powerful global tool that will revoke all collar settings and return the collar to default, with the exception of the lock, the weld feature, the access list, and the relay settings.  It will release you from traps set through the relay.  If you don't want all your settings changed when you are trapped through the relay, use the relay safeword button instead (see Relay).
