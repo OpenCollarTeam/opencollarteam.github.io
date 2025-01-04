@@ -38,7 +38,7 @@ OpenCollar uses a modular architecture. There is a set of core scripts required 
 * [Remote](/docs/Remote)
 * [Weld](/docs/Weld)
 * [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions)
-* [Complete List of Chat Commands](/docs/Chat-Commands)   
+* [Complete List of Chat Commands](docs/Chat-Commands.md)   
 
 ## Build Your Own Collar   
 * [How to Update](/docs/How-To-Update-Your-OpenCollar)
