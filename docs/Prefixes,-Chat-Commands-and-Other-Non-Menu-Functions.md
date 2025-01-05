@@ -4,7 +4,7 @@ title: Prefixes, Chat Commands and Other non-Menu Functions
 ---
 
 # Using Chat Commands
-**see also** [Complete List of Chat Commands](/docs/Chat-Commands.md)    
+**see also** [Complete List of Chat Commands](/docs/Chat-Commands)    
 In Second Life, the local chat line is also the channel used for scripting calls. Calls are sent on channels.  Any channel number can be used; the channel that is visible as local chat is channel 0 and is used in the collar by default.  Channel 1 is also turned on by default.  You can change these settings.  OpenCollar calls include a prefix to direct the call, plus the call name. To call a menu directly, you can use the chat command with your prefix plus the menu name: 
 
 > [prefix] menu : calls the main menu in local chat.
