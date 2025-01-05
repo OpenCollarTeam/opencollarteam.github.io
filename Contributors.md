@@ -189,7 +189,7 @@ Contributors after the two founders, Nandana Singh and Athaliah Opus, are listed
 
 This is a list of people who have helped us in some way. They are listed in no order.
 
-   Master Huldschinsky (retired but using silentwar Resident now)  
+   Master Huldschinsky (retired but using Elirk Huntsman now)  
    Heather Calamity  
    AndreaGabriela Reggiane  
    Marine Kelley  
