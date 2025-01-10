@@ -21,6 +21,10 @@ Aisha Marshdevil, Rubber Kingdom
 Club and Roleplay Community   
 [http://maps.secondlife.com/secondlife/Rubber Kingdom/230/202/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/230/202/21)   
 
+AppleCinnamon Blackheart, The Crazy Cow Creamery  
+Muffin's Milker Milking Creamery  
+[http://maps.secondlife.com/secondlife/Xtreme/10/177/21](http://maps.secondlife.com/secondlife/Xtreme/10/177/21)  
+
 AussiePaul, Aussie's Artifacts  
 Shop and Maternity Roleplay  
 [http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
