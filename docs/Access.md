@@ -96,5 +96,5 @@ Sends a readout of the list of owners and other access settings to chat.  Availa
 This allows the collar only to block named avatars from using the collar.  Use sparingly since this also adds to the memory consumption of the script.  
 
 >Add to the Blocklist: `[prefix] add block [UUID]`  
->Remove from the Blocklist: `[prefix] rm block [UUID]`
+>Remove from the Blocklist: `[prefix] rem block [UUID]`
 >Add to Settings: `auth=block~<UUID>`
