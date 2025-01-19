@@ -11,6 +11,11 @@ Aaliyah's Legacy Shop (Alexus Jupiter)
 Gorean Style Collars 350L   
 Marketplace: [https://marketplace.secondlife.com/stores/244025](https://marketplace.secondlife.com/stores/244025)   
 
+ABYSSAL (Abyss Artful)   
+Fetish, bold and fantasy style Collars 250-349L   
+Inworld Shop:  [https://maps.secondlife.com/secondlife/Bahia%20Solano/39/216/1701](https://maps.secondlife.com/secondlife/Bahia%20Solano/39/216/1701)   
+Marketplace:  [https://marketplace.secondlife.com/en-US/stores/251407](https://marketplace.secondlife.com/en-US/stores/251407)   
+
 Accents Design (Cynianne Hellershanks)   
 Mesh Collars & Jewelry - 199L+  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Dangerous Curves/156/131/333](http://maps.secondlife.com/secondlife/Dangerous%20Curves/156/131/333)  
