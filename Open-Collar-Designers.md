@@ -184,7 +184,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/207943](https://marketpl
 
 MATRIARCH (Beautifull Vyper)  
 Mesh Collars, Restraints, Toys, & Accessories - 399L+  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Ping/140/128/222](http://maps.secondlife.com/secondlife/Ping/140/128/22)  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Tsuma/70/128/23](http://maps.secondlife.com/secondlife/Tsuma/70/128/23)     
 Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketplace.secondlife.com/stores/202671)  
 
 MKF (Modern Kink Fashion) (blackangelchris)  
