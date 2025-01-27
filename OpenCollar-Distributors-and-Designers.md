@@ -67,6 +67,10 @@ River Vortex, Dare to Bare Nude Beach
 Beach Hangout  
 [http://maps.secondlife.com/secondlife/The Vortex Playground/189/31/22](http://maps.secondlife.com/secondlife/The%20Vortex%20Playground/189/31/22)    
 
+Sabina Riederer, Blackrose Castle   
+BDSM Roleplay  
+http://maps.secondlife.com/secondlife/Blackrose%20Castle/146/12/23    
+
 Silkie Serenade, K-Bar West  
 Western Themed D/s Roleplay  
 [http://maps.secondlife.com/secondlife/KBar West/59/121/24](http://maps.secondlife.com/secondlife/KBar%20West/59/121/24)  
