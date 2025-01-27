@@ -45,6 +45,10 @@ HaydenPryce, Xaara
 D/s Community, Art Gallery & Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)   
 
+Hectic1, HEC   
+Shop: Hot Quality Mesh Fashion   
+http://maps.secondlife.com/secondlife/Vashti%20Island/75/27/2002   
+
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
 [http://maps.secondlife.com/secondlife/Mostly Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
