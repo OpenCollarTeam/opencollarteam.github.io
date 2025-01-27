@@ -54,6 +54,10 @@ Slave Auction & Matching Service
 [http://maps.secondlife.com/secondlife/Mostly Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
 **Advisory:** The Vendor is about 20m west of the landing point around a corner.  
 
+Lady Harcassle, Shades of Emotions   
+Lesbian BDSM Club   
+http://maps.secondlife.com/secondlife/Damone%20Estates/198/198/21 
+
 LinnaeaBorealis, Terra Catena    
 BDSM & D/s roleplay  
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
