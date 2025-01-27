@@ -25,21 +25,9 @@ AppleCinnamon Blackheart, The Crazy Cow Creamery
 Muffin's Milker Milking Creamery  
 [http://maps.secondlife.com/secondlife/Xtreme/10/177/21](http://maps.secondlife.com/secondlife/Xtreme/10/177/21)  
 
-AussiePaul, Aussie's Artifacts  
-Shop and Maternity Roleplay  
-[http://maps.secondlife.com/secondlife/Odie/251/211/31](http://maps.secondlife.com/secondlife/Odie/251/211/31)      
-
-Bagnu, Sandy Island Resort  
-The DeathSex Art Gallery: Erotic and non-Erotic art.  
-[http://maps.secondlife.com/secondlife/Dreamworld Ibis/45/154/23](http://maps.secondlife.com/secondlife/Dreamworld%20Ibis/45/154/23)  
-
 blackdelon, infinite adult animation  
 Shop  
 [http://maps.secondlife.com/secondlife/Woobin/87/130/50](http://maps.secondlife.com/secondlife/Woobin/87/130/50)  
-
-Button Wright, Frilly Filly Farm   
-Pony Play, Tack Shop   
-[http://maps.secondlife.com/secondlife/Oraenji/170/99/90](http://maps.secondlife.com/secondlife/Oraenji/170/99/90)   
 
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
@@ -53,76 +41,27 @@ Elirk Huntsman, Order of Dracul @ House of Huldschinsky
 Roleplay & Shop  
 [http://maps.secondlife.com/secondlife/Egglebury/110/44/3002](http://maps.secondlife.com/secondlife/Egglebury/110/44/3002)  
 
-Gatatem, Caged Elegance  
-BDSM Sim & Club  
-[http://maps.secondlife.com/secondlife/Caged Elegance/199/130/999](http://maps.secondlife.com/secondlife/Caged%20Elegance/199/130/999)  
-
-girlymp, Poppy's Hangout  
-Playground  
-[http://maps.secondlife.com/secondlife/Horizon Island/123/78/24](http://maps.secondlife.com/secondlife/Horizon%20Island/123/78/24)  
-
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
-[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)  
-
-Hectic1, HEC (Hot Elegant Clothing)   
-Shop   
-[http://maps.secondlife.com/secondlife/Vashti Island/78/27/2001](http://maps.secondlife.com/secondlife/Vashti%20Island/78/27/2001)   
-**Advisory:** Walk South 65m, following the beacon from the fixed landing point.  
- 
-Jae Avedon, P3 (PLEASURE POWER PASSION)  
-BDSM Sim  
-[http://maps.secondlife.com/secondlife/Pleasure Power Passion/23/88/22](http://maps.secondlife.com/secondlife/Pleasure%20Power%20Passion/23/88/22)  
+[http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)   
 
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
 [http://maps.secondlife.com/secondlife/Mostly Beatrice/111/220/67](http://maps.secondlife.com/secondlife/Mostly%20Beatrice/111/220/67)  
 **Advisory:** The Vendor is about 20m west of the landing point around a corner.  
 
-KlewTea Rhapsody, Sprockets & Whip  
-Female Focused BDSM Community, Multiple Roleplay Settings  
-[http://maps.secondlife.com/secondlife/Sprockets/109/140/3505](http://maps.secondlife.com/secondlife/Sprockets/109/140/3505)  
-
-Kittin Ninetails, Ninetails  
-Shop  
-[http://maps.secondlife.com/secondlife/Images of Love/225/50/32](http://maps.secondlife.com/secondlife/Images%20of%20Love/225/50/32)  
-
-Lady Harcassle, Shades of Emotions  
-BDSM Themed Nightclub  
-[http://maps.secondlife.com/secondlife/Damone Estates/195/200/21](http://maps.secondlife.com/secondlife/Damone%20Estates/195/200/21)  
-
 LinnaeaBorealis, Terra Catena    
 BDSM & D/s roleplay  
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
 **Advisory:** Enter the manor, then turn right to the library.  
 
-Outlaw Ninetails, Outlaw's Haven  
-Adult RLV playground  
-[http://maps.secondlife.com/secondlife/Lorcrest Falls/240/106/25](http://maps.secondlife.com/secondlife/Lorcrest%20Falls/240/106/25)  
-
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
 
-pundari, Cellestara Sultinate  
-Arabic Roleplay sim  
-[http://maps.secondlife.com/secondlife/Celestara Sultanate/121/161/23](http://maps.secondlife.com/secondlife/Celestara%20Sultanate/121/161/23)  
-
 River Vortex, Dare to Bare Nude Beach  
 Beach Hangout  
-[http://maps.secondlife.com/secondlife/The Vortex Playground/189/31/22](http://maps.secondlife.com/secondlife/The%20Vortex%20Playground/189/31/22)  
-
-Sabina Riederer, Blackrose Castle   
-LGBTQ Friendly BDSM Community, Roleplay, Shops   
-[http://maps.secondlife.com/secondlife/Blackrose Castle/140/17/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/140/17/23)   
-
-Serjourn Daxter, Pirandello Bay  
-Shop, BDSM Dungeon & Roleplay  
-[http://maps.secondlife.com/secondlife/Pirandello Bay/135/135/21](http://maps.secondlife.com/secondlife/Pirandello%20Bay/135/135/21)  
-
-Seth Ock, Griseus Farms  
-Human Livestock, Medical Play, & Alien Abductions Roleplay  
-[http://maps.secondlife.com/secondlife/CrAzYToWn/55/206/21](http://maps.secondlife.com/secondlife/CrAzYToWn/55/206/21)  
+[http://maps.secondlife.com/secondlife/The Vortex Playground/189/31/22](http://maps.secondlife.com/secondlife/The%20Vortex%20Playground/189/31/22)    
 
 Silkie Serenade, K-Bar West  
 Western Themed D/s Roleplay  
@@ -152,10 +91,6 @@ RLV Trap Shop & Sandbox
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground & Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
-
-vincent Weigler, Open Bar L'Overture d'Esprit des Toutes les Formes du BDSM   
-RLV Trap / Furniture Shop & RLV Playground  
-[http://maps.secondlife.com/secondlife/Remember/132/132/3000](http://maps.secondlife.com/secondlife/Remember/132/132/3000)  
 
 VizierPaimon, Kinkiva - BDSM Community  
 Tropical BDSM Club, Games, Dungeons  
