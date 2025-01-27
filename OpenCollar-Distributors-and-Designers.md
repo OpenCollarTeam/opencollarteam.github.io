@@ -75,10 +75,6 @@ Sklavin Lisa, ErziehungsAnstalt Proenix
 Educational institution  
 [http://maps.secondlife.com/secondlife/Sofia/142/186/21](http://maps.secondlife.com/secondlife/Sofia/142/186/21)  
 
-Skye Winchester, Passion Bay   
-Newcomer friendly welcome area and Adult Beach   
-[http://maps.secondlife.com/secondlife/Passion/34/192/34](http://maps.secondlife.com/secondlife/Passion/34/192/340)   
-
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
