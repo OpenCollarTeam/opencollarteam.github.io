@@ -25,6 +25,9 @@ AppleCinnamon Blackheart, The Crazy Cow Creamery
 Muffin's Milker Milking Creamery  
 [http://maps.secondlife.com/secondlife/Xtreme/10/177/21](http://maps.secondlife.com/secondlife/Xtreme/10/177/21)  
 
+AussiePaul, Pauls Place of Paradise   
+http://maps.secondlife.com/secondlife/Odie/249/212/32 
+
 blackdelon, infinite adult animation  
 Shop  
 [http://maps.secondlife.com/secondlife/Woobin/87/130/50](http://maps.secondlife.com/secondlife/Woobin/87/130/50)  
