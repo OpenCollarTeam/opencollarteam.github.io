@@ -26,6 +26,7 @@ Muffin's Milker Milking Creamery
 [http://maps.secondlife.com/secondlife/Xtreme/10/177/21](http://maps.secondlife.com/secondlife/Xtreme/10/177/21)  
 
 AussiePaul, Pauls Place of Paradise   
+Beach House   
 http://maps.secondlife.com/secondlife/Odie/249/212/32 
 
 blackdelon, infinite adult animation  
