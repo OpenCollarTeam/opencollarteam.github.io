@@ -273,44 +273,44 @@ Button command   =  internal RLV command
 
 ### BOOKMARKS
 `tp save` opens the dialog to save the current location.   
-`tp save [name]` saves a bookmark of that name to the current location.
-`tp remove` opens the list of bookmarks to remove.
-`tp remove [name]` removes the named bookmark.
-`tp [name]` teleports the wearer to the location of the named bookmark.
-`rm bookmarks` uninstalls the bookmarks app.
+`tp save [name]` saves a bookmark of that name to the current location.   
+`tp remove` opens the list of bookmarks to remove.   
+`tp remove [name]` removes the named bookmark.   
+`tp [name]` teleports the wearer to the location of the named bookmark.   
+`rm bookmarks` uninstalls the bookmarks app.   
 
 ### LABEL/MESHLABEL
-label font - open font picker menu
-label font (name) - set font to (name). Default values are "Andale 1", "Andale 2", "Serif 1", "Serif 2", "LCD".
-label color (vector) - sets label color to (vector) - i.e <1,1,1> for white
-label on - show label
-label off - hide label
-label scroll on - scroll label text
-label scroll off - stop scrolling
-label (text) - set label to (text)
-rm label - uninstall label app
+`label font` - open font picker menu   
+`label` font (name) - sets font. Default values are "Andale 1", "Andale 2", "Serif 1", "Serif 2", "LCD".   
+`label` color (vector) - sets label color to a desired vector - i.e <1,1,1> for white   
+`label on` - show label   
+`label off` - hide label   
+`label` scroll on - scroll label text   
+`label scroll off` - stop scrolling   
+`label [text]` - sets label to desired text
+`rm label` - uninstall label app   
 
-RESIZER
-rotation - open rotation menu
-position - open position menu
-size - open size menu
-rm resizer  - uninstall resizer app
+### RESIZER
+`rotation` - open rotation menu   
+`position` - open position menu   
+`size` - open size menu   
+`rm resizer` - uninstall resizer app   
 
-THEMES
-newtheme - lists current properties to save into a new theme notecard
-hide - sets collar invisible
-show - unhides collar
+### THEMES
+`newtheme` - lists current properties to save into a new theme notecard   
+`hide` - sets collar invisible   
+`show` - unhides collar   
 
-TITLER
-title  - opens textbox to type in new title
-title (text) / titler title (text) - sets title to (text)
-titler color - opens color menu
-titler color (vector) - sets title color to (vector)
-titler show - shows title
-titler hide - hides title
-titler up - moves title higher
-titler down - moves title lower
-titler plain  - toggles plaintext mode that saves title as either plaintext or base64 encoded
+### TITLER
+`title` - opens textbox to type in new title   
+`title [text]` / `titler title [text]` - sets title to desired text
+`titler color` - opens color menu   
+`titler color [vector]` - sets title color to desired vector   
+`titler show` - shows title   
+`titler hide` - hides title   
+`titler up` - moves title higher   
+`titler down` - moves title lower   
+`titler plain`  - toggles plaintext mode that saves title as either plaintext or base64 encoded
 
 BADWORDS
 badwords add - opens text box to enter new phrase to add to bad words list
