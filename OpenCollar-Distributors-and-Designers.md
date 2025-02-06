@@ -27,7 +27,11 @@ Muffin's Milker Milking Creamery
 
 AussiePaul, Pauls Place of Paradise   
 Beach House   
-http://maps.secondlife.com/secondlife/Odie/249/212/32 
+[http://maps.secondlife.com/secondlife/Odie/249/212/32](http://maps.secondlife.com/secondlife/Odie/249/212/32)   
+
+Beesly Naxos, Urban Decay  
+Urban Roleplay  
+[http://maps.secondlife.com/secondlife/Cairn Howff/41/139/3002](http://maps.secondlife.com/secondlife/Cairn%20Howff/41/139/3002)  
 
 blackdelon, infinite adult animation  
 Shop  
@@ -51,7 +55,7 @@ D/s Community, Art Gallery & Theater
 
 Hectic1, HEC   
 Shop: Hot Quality Mesh Fashion   
-http://maps.secondlife.com/secondlife/Vashti%20Island/75/27/2002   
+[http://maps.secondlife.com/secondlife/Vashti Island/75/27/2002](http://maps.secondlife.com/secondlife/Vashti%20Island/75/27/2002)   
 
 Kathy Hoyes, Slave Land  
 Slave Auction & Matching Service  
@@ -60,7 +64,7 @@ Slave Auction & Matching Service
 
 Lady Harcassle, Shades of Emotions   
 Lesbian BDSM Club   
-http://maps.secondlife.com/secondlife/Damone%20Estates/198/198/21 
+[http://maps.secondlife.com/secondlife/Damone Estates/198/198/21](http://maps.secondlife.com/secondlife/Damone%20Estates/198/198/21) 
 
 LinnaeaBorealis, Terra Catena    
 BDSM & D/s roleplay  
@@ -77,7 +81,7 @@ Beach Hangout
 
 Sabina Riederer, Blackrose Castle   
 BDSM Roleplay  
-http://maps.secondlife.com/secondlife/Blackrose%20Castle/146/12/23    
+[http://maps.secondlife.com/secondlife/Blackrose Castle/146/12/23](http://maps.secondlife.com/secondlife/Blackrose%20Castle/146/12/23)    
 
 Silkie Serenade, K-Bar West  
 Western Themed D/s Roleplay  
@@ -115,6 +119,10 @@ Roleplay & RLV Playground
 ZenBaby Jewell, South Wind  
 Hangout, Nude Beach & Dance Club  
 [http://maps.secondlife.com/secondlife/South Wind/141/155/23](http://maps.secondlife.com/secondlife/South%20Wind/141/155/23)  
+
+OpenCollar Backup, Keraxic   
+Backup   
+[http://maps.secondlife.com/secondlife/Keraxic/186/124/33](http://maps.secondlife.com/secondlife/Keraxic/186/124/33)  
 
 
 # OpenCollar Partners Application Form
