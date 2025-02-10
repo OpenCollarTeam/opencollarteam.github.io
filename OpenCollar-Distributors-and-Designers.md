@@ -1,5 +1,5 @@
 ---
-title: OpenCollar Distributors 
+title: OpenCollar Affiliates 
 ---
 Visit any of the SLURLs below to get a copy of the current OpenCollar, or an updater to bring your existing collar up to date. The slurls are as close as possible to the vendor; you may have to use Area Search or follow the red map arrow to get there from a fixed landing point.  
 Looking for a unique collar design? Go here: [Design Partners](https://opencollar.cc/Open-Collar-Designers)  
@@ -11,7 +11,7 @@ Look for this image on the vendor:
 <img src="/static/steelcollar.png" width="200" style="margin: 20px auto;" />
 </div>
 
-# Distributors
+# Locations of Affiliate Vendors
 
 OpenCollar Headquarters  
 OpenCollar Hangout & Support  
@@ -36,6 +36,10 @@ Urban Roleplay
 blackdelon, infinite adult animation  
 Shop  
 [http://maps.secondlife.com/secondlife/Woobin/87/130/50](http://maps.secondlife.com/secondlife/Woobin/87/130/50)  
+
+Button Wright, Frilly Filly Farm   
+The Branded Pony & FFF Tack Shop   
+http://maps.secondlife.com/secondlife/Oraenji/171/98/90 
 
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
