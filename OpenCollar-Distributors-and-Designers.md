@@ -112,6 +112,10 @@ Toy Wylie, Wylieville, Toy's Toys
 Inworld Playground & Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
 
+Vincent Weigler, Open Bar   
+BDSM RP and Lifestyle Community, realistic immersion (RLV and Experience)   
+http://maps.secondlife.com/secondlife/Remember/132/134/3001 
+
 VizierPaimon, Kinkiva - BDSM Community  
 Tropical BDSM Club, Games, Dungeons  
 [http://maps.secondlife.com/secondlife/Chimayo Bay/244/125/25](http://maps.secondlife.com/secondlife/Chimayo%20Bay/244/125/25)  
