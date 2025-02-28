@@ -32,6 +32,7 @@ Here is the list of scripts that go in the collar:
 - [oc_leash](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_leash.lsl), [oc_particle](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_particle.lsl) (required to operate the leash).
 - [oc_relay](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_relay.md) (required only if you want to allow restrictions by objects you do not own) **Note** The github version of oc_relay is an experimental, fast On/Off internal relay.  It will not drive the Turbo Safety HUD Relay issued with OpenCollar V 7.5.
 - [oc_resizer](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_resizer.lsl) (required to use menu driven resizing and positioning)
+- [oc_themes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_themes.lsl) (needed to hide and show the collar). 
 
 **DESIGN TOOLS.** Use these scripts if your collar design calls for them: 
 > [oc_label](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_label.lsl), [oc_meshlabel](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_meshlabel.lsl), [oc_themes](https://github.com/OpenCollarTeam/OpenCollar/blob/master/src/collar/oc_themes.lsl).      
