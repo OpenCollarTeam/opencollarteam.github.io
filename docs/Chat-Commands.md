@@ -4,7 +4,7 @@ title: Chat Commands
 ---
 # List Chat Commands
 
-(markup work in progress-- thanks to Medea Destiny for compiling and writing most of this)   
+(markup work in progress-- thanks to Medea Destiny & Trinkitz for compiling and writing most of this)   
 
 Below is the complete list of chat commands.  What's listed are the calls after the prefix.  See [Prefixes, Chat Commands and Other Non-Menu Functions](/docs/Prefixes,-Chat-Commands-and-Other-Non-Menu-Functions) for how to learn, use, and change the wearer's prefix.
 Help us make this list complete ! Please submit any chat commands you find that are not listed here, or ones that are listed here that no longer work, via pull request to this page.
@@ -149,7 +149,7 @@ timer / menu timer  calls the timer menu in APps
 `++[foldername]` Adds first #RLV folder found with the matching name.   
 
 #### Outfits
-`wear` opens list of outfits to wear. Corresponds to Browse button in Outfits.   
+`wear` on its own will wear the last selected outfit (careful! Results may be unexpected).
 `wear [outfitname]` wears outfit with the matching name   
 `naked` removes all contents of outfits folders except for contents of core folder (and everything outside .core if strip all mode is on)   
 #### Other Apps
