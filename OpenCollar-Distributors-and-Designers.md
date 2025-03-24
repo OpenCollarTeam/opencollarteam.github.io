@@ -21,6 +21,10 @@ Aisha Marshdevil, Rubber Kingdom
 Club and Roleplay Community   
 [http://maps.secondlife.com/secondlife/Rubber Kingdom/230/202/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/230/202/21)   
 
+Amae Macabre, Passion City  
+Forced Sex RP Urban Sim  
+[http://maps.secondlife.com/secondlife/Dree/141/117/1501](http://maps.secondlife.com/secondlife/Dree/141/117/1501)  
+
 AppleCinnamon Blackheart, The Crazy Cow Creamery  
 Muffin's Milker Milking Creamery  
 [http://maps.secondlife.com/secondlife/Xtreme/10/177/21](http://maps.secondlife.com/secondlife/Xtreme/10/177/21)  
@@ -39,7 +43,7 @@ Shop
 
 Button Wright, Frilly Filly Farm   
 The Branded Pony & FFF Tack Shop   
-http://maps.secondlife.com/secondlife/Oraenji/171/98/90 
+[http://maps.secondlife.com/secondlife/Oraenji/171/98/90](http://maps.secondlife.com/secondlife/Oraenji/171/98/90)  
 
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
@@ -114,7 +118,7 @@ Inworld Playground & Shop
 
 Vincent Weigler, Open Bar   
 BDSM RP and Lifestyle Community, realistic immersion (RLV and Experience)   
-http://maps.secondlife.com/secondlife/Remember/132/134/3001 
+[http://maps.secondlife.com/secondlife/Remember/132/134/3001](http://maps.secondlife.com/secondlife/Remember/132/134/3001)   
 
 VizierPaimon, Kinkiva - BDSM Community  
 Tropical BDSM Club, Games, Dungeons  
