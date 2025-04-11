@@ -19,7 +19,7 @@ OpenCollar Hangout & Support
 
 Aisha Marshdevil, Rubber Kingdom   
 Club and Roleplay Community   
-[http://maps.secondlife.com/secondlife/Rubber Kingdom/230/202/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/230/202/21)   
+http://maps.secondlife.com/secondlife/Rubber%20Kingdom/200/228/21   
 
 Amae Macabre, Passion City  
 Forced Sex RP Urban Sim  
