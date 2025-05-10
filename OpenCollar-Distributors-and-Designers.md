@@ -19,7 +19,7 @@ OpenCollar Hangout & Support
 
 Aisha Marshdevil, Rubber Kingdom   
 Club and Roleplay Community   
-http://maps.secondlife.com/secondlife/Rubber%20Kingdom/200/228/21   
+[http://maps.secondlife.com/secondlife/Rubber Kingdom/200/228/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/200/228/21)   
 
 Amae Macabre, Passion City  
 Forced Sex RP Urban Sim  
@@ -44,6 +44,10 @@ Shop
 Button Wright, Frilly Filly Farm   
 The Branded Pony & FFF Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/171/98/90](http://maps.secondlife.com/secondlife/Oraenji/171/98/90)  
+
+Delayna Starling, Luminance Bay Club & Resort  
+Beach Club & Hangout  
+[http://maps.secondlife.com/secondlife/Sublime Gardens/215/87/1498](http://maps.secondlife.com/secondlife/Sublime%20Gardens/215/87/1498)  
 
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
@@ -133,7 +137,7 @@ Hangout, Nude Beach & Dance Club
 [http://maps.secondlife.com/secondlife/South Wind/141/155/23](http://maps.secondlife.com/secondlife/South%20Wind/141/155/23)  
 
 OpenCollar Backup, Keraxic   
-Backup   
+Backup Location   
 [http://maps.secondlife.com/secondlife/Keraxic/186/124/33](http://maps.secondlife.com/secondlife/Keraxic/186/124/33)  
 
 
