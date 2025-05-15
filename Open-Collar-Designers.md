@@ -207,7 +207,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/195166](https://marketpl
 
 Nik Design (Nik Emoto)   
 Barcode, Kitty, BowTie, Bunny Mesh Collars 175L  
-Inworld Shop: [https://maps.secondlife.com/secondlife/Eduisland 10/251/47/2801](https://maps.secondlife.com/secondlife/Eduisland%2010/251/47/2801)   
+Inworld Shop: [https://maps.secondlife.com/secondlife/Eduisland%2010/249/47/3982](https://maps.secondlife.com/secondlife/Eduisland%2010/249/47/3982)   
 Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
 
 PBM Enterprises & [maXplicit] (Peebee McMillan)  
