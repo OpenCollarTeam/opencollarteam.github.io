@@ -45,6 +45,10 @@ Button Wright, Frilly Filly Farm
 The Branded Pony & FFF Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/171/98/90](http://maps.secondlife.com/secondlife/Oraenji/171/98/90)  
 
+CountryCat Furse, Agora - Gentlemen's Club  
+Club  
+[http://maps.secondlife.com/secondlife/Nocht/47/30/22](http://maps.secondlife.com/secondlife/Nocht/47/30/22)  
+
 Delayna Starling, Luminance Bay Club & Resort  
 Beach Club & Hangout  
 [http://maps.secondlife.com/secondlife/Sublime Gardens/215/87/1498](http://maps.secondlife.com/secondlife/Sublime%20Gardens/215/87/1498)  
