@@ -82,6 +82,10 @@ Lady Harcassle, Shades of Emotions
 Lesbian BDSM Club   
 [http://maps.secondlife.com/secondlife/Damone Estates/198/198/21](http://maps.secondlife.com/secondlife/Damone%20Estates/198/198/21) 
 
+LilBritches23, Sticky-N-Sweet Night Club  
+Adult Club  
+[http://maps.secondlife.com/secondlife/Alexia/195/223/3999](http://maps.secondlife.com/secondlife/Alexia/195/223/3999)  
+
 LinnaeaBorealis, Terra Catena    
 BDSM & D/s roleplay  
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
@@ -151,7 +155,7 @@ Want to receive an OpenCollar Vendor and get on this list? Copy the text below t
 
 OpenCollar Official Partners
 
-OpenCollar offers the Official Partners program for people who wish to host a publicly accessible OpenCollar vendor..  Official Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar-based products.
+OpenCollar offers the Official Partners program for people who wish to host a publicly accessible OpenCollar vendor. Official Partners are listed on a page on the OpenCollar website/wiki, and we'll refer users to that page when they inquire about where to find OpenCollar-based products.
 
 To qualify as an OpenCollar Official Partner, collar distributors agree to the following*:
 
