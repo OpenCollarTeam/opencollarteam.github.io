@@ -124,9 +124,9 @@ Taylor Paine, Taylor's Toys
 RLV Trap Shop & Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 
-tia Ixtar, House of V  
-BDSM adult lounge  
-[http://maps.secondlife.com/secondlife/Chained Desires/148/151/74](http://maps.secondlife.com/secondlife/Chained%20Desires/148/151/74)  
+tia Ixtar, Shattered Hearts  
+Adult Lounge, Hangout  
+[http://maps.secondlife.com/secondlife/Ethereal Mountains/50/51/1005](http://maps.secondlife.com/secondlife/Ethereal%20Mountains/50/51/1005)  
 
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground & Shop  
