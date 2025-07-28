@@ -25,6 +25,10 @@ Amae Macabre, Passion City
 Forced Sex RP Urban Sim  
 [http://maps.secondlife.com/secondlife/Dree/141/117/1501](http://maps.secondlife.com/secondlife/Dree/141/117/1501)  
 
+AmicusMywolf, Adastra Furry Club  
+Furry Club & Beach  
+[http://maps.secondlife.com/secondlife/Zaire/161/182/11](http://maps.secondlife.com/secondlife/Zaire/161/182/11)  
+
 AppleCinnamon Blackheart, The Crazy Cow Creamery  
 Muffin's Milker Milking Creamery  
 [http://maps.secondlife.com/secondlife/Xtreme/10/177/21](http://maps.secondlife.com/secondlife/Xtreme/10/177/21)  
