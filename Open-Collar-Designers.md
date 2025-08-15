@@ -123,6 +123,11 @@ Mesh Collars 0L-100L
 Inworld Shop: [http://maps.secondlife.com/secondlife/McGavet/142/177/3416](http://maps.secondlife.com/secondlife/McGavet/142/177/3416)   
 Marketplace: [https://marketplace.secondlife.com/stores/5227](https://marketplace.secondlife.com/stores/5227)   
 
+Epitome (dead.doll)   
+Breathing Mask including OpenCollar scripted versions for male and female 499L   
+Inworld shop:  [http://maps.secondlife.com/secondlife/BlackLotus/49/107/37](http://maps.secondlife.com/secondlife/BlackLotus/49/107/37)   
+Marketplace: [https://marketplace.secondlife.com/en-US/stores/236564](https://marketplace.secondlife.com/en-US/stores/236564)   
+
 Fantasy Restraints (Deana Waydelich)   
 Collars and Cuffs - 150L-400L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Gratia/87/77/3001](http://maps.secondlife.com/secondlife/Gratia/87/77/3001)   
