@@ -157,14 +157,13 @@ Inworld Shop:  [http://maps.secondlife.com/secondlife/Black%20Rose%20Estates/186
 Marketplace Stores: [https://marketplace.secondlife.com/en-US/stores/205355](https://marketplace.secondlife.com/en-US/stores/205355)   
 [https://marketplace.secondlife.com/en-US/stores/787](https://marketplace.secondlife.com/en-US/stores/787)  
 
-
 JaHo (Jackal Hotaling)  
 Mesh Collars - 100L - 450L  
 Marketplace: [https://marketplace.secondlife.com/stores/232316](https://marketplace.secondlife.com/stores/232316)   
 
 Kawaii Couture (Saucey Sinister)   
 Mesh Collars & Accessories - 399L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Bratville/185/139/2201](http://maps.secondlife.com/secondlife/Bratville/185/139/2201)           
+Inworld Shop:[http://maps.secondlife.com/secondlife/Sweet%20Wind/136/126/2006](http://maps.secondlife.com/secondlife/Sweet%20Wind/136/126/2006)        
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Krescendo (KrescendoStore)   
