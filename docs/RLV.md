@@ -138,11 +138,11 @@ When you select one of your folders buttons you will get to your first level of 
 
 - Add all : adds the entire contents of the folder including its subfolders.  
 - Detach All : detaches the entire contents of the folder including its subfolders.
-- x/vLock att. / all:  Prevents the wearer from attaching the contents of this folder and its subfolders.  
+- Lock att. / all:  Prevents the wearer from attaching the contents of this folder and its subfolders.  
 
 When you get to the bottom folder that has only items in it, not subfolders, the remaining choices are:  
 - Detach this
-- x/vLock Detach this  
+- Lock Detach this  
 
 Folders and subfolders may be worn by chat command, for instance:
 
