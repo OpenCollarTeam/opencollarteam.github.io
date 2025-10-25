@@ -21,10 +21,6 @@ Aisha Marshdevil, Rubber Kingdom
 Club and Roleplay Community   
 [http://maps.secondlife.com/secondlife/Rubber Kingdom/200/228/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/200/228/21)   
 
-Amae Macabre, Passion City  
-Forced Sex RP Urban Sim  
-[http://maps.secondlife.com/secondlife/Dree/141/117/1501](http://maps.secondlife.com/secondlife/Dree/141/117/1501)  
-
 AmicusMywolf, Adastra Furry Club  
 Furry Club & Beach  
 [http://maps.secondlife.com/secondlife/Zaire/161/182/11](http://maps.secondlife.com/secondlife/Zaire/161/182/11)  
@@ -41,25 +37,13 @@ Beesly Naxos, Urban Decay
 Urban Roleplay  
 [http://maps.secondlife.com/secondlife/Cairn Howff/41/139/3002](http://maps.secondlife.com/secondlife/Cairn%20Howff/41/139/3002)  
 
-blackdelon, infinite adult animation  
-Shop  
-[http://maps.secondlife.com/secondlife/Woobin/87/130/50](http://maps.secondlife.com/secondlife/Woobin/87/130/50)  
-
 Button Wright, Frilly Filly Farm   
 The Branded Pony & FFF Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/171/98/90](http://maps.secondlife.com/secondlife/Oraenji/171/98/90)  
 
-CountryCat Furse, Agora - Gentlemen's Club  
-Club  
-[http://maps.secondlife.com/secondlife/Nocht/47/30/22](http://maps.secondlife.com/secondlife/Nocht/47/30/22)  
-
-Delayna Starling, Luminance Bay Club & Resort  
-Beach Club & Hangout  
-[http://maps.secondlife.com/secondlife/Sublime Gardens/215/87/1498](http://maps.secondlife.com/secondlife/Sublime%20Gardens/215/87/1498)  
-
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
-[http://maps.secondlife.com/secondlife/Lesser Farnley/12/35/2505](http://maps.secondlife.com/secondlife/Lesser%20Farnley/12/35/2505)  
+[http://maps.secondlife.com/secondlife/Lesser Farnley/7/60/2505](http://maps.secondlife.com/secondlife/Lesser%20Farnley/7/60/2505)  
 
 Dolma Dollinger, Latex Fetish Mall  
 Shopping Mall  
@@ -67,7 +51,7 @@ Shopping Mall
 
 Elirk Huntsman, Order of Dracul @ House of Huldschinsky  
 Roleplay & Shop  
-[http://maps.secondlife.com/secondlife/Egglebury/110/44/3002](http://maps.secondlife.com/secondlife/Egglebury/110/44/3002)  
+[http://maps.secondlife.com/secondlife/Egglebury/118/53/3001](http://maps.secondlife.com/secondlife/Egglebury/118/53/3001)  
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
@@ -86,10 +70,6 @@ Lady Harcassle, Shades of Emotions
 Lesbian BDSM Club   
 [http://maps.secondlife.com/secondlife/Damone Estates/198/198/21](http://maps.secondlife.com/secondlife/Damone%20Estates/198/198/21) 
 
-LilBritches23, Sticky-N-Sweet Night Club  
-Adult Club  
-[http://maps.secondlife.com/secondlife/Alexia/195/223/3999](http://maps.secondlife.com/secondlife/Alexia/195/223/3999)  
-
 LinnaeaBorealis, Terra Catena    
 BDSM & D/s roleplay  
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
@@ -98,10 +78,6 @@ BDSM & D/s roleplay
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
-
-River Vortex, Dare to Bare Nude Beach  
-Beach Hangout  
-[http://maps.secondlife.com/secondlife/The Vortex Playground/189/31/22](http://maps.secondlife.com/secondlife/The%20Vortex%20Playground/189/31/22)    
 
 Sabina Riederer, Blackrose Castle   
 BDSM Roleplay  
@@ -113,12 +89,11 @@ Western Themed D/s Roleplay
 
 Sklavin Lisa, ErziehungsAnstalt Proenix  
 Educational institution  
-[http://maps.secondlife.com/secondlife/Sofia/142/186/21](http://maps.secondlife.com/secondlife/Sofia/142/186/21)  
+[http://maps.secondlife.com/secondlife/Sofia/137/186/21](http://maps.secondlife.com/secondlife/Sofia/137/186/21)  
 
 Sylta Marabana, S&W Playground  
 Playground  
 [http://maps.secondlife.com/secondlife/Jersey Shore/92/223/2356](http://maps.secondlife.com/secondlife/Jersey%20Shore/92/223/2356)  
-**Advisory:** Take the teleporter pad to *Freebies*.  
 
 Tania Loon, Bondage City   
 BDSM Lifestyle Sim with emphasis on Bondage   
@@ -128,10 +103,6 @@ Taylor Paine, Taylor's Toys
 RLV Trap Shop & Sandbox  
 [http://maps.secondlife.com/secondlife/Thiefside/215/204/66](http://maps.secondlife.com/secondlife/Thiefside/215/204/66)  
 
-tia Ixtar, Shattered Hearts  
-Adult Lounge, Hangout  
-[http://maps.secondlife.com/secondlife/Ethereal Mountains/50/51/1005](http://maps.secondlife.com/secondlife/Ethereal%20Mountains/50/51/1005)  
-
 Toy Wylie, Wylieville, Toy's Toys  
 Inworld Playground & Shop  
 [http://maps.secondlife.com/secondlife/Sheridan/208/175/29](http://maps.secondlife.com/secondlife/Sheridan/208/175/29)  
@@ -139,10 +110,6 @@ Inworld Playground & Shop
 Vincent Weigler, Open Bar   
 BDSM RP and Lifestyle Community, realistic immersion (RLV and Experience)   
 [http://maps.secondlife.com/secondlife/Remember/132/134/3001](http://maps.secondlife.com/secondlife/Remember/132/134/3001)   
-
-VizierPaimon, Kinkiva - BDSM Community  
-Tropical BDSM Club, Games, Dungeons  
-[http://maps.secondlife.com/secondlife/Chimayo Bay/244/125/25](http://maps.secondlife.com/secondlife/Chimayo%20Bay/244/125/25)  
 
 Weard Welty, Xegul  
 Roleplay & RLV Playground  
