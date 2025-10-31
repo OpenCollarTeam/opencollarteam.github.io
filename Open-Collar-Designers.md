@@ -226,8 +226,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketpla
 
 Pride 24/7 Event and INSANE-D (diumenge)   
 Mesh Collars 150-200L   
-Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh entity/146/18/2494](http://maps.secondlife.com/secondlife/Mesh%20entity/146/18/2494)   
-
+Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh%20entity/161/6/21](http://maps.secondlife.com/secondlife/Mesh%20entity/161/6/21)
 PsiCorp (Psistorm Voxel)   
 Original Mesh Collars and Cuffs sets with PBR Materials  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Amare/47/34/631](http://maps.secondlife.com/secondlife/Amare/47/34/631)   
