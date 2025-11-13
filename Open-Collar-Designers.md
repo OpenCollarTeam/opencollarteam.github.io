@@ -259,6 +259,11 @@ Saltiveratia (Eolh)
 Ribbon Bow and Leather Original Mesh Collars- 0L to 50L for single colors, 450L to 600L for fatpacks   
 Marketplace: [https://marketplace.secondlife.com/stores/151399](https://marketplace.secondlife.com/stores/151399)   
 
+ScriptEase (otaktayy)   
+Cyber Collar, original mesh with texture HUD - 199L   
+Inworld Shop: [https://maps.secondlife.com/secondlife/Aurora%20Field/158/232/1202](https://maps.secondlife.com/secondlife/Aurora%20Field/158/232/1202)   
+Marketplace:  [https://marketplace.secondlife.com/p/Scriptease-Cyber-Collar/27699390](https://marketplace.secondlife.com/p/Scriptease-Cyber-Collar/27699390)   
+
 Sergaltech Industries (Lukai Zufreur)   
 Mesh Collars, Toys, & Accessories - 100L  
 Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketplace.secondlife.com/stores/98367)  
