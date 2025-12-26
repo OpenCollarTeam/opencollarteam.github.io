@@ -75,6 +75,10 @@ BDSM & D/s roleplay
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
 **Advisory:** Enter the manor, then turn right to the library.  
 
+Neko Xenga, Red Rope Society  
+BDSM RP Club & Playground  
+[http://maps.secondlife.com/secondlife/Brownkin/119/193/72](http://maps.secondlife.com/secondlife/Brownkin/119/193/72)  
+
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
