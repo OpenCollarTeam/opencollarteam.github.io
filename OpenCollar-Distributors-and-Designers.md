@@ -41,6 +41,10 @@ Button Wright, Frilly Filly Farm
 The Branded Pony & FFF Tack Shop   
 [http://maps.secondlife.com/secondlife/Oraenji/171/98/90](http://maps.secondlife.com/secondlife/Oraenji/171/98/90)  
 
+Clover Hixantapo, Refined Pleasures  
+Roleplay, Shop, Club  
+[http://maps.secondlife.com/secondlife/Bonaire24/215/196/22](http://maps.secondlife.com/secondlife/Bonaire24/215/196/22)  
+
 Devante Thorne, The Temple of the Collar Outcasts  
 BDSM Playground  
 [http://maps.secondlife.com/secondlife/Lesser Farnley/7/60/2505](http://maps.secondlife.com/secondlife/Lesser%20Farnley/7/60/2505)  
