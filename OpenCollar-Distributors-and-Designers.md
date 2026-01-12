@@ -75,6 +75,10 @@ BDSM & D/s roleplay
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
 **Advisory:** Enter the manor, then turn right to the library.  
 
+Mia Nightwish, BCH Bondage Club Hub  
+Roleplay, Hangout  
+[http://maps.secondlife.com/secondlife/Nether/167/176/23](http://maps.secondlife.com/secondlife/Nether/167/176/23)  
+
 Pingout Duffield, Erotica Island   
 Club, Shops, Roleplay Areas   
 [http://maps.secondlife.com/secondlife/Erotica Island/41/67/1524](http://maps.secondlife.com/secondlife/Erotica%20Island/41/67/1524)   
