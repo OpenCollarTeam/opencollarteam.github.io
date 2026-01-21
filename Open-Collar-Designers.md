@@ -271,12 +271,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/98367](https://marketpla
 Shamrock Boutiques (Dews Shamrock)  
 Mesh Collar & Clothing - 25L to 150L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Mysti Isle/223/230/23](http://maps.secondlife.com/secondlife/Mysti%20Isle/223/230/23)  
-Marketplace: [https://marketplace.secondlife.com/stores/197511](https://marketplace.secondlife.com/stores/197511)
-
-Short Leash (shortleash)   
-Original Kinky Mesh Collar Designs, Pet Play - 249L-399L   
-Inworld Shop: [http://maps.secondlife.com/secondlife/Short Leash/102/157/26](http://maps.secondlife.com/secondlife/Short%20Leash/102/157/26)   
-Marketplace: [https://marketplace.secondlife.com/stores/204037](https://marketplace.secondlife.com/stores/204037)   
+Marketplace: [https://marketplace.secondlife.com/stores/197511](https://marketplace.secondlife.com/stores/197511) 
 
 Simply Simple (SirRobertFL)   
 Simply designed mesh collars - 150L  
