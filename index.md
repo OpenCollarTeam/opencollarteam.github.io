@@ -16,7 +16,7 @@ You can read more about what that means at the [Open Source Initiative](https://
 You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
 
 ## New in OpenCollar V 8.4:   
-### Mult-source Relay
+### Multi-source Relay
 - easily capable of handling a good number of devices at the same time. 
 ### New Leash Code:
 - Line-of-sight checking stops you getting trapped behind walls, or yanking you into the ceiling if someone you're leashed to logs in the floor above, etc.
