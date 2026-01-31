@@ -12,20 +12,26 @@ You can read more about what that means at the [Open Source Initiative](https://
 
 ### Check out our new [flickr page]( https://www.flickr.com/groups/opencollar/)!
 
-# CURRENT FULL RELEASE:  OPEN COLLAR V 8.3
+# CURRENT FULL RELEASE:  OPEN COLLAR V 8.4
 You can see the [Release Notes](https://opencollar.cc/ReleaseNotes) here.
- 
-## New in OpenCollar V 8:   
-New Features:
-- OpenCollar Remote can now be used by the collar wearer on their own collar
-- There is now a “weld” capability.
-- You can add a setting using the Settings editor, useful for settings that have no corresponding menu button. No need to create a notecard for these.
-- “Stealth” is renamed “Hide/Show”.
-- Added the ability for the owner to disable hiding the collar.
-- Included internal relay.
-- Undress menu is now included in the standard updater and is found in Apps. Updated for BOM layers.
-- New themes creation ability for creators (only available on full permission collars).
-- AddOns: New script makes it easier to connect other worn attachments and HUDs to the collar menu.
+
+## New in OpenCollar V 8.4:   
+### Mult-source Relay
+- easily capable of handling a good number of devices at the same time. 
+### New Leash Code:
+- Line-of-sight checking stops you getting trapped behind walls, or yanking you into the ceiling if someone you're leashed to logs in the floor above, etc.
+- New "face" command turns the avatar to face a target.
+- Non-RLV based option for turning the leashed avatar.
+- New "strictish" leash mode, like strict but without fartouch.
+- Multiple leashpoints now supported
+### Avatar Parking 
+- "Park" option in anim triggers groundsit and locks avatar in place until Park is switched off (or equal/higher auth uses Force unsit).  
+### Cleaner Code 
+- Far more resilient to Stack/Heap errors even when detach/force sit etc. is given crazy amounts of things to handle. 
+### PBR Support 
+- Collars now can use PBR materials and show/hide still works.
+### Faster RLV Startup 
+- Collars will now register RLV more quickly, and restore relay settings more promptly because of it.
 
 ## Mission
 
