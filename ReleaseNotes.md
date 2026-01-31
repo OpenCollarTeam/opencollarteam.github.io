@@ -13,15 +13,17 @@ Leashing should now be a whole lot more resilient.  Try the chat commands "(pref
 1. Line-of-sight checking stops you getting trapped behind walls, or yanking you into the ceiling if someone you're leashed to logs in the floor above, etc.
 2. A velocity test determines if you've got stuck behind an obstacle when you're moving, with a teleport catch-up where available and re-leashing when back in view of the leash holder if necessary.
 3. The new "Face" button in the leash menu allows the wearer to be turned to face an avatar or object.  
-  - New chat commands for Facing:
+    - New chat commands for Facing:
       - `/1 [prefix] face` -- opens a menu of targets to turn collar wearer to face
       - `/1 [prefix] face me` -- turns the collar wearer to face the speaker
       - `/1 [prefix] face [name]` -- turns the collar wearer to face an avatar or object whose name STARTS with `[name]`
 4. Non-RLV based option for turning the leashed avatar.
 5. New "strictish" leash mode, like strict but without fartouch.
+    - `/1 [prefix] strict ish/off/on` -- the chat command for strict leash mode now accepts "ish" as well as off or on. This is the same as on except without any touch restrictions while leashed.
 6. Multiple leashpoints now supported
 ### Avatar Parking 
-- "Park" option in anim triggers groundsit and locks avatar in place until Park is switched off (or equal/higher auth uses Force unsit).  
+- "Park" option in anim triggers groundsit and locks avatar in place until Park is switched off (or equal/higher auth uses Force unsit).
+  - `/1 [prefix] park on/off` -- "Parks" the collar wearer by putting them into groundsit and restricting their ability to stand until park is switched off, or unsit in the force sit menu is used.
 ### Cleaner Code 
 - Far more resilient to Stack/Heap errors even when detach/force sit etc. is given crazy amounts of things to handle. 
 ### PBR Support 
@@ -33,8 +35,8 @@ Leashing should now be a whole lot more resilient.  Try the chat commands "(pref
 ### New Chat Commands
 
 
-- `/1 [prefix] strict ish/off/on` -- the chat command for strict leash mode now accepts "ish" as well as off or on. This is the same as on except without any touch restrictions while leashed.
-- `/1 [prefix] park on/off` -- "Parks" the collar wearer by putting them into groundsit and restricting their ability to stand until park is switched off, or unsit in the force sit menu is used.
+- 
+- 
 ## Leash
 
 
