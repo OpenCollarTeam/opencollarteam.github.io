@@ -7,7 +7,9 @@ _______________________________________________________
 # OpenCollar V 8.4: Changelog
 ## Major New Features in OpenCollar V 8.4:   
 ### Multi-source Relay
-- easily capable of handling a good number of devices at the same time. 
+- The new relay can now handle up to 15 separate sources at the same time. This will make it possible, for instance, to be trapped on a piece of furniture while already inside an rlv zone.
+- ### Faster RLV Startup 
+- Collars will now register RLV more quickly, and restore relay settings more promptly because of it.
 ### New Leash Code:
 Leashing should now be a whole lot more resilient.  Try the chat commands "(prefix) face me", or "(prefix) face (object/avatar).  In Configure you can now toggle the Strict mode button to "Strict(ish) which works the same but doesn't restrict touch.
 1. Line-of-sight checking stops you getting trapped behind walls, or yanking you into the ceiling if someone you're leashed to logs in the floor above, etc.
@@ -22,23 +24,62 @@ Leashing should now be a whole lot more resilient.  Try the chat commands "(pref
     - `/1 [prefix] strict ish/off/on` -- the chat command for strict leash mode now accepts "ish" as well as off or on. This is the same as on except without any touch restrictions while leashed.
 6. Multiple leashpoints now supported
 ### Avatar Parking 
-- "Park" option in anim triggers groundsit and locks avatar in place until Park is switched off (or equal/higher auth uses Force unsit).
-  - `/1 [prefix] park on/off` -- "Parks" the collar wearer by putting them into groundsit and restricting their ability to stand until park is switched off, or unsit in the force sit menu is used.
+1. "Park" option in the Animations menu triggers groundsit and locks avatar in place until Park is switched off (or equal/higher auth uses Force unsit).
+2. Users must have higher or equal auth level to unpark either with the Park button or the RLV>Force Sit>[UNSIT] button.  
+    - `/1 [prefix] park on/off` -- "Parks" the collar wearer by putting them into groundsit and restricting their ability to stand until park is switched off, or unsit in the force sit menu is used.
 ### Cleaner Code 
-- Far more resilient to Stack/Heap errors even when detach/force sit etc. is given crazy amounts of things to handle. 
+- Far more resilient to Stack/Heap errors even when detach/force sit etc. is given crazy amounts of things to handle. We've changed the way menu data is stored so these giant menus that could previously cause the dialog script to run out of space are now stored off-script.
+## New for Collar Builders
 ### PBR Support 
 - Collars now can use PBR materials and show/hide still works.
-### Faster RLV Startup 
-- Collars will now register RLV more quickly, and restore relay settings more promptly because of it.
-
-## Details
-### New Chat Commands
-
-
-- 
-- 
-## Leash
-
+### Multiple Leash Points
+- Collars can now have multiple leash points for rein-style leashes, for example. This is done using "leashpointx" as a tag. Read the top of the [oc_particle](https://github.com/OpenCollarTeam/OpenCollar/blob/main/src/collar/oc_particle.lsl)  script for instructions.
+### New Hidden Element Tag
+Links can now have `~hidden` tag, which means they will stay hidden after a show/hide toggle.  If your collar uses a hud to switch between visible elements, you can set the `~hidden` element in the description field of any of the toggleable elements you want hidden and clear it for elements you want visible. The show/hide feature in the Settings menu will now preserve the invisibility of those hidden elements.
+## Changes per script
+- `oc_addons`
+    - Medea: Streamline DIALOG_RENDER handling.
+- `oc_anim`
+    - Medea: Added  groundsit button to force groundsit and park in place (now named "Park"), hook into oc_RLVExtentsion to link forced UNSIT
+    - Nikki: CMD_SAFEWORD stops anims/animlock #1142
+- oc_api
+    - Nikki: Improvements for avatar name changes #1140; Implement overlong command filtering #1138
+- oc_bell
+    - Medea: Update to handle PBR textures #1162; Medea: fix for broken element glow
+- oc_core
+    - Medea: add help button for help notecard to help/about
+    - Nikki: move lock function to RLVsys
+- oc_couples
+    - Medea: use leash facer function for turn to avatar, refactor to remove reset on rez
+- oc_dialog
+    - Nikki: improve memory efficiency & release memory  promptly in UUID functions #1134 #1119
+    -  Medea: refactor menu handling to store buttons in Linkset Data for dramatic memory reduction #1134 #1119
+    -  Medea: Handle DIALOG_RENDER only for direct requests
+- oc_leash
+    - Medea: use `castray` for line-of sight checks to avoid wall dragging; Teleport leashee when possible if leasher can't be reached; streamline code in various places; Fixed leashed-to name in menu to not fail when avatar not in sim; Perform `setrot` locally & provide LSL based llSetAgentRot alternative, with config setting; Refactor of facing stuff (above) with "face" command to turn avatar to face person/object   added strict(ish) mode, as strict but without fartouch restriction
+- oc_meshlabel
+    - Nikki: fix for out of order links #1153
+- oc_particle
+    - Nikki: support multiple leash points; separate visual params for leash & chains
+    - Medea: support for facing/strictish menu stuff (see oc_leash)
+- oc_relay
+    - Nikki: Major rewrite to implement LSD based multi-relay
+- oc_rlvextension
+    - Nikki: Respring to parent menu on force sit #1154
+    - Chew: Reduced memory footprint: Refactor MuffleText, refactor Dialog, reduce redundant list calls in MenuSetValue, shorten some language strings
+    - Medea: Added CMD_INFO to handle force unsit->Park (groundsit) connection
+- oc_rlvsuite
+    - Nikki:  Refactor of bitmask functions for setting restrictions; correct stray restrictions
+    - Medea: Auto-translate settings for older presets to new format.
+- oc_rlvsys
+    - Nikki:  handle lock function instead of oc_core;  Improve startup and refactor to remove reset on rez for faster RLV resumption. 
+- oc_states
+    - Medea: Moved show/hide function here and added PBR support #1136; Support for 'Hidden' element type, #1156
+- oc_themes
+    - Medea: remove show/hide function so themes script now optional #653; Added timer to re-read themes notecards for spam prevention
+- oc_installer_sys
+    - Stormed Darkshade: Added new voice sound to installer
+    - Medea: Text tweak, particle size tweak
 
 ________________________________________________
 # OpenCollar V 8.3: Changelog
