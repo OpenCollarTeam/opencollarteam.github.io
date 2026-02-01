@@ -10,7 +10,11 @@ To call the leash menu:
 
 ## Grab  
 Grabs the wearer's leash  
->[prefix] grab or [prefix] leash  
+>[prefix] grab or [prefix] leash
+
+## Unleash
+Unleashes the wearer. Visible when the leash is engaged.   
+>[prefix] unleash
 
 ## Anchor
 Calls a menu of nearby objects to which the wearer can be leashed  
@@ -21,8 +25,14 @@ Calls a menu of nearby avatars to whom the leash can be passed. When selected, t
 >[prefix] pass 
 
 ## Follow
-Operates the leash in exactly the same way but without the visible particle chain.
+Operates the leash without the visible particle chain.
 >[prefix] follow
+
+## Face
+Allows the wearer to be turned to face an avatar or object.  Calls a menu with a list of nearby avatars and objects.
+>[prefix] face -- opens a menu of targets to turn collar wearer to face
+>[prefix] face me -- turns the collar wearer to face the speaker
+>[prefix] face [name] -- turns the collar wearer to face an avatar or object whose name starts with [name]
 
 ## Length
 Sets the length of the leash in meters. 1 meter is the minimum length, 20 meters is the maximum.
@@ -35,13 +45,15 @@ In this menu you can change the texture of the leash particles, and also set rlv
 
 ### Strict  
 When checked, sets tp restrictions on the wearer when leashed (owner is exempted by default).  
-Strict leash setting:  `LEASH=Strict~1/0,503` . The three digit number at the end is the integer denoting the access rank of who set Strict.  "503" is the Wearer rank.  
+Strict leash setting:  `LEASH=Strict~1/0,503`. The three digit number at the end is the integer denoting the access rank of who set Strict.  "503" is the Wearer rank.  
 Restrictions include:  
 > fartouch (unable to touch objects whose center is more than 1m distant)   
 > fly (unable to fly)  
 > tplm (cannot teleport to a landmark)  
 > tploc (cannot teleport to a map location or click teleport to a point in the region)  
-> tplure (cannot accept a tplure)  
+> tplure (cannot accept a tplure)
+The Strict-ish setting does not restrict `fartouch`.
+> [prefix] strict ish/off/on.
 
 #### Shine  
 Toggles shine on and off, requires Advanced Lighting to view the effect  
