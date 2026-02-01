@@ -38,18 +38,18 @@ For instance Jenny Wren wants to hug JoeZipcode:
 >`catch|~leap|~catch|0.6|_SELF_ leaps into _PARTNER_'s arms`.
 
 Each element is separated by a pipe `(|)` with no space.  The first element ("catch") is the name of the animation on the menu.  The second element (~leap) is the wearer's animation.  The third element (~catch) is the handler's animation. The fourth element (0.6) sets the distance between the two avatars.  Note that rotation is not configurable.  The last element is the text that is displayed when the animation is run.  Configure your strings in the notecard to include the animations you've added, each on its own line. Save the notecard into the Animator prim.
+## Park
+Triggers a groundsit using the active groundsit in the wearer's AO.  Locks the wearer in place until someone with equal or higher access unchecks Park or presses Unsit in the RLV > Force Sit Menu.  
+>[prefix] park on/off
 
 ## Animlock
-
 This locks the wearer in the current collar animation.
 
 ## Posture
-
 Check this to force an erect posture.  Note that the posture lock might interfere with other animations.
 
-## AO Menu / AO ON / AO OFF
-
-These buttons sync with the OpenCollar Sub AO.
+## AO Menu 
+The AO Menu can be opened from the Apps menu.
 
 # Notes
 
