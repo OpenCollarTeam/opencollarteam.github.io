@@ -53,6 +53,10 @@ Elirk Huntsman, Order of Dracul @ House of Huldschinsky
 Roleplay & Shop  
 [http://maps.secondlife.com/secondlife/Egglebury/118/53/3001](http://maps.secondlife.com/secondlife/Egglebury/118/53/3001)  
 
+Enigma Rasa, HOFSTADIR VILLAGE  
+Gorean roleplay  
+[http://maps.secondlife.com/secondlife/Serena Billabong/155/100/2999](http://maps.secondlife.com/secondlife/Serena%20Billabong/155/100/2999)  
+
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
 [http://maps.secondlife.com/secondlife/Xaara/50/65/22](http://maps.secondlife.com/secondlife/Xaara/50/65/22)   
