@@ -183,8 +183,10 @@ Marketplace: [https://marketplace.secondlife.com/stores/207943](https://marketpl
 
 MATRIARCH (Beautifull Vyper)  
 Mesh Collars, Restraints, Toys, & Accessories - 399L+  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Charlesville/92/188/3000](http://maps.secondlife.com/secondlife/Charlesville/92/188/3000)        
-Marketplace: [https://marketplace.secondlife.com/stores/202671](https://marketplace.secondlife.com/stores/202671)  
+[Inworld Shop]( http://maps.secondlife.com/secondlife/Buffo/128/156/21)   
+[Marketplace](https://marketplace.secondlife.com/stores/202671)   
+[Website](https://marketplace.secondlife.com/stores/202671)   
+[Primfeed](https://www.primfeed.com/matriarch)   
 
 MKF (Modern Kink Fashion) (blackangelchris)  
 Adult Jewelry BDSM Collar - 200L   
@@ -192,10 +194,7 @@ Marketplace: [https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-C
 
 Modern Primitive (Modernprimitive)   
 Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
-[Inworld Shop]( http://maps.secondlife.com/secondlife/Buffo/128/156/21)   
-[Marketplace](https://marketplace.secondlife.com/stores/202671)   
-[Website](https://marketplace.secondlife.com/stores/202671)   
-[Primfeed](https://www.primfeed.com/matriarch)   
+  
 
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
