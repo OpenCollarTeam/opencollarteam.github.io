@@ -192,8 +192,10 @@ Marketplace: [https://marketplace.secondlife.com/p/MKF-The-Adult-Jewelery-BDSM-C
 
 Modern Primitive (Modernprimitive)   
 Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Cira/94/77/2801](http://maps.secondlife.com/secondlife/Cira/94/77/2801)   
-Marketplace: [https://marketplace.secondlife.com/stores/166334](https://marketplace.secondlife.com/stores/166334)   
+[Inworld Shop]( http://maps.secondlife.com/secondlife/Buffo/128/156/21)   
+[Marketplace](https://marketplace.secondlife.com/stores/202671)   
+[Website](https://marketplace.secondlife.com/stores/202671)   
+[Primfeed](https://www.primfeed.com/matriarch)   
 
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
