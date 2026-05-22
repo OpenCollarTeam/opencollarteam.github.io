@@ -312,53 +312,53 @@ Button command   =  internal RLV command
 `titler down` - moves title lower   
 `titler plain`  - toggles plaintext mode that saves title as either plaintext or base64 encoded
 
-BADWORDS
-badwords add - opens text box to enter new phrase to add to bad words list
-badwords add (phrase) - adds (phrase) to bad words list
-badwords animation (anim) - sets the animation to trigger when a bad word is spoken
-badwords animation default - restores animation to the default shock animation
-badwords sound (name) - changes the sound triggered when a bad word is spoken to (name)
-badwords sound silent - disables badword sounds
-badwords penance - open textbox to add new penance phrase
-badwords penance (phrase) - change the penance phrase to (phrase)
-badwords remove - open list of badwords to remove
-badwords remove (phrase) - removes (phrase) from badwords list
-badwords on / badwords off - switch on or off
-badwords clear - clear all bad words from list
+BADWORDS   
+`badwords add` - opens text box to enter new phrase to add to bad words list   
+`badwords add [phrase]` - adds the inserted phrase to bad words list   
+`badwords animation [anim]` - sets the inserted animation to trigger when a bad word is spoken   
+`badwords animation default` - restores animation to the default shock animation   
+`badwords sound [name]` - changes the sound triggered when a bad word is spoken to the inserted name.   
+`badwords sound silent` - disables badword sounds   
+`badwords penance` - open textbox to add new penance phrase   
+`badwords penance [phrase]` - changes the penance phrase to the inserted phrase   
+`badwords remove` - opens list of badwords to remove   
+`badwords remove [phrase]` - removes the inserted phrase from the badwords list   
+`badwords on / badwords off` - switch on or off   
+`badwords clear` - clears all bad words from the list   
 
-CAPTURE
-capture dump - print capture status
-capture on - activate capture mode
-capture off - deactivate capture mode
-capture - attempt to capture
+CAPTURE   
+`capture dump` - prints capture status    
+`capture on` - activates capture mode   
+`capture off` - deactivates capture mode   
+`capture` - attempts to capture   
 
-TIMER
-timer permissive on / timer permissive off - set timer permissive mode on or off
-timer endnow - end active timer instantly
-timer cancel  - cancels active timer, does not issue end of timer commands
-timer start - starts timer
-timer time -  opens time menu
-timer time (time) - sets timer to (time), where (time) is in hours, minutes and seconds (e.g 2hrs 10m). Function will read most sensible ways of writing time, don't worry.
-timer customs - opens text box to add custom commands (a list of chat commands separated by commas) that will be issued when timer expires
-timer customs (commands) - sets (commands) as a comma separated list of chat commands that will be issued when timer expires
-timer lockout on / timer lockout off - switches wearer lockout while timer active on or off
-timer unleash on / timer unleash off - switches unleash when timer expires on or off
-timer unpose on / timer unpose off - switches ending poses when timer expires on or off
-timer clearrlv on / timer clearrlv off - switches clearing rlv restrictions when timer expires on or off
-timer unsit on / timer unsit off - switches unsitting collar wearer when timer expires on or off
-timer titler on / timer titler off  - switches time left titler on or off
+TIMER   
+`timer permissive on / timer permissive off` - sets timer permissive mode on or off   
+`timer endnow` - ends active timer instantly   
+`timer cancel`  - cancels active timer, does not issue end of timer commands   
+`timer start` - starts timer   
+`timer time` -  opens time menu   
+`timer time [time]` - sets timer to the inserted time, where [time] is in hours, minutes and seconds (e.g 2hrs 10m). Function will read most sensible ways of writing time, don't worry.   
+`timer customs` - opens text box to add custom commands (a list of chat commands separated by commas) that will be issued when timer expires   
+`timer customs [commands]` - sets inserted commands as a comma separated list of chat commands that will be issued when timer expires   
+`timer lockout on / timer lockout off` - switches wearer lockout while timer active on or off   
+`timer unleash on / timer unleash off` - switches unleash when timer expires on or off   
+`timer unpose on / timer unpose off` - switches ending poses when timer expires on or off   
+`timer clearrlv on / timer clearrlv off` - switches clearing rlv restrictions when timer expires on or off   
+`timer unsit on / timer unsit off - switches unsitting collar wearer when timer expires on or off   
+timer titler on / timer titler off  - switches time left titler on or off   
 
-CAGEHOME
-ch here  -sets current location as cagehome "cage"
-ch arm  - activates cage home, with setter marked as primary
-ch disarm - deactivates cagehome if armed but sub not caged
-ch release - release sub
-ch settings - list cagehome settings
-ch commands - list cagehome chat commands
-ch warntime <seconds> - amount of time before caging where sub is given warning it's about to happen
-ch radius <meters> - distance sub can move from "cage" location
-ch cagetime <minutes> - timer for caging. At 0, there's no timer.
-ch notifychannel <channel number> - sends notification on specified channel on capture and release (will not use channel 0).
-ch notifyarrive <arrive string> - phrase said on capture
-ch notifyrelease <release string> - phrase said on release
-ch warnmessage <warning message> - phrase in local chat said when sub is being summoned. "@" will be replaced by sub's name. # will be replaced by number of seconds of cagetime set.
+CAGEHOME   
+`ch here`  -sets current location as cagehome "cage"    
+`ch arm`  - activates cage home, with setter marked as primary   
+`ch disarm` - deactivates cagehome if armed but sub not caged   
+`ch release` - release sub   
+`ch settings` - list cagehome settings   
+`ch commands` - list cagehome chat commands   
+`ch warntime [number]` - number of seconds before caging where sub is given warning it's about to happen   
+`ch radius [number]` - distance in meters sub can move from "cage" location   
+`ch cagetime [number]` - sets minutes of cage time. At 0, there's no timer.   
+`ch notifychannel [number]` - sends notification on specified channel number for capture and release (will not use channel 0).   
+`ch notifyarrive [phrase]` - sets phrase to signal arrival in cage   
+`ch notifyrelease [phrase] - sets phrase said on release   
+`ch warnmessage [phrase] - phrase said in local chat when sub is being summoned. "@" will be replaced by sub's name. # will be replaced by number of seconds of cagetime set.    
