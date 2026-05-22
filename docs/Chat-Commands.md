@@ -360,5 +360,5 @@ CAGEHOME
 `ch cagetime [number]` - sets minutes of cage time. At 0, there's no timer.   
 `ch notifychannel [number]` - sends notification on specified channel number for capture and release (will not use channel 0).   
 `ch notifyarrive [phrase]` - sets phrase to signal arrival in cage   
-`ch notifyrelease [phrase] - sets phrase said on release   
+`ch notifyrelease [phrase]` - sets phrase said on release   
 `ch warnmessage [phrase] - phrase said in local chat when sub is being summoned. "@" will be replaced by sub's name. # will be replaced by number of seconds of cagetime set.    
