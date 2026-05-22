@@ -158,29 +158,29 @@ Meanwhile we have a work-around!  We created an OpenCollar Addon (similar to add
    
 The new addon is a simple ring with 4 ChainPoints. We used the oc_cuff script, along with a CuffConfig Notecard, and the oc_cuff-resizer script.  Each of the 4 ChainPoints are named as shown above. We linked the 4 ChainPoints to the ring and gave it the name CollarChainPoints. The ring is the root, and contains all of the scripts and notecards. 
 
-The CuffConfig Notecard has the following information:
-        # This notecard is used to determine the cuff's properties
-        CuffName = CollarChainPoints
-        #
-        # Poses = Arms
-        # If you do not want poses in this cuff, for instance, if it is one of the slave cuffs, not one of the master ones, then uncomment the line below, and comment out the line above.
-        NoPoses
-        #
-        # Define the points that this cuff owns below
-        MyPoint = bcollar
-        MyPoint = fcollar
-        MyPoint = rcollar
-        MyPoint = lcollar
-        LMV2Map = collar > fcollar
-        LGv2Map = collarfrontloop > fcollar
+The CuffConfig Notecard has the following information:   
+        # This notecard is used to determine the cuff's properties   
+        CuffName = CollarChainPoints   
+        #   
+        # Poses = Arms   
+        # If you do not want poses in this cuff, for instance, if it is one of the slave cuffs, not one of the master ones, then uncomment the line below, and comment out the line above.   
+        NoPoses   
+        #   
+        # Define the points that this cuff owns below   
+        `MyPoint = bcollar`   
+        `MyPoint = fcollar`   
+        `MyPoint = rcollar`   
+        `MyPoint = lcollar`   
+        `LMV2Map = collar > fcollar`   
+        `LGv2Map = collarfrontloop > fcollar`   
         
-The new Collar ChainPoints Addon can be attached to the avatar at the Neck, just as the collar is. Upon attaching the Addon, you should see a message saying the Addon is connected.
+The new Collar ChainPoints Addon can be attached to the avatar at the Neck, just as the collar is. Upon attaching the Addon, you should see a message saying the Addon is connected.   
 
-You can use either the editor or the resizer script to position the ChainPoints Addon to the middle of the collar.
+You can use either the editor or the resizer script to position the ChainPoints Addon to the middle of the collar.   
 
-Once you are happy with the positioning of the ChainPoints Addon, use the default Transparent Texture to make it invisible. 
+Once you are happy with the positioning of the ChainPoints Addon, use the default Transparent Texture to make it invisible.   
    
-Alternatively you can link the Addon to the collar, making sure your collar maintains the root prim. 
+Alternatively you can link the Addon to the collar, making sure your collar maintains the root prim.   
 
-You can now use the Head poses and the Collar Belt pose and see visible chain. And you can add in chains to the Arms or Legs notecard as you see fit using method described earlier in this document.
+You can now use the Head poses and the Collar Belt pose and see visible chain. And you can add in chains to the Arms or Legs notecard as you see fit using method described earlier in this document.   
 
