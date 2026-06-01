@@ -37,7 +37,10 @@ To load your settings from a url:
 Allows you to save settings to the collar directly by dialog menu, useful for Settings that have no corresponding collar command.
 
 ## Fix Menus
-Sometimes menus do not load all the way.  If you see buttons missing from your menus, press Fix.
+Sometimes menus do not load all the way.  If you see buttons missing from your menus, press Fix.   
+
+## Limit Range   
+Allows you to set the distance within which the collar will respond to touch and chat commands.  The default is 20m, the same distance as local chat.   
 
 ## Resize
 This menu allows you to alter the position, Rotation and Size of your collar.
