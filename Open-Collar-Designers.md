@@ -135,7 +135,11 @@ Marketplace: [https://marketplace.secondlife.com/stores/205208](https://marketpl
 
 Fapple (Anna Timmerman)  
 Mesh Collars & Furniture - 250L  
-Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple BDSM Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751)   
+Inworld Shop: [https://maps.secondlife.com/secondlife/Fapple BDSM Furniture/99/39/2751](https://maps.secondlife.com/secondlife/Fapple%20BDSM%20Furniture/99/39/2751) 
+
+Furrocious (Moon Fluffington)   
+Mesh Rigged Collars, Rings and Leash Holders - 699L or lower      
+Marketplace:  [https://marketplace.secondlife.com/stores/195438](https://marketplace.secondlife.com/stores/195438)   
 
 Gemstone Inc (Gem Oxygen)   
 Mesh Collars with Original Textures - 250L to 300L   
