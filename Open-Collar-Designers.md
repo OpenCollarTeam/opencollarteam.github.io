@@ -128,7 +128,7 @@ Collars and Cuffs - 150L-400L
 Inworld Shop: [http://maps.secondlife.com/secondlife/Gratia/87/77/3001](http://maps.secondlife.com/secondlife/Gratia/87/77/3001)   
 Marketplace: [https://marketplace.secondlife.com/stores/37286](https://marketplace.secondlife.com/stores/37286)   
 
-{Fantasy World} (xSmitx)   
+Fantasy World (xSmitx)   
 Fantasy styles 250L-299L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Surreal Pink/241/160/1902](http://maps.secondlife.com/secondlife/Surreal%20Pink/241/160/1902)   
 Marketplace: [https://marketplace.secondlife.com/stores/205208](https://marketplace.secondlife.com/stores/205208)   
