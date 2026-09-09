@@ -107,6 +107,10 @@ Vincent Weigler, Open Bar
 BDSM RP and Lifestyle Community, realistic immersion (RLV and Experience)   
 [http://maps.secondlife.com/secondlife/Remember/132/134/3001](http://maps.secondlife.com/secondlife/Remember/132/134/3001)   
 
+Wil Youngblood, Sex Cottage in the Woods  
+Gaty, Hetro, BDSM sex area on Adult mainland  
+[https://maps.secondlife.com/secondlife/Reanna/172/247/62](https://maps.secondlife.com/secondlife/Reanna/172/247/62)  
+
 OpenCollar Backup, Keraxic   
 Backup Location   
 [http://maps.secondlife.com/secondlife/Keraxic/186/124/33](http://maps.secondlife.com/secondlife/Keraxic/186/124/33)  
