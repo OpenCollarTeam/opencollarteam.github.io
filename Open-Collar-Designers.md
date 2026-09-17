@@ -228,8 +228,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Sand Beach/242/16/3001](htt
 Marketplace: [https://marketplace.secondlife.com/stores/11624](https://marketplace.secondlife.com/stores/11624)  
 
 Ping's Designs   
-Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L  
-Inworld Shop: [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
+Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L    
 Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629)   
 
 Pride 24/7 Event and INSANE-D (diumenge)   
@@ -352,8 +351,7 @@ Apps and Addons
 Marketplace:  [https://marketplace.secondlife.com/stores/180362](https://marketplace.secondlife.com/stores/180362)  
 
 Ping's Designs   
-Medieval themed Mesh Collars, Cuffs, Restraints, & Furniture 50L - 99L  
-Inworld Shop:  [http://maps.secondlife.com/secondlife/Erotica Island/78/70/1522](http://maps.secondlife.com/secondlife/Erotica%20Island/78/70/1522)   
+Medieval themed Mesh Collars, Cuffs, Restraints, & Furniture 50L - 99L     
 Marketplace:  [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629) 
 
 PsiCorp (Psistorm Voxel)   
