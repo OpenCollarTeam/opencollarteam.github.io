@@ -340,7 +340,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/125719](https://marketpl
 
 Danger Kitty's Sweets (SweetDangerKitty)   
 Hearts Emitter App and more   
-Marketplace: [https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901](https://marketplace.secondlife.com/p/Danger-Kittys-Sweets-Kittys-Hearts/17710901)   
+Marketplace: [https://marketplace.secondlife.com/stores/220939](   https://marketplace.secondlife.com/stores/220939)
 
 Dark Elf Manufacture (DEM) (Chloe1982 Constantine)   
 DEM Relay plugin for OpenCollar 40L   
