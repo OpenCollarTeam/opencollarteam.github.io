@@ -232,9 +232,6 @@ Medieval themed Mesh Collars, Restraints, & Furniture 50L - 99L
 Inworld Shop: [https://maps.secondlife.com/secondlife/Pleasant%20Falls/173/90/2201](https://maps.secondlife.com/secondlife/Pleasant%20Falls/173/90/2201)   
 Marketplace: [https://marketplace.secondlife.com/stores/88629](https://marketplace.secondlife.com/stores/88629)   
 
-Pride 24/7 Event and INSANE-D (diumenge)   
-Mesh Collars 150-200L   
-Inworld Event and Shop:  [http://maps.secondlife.com/secondlife/Mesh%20entity/161/6/21](http://maps.secondlife.com/secondlife/Mesh%20entity/161/6/21)
 PsiCorp (Psistorm Voxel)   
 Original Mesh Collars and Cuffs sets with PBR Materials  
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Amare/47/34/631](http://maps.secondlife.com/secondlife/Amare/47/34/631)   
