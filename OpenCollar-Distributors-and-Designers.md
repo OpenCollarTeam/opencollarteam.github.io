@@ -17,10 +17,6 @@ OpenCollar Headquarters
 OpenCollar Hangout & Support  
 [http://maps.secondlife.com/secondlife/KBar West/28/80/1201](http://maps.secondlife.com/secondlife/KBar%20West/28/80/1201)  
 
-Aisha Marshdevil, Rubber Kingdom   
-Club and Roleplay Community   
-[http://maps.secondlife.com/secondlife/Rubber Kingdom/200/228/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/200/228/21)   
-
 AmicusMywolf, Adastra Furry Club  
 Furry Club & Beach  
 [http://maps.secondlife.com/secondlife/Zaire/161/182/11](http://maps.secondlife.com/secondlife/Zaire/161/182/11)  
@@ -48,6 +44,10 @@ Shopping Mall
 Elirk Huntsman, Order of Dracul @ House of Huldschinsky  
 Roleplay & Shop  
 [http://maps.secondlife.com/secondlife/Egglebury/118/53/3001](http://maps.secondlife.com/secondlife/Egglebury/118/53/3001)  
+
+Gemma Rabbit, Rubber Kingdom   
+Club and Roleplay Community   
+[http://maps.secondlife.com/secondlife/Rubber Kingdom/200/228/21](http://maps.secondlife.com/secondlife/Rubber%20Kingdom/200/228/21)   
 
 HaydenPryce, Xaara  
 D/s Community, Art Gallery & Theater  
