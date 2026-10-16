@@ -71,6 +71,10 @@ BDSM & D/s roleplay
 [http://maps.secondlife.com/secondlife/Serena Chantilly/37/97/28](http://maps.secondlife.com/secondlife/Serena%20Chantilly/37/97/28)  
 **Advisory:** Enter the manor, then turn right to the library.  
 
+Lukai Zufreur, Rubber Kingdom.  
+Clubs, Shopping and Roleplay Areas.  
+[https://maps.secondlife.com/secondlife/Rubber%20Kingdom/232/206/514](https://maps.secondlife.com/secondlife/Rubber%20Kingdom/232/206/514).  
+
 Mia Nightwish, BCH Bondage Club Hub  
 Roleplay, Hangout  
 [http://maps.secondlife.com/secondlife/Nether/167/176/23](http://maps.secondlife.com/secondlife/Nether/167/176/23)  
