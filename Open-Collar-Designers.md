@@ -160,8 +160,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/83455](https://marketpla
 Gorean Emporium (stephaniesapphyre)   
 Gorean and BDSM Collars - 249L to 499L   
 Inworld Shop:  [http://maps.secondlife.com/secondlife/Black%20Rose%20Estates/186/77/1008](http://maps.secondlife.com/secondlife/Black%20Rose%20Estates/186/77/1008)   
-Marketplace Stores: [https://marketplace.secondlife.com/en-US/stores/205355](https://marketplace.secondlife.com/en-US/stores/205355)   
-[https://marketplace.secondlife.com/en-US/stores/787](https://marketplace.secondlife.com/en-US/stores/787)  
+Marketplace Store:[https://marketplace.secondlife.com/en-US/stores/787](https://marketplace.secondlife.com/en-US/stores/787)  
 
 JaHo (Jackal Hotaling)  
 Mesh Collars - 100L - 450L  
@@ -169,7 +168,7 @@ Marketplace: [https://marketplace.secondlife.com/stores/232316](https://marketpl
 
 Kawaii Couture (Saucey Sinister)   
 Mesh Collars & Accessories - 399L   
-Inworld Shop:[https://maps.secondlife.com/secondlife/dOllYpOp/129/154/2006](https://maps.secondlife.com/secondlife/dOllYpOp/129/154/2006       
+Inworld Shop:[https://maps.secondlife.com/secondlife/dOllYpOp/129/154/2006](https://maps.secondlife.com/secondlife/dOllYpOp/129/154/2006)       
 Marketplace: [https://marketplace.secondlife.com/stores/30693](https://marketplace.secondlife.com/stores/30693)   
 
 Krescendo (KrescendoStore)   
