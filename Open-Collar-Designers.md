@@ -35,6 +35,11 @@ Anna's Bondage Shop (AnnarussianMiss)
 Mesh Collars, Restraints, Toys, & Art - 100L to 450L    
 Marketplace: [https://marketplace.secondlife.com/stores/194586](https://marketplace.secondlife.com/stores/194586)   
 
+Arcanus Insula (Jonas Daviau)   
+Gothic Styled Collars - 50L to 399L   
+Inworld Shop:[http://maps.secondlife.com/secondlife/Ice%20Fang/9/73/23](http://maps.secondlife.com/secondlife/Ice%20Fang/9/73/23)  
+Marketplace: [https://marketplace.secondlife.com/p/AI-Subspace-Surrender-Collar/28857413](https://marketplace.secondlife.com/p/AI-Subspace-Surrender-Collar/28857413)   
+
 Ari-Pari (Ariana Petrova)   
 Simple yet functional collar styles with texture & color options via HUD - 250L   
 Inworld Shop: [http://maps.secondlife.com/secondlife/Malus/188/172/29](http://maps.secondlife.com/secondlife/Malus/188/172/29)   
