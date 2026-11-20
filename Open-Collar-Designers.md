@@ -259,6 +259,11 @@ RLV Face Mask OpenCollar scripted - 200L Single, 1000L Fatpack, 1500L Megapack
 Inworld Shop: [http://maps.secondlife.com/secondlife/Sunny Side Up/120/214/30](http://maps.secondlife.com/secondlife/Sunny%20Side%20Up/120/214/30)   
 Marketplace: [https://marketplace.secondlife.com/stores/249999](https://marketplace.secondlife.com/stores/249999)   
 
+Sadiana (Alexia Elcano).  
+Original Mesh Collars 100L to 4000L.  
+Inworld Shop: [http://maps.secondlife.com/secondlife/Everwinter/80/43/22](http://maps.secondlife.com/secondlife/Everwinter/80/43/22).  
+Marketplace:  [https://marketplace.secondlife.com/stores/53540](https://marketplace.secondlife.com/stores/53540).  
+
 Salt & Pepper (Salt Peppermint)   
 Mesh Collars, Clothing, & Accessories - 349L to 699L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Salt and Pepper/114/124/41](http://maps.secondlife.com/secondlife/Salt%20and%20Pepper/114/124/41)  
