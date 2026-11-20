@@ -211,7 +211,6 @@ Modern Primitive (Modernprimitive)
 Cock & Ball Collars, Clothing, & Furniture For Males - 300L  
 [Marketplace](https://marketplace.secondlife.com/stores/166334)  
   
-
 Nailed Down (Despero Windstorm)   
 Mesh Collars - 0L to 399L  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Alcis/153/19/50](http://maps.secondlife.com/secondlife/Alcis/153/19/50)   
@@ -260,7 +259,7 @@ Inworld Shop: [http://maps.secondlife.com/secondlife/Sunny Side Up/120/214/30](h
 Marketplace: [https://marketplace.secondlife.com/stores/249999](https://marketplace.secondlife.com/stores/249999)   
 
 Sadiana (Alexia Elcano).  
-Original Mesh Collars 100L to 4000L.  
+Original Mesh Collars, Adult furniture and accessories.  Collars 200L - 500L.  
 Inworld Shop: [http://maps.secondlife.com/secondlife/Everwinter/80/43/22](http://maps.secondlife.com/secondlife/Everwinter/80/43/22).  
 Marketplace:  [https://marketplace.secondlife.com/stores/53540](https://marketplace.secondlife.com/stores/53540).  
 
